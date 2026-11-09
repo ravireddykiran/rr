@@ -1,6 +1,6 @@
 # Playlists
 
-Generated 2026-11-09 16:02 UTC from the [iptv-org](https://github.com/iptv-org/iptv) public database. Paste any URL below into a player (see [docs/APPS.md](../docs/APPS.md)). Every file already carries a free EPG (program guide) link in its header.
+Generated 2026-11-09 16:13 UTC from the [iptv-org](https://github.com/iptv-org/iptv) public database. Paste any URL below into a player (see [docs/APPS.md](../docs/APPS.md)). Every file already carries a free EPG (program guide) link in its header.
 
 ## Everything
 
@@ -16,10 +16,11 @@ Generated 2026-11-09 16:02 UTC from the [iptv-org](https://github.com/iptv-org/i
 | World news (all languages) — Major international broadcasters in their own languages | 242 | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/world-news.m3u` |
 | India favourites — Popular Indian news and entertainment channels across languages | 234 | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/india.m3u` |
 | Kids (English) — Cartoons and children's programming in English | 67 | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/kids.m3u` |
-| Sports — Free sports networks and event channels | 131 | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/sports.m3u` |
+| Sports (all free) — Every free sports network and event channel, English and global | 342 | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/sports.m3u` |
 | Music — Music video and concert channels | 75 | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/music.m3u` |
 | Documentary & factual — Science, nature, history and knowledge channels | 129 | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/documentary.m3u` |
 | Movies (English) — Free ad-supported movie channels from the US and UK | 72 | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/movies.m3u` |
+| Telugu live TV + movies — Telugu entertainment, movies, news, music, kids and devotional channels | 165 | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/telugu.m3u` |
 
 ## By category
 
