@@ -1,6 +1,6 @@
 # Playlists
 
-Generated 2026-11-09 16:13 UTC from the [iptv-org](https://github.com/iptv-org/iptv) public database. Paste any URL below into a player (see [docs/APPS.md](../docs/APPS.md)). Every file already carries a free EPG (program guide) link in its header.
+Generated 2026-11-09 16:19 UTC from the [iptv-org](https://github.com/iptv-org/iptv) public database. Paste any URL below into a player (see [docs/APPS.md](../docs/APPS.md)). Every file already carries a free EPG (program guide) link in its header.
 
 ## Everything
 
