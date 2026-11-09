@@ -1,0 +1,54 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz"
+#EXTINF:-1 tvg-id="BravoKidsTV.hr" tvg-name="Bravo! Kids TV" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" tvg-country="HR" tvg-language="Croatian" group-title="Kids",Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+#EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-logo="https://i.imgur.com/FCb7Ag2.png" tvg-country="HR" tvg-language="Croatian" group-title="Music",CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="DiadoraTV.hr" tvg-name="Diadora TV" tvg-logo="https://i.imgur.com/qZzsASl.png" tvg-country="HR" tvg-language="Croatian" group-title="General",Diadora TV (720p)
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" tvg-logo="https://i.imgur.com/lDSctzX.png" tvg-country="HR" tvg-language="Croatian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="General",HRT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" tvg-logo="https://i.imgur.com/lDSctzX.png" tvg-country="HR" tvg-language="Croatian" group-title="General",HRT 1 HD (1080p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" tvg-logo="https://i.imgur.com/yyePcl1.png" tvg-country="HR" tvg-language="Croatian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="General",HRT 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" tvg-logo="https://i.imgur.com/yyePcl1.png" tvg-country="HR" tvg-language="Croatian" group-title="General",HRT 2 HD (1080p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" tvg-logo="https://i.imgur.com/4OrOJRx.png" tvg-country="HR" tvg-language="Croatian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Culture;Documentary",HRT 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" tvg-logo="https://i.imgur.com/4OrOJRx.png" tvg-country="HR" tvg-language="Croatian" group-title="Culture;Documentary",HRT 3 HD (720p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-logo="https://i.imgur.com/VcNrY0m.png" tvg-country="HR" tvg-language="Croatian" group-title="News",HRT 4 HD (720p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr" tvg-name="Klape i Tambure TV" tvg-logo="https://i.imgur.com/sKj3dgc.png" tvg-country="HR" tvg-language="Croatian" group-title="Music",Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-id="Klasik.hr" tvg-name="Klasik" tvg-logo="https://i.imgur.com/C90BYlb.png" tvg-country="HR" tvg-language="Croatian" group-title="Movies",Klasik (576p) [Not 24/7]
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" tvg-logo="https://i.imgur.com/4R4fhbd.png" tvg-country="HR" tvg-language="Croatian" group-title="General",Libertas TV (1080p)
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hr" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="HR" tvg-language="Croatian" group-title="Documentary",National Geographic (1080p)
+http://176.61.157.250/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-country="HR" tvg-language="Croatian" group-title="Kids",Nick Jr. (540p)
+http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" tvg-country="HR" tvg-language="Croatian" group-title="General",Nova TV (1080p)
+http://176.61.157.250/NovaTV/index.m3u8
+#EXTINF:-1 tvg-id="OTV.hr" tvg-name="OTV" tvg-logo="https://i.imgur.com/67zVdu2.png" tvg-country="HR" tvg-language="Croatian" group-title="News",OTV (720p) [Not 24/7]
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr" tvg-name="Radio Televizija Banovina" tvg-logo="https://i.imgur.com/gCFgC5D.png" tvg-country="HR" tvg-language="Croatian" group-title="Other",Radio Televizija Banovina (1080p) [Not 24/7]
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="SBTV.hr" tvg-name="SBTV" tvg-logo="https://i.imgur.com/MIampxZ.png" tvg-country="HR" tvg-language="Croatian" group-title="General",SBTV (1080p) [Not 24/7]
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-id="ShiftTV.hr" tvg-name="Shift TV" tvg-logo="https://i.imgur.com/mudXVT8.png" tvg-country="HR" tvg-language="Croatian" group-title="Auto",Shift TV (1080p)
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1 tvg-id="STV.hr" tvg-name="STV" tvg-logo="https://i.imgur.com/Z3yRl17.png" tvg-country="HR" tvg-language="Croatian" group-title="General",STV (720p)
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="TrendTV.hr" tvg-name="Trend TV" tvg-logo="https://i.imgur.com/4SmNISY.jpg" tvg-country="HR" tvg-language="Croatian" group-title="General",Trend TV (480p)
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJadran.hr" tvg-name="TV Jadran" tvg-logo="https://i.imgur.com/UWMHnOG.png" tvg-country="HR" tvg-language="Croatian" group-title="News",TV Jadran (720p) [Not 24/7]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="TVNova.hr" tvg-name="TV Nova" tvg-logo="https://i.imgur.com/gFjJ7YB.png" tvg-country="HR" tvg-language="Croatian" group-title="Entertainment",TV Nova (720p)
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-id="TVZapad.hr" tvg-name="TV Zapad" tvg-logo="https://i.imgur.com/cgCeX12.png" tvg-country="HR" tvg-language="Croatian" group-title="General",TV Zapad (1080p) [Not 24/7]
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8

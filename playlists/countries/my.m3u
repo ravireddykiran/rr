@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" tvg-logo="https://i.imgur.com/1Xzxsgl.png" tvg-country="MY" tvg-language="Malay;English;Chinese;Tamil" http-referrer="https://rtm-player.glueapi.io/" group-title="News",Berita RTM (1080p)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 tvg-id="MaahTV.my" tvg-name="Maah TV" tvg-logo="https://i.imgur.com/FkyueH6.png" tvg-country="MY" tvg-language="Persian" group-title="Movies",Maah TV (720p)
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" tvg-logo="https://i.imgur.com/V2jREQ5.png" tvg-country="MY" tvg-language="Malay;English;Chinese;Tamil;Panjabi" http-referrer="https://rtm-player.glueapi.io/" group-title="General",Okey (1080p)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://i.imgur.com/wSyPmiY.png" tvg-country="MY" tvg-language="Malay;English" group-title="General",TV1 (1080p)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://i.imgur.com/wSyPmiY.png" tvg-country="MY" tvg-language="Malay;English" http-referrer="https://rtm-player.glueapi.io/" group-title="General",TV1 (1080p)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://i.imgur.com/LGEdeyJ.png" tvg-country="MY" tvg-language="Malay;English;Chinese;Tamil;Hindi" http-referrer="https://rtm-player.glueapi.io/" group-title="General",TV2 (1080p)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2

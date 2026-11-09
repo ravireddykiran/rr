@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Free TV Player</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Watch thousands of free, publicly available live TV channels in your browser. No account, no subscription.">
+<meta name="theme-color" content="#0b0f17">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<style>
+  :root {
+    --bg: #0b0f17; --panel: #121826; --panel-2: #182033; --line: #243049;
+    --text: #e8edf7; --muted: #8b97b1; --accent: #38bdf8; --accent-2: #0ea5e9;
+    --ok: #34d399; --warn: #fbbf24; --bad: #f87171; --radius: 10px;
+  }
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg: #f5f7fb; --panel: #ffffff; --panel-2: #eef2f8; --line: #d9e0ec;
+      --text: #0f172a; --muted: #5b6779; --accent: #0284c7; --accent-2: #0369a1;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body { background: var(--bg); color: var(--text); font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; display: flex; flex-direction: column; }
+  header { display: flex; align-items: center; gap: 12px; padding: 10px 16px; border-bottom: 1px solid var(--line); background: var(--panel); }
+  header h1 { font-size: 17px; margin: 0; font-weight: 650; letter-spacing: .2px; display: flex; align-items: center; gap: 8px; }
+  header h1 svg { width: 22px; height: 22px; }
+  header .spacer { flex: 1; }
+  header .meta { color: var(--muted); font-size: 12px; white-space: nowrap; }
+  button, select, input { font: inherit; color: var(--text); }
+  .btn { background: var(--panel-2); border: 1px solid var(--line); border-radius: 8px; padding: 7px 12px; cursor: pointer; }
+  .btn:hover { border-color: var(--accent); }
+  .btn.primary { background: var(--accent-2); border-color: var(--accent-2); color: #fff; }
+  main { flex: 1; display: grid; grid-template-columns: 360px 1fr; min-height: 0; }
+  aside { border-right: 1px solid var(--line); background: var(--panel); display: flex; flex-direction: column; min-height: 0; }
+  .filters { padding: 12px; display: grid; gap: 8px; border-bottom: 1px solid var(--line); }
+  .filters input, .filters select { width: 100%; background: var(--panel-2); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
+  .filters .row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .filters label.chk { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 13px; white-space: nowrap; }
+  .filters label.chk input { margin: 0; }
+  .count { padding: 6px 12px; color: var(--muted); font-size: 12px; border-bottom: 1px solid var(--line); }
+  #list { overflow: auto; flex: 1; }
+  .ch { display: grid; grid-template-columns: 44px 1fr auto; gap: 10px; align-items: center; padding: 8px 12px; cursor: pointer; border-bottom: 1px solid var(--line); }
+  .ch:hover { background: var(--panel-2); }
+  .ch.active { background: color-mix(in srgb, var(--accent) 18%, var(--panel)); }
+  .ch img { width: 44px; height: 30px; object-fit: contain; background: #fff; border-radius: 4px; }
+  .ch .ph { width: 44px; height: 30px; border-radius: 4px; background: var(--panel-2); display: grid; place-items: center; color: var(--muted); font-size: 11px; }
+  .ch .name { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .ch .sub { color: var(--muted); font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .ch .fav { background: none; border: 0; cursor: pointer; color: var(--muted); font-size: 18px; padding: 2px 6px; }
+  .ch .fav.on { color: var(--warn); }
+  .badge { display: inline-block; font-size: 10px; padding: 1px 6px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); margin-left: 4px; vertical-align: middle; }
+  .badge.geo { border-color: var(--warn); color: var(--warn); }
+  .badge.http { border-color: var(--bad); color: var(--bad); }
+  section.player { display: flex; flex-direction: column; min-height: 0; }
+  .video-wrap { background: #000; aspect-ratio: 16/9; max-height: 70vh; position: relative; }
+  video { width: 100%; height: 100%; background: #000; }
+  .overlay { position: absolute; inset: 0; display: grid; place-items: center; text-align: center; color: #cbd5e1; padding: 24px; pointer-events: none; }
+  .overlay.hidden { display: none; }
+  .overlay .box { background: rgba(0,0,0,.65); padding: 16px 20px; border-radius: var(--radius); max-width: 560px; pointer-events: auto; }
+  .overlay a { color: var(--accent); }
+  .now { padding: 14px 16px; display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
+  .now img { width: 64px; height: 44px; object-fit: contain; background: #fff; border-radius: 6px; }
+  .now h2 { margin: 0; font-size: 18px; }
+  .now .sub { color: var(--muted); font-size: 13px; }
+  .now .actions { margin-left: auto; display: flex; gap: 8px; flex-wrap: wrap; }
+  .alts { padding: 0 16px 16px; color: var(--muted); font-size: 13px; }
+  .alts button { margin: 4px 6px 0 0; }
+  .help { padding: 0 16px 24px; color: var(--muted); font-size: 13px; max-width: 900px; }
+  .help details { margin-top: 8px; }
+  .help code { background: var(--panel-2); padding: 1px 5px; border-radius: 4px; }
+  #toast { position: fixed; bottom: 18px; left: 50%; transform: translateX(-50%); background: var(--panel-2); border: 1px solid var(--line); padding: 8px 14px; border-radius: 8px; opacity: 0; transition: opacity .2s; pointer-events: none; }
+  #toast.show { opacity: 1; }
+  #install { display: none; }
+  @media (max-width: 860px) {
+    main { grid-template-columns: 1fr; grid-template-rows: auto 1fr; }
+    aside { order: 2; border-right: 0; border-top: 1px solid var(--line); min-height: 40vh; }
+    section.player { order: 1; }
+    header .meta { display: none; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="2"/><path d="M8 21h8M12 19v2"/><path d="m10 9 5 3-5 3z" fill="currentColor" stroke="none"/></svg> Free TV</h1>
+  <span class="meta" id="meta"></span>
+  <span class="spacer"></span>
+  <button class="btn" id="install">Install app</button>
+  <button class="btn" id="loadM3u" title="Load any .m3u / .m3u8 playlist URL">Load playlist URL</button>
+  <button class="btn" id="theme" title="Toggle light/dark">◐</button>
+</header>
+<main>
+  <aside>
+    <div class="filters">
+      <input id="q" type="search" placeholder="Search channels… (press /)" autocomplete="off">
+      <div class="row">
+        <select id="country"><option value="">All countries</option></select>
+        <select id="category"><option value="">All categories</option></select>
+      </div>
+      <div class="row">
+        <select id="language"><option value="">All languages</option></select>
+        <select id="featured"><option value="">Featured lists…</option></select>
+      </div>
+      <div class="row">
+        <label class="chk"><input type="checkbox" id="favOnly"> Favourites only</label>
+        <label class="chk"><input type="checkbox" id="hideGeo"> Hide geo-blocked</label>
+      </div>
+    </div>
+    <div class="count" id="count"></div>
+    <div id="list" tabindex="0"></div>
+  </aside>
+  <section class="player">
+    <div class="video-wrap">
+      <video id="video" controls playsinline autoplay></video>
+      <div class="overlay" id="overlay"><div class="box" id="overlayMsg">Pick a channel on the left to start watching.</div></div>
+    </div>
+    <div class="now" id="now"></div>
+    <div class="alts" id="alts"></div>
+    <div class="help">
+      <details>
+        <summary>Stream won't play here? Read this.</summary>
+        <p>Browsers are the most restrictive way to watch IPTV. A stream can be perfectly fine and still refuse to play in a web page because the broadcaster's server doesn't send CORS headers, because it is plain <code>http://</code> on an <code>https://</code> page, or because it is geo-blocked to its home country. Use <strong>Copy URL</strong> or <strong>Open in VLC</strong> and it will usually work in VLC, TiviMate, Kodi or any TV app. See <code>docs/APPS.md</code> in the repository for free apps on every device.</p>
+      </details>
+      <details>
+        <summary>Keyboard</summary>
+        <p><code>/</code> search · <code>↑</code>/<code>↓</code> move · <code>Enter</code> play · <code>f</code> fullscreen · <code>n</code>/<code>p</code> next/previous channel · <code>a</code> try the next backup stream</p>
+      </details>
+    </div>
+  </section>
+</main>
+<div id="toast"></div>
+<script src="hls.min.js"></script>
+<script>
+(() => {
+  const $ = (s) => document.querySelector(s);
+  const els = { q: $('#q'), country: $('#country'), category: $('#category'), language: $('#language'), featured: $('#featured'),
+    favOnly: $('#favOnly'), hideGeo: $('#hideGeo'), list: $('#list'), count: $('#count'), video: $('#video'), overlay: $('#overlay'),
+    overlayMsg: $('#overlayMsg'), now: $('#now'), alts: $('#alts'), meta: $('#meta'), toast: $('#toast'), install: $('#install') };
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+  };
+  let meta = {}, all = [], groups = new Map(), view = [], current = null, hls = null, altIndex = 0, favs = new Set(store.get('favs', []));
+  const isHttps = location.protocol === 'https:';
+
+  // ---------- theme
+  const applyTheme = () => { const t = store.get('theme', ''); if (t) document.documentElement.dataset.theme = t; else delete document.documentElement.dataset.theme; };
+  $('#theme').onclick = () => { const cur = store.get('theme', ''); const dark = matchMedia('(prefers-color-scheme: dark)').matches; const next = cur ? '' : (dark ? 'light' : 'dark'); store.set('theme', next); applyTheme(); };
+  applyTheme();
+
+  // ---------- data
+  function parseM3U(text) {
+    const out = []; let cur = null;
+    for (const raw of text.split(/\r?\n/)) {
+      const line = raw.trim(); if (!line) continue;
+      if (line.startsWith('#EXTINF')) {
+        const attr = (k) => { const m = line.match(new RegExp(k + '="([^"]*)"')); return m ? m[1] : ''; };
+        const name = line.slice(line.lastIndexOf(',') + 1).trim();
+        cur = { i: attr('tvg-id'), n: name || attr('tvg-name'), c: attr('tvg-country'), g: attr('group-title') ? [attr('group-title')] : [], l: [], o: attr('tvg-logo'), q: '', b: [], a: attr('http-user-agent'), r: attr('http-referrer') };
+      } else if (line.startsWith('#EXTVLCOPT:http-user-agent=') && cur) cur.a = line.split('=').slice(1).join('=');
+      else if (line.startsWith('#EXTVLCOPT:http-referrer=') && cur) cur.r = line.split('=').slice(1).join('=');
+      else if (!line.startsWith('#') && cur) { cur.u = line; out.push(cur); cur = null; }
+    }
+    return out;
+  }
+  function indexChannels(list) {
+    all = list; groups = new Map();
+    for (const ch of all) { const key = ch.i || ch.n.toLowerCase(); if (!groups.has(key)) groups.set(key, []); groups.get(key).push(ch); }
+    fillSelect(els.country, uniq(all.map(c => c.c)).map(c => [c, (meta.countries || {})[c] || c]).sort((a, b) => a[1].localeCompare(b[1])), 'All countries');
+    fillSelect(els.category, uniq(all.flatMap(c => c.g)).map(c => [c, (meta.categories || {})[c] || cap(c)]).sort((a, b) => a[1].localeCompare(b[1])), 'All categories');
+    fillSelect(els.language, uniq(all.flatMap(c => c.l)).filter(l => (meta.languages || {})[l]).map(l => [l, meta.languages[l]]).sort((a, b) => a[1].localeCompare(b[1])), 'All languages');
+    fillSelect(els.featured, Object.entries(meta.featured || {}).map(([k, v]) => [k, v.name]), 'Featured lists…');
+    render();
+  }
+  const uniq = (a) => [...new Set(a.filter(Boolean))];
+  const cap = (s) => s ? s[0].toUpperCase() + s.slice(1) : s;
+  function fillSelect(sel, pairs, first) { const v = sel.value; sel.innerHTML = `<option value="">${first}</option>` + pairs.map(([k, n]) => `<option value="${esc(k)}">${esc(n)}</option>`).join(''); sel.value = pairs.some(p => p[0] === v) ? v : ''; }
+  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
+
+  async function loadDefault() {
+    try {
+      const res = await fetch('channels.json', { cache: 'no-cache' }); const data = await res.json();
+      meta = data.meta || {}; els.meta.textContent = `${data.channels.length.toLocaleString()} streams · updated ${meta.generated || ''}`;
+      indexChannels(data.channels); restoreState();
+    } catch (e) { els.count.textContent = 'Could not load channels.json: ' + e.message; }
+  }
+  async function loadM3U(url) {
+    try {
+      els.count.textContent = 'Loading playlist…';
+      const res = await fetch(url); if (!res.ok) throw new Error(res.status + ' ' + res.statusText);
+      const list = parseM3U(await res.text()); if (!list.length) throw new Error('no channels found in that playlist');
+      meta = { ...meta, featured: {} }; els.meta.textContent = `${list.length.toLocaleString()} streams · ${url}`; indexChannels(list); toast(`Loaded ${list.length} channels`);
+    } catch (e) { toast('Could not load playlist: ' + e.message + (isHttps ? ' (the server may block cross-origin requests)' : '')); }
+  }
+  $('#loadM3u').onclick = () => { const u = prompt('Playlist URL (.m3u / .m3u8):', store.get('lastM3u', '')); if (u) { store.set('lastM3u', u); loadM3U(u.trim()); } };
+
+  // ---------- list
+  function filtered() {
+    const q = els.q.value.trim().toLowerCase(), co = els.country.value, ca = els.category.value, la = els.language.value, fe = els.featured.value;
+    const featuredIds = fe && meta.featured && meta.featured[fe] ? new Set(meta.featured[fe].channels) : null;
+    const seen = new Set(); const out = [];
+    for (const ch of all) {
+      const key = ch.i || ch.n.toLowerCase();
+      if (seen.has(key)) continue;
+      if (featuredIds && !featuredIds.has(ch.i)) continue;
+      if (co && ch.c !== co) continue;
+      if (ca && !ch.g.includes(ca)) continue;
+      if (la && !ch.l.includes(la)) continue;
+      if (els.favOnly.checked && !favs.has(key)) continue;
+      if (els.hideGeo.checked && groups.get(key).every(s => s.b.includes('Geo-blocked'))) continue;
+      if (q && !ch.n.toLowerCase().includes(q) && !(ch.i || '').toLowerCase().includes(q)) continue;
+      seen.add(key); out.push(ch);
+    }
+    return out;
+  }
+  function render() {
+    view = filtered();
+    const LIMIT = 600; const shown = view.slice(0, LIMIT);
+    els.count.textContent = view.length > LIMIT ? `Showing ${LIMIT} of ${view.length.toLocaleString()} channels — refine the search to see more` : `${view.length.toLocaleString()} channels`;
+    els.list.innerHTML = shown.map((ch) => {
+      const key = ch.i || ch.n.toLowerCase(); const alts = groups.get(key); const geo = alts.every(s => s.b.includes('Geo-blocked'));
+      const httpOnly = isHttps && alts.every(s => s.u.startsWith('http://'));
+      const sub = [(meta.countries || {})[ch.c] || ch.c, ch.g.map(g => (meta.categories || {})[g] || cap(g)).join(', '), alts.length > 1 ? `${alts.length} sources` : (ch.q || '')].filter(Boolean).join(' · ');
+      return `<div class="ch${current && (current.i || current.n.toLowerCase()) === key ? ' active' : ''}" data-key="${esc(key)}">
+        ${ch.o ? `<img loading="lazy" src="${esc(ch.o)}" alt="" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'ph',textContent:'TV'}))">` : `<div class="ph">TV</div>`}
+        <div><div class="name">${esc(ch.n)}${geo ? '<span class="badge geo">geo</span>' : ''}${httpOnly ? '<span class="badge http">http</span>' : ''}</div><div class="sub">${esc(sub)}</div></div>
+        <button class="fav${favs.has(key) ? ' on' : ''}" title="Favourite" data-fav="${esc(key)}">★</button></div>`;
+    }).join('');
+  }
+  els.list.addEventListener('click', (e) => {
+    const fav = e.target.closest('[data-fav]'); if (fav) { const k = fav.dataset.fav; favs.has(k) ? favs.delete(k) : favs.add(k); store.set('favs', [...favs]); fav.classList.toggle('on'); e.stopPropagation(); return; }
+    const row = e.target.closest('.ch'); if (row) play(row.dataset.key, 0);
+  });
+  for (const el of [els.q, els.country, els.category, els.language, els.featured, els.favOnly, els.hideGeo]) el.addEventListener('input', () => { saveState(); render(); });
+
+  function saveState() { store.set('filters', { q: els.q.value, co: els.country.value, ca: els.category.value, la: els.language.value, fe: els.featured.value, fo: els.favOnly.checked, hg: els.hideGeo.checked }); }
+  function restoreState() {
+    const p = new URLSearchParams(location.search);
+    if (p.get('m3u')) { loadM3U(p.get('m3u')); return; }
+    const f = store.get('filters', null);
+    if (f) { els.q.value = f.q || ''; els.country.value = f.co || ''; els.category.value = f.ca || ''; els.language.value = f.la || ''; els.featured.value = f.fe || ''; els.favOnly.checked = !!f.fo; els.hideGeo.checked = !!f.hg; }
+    if (p.get('country')) els.country.value = p.get('country').toUpperCase();
+    if (p.get('category')) els.category.value = p.get('category');
+    if (p.get('list')) els.featured.value = p.get('list');
+    if (p.get('q')) els.q.value = p.get('q');
+    render();
+    const ch = p.get('ch') || store.get('last', null); if (ch && groups.has(ch)) play(ch, 0, true);
+  }
+
+  // ---------- playback
+  function play(key, idx = 0, silent = false) {
+    const alts = groups.get(key); if (!alts) return;
+    altIndex = idx; current = alts[idx] || alts[0]; store.set('last', key);
+    if (history.replaceState) { const p = new URLSearchParams(location.search); p.set('ch', key); history.replaceState(null, '', '?' + p.toString()); }
+    renderNow(key, alts); render(); startStream(current, alts, key);
+    if (!silent) document.querySelector(`.ch[data-key="${CSS.escape(key)}"]`)?.scrollIntoView({ block: 'nearest' });
+  }
+  function startStream(s, alts, key) {
+    stop(); overlay(`Loading ${esc(s.n)}…`);
+    const url = s.u;
+    if (isHttps && url.startsWith('http://')) { overlay(`<b>${esc(s.n)}</b> is a plain <code>http://</code> stream and this page is served over https, so the browser blocks it.<br><br>${altButtons(alts, key)}<br>Use <b>Copy URL</b> and play it in VLC / your TV app instead.`); return; }
+    if (/\.mpd(\?|$)/i.test(url)) { overlay(`<b>${esc(s.n)}</b> is a DASH (.mpd) stream, which this player does not support. Copy the URL into VLC, Kodi or TiviMate.`); return; }
+    const v = els.video;
+    if (window.Hls && Hls.isSupported()) {
+      hls = new Hls({ enableWorker: true, lowLatencyMode: false, backBufferLength: 60, manifestLoadingTimeOut: 15000, manifestLoadingMaxRetry: 2, fragLoadingMaxRetry: 3 });
+      hls.loadSource(url); hls.attachMedia(v);
+      hls.on(Hls.Events.MANIFEST_PARSED, () => { overlay(null); v.play().catch(() => overlay('Press play ▶ to start (autoplay was blocked).')); });
+      hls.on(Hls.Events.ERROR, (_, data) => {
+        if (!data.fatal) return;
+        const why = data.response && data.response.code ? `HTTP ${data.response.code}` : (data.details || data.type);
+        overlay(`<b>${esc(s.n)}</b> could not be played in the browser (${esc(why)}).<br>This is usually a CORS or geo-block restriction, not a dead stream.<br><br>${altButtons(alts, key)}<br>Try <b>Open in VLC</b> or paste the URL into a TV app.`);
+        stop(false);
+      });
+    } else if (v.canPlayType('application/vnd.apple.mpegurl')) {
+      v.src = url; v.addEventListener('loadedmetadata', () => overlay(null), { once: true });
+      v.addEventListener('error', () => overlay(`<b>${esc(s.n)}</b> could not be played here.<br><br>${altButtons(alts, key)}`), { once: true });
+      v.play().catch(() => {});
+    } else overlay('This browser cannot play HLS streams. Use Chrome, Edge, Firefox or Safari.');
+  }
+  function altButtons(alts, key) {
+    if (alts.length < 2) return '';
+    return 'Backup streams: ' + alts.map((a, i) => i === altIndex ? '' : `<button class="btn" onclick="window.__play('${esc(key).replace(/'/g, "\\'")}',${i})">source ${i + 1}${a.q ? ' (' + esc(a.q) + ')' : ''}</button>`).join(' ') + '<br><br>';
+  }
+  window.__play = play;
+  function stop(clear = true) { if (hls) { hls.destroy(); hls = null; } if (clear) { els.video.removeAttribute('src'); els.video.load(); } }
+  function overlay(html) { if (html === null) { els.overlay.classList.add('hidden'); } else { els.overlayMsg.innerHTML = html; els.overlay.classList.remove('hidden'); } }
+  function renderNow(key, alts) {
+    const s = current; const flags = s.b.map(b => `<span class="badge${b === 'Geo-blocked' ? ' geo' : ''}">${esc(b)}</span>`).join('');
+    els.now.innerHTML = `${s.o ? `<img src="${esc(s.o)}" alt="">` : ''}<div><h2>${esc(s.n)} ${flags}</h2><div class="sub">${esc([(meta.countries || {})[s.c] || s.c, s.g.map(g => (meta.categories || {})[g] || cap(g)).join(', '), s.l.map(l => (meta.languages || {})[l] || l).join(', '), s.q].filter(Boolean).join(' · '))}${s.i ? ` · <code>${esc(s.i)}</code>` : ''}</div></div>
+      <div class="actions"><button class="btn" id="copy">Copy URL</button><a class="btn" id="vlc" href="vlc://${esc(s.u)}">Open in VLC</a><button class="btn" id="share">Share link</button><button class="btn" id="fs">Fullscreen</button></div>`;
+    $('#copy').onclick = () => navigator.clipboard.writeText(s.u).then(() => toast('Stream URL copied'), () => prompt('Copy the URL:', s.u));
+    $('#share').onclick = () => navigator.clipboard.writeText(location.href).then(() => toast('Link copied'), () => prompt('Copy the link:', location.href));
+    $('#fs').onclick = () => fullscreen();
+    els.alts.innerHTML = alts.length > 1 ? `${alts.length} sources for this channel: ` + alts.map((a, i) => `<button class="btn${i === altIndex ? ' primary' : ''}" onclick="window.__play('${esc(key).replace(/'/g, "\\'")}',${i})">${i + 1}${a.q ? ' · ' + esc(a.q) : ''}${a.b.includes('Geo-blocked') ? ' · geo' : ''}</button>`).join('') : '';
+  }
+  function fullscreen() { const w = document.querySelector('.video-wrap'); if (document.fullscreenElement) document.exitFullscreen(); else (w.requestFullscreen || w.webkitRequestFullscreen).call(w); }
+  function toast(msg) { els.toast.textContent = msg; els.toast.classList.add('show'); clearTimeout(toast.t); toast.t = setTimeout(() => els.toast.classList.remove('show'), 2200); }
+
+  // ---------- keyboard
+  document.addEventListener('keydown', (e) => {
+    if (e.target.matches('input, select, textarea')) { if (e.key === 'Escape') e.target.blur(); if (e.key === 'Enter' && e.target === els.q && view[0]) play(view[0].i || view[0].n.toLowerCase(), 0); return; }
+    const keys = view.map(c => c.i || c.n.toLowerCase()); const pos = current ? keys.indexOf(current.i || current.n.toLowerCase()) : -1;
+    if (e.key === '/') { e.preventDefault(); els.q.focus(); els.q.select(); }
+    else if (e.key === 'f') fullscreen();
+    else if (e.key === 'n' || e.key === 'ArrowDown') { e.preventDefault(); if (keys[pos + 1]) play(keys[pos + 1], 0); }
+    else if (e.key === 'p' || e.key === 'ArrowUp') { e.preventDefault(); if (keys[pos - 1]) play(keys[pos - 1], 0); }
+    else if (e.key === 'a' && current) { const k = current.i || current.n.toLowerCase(); const n = groups.get(k).length; play(k, (altIndex + 1) % n); }
+    else if (e.key === ' ' && current) { e.preventDefault(); els.video.paused ? els.video.play() : els.video.pause(); }
+  });
+
+  // ---------- PWA install
+  let deferredPrompt = null;
+  addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); deferredPrompt = e; els.install.style.display = ''; });
+  els.install.onclick = async () => { if (!deferredPrompt) return; deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt = null; els.install.style.display = 'none'; };
+  if ('serviceWorker' in navigator && isHttps) navigator.serviceWorker.register('sw.js').catch(() => {});
+
+  loadDefault();
+})();
+</script>
+</body>
+</html>

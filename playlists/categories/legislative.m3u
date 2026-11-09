@@ -1,0 +1,433 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="AccessVisionChannel17.us" tvg-name="AccessVision Channel 17" tvg-logo="https://i.imgur.com/vi4TCdb.png" tvg-country="US" tvg-language="English" group-title="United States",AccessVision Channel 17 (720p)
+https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ACTV.us" tvg-name="ACTV" tvg-logo="https://i.imgur.com/Z6lB0Ww.png" tvg-country="US" tvg-language="English" group-title="United States",ACTV (720p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="ANTV.ve" tvg-name="ANTV" tvg-logo="https://i.imgur.com/Qm88HT0.png" tvg-country="VE" tvg-language="Spanish" group-title="Venezuela",ANTV (720p)
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://i.imgur.com/y00t9hr.png" tvg-country="PT" tvg-language="Portuguese" group-title="Portugal",ARTV (720p) [Not 24/7]
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="ATL26.us" tvg-name="ATL 26" tvg-logo="https://i.imgur.com/s4fqNMt.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",ATL 26
+https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
+#EXTINF:-1 tvg-id="ATXN1.us" tvg-name="ATXN1" tvg-logo="https://i.imgur.com/tSMtDlz.png" tvg-country="US" tvg-language="English" group-title="United States",ATXN1 (1080p)
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
+#EXTINF:-1 tvg-id="ATXN2.us" tvg-name="ATXN2" tvg-logo="https://i.imgur.com/tSMtDlz.png" tvg-country="US" tvg-language="English" group-title="United States",ATXN2 (1080p)
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
+#EXTINF:-1 tvg-id="BATVGovernmentChannel.us" tvg-name="BATV Government Channel" tvg-logo="https://i.imgur.com/4MdSstx.png" tvg-country="US" tvg-language="English" group-title="United States",BATV Government Channel (1080p)
+https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BATVGovernmentTV.us" tvg-name="BATV Government TV" tvg-logo="https://i.imgur.com/VPGIfVh.png" tvg-country="US" tvg-language="English" group-title="United States",BATV Government TV (480p)
+https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",BBC Parliament (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",BBC Parliament [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BPTV.us" tvg-name="BPTV" tvg-logo="https://i.imgur.com/ObNBL7L.png" tvg-country="US" tvg-language="English" group-title="United States",BPTV (360p)
+https://buenapark.cablecast.tv/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="BrevardGovernmentAccessTV.us" tvg-name="Brevard Government Access TV" tvg-logo="https://i.imgur.com/eUTDIQ2.png" tvg-country="US" tvg-language="English" group-title="United States",Brevard Government Access TV (720p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
+#EXTINF:-1 tvg-id="CameradeiDeputati.it" tvg-name="Camera dei Deputati" tvg-logo="https://i.imgur.com/hv4zi9N.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Camera dei Deputati (240p)
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCongreso.co" tvg-name="Canal Congreso" tvg-logo="https://i.imgur.com/erJDwtY.jpeg" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Canal Congreso (1080p)
+http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
+#EXTINF:-1 tvg-id="CanalCongreso.co" tvg-name="Canal Congreso" tvg-logo="https://i.imgur.com/erJDwtY.jpeg" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Canal Congreso (1080p)
+http://181.78.82.130:8000/play/a0s1/index.m3u8
+#EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-name="Canal del Congreso 45.1" tvg-logo="https://i.imgur.com/xAC6gQO.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Canal del Congreso 45.1
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" tvg-logo="https://i.imgur.com/rHPY0Yv.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Gov (720p)
+http://45.177.114.115/TV_BRASIL_2/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" tvg-logo="https://i.imgur.com/rHPY0Yv.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Gov (720p)
+http://168.197.104.22/TV_BRASIL_2/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" tvg-logo="https://i.imgur.com/rHPY0Yv.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Gov (720p)
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalParlamento.es" tvg-name="Canal Parlamento" tvg-logo="https://i.imgur.com/BUO0wH6.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Canal Parlamento (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx" tvg-name="Canal Parlamento del Congreso de Jalisco" tvg-logo="https://i.imgur.com/fLpkHfZ.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us" tvg-name="Capital City Connection Montgomery" tvg-logo="https://image.roku.com/developer_channels/prod/a2cb55884ff88035ebbbb32ef9c60a228314d0a2ac4c86722aff5ea1cb9abcd8.png" tvg-country="US" tvg-language="English" group-title="United States",Capital City Connection Montgomery [Not 24/7]
+https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="CFMTVChannel98.us" tvg-name="CFM TV Channel 98" tvg-logo="https://i.imgur.com/LGs524I.png" tvg-country="US" tvg-language="English" group-title="United States",CFM TV Channel 98 (360p)
+https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTV.us" tvg-name="CGTV" tvg-logo="https://champaignil.gov/wp-content/uploads/2011/06/cgtv-page-logo.jpg" tvg-country="US" tvg-language="English" group-title="United States",CGTV (720p)
+https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="Channel10.us" tvg-name="Channel 10" tvg-logo="https://spcity.org/ImageRepository/Document?documentID=4246" tvg-country="US" tvg-language="English" group-title="United States",Channel 10 (720p)
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel18GAC.us" tvg-name="Channel 18 GAC" tvg-logo="https://i.imgur.com/au07aLr.png" tvg-country="US" tvg-language="English" group-title="United States",Channel 18 GAC
+https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="CityofFortPierce.us" tvg-name="City of Fort Pierce" tvg-logo="https://i.imgur.com/2ChoSsi.png" tvg-country="US" tvg-language="English" group-title="United States",City of Fort Pierce (720p)
+https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="CityofMonroeGovernmentChannel.us" tvg-name="City of Monroe Government Channel" tvg-logo="https://i.imgur.com/U5fZkCN.jpeg" tvg-country="US" tvg-language="English" group-title="United States",City of Monroe Government Channel
+https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
+#EXTINF:-1 tvg-id="CityofPompanoBeach.us" tvg-name="City of Pompano Beach" tvg-logo="https://i.imgur.com/Bv9OGrH.png" tvg-country="US" tvg-language="English" group-title="United States",City of Pompano Beach (720p)
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8
+#EXTINF:-1 tvg-id="CityTVChannel341.us" tvg-name="City TV Channel 3/41" tvg-logo="https://i.imgur.com/L0vaDea.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",City TV Channel 3/41 (360p)
+https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="CityTV20SantaMonica.us" tvg-name="CityTV 20 Santa Monica" tvg-logo="https://i.imgur.com/NY4fOLy.png" tvg-country="US" tvg-language="English" group-title="United States",CityTV 20 Santa Monica (360p) [Not 24/7]
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
+#EXTINF:-1 tvg-id="CityTVSanDiego.us" tvg-name="CityTV San Diego" tvg-logo="https://i.imgur.com/OfNV6I7.png" tvg-country="US" tvg-language="English" group-title="United States",CityTV San Diego (360p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
+#EXTINF:-1 tvg-id="CityTVWhittier.us" tvg-name="CityTV Whittier" tvg-logo="https://i.imgur.com/68n7ifH.png" tvg-country="US" tvg-language="English" group-title="United States",CityTV Whittier (720p)
+https://whittier.cablecast.tv/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="CMAC3.us" tvg-name="CMAC 3" tvg-logo="https://i.imgur.com/ToZzguz.png" tvg-country="US" tvg-language="English" group-title="United States",CMAC 3 (720p)
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="CMAPChannel17.us" tvg-name="CMAP Channel 17" tvg-logo="https://i.imgur.com/wlYUEYc.png" tvg-country="US" tvg-language="English" group-title="United States",CMAP Channel 17 (720p)
+https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CollierTV.us" tvg-name="Collier TV" tvg-logo="https://i.imgur.com/dkpTHI9.png" tvg-country="US" tvg-language="English" group-title="United States",Collier TV (720p)
+https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="Community12TV.us" tvg-name="Community 12TV" tvg-logo="https://i.imgur.com/Oel3q43.png" tvg-country="US" tvg-language="English" group-title="United States",Community 12TV (720p)
+https://lin10.isilive.ca/live/gainesville/live/index.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados1.es" tvg-name="Congreso de los Diputados 1" tvg-logo="https://i.imgur.com/3Qxpe72.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Congreso de los Diputados 1 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados2.es" tvg-name="Congreso de los Diputados 2" tvg-logo="https://i.imgur.com/ffN2LE3.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Congreso de los Diputados 2 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados3.es" tvg-name="Congreso de los Diputados 3" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Congreso de los Diputados 3 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados4.es" tvg-name="Congreso de los Diputados 4" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Congreso de los Diputados 4 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados5.es" tvg-name="Congreso de los Diputados 5" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Congreso de los Diputados 5 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
+#EXTINF:-1 tvg-id="ContraCostaTV.us" tvg-name="Contra Costa TV" tvg-logo="https://i.imgur.com/3oYkwPc.png" tvg-country="US" tvg-language="English" group-title="United States",Contra Costa TV [Geo-blocked]
+https://reflect-contra-costa.cablecast.tv/live-7/live/live.m3u8
+#EXTINF:-1 tvg-id="CortsValencianes.es" tvg-name="Corts Valencianes" tvg-logo="https://i.imgur.com/bVkRBg5.png" tvg-country="ES" tvg-language="Catalan;Spanish" group-title="Spain",Corts Valencianes (480p) [Not 24/7]
+https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
+#EXTINF:-1 tvg-id="COStv.us" tvg-name="COStv" tvg-logo="https://i.imgur.com/IVqjCRE.png" tvg-country="US" tvg-language="English" group-title="United States",COStv
+https://irctv.cablecast.tv/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="CPACEnglish.ca" tvg-name="CPAC English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png" tvg-country="CA" tvg-language="English" group-title="Canada",CPAC English (720p)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CruzTV.us" tvg-name="Cruz TV" tvg-logo="https://i.imgur.com/qOO2SaH.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Cruz TV (1080p)
+https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="CTNCourtFeed.us" tvg-name="CT-N Court Feed" tvg-logo="https://i.imgur.com/pb0TFQt.jpeg" tvg-country="US" tvg-language="English" group-title="United States",CT-N Court Feed (360p) [Not 24/7]
+http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="CTNLiveStream2.us" tvg-name="CT-N Live Stream 2" tvg-logo="https://i.imgur.com/pb0TFQt.jpeg" tvg-country="US" tvg-language="English" group-title="United States",CT-N Live Stream 2 (360p) [Not 24/7]
+http://video.ct-n.com/live/web2stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CTNTVConneticut.us" tvg-name="CT-N TV Conneticut" tvg-logo="https://i.imgur.com/pb0TFQt.jpg" tvg-country="US" tvg-language="English" group-title="United States",CT-N TV Conneticut (720p) [Not 24/7]
+http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="CVCGovernment.us" tvg-name="CVC Government" tvg-logo="https://i.imgur.com/qLJhNhq.png" tvg-country="US" tvg-language="English" group-title="United States",CVC Government (480p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
+#EXTINF:-1 tvg-id="CypressChannel36.us" tvg-name="Cypress Channel 36" tvg-logo="https://i.imgur.com/vOvoHBC.png" tvg-country="US" tvg-language="English" group-title="United States",Cypress Channel 36 (360p)
+https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="DCCouncilHearingRoom120.us" tvg-name="DC Council Hearing Room 120" tvg-logo="https://i.imgur.com/8fljC7g.png" tvg-country="US" tvg-language="English" group-title="United States",DC Council Hearing Room 120 (1080p)
+https://video.oct.dc.gov/out/u/97_12.m3u8
+#EXTINF:-1 tvg-id="DCC.us" tvg-name="DCC" tvg-logo="https://i.imgur.com/YBWbiWZ.png" tvg-country="US" tvg-language="English" group-title="United States",DCC (1080p)
+https://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 tvg-id="DCC.us" tvg-name="DCC" tvg-logo="https://i.imgur.com/YBWbiWZ.png" tvg-country="US" tvg-language="English" group-title="United States",DCC (1080p)
+https://video.oct.dc.gov/out/u/DCC.m3u8
+#EXTINF:-1 tvg-id="Denver8TV.us" tvg-name="Denver 8 TV" tvg-logo="https://i.imgur.com/wMIy5jb.png" tvg-country="US" tvg-language="English" group-title="United States",Denver 8 TV (720p)
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
+#EXTINF:-1 tvg-id="DerryTV17.us" tvg-name="DerryTV 17" tvg-logo="https://i.imgur.com/MRR6UL3.png" tvg-country="US" tvg-language="English" group-title="United States",DerryTV 17 (720p)
+https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DetroitChannel10.us" tvg-name="Detroit Channel 10" tvg-logo="https://i.imgur.com/zAdcg9m.png" tvg-country="US" tvg-language="English" group-title="United States",Detroit Channel 10
+https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
+#EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="District of Columbia Network" tvg-logo="https://i.imgur.com/GGZ8BQ8.png" tvg-country="US" tvg-language="English" group-title="United States",District of Columbia Network (1080p)
+https://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru" tvg-name="Duma TV" tvg-logo="https://i.imgur.com/JvlO3PU.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Russia",Duma TV (1080p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://dumatv.iptv2022.com/playlist.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru" tvg-name="Duma TV" tvg-logo="https://i.imgur.com/JvlO3PU.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Duma TV (720p)
+http://185.23.80.23:8080/DumaTV/index.m3u8
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" tvg-logo="https://i.imgur.com/DIIRPNN.png" tvg-country="BE" tvg-language="English;French;German;Italian;Spanish;Greek;Portuguese;Dutch;Danish;Finnish;Swedish;Czech;Estonian;Latvian;Lithuanian;Hungarian;Maltese;Polish;Slovak;Slovenian;Bulgarian;Romanian;Irish;Croatian;Ukrainian" group-title="Belgium",EbS (1080p)
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" tvg-logo="https://i.imgur.com/7V012zQ.png" tvg-country="BE" tvg-language="English;French;German;Italian;Spanish;Greek;Portuguese;Dutch;Danish;Finnish;Swedish;Czech;Estonian;Latvian;Lithuanian;Hungarian;Maltese;Polish;Slovak;Slovenian;Bulgarian;Romanian;Irish;Croatian;Macedonian;Serbian;Albanian;Bosnian" group-title="Belgium",EbS+ (1080p)
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+#EXTINF:-1 tvg-id="EscambiaCountyTV.us" tvg-name="Escambia County TV" tvg-logo="https://i.imgur.com/TAvJdpo.png" tvg-country="US" tvg-language="English" group-title="United States",Escambia County TV (720p)
+https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
+#EXTINF:-1 tvg-id="FernandinaBeachChannel.us" tvg-name="Fernandina Beach Channel" tvg-logo="https://i.imgur.com/9UfyekJ.png" tvg-country="US" tvg-language="English" group-title="United States",Fernandina Beach Channel (720p) [Not 24/7]
+https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="FGTV.us" tvg-name="FGTV" tvg-logo="https://i.imgur.com/RXFmzVY.png" tvg-country="US" tvg-language="English" group-title="United States",FGTV
+https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
+#EXTINF:-1 tvg-id="G10TV.us" tvg-name="G10TV" tvg-logo="https://i.imgur.com/5VPgAxB.jpg" tvg-country="US" tvg-language="English" group-title="United States",G10TV (1080p)
+https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-id="GalvestonCountyTV.us" tvg-name="Galveston County TV" tvg-logo="https://i.imgur.com/uzjuxdI.png" tvg-country="US" tvg-language="English" group-title="United States",Galveston County TV (720p) [Not 24/7]
+https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel192.us" tvg-name="Gillette Public Access Television Channel 192" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj" tvg-country="US" tvg-language="English" group-title="United States",Gillette Public Access Television Channel 192
+https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8
+#EXTINF:-1 tvg-id="Glendale11AZ.us" tvg-name="Glendale 11 AZ" tvg-logo="https://i.imgur.com/jehiyV7.png" tvg-country="US" tvg-language="English" group-title="United States",Glendale 11 AZ (360p)
+https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
+#EXTINF:-1 tvg-id="GlendaleTV.us" tvg-name="Glendale TV" tvg-logo="https://i.imgur.com/akbtQ33.png" tvg-country="US" tvg-language="English" group-title="United States",Glendale TV (720p) [Geo-blocked]
+https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-id="GovernmentTV16.us" tvg-name="Government TV 16" tvg-logo="https://i.imgur.com/iv9Vfcb.png" tvg-country="US" tvg-language="English" group-title="United States",Government TV 16 (720p)
+https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GreensboroTV.us" tvg-name="Greensboro TV" tvg-country="US" tvg-language="English" group-title="United States",Greensboro TV (720p)
+https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
+#EXTINF:-1 tvg-id="HCTVGovernmentChannel.us" tvg-name="HCTV Government Channel" tvg-logo="https://i.imgur.com/bVbpgiD.png" tvg-country="US" tvg-language="English" group-title="United States",HCTV Government Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-name="Hellenic Parliament TV" tvg-logo="https://i.imgur.com/o2cvqv3.png" tvg-country="GR" tvg-language="Greek" group-title="Greece",Hellenic Parliament TV (1080p)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-name="Hellenic Parliament TV" tvg-logo="https://i.imgur.com/o2cvqv3.png" tvg-country="GR" tvg-language="Greek" group-title="Greece",Hellenic Parliament TV (360p) [Not 24/7]
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:-1 tvg-id="HillsboroughTV.us" tvg-name="Hillsborough TV" tvg-logo="https://i.imgur.com/fUne7FX.png" tvg-country="US" tvg-language="English" group-title="United States",Hillsborough TV (360p)
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
+#EXTINF:-1 tvg-id="HluttawSD.mm" tvg-name="Hluttaw S & D" tvg-logo="https://i.imgur.com/Gffq8ks.png" tvg-country="MM" tvg-language="Burmese" group-title="Myanmar",Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+#EXTINF:-1 tvg-id="HTV1HoustonTelevision.us" tvg-name="HTV 1 Houston Television" tvg-logo="https://i.imgur.com/zvj1boM.jpg" tvg-country="US" tvg-language="English" group-title="United States",HTV 1 Houston Television (720p)
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
+#EXTINF:-1 tvg-id="HTV2HoustonTelevision.us" tvg-name="HTV 2 Houston Television" tvg-logo="https://i.imgur.com/zvj1boM.jpg" tvg-country="US" tvg-language="English" group-title="United States",HTV 2 Houston Television (720p)
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 tvg-id="HunanPoliticsLawChannel.cn" tvg-name="Hunan Politics & Law Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/cszfpd.jpg" tvg-country="CN" tvg-language="Chinese" group-title="China",Hunan Politics & Law Channel [Geo-blocked]
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+#EXTINF:-1 tvg-id="IcrtvColima.mx" tvg-name="Icrtv Colima" tvg-logo="https://i.imgur.com/iUks0ot.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Icrtv Colima (1080p)
+https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JNETV.pe" tvg-name="JNE TV" tvg-logo="https://i.imgur.com/b25XfCj.png" tvg-country="PE" tvg-language="Spanish" group-title="Peru",JNE TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-name="Justicia TV" tvg-logo="https://i.imgur.com/VOjLXJd.png" tvg-country="PE" tvg-language="Spanish" group-title="Peru",Justicia TV (1080p)
+http://190.93.224.42/JUSTICIA-TV/index.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-name="Justicia TV" tvg-logo="https://i.imgur.com/VOjLXJd.png" tvg-country="PE" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Peru",Justicia TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="https://i.imgur.com/zyAS1hk.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Justicia TV (720p)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-id="KBRI8.us" tvg-name="KBRI-8" tvg-logo="https://i.imgur.com/r8lLsyh.png" tvg-country="US" tvg-language="English" group-title="United States",KBRI-8 (720p)
+https://brightonco.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-id="KernCountyTV.us" tvg-name="Kern County TV" tvg-logo="https://i.imgur.com/AJcuBCF.png" tvg-country="US" tvg-language="English" group-title="United States",Kern County TV (720p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8
+#EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="Knesset Channel" tvg-logo="https://i.imgur.com/QXB1jv8.png" tvg-country="IL" tvg-language="Hebrew" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Israel",Knesset Channel (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/48/index.m3u8
+#EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="Knesset Channel" tvg-logo="https://i.imgur.com/QXB1jv8.png" tvg-country="IL" tvg-language="Hebrew" group-title="Israel",Knesset Channel (480p) [Not 24/7]
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" tvg-country="KR" tvg-language="Korean" group-title="South Korea",KTV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LACityView35.us" tvg-name="LA CityView 35" tvg-logo="https://i.imgur.com/3PnD83G.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",LA CityView 35 (1080p)
+https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="LakeHavasuCity4.us" tvg-name="Lake Havasu City 4" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lQ_vy6By43AoSdSQbFUzQePU0NWWIM-uzsAqnbbQXAql4=s512" tvg-country="US" tvg-language="English" group-title="United States",Lake Havasu City 4 (360p)
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
+#EXTINF:-1 tvg-id="LakeFrontTV.us" tvg-name="LakeFront TV" tvg-logo="https://i.imgur.com/ROb1BNG.png" tvg-country="US" tvg-language="English" group-title="United States",LakeFront TV (720p)
+https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-country="FR" tvg-language="French" group-title="France",LCP (477p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofBritishColumbia.ca" tvg-name="Legislative Assembly of British Columbia" tvg-logo="https://i.imgur.com/5QGxHhh.png" tvg-country="CA" tvg-language="English" group-title="Canada",Legislative Assembly of British Columbia
+https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofBritishColumbiaCommitteeA.ca" tvg-name="Legislative Assembly of British Columbia Committee A" tvg-country="CA" tvg-language="English" group-title="Canada",Legislative Assembly of British Columbia Committee A
+https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv" tvg-name="Legislative Assembly of El Salvador" tvg-logo="https://i.imgur.com/OBuiCyb.png" tvg-country="SV" tvg-language="Spanish" group-title="El Salvador",Legislative Assembly of El Salvador (1080p) [Not 24/7]
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-name="Legislative Assembly of Ontario" tvg-logo="https://i.imgur.com/n24MrsX.png" tvg-country="CA" tvg-language="English;French" group-title="Canada",Legislative Assembly of Ontario
+https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-name="Legislative Assembly of Ontario" tvg-logo="https://i.imgur.com/n24MrsX.png" tvg-country="CA" tvg-language="English;French" group-title="Canada",Legislative Assembly of Ontario
+https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyTVNunavut.ca" tvg-name="Legislative Assembly TV Nunavut" tvg-logo="https://i.imgur.com/wY9WhYS.png" tvg-country="CA" tvg-language="English" group-title="Canada",Legislative Assembly TV Nunavut
+http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
+#EXTINF:-1 tvg-id="LeominsterTVGovernment.us" tvg-name="Leominster TV Government" tvg-logo="https://i.imgur.com/aHkRDQw.png" tvg-country="US" tvg-language="English" group-title="United States",Leominster TV Government (720p)
+https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LexTV.us" tvg-name="Lex TV" tvg-logo="https://i.imgur.com/a36SPo6.png" tvg-country="US" tvg-language="English" group-title="United States",Lex TV (720p)
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8
+#EXTINF:-1 tvg-id="LGTV.us" tvg-name="LGTV" tvg-logo="https://i.imgur.com/d5w2pT4.png" tvg-country="US" tvg-language="English" group-title="United States",LGTV (1080p)
+https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="MartinCountyTV.us" tvg-name="Martin County TV" tvg-logo="https://i.imgur.com/7VzlbLp.png" tvg-country="US" tvg-language="English" group-title="United States",Martin County TV (720p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
+#EXTINF:-1 tvg-id="MBGTV.id" tvg-name="MBG TV" tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" tvg-country="ID" tvg-language="Indonesian" group-title="Indonesia",MBG TV (1080p)
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBTV.us" tvg-name="MBTV" tvg-logo="https://i.imgur.com/LyqFr9E.png" tvg-country="US" tvg-language="English" group-title="United States",MBTV (720p)
+https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us" tvg-name="Midpen Media Center Channel 29" tvg-logo="https://i.imgur.com/RPJiolQ.png" tvg-country="US" tvg-language="English" group-title="United States",Midpen Media Center Channel 29 (720p)
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MonroeCountyTV.us" tvg-name="Monroe County TV" tvg-logo="https://i.imgur.com/YJfzdSu.png" tvg-country="US" tvg-language="English" group-title="United States",Monroe County TV (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="MRTSobraniskikanal.mk" tvg-name="MRT Sobraniski kanal" tvg-logo="https://i.imgur.com/fyNQ8Nf.png" tvg-country="MK" tvg-language="Macedonian;Albanian" group-title="North Macedonia",MRT Sobraniski kanal [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1 tvg-id="NatickGovernmentChannel.us" tvg-name="Natick Government Channel" tvg-logo="https://i.imgur.com/eA2WSXa.png" tvg-country="US" tvg-language="English" group-title="United States",Natick Government Channel (720p)
+https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalAssemblyTV.kr" tvg-name="National Assembly TV" tvg-logo="https://i.imgur.com/UKdB8vD.png" tvg-country="KR" tvg-language="Korean" group-title="South Korea",National Assembly TV (720p)
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
+#EXTINF:-1 tvg-id="NCMGovernmentPoliticsChannel.us" tvg-name="NCM Government & Politics Channel" tvg-logo="https://i.imgur.com/3YPvfPn.png" tvg-country="US" tvg-language="English" group-title="United States",NCM Government & Politics Channel
+https://reflect-npa.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-id="NMBTV.us" tvg-name="NMBTV" tvg-logo="https://i.imgur.com/HTNoNnh.png" tvg-country="US" tvg-language="English" group-title="United States",NMBTV (720p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
+#EXTINF:-1 tvg-id="OireachtasTV.ie" tvg-name="Oireachtas TV" tvg-logo="https://i.imgur.com/aC4fsCI.png" tvg-country="IE" tvg-language="Irish" group-title="Ireland",Oireachtas TV (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom1.ie" tvg-name="Oireachtas TV Committee Room 1" tvg-logo="https://i.imgur.com/JLYqKC0.jpg" tvg-country="IE" tvg-language="English" group-title="Ireland",Oireachtas TV Committee Room 1 (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom2.ie" tvg-name="Oireachtas TV Committee Room 2" tvg-logo="https://i.imgur.com/2Wxx2jK.jpg" tvg-country="IE" tvg-language="English" group-title="Ireland",Oireachtas TV Committee Room 2 (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom3.ie" tvg-name="Oireachtas TV Committee Room 3" tvg-logo="https://i.imgur.com/EoAQeg5.jpg" tvg-country="IE" tvg-language="English" group-title="Ireland",Oireachtas TV Committee Room 3 (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom4.ie" tvg-name="Oireachtas TV Committee Room 4" tvg-logo="https://i.imgur.com/U9U4rgs.jpg" tvg-country="IE" tvg-language="English" group-title="Ireland",Oireachtas TV Committee Room 4 (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVDailEireann.ie" tvg-name="Oireachtas TV Dail Eireann" tvg-logo="https://i.imgur.com/mexKiS0.jpg" tvg-country="IE" tvg-language="English" group-title="Ireland",Oireachtas TV Dail Eireann (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVSeanadEireann.ie" tvg-name="Oireachtas TV Seanad Eireann" tvg-logo="https://i.imgur.com/c5TI2DT.jpg" tvg-country="IE" tvg-language="English" group-title="Ireland",Oireachtas TV Seanad Eireann (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
+#EXTINF:-1 tvg-id="Olelo49.us" tvg-name="Olelo 49" tvg-logo="https://i.imgur.com/4C5Xp8M.png" tvg-country="US" tvg-language="English" group-title="United States",Olelo 49 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8
+#EXTINF:-1 tvg-id="Olelo54.us" tvg-name="Olelo 54" tvg-logo="https://i.imgur.com/8BG31QL.png" tvg-country="US" tvg-language="English" group-title="United States",Olelo 54 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
+#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" tvg-name="Ontario Parliamentary Network" tvg-logo="https://i.imgur.com/xKXs6ER.png" tvg-country="CA" tvg-language="English" group-title="Canada",Ontario Parliamentary Network (720p)
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" tvg-name="Ontario Parliamentary Network" tvg-logo="https://i.imgur.com/xKXs6ER.png" tvg-country="CA" tvg-language="English" group-title="Canada",Ontario Parliamentary Network (720p)
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+#EXTINF:-1 tvg-id="OrangeGovernmentAccessTV.us" tvg-name="Orange Government Access TV" tvg-logo="https://i.imgur.com/hyPTfxA.png" tvg-country="US" tvg-language="English" group-title="United States",Orange Government Access TV (720p)
+https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu" tvg-name="Orszaggyules: OGY plenaris" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-country="HU" tvg-language="Hungarian" group-title="Hungary",Orszaggyules: OGY plenaris (720p) [Not 24/7]
+http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu" tvg-name="Orszaggyules: OGY plenaris" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-country="HU" tvg-language="Hungarian" group-title="Hungary",Orszaggyules: OGY plenaris (720p) [Not 24/7]
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu" tvg-name="Orszaggyules: OGY TAB" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-country="HU" tvg-language="Hungarian" group-title="Hungary",Orszaggyules: OGY TAB (720p) [Not 24/7]
+http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu" tvg-name="Orszaggyules: OGY TAB" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-country="HU" tvg-language="Hungarian" group-title="Hungary",Orszaggyules: OGY TAB (720p) [Not 24/7]
+https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ParlamentodeAndalucia.es" tvg-name="Parlamento de Andalucia" tvg-logo="https://i.imgur.com/J6h5IQS.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Parlamento de Andalucia (576p) [Not 24/7]
+http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
+#EXTINF:-1 tvg-id="ParlamentodeNavarra.es" tvg-name="Parlamento de Navarra" tvg-logo="https://i.imgur.com/JnhWxKv.png" tvg-country="ES" tvg-language="Spanish;Basque" group-title="Spain",Parlamento de Navarra (368p) [Not 24/7]
+https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-name="Parlamentsfernsehen 1" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-country="DE" tvg-language="German" group-title="Germany",Parlamentsfernsehen 1 (1080p) [Not 24/7]
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-name="Parlamentsfernsehen 1" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-country="DE" tvg-language="German" group-title="Germany",Parlamentsfernsehen 1 (1080p) [Geo-blocked]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de" tvg-name="Parlamentsfernsehen 2" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-country="DE" tvg-language="German" group-title="Germany",Parlamentsfernsehen 2 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen3.de" tvg-name="Parlamentsfernsehen 3" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-country="DE" tvg-language="German" group-title="Germany",Parlamentsfernsehen 3 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen4.de" tvg-name="Parlamentsfernsehen 4" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-country="DE" tvg-language="German" group-title="Germany",Parlamentsfernsehen 4 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ParliamentofMalta.mt" tvg-name="Parliament of Malta" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png" tvg-country="MT" tvg-language="Maltese" group-title="Malta",Parliament of Malta [Geo-blocked]
+http://80.79.6.221:25461/smash/public/23
+#EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-name="Parliament TV" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-country="MN" tvg-language="Mongolian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Mongolia",Parliament TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
+#EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-name="Parliament TV" tvg-logo="https://i.imgur.com/2aHW4q7.png" tvg-country="NZ" tvg-language="English" group-title="New Zealand",Parliament TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-name="Parliament TV" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-country="MN" tvg-language="Mongolian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Mongolia",Parliament TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
+#EXTINF:-1 tvg-id="PascoTV.us" tvg-name="Pasco TV" tvg-logo="https://i.imgur.com/CM91sME.png" tvg-country="US" tvg-language="English" group-title="United States",Pasco TV (480p)
+https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
+#EXTINF:-1 tvg-id="PBCTVChannel20.us" tvg-name="PBC TV Channel 20" tvg-logo="https://i.imgur.com/2bGBbOZ.png" tvg-country="US" tvg-language="English" group-title="United States",PBC TV Channel 20 (720p)
+https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
+#EXTINF:-1 tvg-id="PCTV26.us" tvg-name="PCTV 26" tvg-logo="https://i.imgur.com/3tMAQU7.png" tvg-country="US" tvg-language="English" group-title="United States",PCTV 26 (480p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
+#EXTINF:-1 tvg-id="PershyiZahidnyi.ua" tvg-name="Pershyi Zahidnyi" tvg-logo="https://i.imgur.com/SnljTbR.png" tvg-country="UA" tvg-language="Ukrainian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",Pershyi Zahidnyi (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/246/index.m3u8
+#EXTINF:-1 tvg-id="PHLgovTV.us" tvg-name="PHLgovTV" tvg-logo="https://i.imgur.com/BmNc3hu.png" tvg-country="US" tvg-language="English" group-title="United States",PHLgovTV (720p)
+https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PHXTV.us" tvg-name="PHXTV" tvg-logo="https://i.imgur.com/RkTKR6x.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",PHXTV (720p)
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
+#EXTINF:-1 tvg-id="PrivescEuTV.md" tvg-name="Privesc.Eu TV" tvg-logo="https://i.imgur.com/ukBacSn.png" tvg-country="MD" tvg-language="Romanian" group-title="Moldova",Privesc.Eu TV (2160p)
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1 tvg-id="PSLTV.us" tvg-name="PSL TV" tvg-logo="https://i.imgur.com/kzdRmTN.png" tvg-country="US" tvg-language="English" group-title="United States",PSL TV (360p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8
+#EXTINF:-1 tvg-id="RadaTV.ua" tvg-name="Rada TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" tvg-country="UA" tvg-language="Russian;English;Ukrainian" group-title="Ukraine",Rada TV (720p)
+https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="RockyHillChannel16.us" tvg-name="Rocky Hill Channel 16" tvg-logo="https://i.imgur.com/2ZDcH2L.png" tvg-country="US" tvg-language="English" group-title="United States",Rocky Hill Channel 16 (480p)
+https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
+#EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="Hindi;English" http-referrer="https://webcast.gov.in/" group-title="India",Sansad TV 1 (1080p)
+#EXTVLCOPT:http-referrer=https://webcast.gov.in/
+https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
+#EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="Hindi;English" group-title="India",Sansad TV 1 HD (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
+#EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="Hindi;English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Sansad TV 1 HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/718/master.m3u8
+#EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="Hindi;English" group-title="India",Sansad TV 1 HD (1080p)
+https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8
+#EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANSAD2_HINDI_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="Hindi;English" group-title="India",Sansad TV 2 (576p)
+https://cdn.pishow.tv/ott/live/39/master.m3u8
+#EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANSAD2_HINDI_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="Hindi;English" group-title="India",Sansad TV 2 HD (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+#EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANSAD2_HINDI_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="Hindi;English" http-referrer="https://webcast.gov.in/" group-title="India",Sansad TV 2 HD (1080p)
+#EXTVLCOPT:http-referrer=https://webcast.gov.in/
+https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8
+#EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANSAD2_HINDI_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="Hindi;English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Sansad TV 2 HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/298/master.m3u8
+#EXTINF:-1 tvg-id="SenadoTV.py" tvg-name="Senado TV" tvg-logo="https://i.imgur.com/LzgODUS.png" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",Senado TV (576p)
+https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1
+#EXTINF:-1 tvg-id="SenatoTV.it" tvg-name="Senato TV" tvg-logo="https://i.imgur.com/h4NyN5d.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Senato TV (1080p)
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="SFGovTV.us" tvg-name="SFGovTV" tvg-logo="https://i.imgur.com/uYXuwmV.png" tvg-country="US" tvg-language="English" group-title="United States",SFGovTV (720p)
+https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8
+#EXTINF:-1 tvg-id="SGTV.us" tvg-name="SGTV" tvg-logo="https://i.imgur.com/rVyWa2A.png" tvg-country="US" tvg-language="English" group-title="United States",SGTV (1080p)
+https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="SMCTVChannel23.us" tvg-name="SMCTV Channel 23" tvg-logo="https://i.imgur.com/J2SKPoY.png" tvg-country="US" tvg-language="English" group-title="United States",SMCTV Channel 23 (720p)
+https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SPTV.us" tvg-name="SPTV" tvg-logo="https://i.imgur.com/fl8I3cg.png" tvg-country="US" tvg-language="English" group-title="United States",SPTV (360p)
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
+#EXTINF:-1 tvg-id="StocktonGovTV.us" tvg-name="Stockton Gov TV" tvg-logo="https://i.imgur.com/Ko4m4iw.png" tvg-country="US" tvg-language="English" group-title="United States",Stockton Gov TV (720p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
+#EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" tvg-name="Thai Parliament Television" tvg-logo="https://i.imgur.com/Okcnmt6.png" tvg-country="TH" tvg-language="Thai" group-title="Thailand",Thai Parliament Television (1080p) [Not 24/7]
+https://tv-live.tpchannel.org/live/tv.m3u8
+#EXTINF:-1 tvg-id="TheCityofMarina.us" tvg-name="The City of Marina" tvg-logo="https://i.imgur.com/ldyanxN.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",The City of Marina (720p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
+#EXTINF:-1 tvg-id="TheParliamentaryChannel.bs" tvg-name="The Parliamentary Channel" tvg-logo="https://i.imgur.com/ZQagV0x.png" tvg-country="BS" tvg-language="English" group-title="Bahamas",The Parliamentary Channel (720p) [Not 24/7]
+https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePeninsulaChannel.us" tvg-name="The Peninsula Channel" tvg-logo="https://i.imgur.com/Ybp6YKD.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",The Peninsula Channel (720p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
+#EXTINF:-1 tvg-id="Thornton8.us" tvg-name="Thornton 8" tvg-logo="https://i.imgur.com/C013OWn.png" tvg-country="US" tvg-language="English" group-title="United States",Thornton 8 (1080p)
+https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-id="TVAssembleiaCeara.br" tvg-name="TV Assembleia Ceara" tvg-logo="https://i.imgur.com/UPa1tjs.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Assembleia Ceara (720p)
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAssembleiaPiaui.br" tvg-name="TV Assembleia Piaui" tvg-logo="https://i.imgur.com/eMguSjM.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Assembleia Piaui
+https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Camara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="TVCamara.py" tvg-name="TV Camara" tvg-logo="https://i.imgur.com/8Jl0h8F.jpeg" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",TV Camara (1080p)
+http://45.170.130.224:8000/play/a03x/index.m3u8?hls
+#EXTINF:-1 tvg-id="TVCamara.py" tvg-name="TV Camara" tvg-logo="https://i.imgur.com/8Jl0h8F.jpeg" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",TV Camara (1080p)
+http://158.172.217.18:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Camara (720p)
+http://45.162.64.114/TV_CAMARA/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Camara (720p)
+http://168.197.104.22/TV_CAMARA/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Camara (720p)
+http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Camara (720p)
+http://186.219.52.187/tv_camara/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.py" tvg-name="TV Camara" tvg-logo="https://i.imgur.com/8Jl0h8F.jpeg" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",TV Camara
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
+#EXTINF:-1 tvg-id="TVCamara2.br" tvg-name="TV Camara 2" tvg-logo="https://i.imgur.com/dHrUG1R.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Camara 2 (1080p) [Not 24/7]
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 tvg-id="TVCamaraSalvador.br" tvg-name="TV Camara Salvador" tvg-logo="https://i.imgur.com/VEXEzSx.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Camara Salvador (288p) [Not 24/7]
+https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-name="TV from the Danish Parliament" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-country="DK" tvg-language="Danish;English" group-title="Denmark",TV from the Danish Parliament (1080p) [Not 24/7]
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="TVLegislativa.ec" tvg-name="TV Legislativa" tvg-logo="https://i.imgur.com/9eeLsgg.png" tvg-country="EC" tvg-language="Spanish" group-title="Ecuador",TV Legislativa (1080p) [Not 24/7]
+https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVNRSR.sk" tvg-name="TV NRSR" tvg-logo="https://i.imgur.com/hsJsu3I.png" tvg-country="SK" tvg-language="Slovak" group-title="Slovakia",TV NRSR (720p) [Not 24/7]
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV4.us" tvg-name="TV4" tvg-logo="https://i.imgur.com/CRvQ6sF.png" tvg-country="US" tvg-language="English" group-title="United States",TV4 (360p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG3.me" tvg-name="TVCG 3" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" tvg-country="ME" tvg-language="Serbian" group-title="Montenegro",TVCG 3 (1080p) [Geo-blocked]
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRParlemen.id" tvg-name="TVR Parlemen" tvg-logo="https://i.imgur.com/2XYpmHL.png" tvg-country="ID" tvg-language="Indonesian" group-title="Indonesia",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRParlemen.id" tvg-name="TVR Parlemen" tvg-logo="https://i.imgur.com/2XYpmHL.png" tvg-country="ID" tvg-language="Indonesian" group-title="Indonesia",TVR Parlemen (720p) [Not 24/7]
+https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSAGovernmentChannel.us" tvg-name="TVSA Government Channel" tvg-logo="https://i.imgur.com/3Om5TUc.png" tvg-country="US" tvg-language="English" group-title="United States",TVSA Government Channel (720p)
+https://edge-f.swagit.com/live/sanantoniotx/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerActualiteitenkanaal.nl" tvg-name="Tweede Kamer: Actualiteitenkanaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerAlettaJacobszaal.nl" tvg-name="Tweede Kamer: Aletta Jacobszaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerAlettaJacobszaal.nl" tvg-name="Tweede Kamer: Aletta Jacobszaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Aletta Jacobszaal (720p) [Not 24/7]
+https://livestream.tweedekamer.nl/live/aletta_jacobszaal/index.m3u8?hd=1&subtitles=1
+#EXTINF:-1 tvg-id="TweedeKamerEnquetezaal.nl" tvg-name="Tweede Kamer: Enquetezaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Enquetezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerGroenvanPrinstererzaal.nl" tvg-name="Tweede Kamer: Groen van Prinstererzaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Groen van Prinstererzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerMaxvanderStoelzaal.nl" tvg-name="Tweede Kamer: Max van der Stoelzaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Max van der Stoelzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerPlenairezaal.nl" tvg-name="Tweede Kamer: Plenaire zaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Plenaire zaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerPlenairezaal.nl" tvg-name="Tweede Kamer: Plenaire zaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Plenaire zaal (720p) [Not 24/7]
+https://livestream.tweedekamer.nl/live/plenaire_zaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerSuzeGroenewegzaal.nl" tvg-name="Tweede Kamer: Suze Groenewegzaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Suze Groenewegzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerThorbeckezaal.nl" tvg-name="Tweede Kamer: Thorbeckezaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerThorbeckezaal.nl" tvg-name="Tweede Kamer: Thorbeckezaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Thorbeckezaal (720p) [Not 24/7]
+https://livestream.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerTilanuskamer.nl" tvg-name="Tweede Kamer: Tilanuskamer" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Tilanuskamer (1080p) [Not 24/7]
+https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerTilanuskamer.nl" tvg-name="Tweede Kamer: Tilanuskamer" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Tilanuskamer (720p) [Not 24/7]
+https://livestream.tweedekamer.nl/live/tilanuskamer/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerTroelstrazaal.nl" tvg-name="Tweede Kamer: Troelstrazaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Troelstrazaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl" tvg-name="Tweede Kamer: Wttewaall van Stoetwegenzaal" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="YouDotGov.us" tvg-name="YouDotGov" tvg-logo="https://i.imgur.com/4Mc7baR.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",YouDotGov (1080p)
+https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="YumaChannel72.us" tvg-name="Yuma Channel 72" tvg-logo="https://i.imgur.com/QsFBCWv.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Yuma Channel 72 (1080p)
+https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="YumaChannel73.us" tvg-name="Yuma Channel 73" tvg-logo="https://i.imgur.com/QsFBCWv.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Yuma Channel 73 (1080p)
+https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Yuma77.us" tvg-name="Yuma77" tvg-logo="https://i.imgur.com/KBriwwj.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Yuma77
+https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8

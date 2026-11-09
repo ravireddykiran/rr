@@ -1,0 +1,76 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",.sci-fi (576p)
+http://stream.mcquack.net/180/index.m3u8
+#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",.sci-fi (576p)
+http://31.148.48.15/SONY_SCI_FI/index.m3u8
+#EXTINF:-1 tvg-id="BFMTechCo.fr" tvg-name="BFM Tech & Co" tvg-logo="https://i.imgur.com/FQ0FpXV.png" tvg-country="FR" tvg-language="French" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France",BFM Tech & Co (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BilimIlim.kg" tvg-name="Bilim Ilim" tvg-logo="https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png" tvg-country="KG" tvg-language="Kirghiz;Russian" group-title="Kyrgyzstan",Bilim Ilim (480p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
+#EXTINF:-1 tvg-id="CanThoTV2.vn" tvg-name="Can Tho TV 2" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Vietnam",Can Tho TV 2 (1080p)
+https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChuzhouScienceEducationChannel.cn" tvg-name="Chuzhou Science & Education Channel" tvg-logo="https://i.imgur.com/9JfZJRv.png" tvg-country="CN" tvg-language="Chinese" group-title="China",Chuzhou Science & Education Channel (400p)
+http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.py" tvg-name="Cosmos TV" tvg-logo="https://i.imgur.com/dAMyExY.jpg" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",Cosmos TV (720p)
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="Discovery Science" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi" group-title="India",Discovery Science (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk" tvg-name="Discovery Science Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Discovery Science Europe UK
+http://37.49.224.5/stream/9/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Discovery Science Latin America (720p)
+http://45.171.64.30:6060/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Discovery Science Latin America ColombiaPeru (720p)
+http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
+#EXTINF:-1 tvg-id="EkoTV.ua" tvg-name="Eko TV" tvg-logo="https://i.imgur.com/WovATGb.png" tvg-country="UA" tvg-language="Ukrainian" http-user-agent="curl/8.16.0" group-title="Ukraine",Eko TV (720p)
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+#EXTINF:-1 tvg-id="EXCTV.ve" tvg-name="EXC TV" tvg-logo="https://i.imgur.com/Znd1Ml9.png" tvg-country="VE" tvg-language="Spanish" group-title="Venezuela",EXC TV (720p) [Not 24/7]
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1 tvg-id="IlmvaTabiat.tj" tvg-name="Ilm va Tabiat" tvg-logo="https://i.imgur.com/MDULX7X.png" tvg-country="TJ" tvg-language="Tajik" group-title="Tajikistan",Ilm va Tabiat (1080p)
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",InWonder (1080p)
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",InWonder (1080p) [Geo-blocked]
+https://amg00861-amg00861c14-rlaxx-uk-3954.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",InWonder (1080p) [Geo-blocked]
+https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",InWonder (1080p) [Geo-blocked]
+https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",InWonder (1080p)
+https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",InWonder (1080p)
+https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",InWonder (720p)
+https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JilinRuralChannel.cn" tvg-name="Jilin Rural Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jlxcpd.jpg" tvg-country="CN" tvg-language="Chinese" group-title="China",Jilin Rural Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+#EXTINF:-1 tvg-id="MediBizTV.in" tvg-name="MediBizTV" tvg-logo="https://www.medibiztv.com/assets/logo-E76jcvP9.png" tvg-country="IN" tvg-language="English" group-title="India",MediBizTV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Nauka.ua" tvg-name="Nauka" tvg-logo="https://i.imgur.com/ClGdZCe.png" tvg-country="UA" tvg-language="Ukrainian;Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",Nauka (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/403/index.m3u8
+#EXTINF:-1 tvg-id="OzoneTV.hu" tvg-name="Ozone TV" tvg-logo="https://i.imgur.com/eSNF9qt.png" tvg-country="HU" tvg-language="Hungarian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Hungary",Ozone TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/ozone/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-name="Pluto TV Science" tvg-logo="https://i.imgur.com/uhunRoU.png" tvg-country="US" tvg-language="English" group-title="United States",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+#EXTINF:-1 tvg-id="ShandongTVAgriculturalScienceChannel.cn" tvg-name="Shandong TV Agricultural Science Channel" tvg-logo="https://i.imgur.com/EY2zH06.png" tvg-country="CN" tvg-language="Chinese" group-title="China",Shandong TV Agricultural Science Channel (406p) [Geo-blocked]
+http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-name="Smithsonian Channel Selects" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" tvg-country="US" tvg-language="English" group-title="United States",Smithsonian Channel Selects
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",UMSA TVU Internacional (720p)
+https://edge.enhdtv.com/8026/index.m3u8
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" tvg-country="BO" tvg-language="Spanish" http-referrer="https://tvu.umsa.bo/tvu-internacional" group-title="Bolivia",UMSA TVU Internacional (720p)
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-logo="https://i.imgur.com/LquGNbh.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Wonder (1080p)
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-logo="https://i.imgur.com/LquGNbh.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Wonder (1080p)
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-logo="https://i.imgur.com/LquGNbh.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Wonder (720p)
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-logo="https://i.imgur.com/LquGNbh.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Wonder (720p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-logo="https://i.imgur.com/LquGNbh.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Wonder (720p)
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8

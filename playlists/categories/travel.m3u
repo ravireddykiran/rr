@@ -1,0 +1,188 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="ArubaTV.aw" tvg-name="Aruba.TV" tvg-logo="https://i.imgur.com/9fWY09U.png" tvg-country="AW" tvg-language="English;Spanish" group-title="Aruba",Aruba.TV (1080p)
+https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="https://i.imgur.com/BfaCaZF.png" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Aunar (1080p)
+http://190.128.214.97:64333/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="BamBarBiaTV.ua" tvg-name="BamBarBia.TV" tvg-logo="https://i.imgur.com/zdRvy87.png" tvg-country="UA" tvg-language="Ukrainian" group-title="Ukraine",BamBarBia.TV (720p) [Not 24/7]
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVFloridaAlabama.us" tvg-name="Beach TV Florida & Alabama" tvg-logo="https://i.imgur.com/weypM9C.png" tvg-country="US" tvg-language="English" group-title="United States",Beach TV Florida & Alabama (720p)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVFloridaAlabama.us" tvg-name="Beach TV Florida & Alabama" tvg-logo="https://i.imgur.com/weypM9C.png" tvg-country="US" tvg-language="English" group-title="United States",Beach TV Florida & Alabama (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVKeyWestFloridaKeys.us" tvg-name="Beach TV Key West & Florida Keys" tvg-logo="https://i.imgur.com/XhDBdff.png" tvg-country="US" tvg-language="English" group-title="United States",Beach TV Key West & Florida Keys (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVMyrtleBeachTheGrandStrand.us" tvg-name="Beach TV Myrtle Beach & The Grand Strand" tvg-logo="https://i.imgur.com/aLYz7Bv.png" tvg-country="US" tvg-language="English" group-title="United States",Beach TV Myrtle Beach & The Grand Strand (720p)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVMyrtleBeachTheGrandStrand.us" tvg-name="Beach TV Myrtle Beach & The Grand Strand" tvg-logo="https://i.imgur.com/aLYz7Bv.png" tvg-country="US" tvg-language="English" group-title="United States",Beach TV Myrtle Beach & The Grand Strand (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVPanamaCity.us" tvg-name="Beach TV Panama City" tvg-logo="https://i.imgur.com/HCQDvEe.png" tvg-country="US" tvg-language="English" group-title="United States",Beach TV Panama City (720p)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVPanamaCity.us" tvg-name="Beach TV Panama City" tvg-logo="https://i.imgur.com/HCQDvEe.png" tvg-country="US" tvg-language="English" group-title="United States",Beach TV Panama City (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="ChileChannel.cl" tvg-name="Chile Channel" tvg-logo="https://i.imgur.com/F1it6fh.png" tvg-country="CL" tvg-language="Spanish;English" group-title="Chile",Chile Channel (720p)
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",China Travel (1080p)
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",China Travel (1080p)
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-name="Costa Rica Channel" tvg-logo="https://i.imgur.com/N4pFVVF.png" tvg-country="CR" tvg-language="Spanish" group-title="Costa Rica",Costa Rica Channel (576p) [Not 24/7]
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/960px-Destination_America_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Destination America (720p)
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-country="PK" tvg-language="Urdu" group-title="Pakistan",Discover Pakistan (1080p)
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-country="PK" tvg-language="Urdu" group-title="Pakistan",Discover Pakistan
+http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-country="PK" tvg-language="Urdu" group-title="Pakistan",Discover Pakistan
+http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED
+#EXTINF:-1 tvg-id="DroneTV.us" tvg-name="DroneTV" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" tvg-country="US" tvg-language="English" group-title="United States",DroneTV (1080p)
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" tvg-logo="https://i.imgur.com/96ksfwJ.png" tvg-country="US" tvg-language="English" group-title="United States",Fun Roads (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" tvg-logo="https://i.imgur.com/96ksfwJ.png" tvg-country="US" tvg-language="English" group-title="United States",Fun Roads (720p)
+https://www.funroads-hls1.com/funroads.m3u8
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" tvg-logo="https://i.imgur.com/96ksfwJ.png" tvg-country="US" tvg-language="English" group-title="United States",Fun Roads (720p)
+https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" tvg-logo="https://i.imgur.com/96ksfwJ.png" tvg-country="US" tvg-language="English" group-title="United States",Fun Roads (404p)
+http://104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 tvg-id="GlazamiTurista.ru" tvg-name="Glazami Turista" tvg-logo="https://i.imgur.com/GXJKWdy.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Glazami Turista (576i)
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="GoTraveler.us" tvg-name="GoTraveler" tvg-logo="https://i.imgur.com/IaRcN1G.png" tvg-country="US" tvg-language="English" group-title="United States",GoTraveler (720p) [Geo-blocked]
+https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
+#EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn" tvg-name="Guangxi Variety & Travel Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/gxzypd.jpg" tvg-country="CN" tvg-language="Chinese" group-title="China",Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-name="INTRAVEL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",INTRAVEL (1080p)
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-name="INTRAVEL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",INTRAVEL (1080p)
+https://amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravelsamsunguk-samsunggb/playlist.m3u8
+#EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-name="INTRAVEL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",INTRAVEL (1080p) [Geo-blocked]
+https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-name="INTRAVEL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",INTRAVEL (1080p)
+https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JamaicaTravelChannel.jm" tvg-name="Jamaica Travel Channel" tvg-logo="https://i.imgur.com/ewdPTh8.png" tvg-country="JM" tvg-language="English" group-title="Jamaica",Jamaica Travel Channel (720p)
+https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8
+#EXTINF:-1 tvg-id="Journy.us" tvg-name="Journy" tvg-logo="https://i.imgur.com/1JNrLxq.png" tvg-country="US" tvg-language="English" group-title="United States",Journy (720p)
+https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="KNOVCD411.us" tvg-name="KNOV-CD 41.1" tvg-logo="https://i.imgur.com/D7Lzqyl.png" tvg-country="US" tvg-language="English" group-title="United States",KNOV-CD 41.1 (720p)
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="KNOVCD411.us" tvg-name="KNOV-CD 41.1" tvg-logo="https://i.imgur.com/D7Lzqyl.png" tvg-country="US" tvg-language="English" group-title="United States",KNOV-CD 41.1 (720p)
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph" tvg-name="Living Asia Channel" tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-country="PH" tvg-language="English;Tagalog" group-title="Philippines",Living Asia Channel (1080p)
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="MaldivesTV.mv" tvg-name="Maldives TV" tvg-logo="https://i.imgur.com/Zl2FmFC.png" tvg-country="MV" tvg-language="English" group-title="Maldives",Maldives TV (720p)
+https://lana.psm.mv/live/mtv.m3u8
+#EXTINF:-1 tvg-id="Moyastikhiya.ru" tvg-name="Moya stikhiya" tvg-logo="https://i.imgur.com/Sl8c9eB.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Moya stikhiya HD (1080p)
+http://stream.mcquack.net/141/index.m3u8
+#EXTINF:-1 tvg-id="MyDestinationTV.us" tvg-name="MyDestination.TV" tvg-logo="https://i.imgur.com/VJndl0m.png" tvg-country="US" tvg-language="English" group-title="United States",MyDestination.TV (720p)
+https://a-cdn.klowdtv.com/live2/mydestinationtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="NashaTema.ru" tvg-name="Nasha Tema" tvg-logo="https://i.imgur.com/67ZVDKW.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Nasha Tema (1080p)
+https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
+#EXTINF:-1 tvg-id="OEPMTV.do" tvg-name="OEPM TV" tvg-logo="https://i.imgur.com/QghtwMB.jpeg" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",OEPM TV (720p)
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PalmBeachesTV.us" tvg-name="Palm Beaches TV" tvg-logo="https://i.imgur.com/kBol4Pf.png" tvg-country="US" tvg-language="English" group-title="United States",Palm Beaches TV (720p)
+https://live.feed.thepalmbeaches.tv/index.m3u8
+#EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-name="Peer TV Alto Adige" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Peer TV Alto Adige (1280p)
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it" tvg-name="Peer TV South Tyrol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" tvg-country="IT" tvg-language="English" group-title="Italy",Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-name="Peer TV Sudtirol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-country="IT" tvg-language="German" group-title="Italy",Peer TV Sudtirol (1080p)
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-id="PoconoTelevisionNetwork.us" tvg-name="Pocono Television Network" tvg-logo="https://i.imgur.com/et6giFo.png" tvg-country="US" tvg-language="English" group-title="United States",Pocono Television Network (1080p)
+https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8
+#EXTINF:-1 tvg-id="RTGint.ru" tvg-name="RTG int." tvg-logo="https://i.imgur.com/ZpUNou4.png" tvg-country="RU" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Russia",RTG int.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0bw
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-country="RU" tvg-language="Russian;English;Turkish" group-title="Russia",RTG TV (720p)
+http://31.148.48.15/RTG_HD/index.m3u8
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-country="RU" tvg-language="Russian;English;Turkish" group-title="Russia",RTG TV (576p)
+http://31.148.48.15/RTG/index.m3u8
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RTG TV HD (1080p)
+http://46.53.200.153:7777/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RTG TV HD (1080p)
+http://stream.mcquack.net/164/index.m3u8
+#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at" tvg-name="Schladming-Dachstein TV" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" tvg-country="AT" tvg-language="German" group-title="Austria",Schladming-Dachstein TV (720p)
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800007C5_20251209T004625SQUARE.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Space Live powered by sen (1080p)
+https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800007C5_20251209T004625SQUARE.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Space Live powered by sen (1080p)
+https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800007C5_20251209T004625SQUARE.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Space Live powered by sen (720p)
+https://jmp2.uk/plu-69a554497ed3b3fff0b9ca80.m3u8
+#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800007C5_20251209T004625SQUARE.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Space Live powered by sen (720p)
+https://jmp2.uk/plu-69b16dc543d0f313203b714c.m3u8
+#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800007C5_20251209T004625SQUARE.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Space Live powered by sen (720p)
+https://jmp2.uk/plu-69b1489b5828e7c242d83064.m3u8
+#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800007C5_20251209T004625SQUARE.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Space Live powered by sen (720p)
+https://jmp2.uk/plu-69b16df6ed2a2444365e7ff1.m3u8
+#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800007C5_20251209T004625SQUARE.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Space Live powered by sen (720p)
+https://jmp2.uk/plu-69b16e2b65c1df7564fc750b.m3u8
+#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800007C5_20251209T004625SQUARE.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Space Live powered by sen
+https://jmp2.uk/plu-69b3db5d61e8e298254c7108.m3u8
+#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800007C5_20251209T004625SQUARE.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Space Live powered by sen
+https://jmp2.uk/plu-69b3db536c0414a7ecf564fb.m3u8
+#EXTINF:-1 tvg-id="SunChannel.ve" tvg-name="Sun Channel" tvg-logo="https://i.imgur.com/B26qL3e.png" tvg-country="VE" tvg-language="Spanish" group-title="Venezuela",Sun Channel (720p)
+http://168.196.127.137:6001/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="TanzaniaSafariChannel.tz" tvg-name="Tanzania Safari Channel" tvg-logo="https://i.imgur.com/fcLFYhn.png" tvg-country="TZ" tvg-language="English;Swahili" group-title="Tanzania",Tanzania Safari Channel (576p)
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
+#EXTINF:-1 tvg-id="Teleputeshestviya.ru" tvg-name="Teleputeshestviya" tvg-logo="https://i.imgur.com/eXJm1n3.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Teleputeshestviya (576p)
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 tvg-id="Teletur.do" tvg-name="Teletur" tvg-logo="https://i.imgur.com/Ig4gR93.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Teletur (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil" tvg-logo="https://i.imgur.com/3tBJERH.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Travel Box Brazil (720p)
+http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil" tvg-logo="https://i.imgur.com/3tBJERH.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Travel Box Brazil (720p)
+http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Travel_Channel_logo-cerulean_blue.png/960px-Travel_Channel_logo-cerulean_blue.png" tvg-country="PL" tvg-language="English" group-title="Poland",Travel Channel (576i)
+http://92.114.85.87:8011/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="TravelMix.ro" tvg-name="Travel Mix" tvg-logo="https://i.imgur.com/4dMeEQO.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",Travel Mix
+https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
+#EXTINF:-1 tvg-id="TravelTV.bg" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/5xllfed.png" tvg-country="BG" tvg-language="Bulgarian" group-title="Bulgaria",Travel TV (576p)
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-name="Travel+Adventure" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-country="RU" tvg-language="Russian;English" group-title="Russia",Travel+Adventure (1080p)
+http://31.148.48.15/Travel_Adventure_HD/index.m3u8
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-name="Travel+Adventure" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-country="RU" tvg-language="Russian;English" group-title="Russia",Travel+Adventure HD (1080p)
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-name="Travel+Adventure" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-country="RU" tvg-language="Russian;English" group-title="Russia",Travel+Adventure HD (1080p)
+http://stream.mcquack.net/206/index.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Czech" group-title="India",Travelxp 4K Czechia
+http://88.212.7.14/live/travel_xp_4k/index.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi;Bengali;Tamil" group-title="India",Travelxp 4K HDR (2160p) [Geo-blocked]
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Czech" group-title="India",Travelxp Czechia
+http://88.212.7.14/live/travel_xp/index.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi;Bengali;Tamil" group-title="India",Travelxp HD (1080p) [Geo-blocked]
+https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Russian" group-title="India",Travelxp Russia (1080p)
+http://stream.mcquack.net/451/index.m3u8
+#EXTINF:-1 tvg-id="TurismoRDTV.do" tvg-name="Turismo RDTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Turismo RDTV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TurismoTravelTV.cl" tvg-name="Turismo Travel TV" tvg-logo="https://i.imgur.com/4ixl8Px.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",Turismo Travel TV
+https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
+#EXTINF:-1 tvg-id="TuristikTV.mx" tvg-name="Turistik TV" tvg-logo="https://i.imgur.com/g9j0ze8.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Turistik TV (720p)
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOFF.bo" tvg-name="TV OFF" tvg-logo="https://i.imgur.com/vBe1GgI.png" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",TV OFF (1080p)
+https://edge.enhdtv.com/tvoff/index.m3u8
+#EXTINF:-1 tvg-id="TVPaprika.cz" tvg-name="TV Paprika" tvg-logo="https://i.imgur.com/NSabYyT.png" tvg-country="CZ" tvg-language="Czech" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Czech Republic",TV Paprika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPaprika.hu" tvg-name="TV Paprika" tvg-logo="https://i.imgur.com/KLpZIS6.png" tvg-country="HU" tvg-language="Hungarian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Hungary",TV Paprika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/parpika_hun/index.m3u8
+#EXTINF:-1 tvg-id="TVPaprika.ro" tvg-name="TV Paprika" tvg-logo="https://i.imgur.com/3fuXBHT.png" tvg-country="RO" tvg-language="Romanian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" http-referrer="https://cool-tv.net/" group-title="Romania",TV Paprika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-name="TV Parana Turismo" tvg-logo="https://i.imgur.com/I6pKoBd.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Parana Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="TVSayohi.tj" tvg-name="TV Sayohi" tvg-logo="https://i.imgur.com/lAkMrtr.png" tvg-country="TJ" tvg-language="Tajik" group-title="Tajikistan",TV Sayohi (1080p)
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-id="TVSTravelNetwork.us" tvg-name="TVS Travel Network" tvg-logo="https://i.imgur.com/vSFf5Ce.png" tvg-country="US" tvg-language="English" group-title="United States",TVS Travel Network (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-name="Vinh Long TV 4" tvg-logo="https://i.imgur.com/ARhIkvR.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Vietnam",Vinh Long TV 4 (720p)
+https://dethich.pw/thvl4/index.m3u8
+#EXTINF:-1 tvg-id="Vkus.ru" tvg-name="Vkus" tvg-logo="https://www.cableman.ru/sites/default/files/logo%20%287%29%20%281%29.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Vkus (576p)
+http://178.134.1.158:8081/vkus/index.m3u8
+#EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-name="Voyages & Saveurs" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" tvg-country="ES" tvg-language="French" group-title="Spain",Voyages & Saveurs (720p)
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
+#EXTINF:-1 tvg-id="YichangSanxiaTravelLifeChannel.cn" tvg-name="Yichang Sanxia Travel & Life Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/ycsxlysh.jpg" tvg-country="CN" tvg-language="Chinese" group-title="China",Yichang Sanxia Travel & Life Channel
+https://liveplay.ycrmt.cn/sxgd/lysh.m3u8

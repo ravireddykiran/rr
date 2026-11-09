@@ -1,0 +1,23 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DK1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DK1.xml.gz"
+#EXTINF:-1 tvg-id="DRRamasjang.dk" tvg-name="DR Ramasjang" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/960px-DR_Ramasjang_2020.svg.png" tvg-country="DK" tvg-language="Danish" group-title="Kids",DR Ramasjang (720p) [Geo-blocked]
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
+#EXTINF:-1 tvg-id="DR1.dk" tvg-name="DR1" tvg-logo="https://i.imgur.com/OETzsOI.png" tvg-country="DK" tvg-language="Danish" group-title="General",DR1 (1080p) [Geo-blocked]
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
+#EXTINF:-1 tvg-id="DR2.dk" tvg-name="DR2" tvg-logo="https://i.imgur.com/7bYtukP.png" tvg-country="DK" tvg-language="Danish" group-title="Culture",DR2 (1080p) [Geo-blocked]
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
+#EXTINF:-1 tvg-id="DRTV.dk" tvg-name="DRTV" tvg-logo="https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png" tvg-country="DK" tvg-language="Danish" group-title="General",DRTV (1080p)
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-id="KanalHovedstaden.dk" tvg-name="Kanal Hovedstaden" tvg-logo="https://i.imgur.com/afujBQs.jpeg" tvg-country="DK" tvg-language="Danish" group-title="General",Kanal Hovedstaden (720p) [Not 24/7]
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+#EXTINF:-1 tvg-id="KKRtv.dk" tvg-name="KKRtv" tvg-logo="https://i.imgur.com/TbtjWHI.png" tvg-country="DK" tvg-language="Danish" group-title="Religious",KKRtv (720p) [Not 24/7]
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+#EXTINF:-1 tvg-id="KKRtv.dk" tvg-name="KKRtv" tvg-logo="https://i.imgur.com/TbtjWHI.png" tvg-country="DK" tvg-language="Danish" group-title="Religious",KKRtv (720p) [Not 24/7]
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2Bornholm.dk" tvg-name="TV 2/Bornholm" tvg-logo="https://i.imgur.com/cEOpXU6.png" tvg-country="DK" tvg-language="Danish" group-title="Other",TV 2/Bornholm (1080p) [Not 24/7]
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-name="TV from the Danish Parliament" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-country="DK" tvg-language="Danish;English" group-title="Legislative",TV from the Danish Parliament (1080p) [Not 24/7]
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="TVStorbyen.dk" tvg-name="TV Storbyen" tvg-logo="https://i.ibb.co/X5h3hJL/tvstb.png" tvg-country="DK" tvg-language="Danish" group-title="General",TV Storbyen (720p) [Not 24/7]
+https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarineret.dk" tvg-name="TVMarineret" tvg-logo="https://i.imgur.com/r1Caske.jpg" tvg-country="DK" tvg-language="Danish" group-title="General",TVMarineret (1080p)
+http://sdream.info:8080/hls/livestream/index.m3u8

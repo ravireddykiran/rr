@@ -1,0 +1,540 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="A2iNaija.sn" tvg-name="A2i Naija" tvg-logo="https://i.imgur.com/yq7ghPE.jpg" tvg-country="SN" tvg-language="Wolof;French" group-title="Senegal",A2i Naija (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCEntertains.au" tvg-name="ABC Entertains" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" tvg-country="AU" tvg-language="English" group-title="Australia",ABC Entertains (720p)
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal (720p)
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal (720p)
+http://168.197.104.22/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal (720p)
+http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal (720p)
+http://186.219.52.187/agro_canal/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal
+https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
+#EXTINF:-1 tvg-id="AlAlamiya2.sd" tvg-name="Al Alamiya 2" tvg-logo="https://i.imgur.com/5FrE3Nv.png" tvg-country="SD" tvg-language="Arabic" group-title="Sudan",Al Alamiya 2
+http://82.212.74.98:8000/live/7815.m3u8
+#EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-name="Al Hiwar TV" tvg-logo="https://i.imgur.com/UjOxwdd.png" tvg-country="UK" tvg-language="Arabic" group-title="United Kingdom",Al Hiwar TV (1080p) [Not 24/7]
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://i.imgur.com/MCbCSWv.png" tvg-country="TH" tvg-language="Thai" group-title="Thailand",ALTV (1080p)
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://i.imgur.com/MCbCSWv.png" tvg-country="TH" tvg-language="Thai" group-title="Thailand",ALTV (1080p)
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-country="DE" tvg-language="German" group-title="Germany",ARD-alpha (720p)
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-country="DE" tvg-language="German" group-title="Germany",ARD-alpha (720p) [Not 24/7]
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-name="Asharq Discovery" tvg-logo="https://i.imgur.com/Czxi7yk.png" tvg-country="SA" tvg-language="Arabic" group-title="Saudi Arabia",Asharq Discovery (1080p)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="BATVEducationalChannel.us" tvg-name="BATV Educational Channel" tvg-logo="https://i.imgur.com/eDoJqtg.png" tvg-country="US" tvg-language="English" group-title="United States",BATV Educational Channel (1080p)
+https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BemMaisTV.br" tvg-name="Bem Mais TV" tvg-logo="https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg" tvg-country="BR" tvg-language="Portuguese" http-referrer="https://bemmaistv.com.br/" group-title="Brazil",Bem Mais TV (1080p)
+#EXTVLCOPT:http-referrer=https://bemmaistv.com.br/
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 tvg-id="BUTV10.us" tvg-name="BUTV10" tvg-logo="https://i.imgur.com/Iv1Fe67.png" tvg-country="US" tvg-language="English" group-title="United States",BUTV10 (1080p) [Not 24/7]
+https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="BVG.in" tvg-name="BVG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png" tvg-country="IN" tvg-language="Hindi" group-title="India",BVG (576p)
+https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8
+#EXTINF:-1 tvg-id="CampusTV.hn" tvg-name="Campus TV" tvg-logo="https://i.imgur.com/E1TmADM.png" tvg-country="HN" tvg-language="Spanish" group-title="Honduras",Campus TV (480p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+#EXTINF:-1 tvg-id="CanThoTV2.vn" tvg-name="Can Tho TV 2" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Vietnam",Can Tho TV 2 (1080p)
+https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal15.ni" tvg-name="Canal 15" tvg-logo="https://i.imgur.com/DGBMuEs.png" tvg-country="NI" tvg-language="Spanish" group-title="Nicaragua",Canal 15 (1080p) [Not 24/7]
+https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" tvg-logo="https://i.imgur.com/OOB7nrS.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Educacao (720p)
+http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" tvg-logo="https://i.imgur.com/OOB7nrS.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Educacao (720p)
+http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" tvg-logo="https://i.imgur.com/OOB7nrS.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Educacao (720p)
+http://168.197.104.22/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" tvg-logo="https://i.imgur.com/OOB7nrS.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Educacao (720p)
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" tvg-logo="https://i.imgur.com/7SE4CkE.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal FDR (1080p)
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" tvg-logo="https://i.imgur.com/LgynEBC.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Futura (720p)
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" tvg-logo="https://i.imgur.com/LgynEBC.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Futura (720p)
+http://170.83.16.50/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" tvg-logo="https://i.imgur.com/LgynEBC.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Futura (720p)
+http://186.219.52.187/futura/index.m3u8
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" tvg-logo="https://i.imgur.com/ht4tUOc.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Saude (720p) [Not 24/7]
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" tvg-logo="https://i.imgur.com/ht4tUOc.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-id="CanalUniversidad.ar" tvg-name="Canal Universidad" tvg-logo="https://i.imgur.com/trmPKYw.png" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Canal Universidad
+https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV-10" tvg-logo="https://i.imgur.com/sSSO7UD.png" tvg-country="CN" tvg-language="Chinese" group-title="China",CCTV-10 (720p)
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV-10" tvg-logo="https://i.imgur.com/sSSO7UD.png" tvg-country="CN" tvg-language="Chinese" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="China",CCTV-10 (576i)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-name="CCTV-17" tvg-logo="https://i.imgur.com/jSQURxS.png" tvg-country="CN" tvg-language="Chinese" group-title="China",CCTV-17 HD (1080p)
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV-7" tvg-logo="https://i.imgur.com/CKcPMQC.png" tvg-country="CN" tvg-language="Chinese" group-title="China",CCTV-7 (720p)
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="CCTVWorldGeography.cn" tvg-name="CCTV-World Geography" tvg-logo="https://i.imgur.com/V2ncOXi.png" tvg-country="CN" tvg-language="Chinese" group-title="China",CCTV-World Geography SD (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CETV1.cn" tvg-name="CETV-1" tvg-logo="https://i.imgur.com/6sOHLq8.png" tvg-country="CN" tvg-language="Chinese" group-title="China",CETV-1 (576p)
+http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
+#EXTINF:-1 tvg-id="CETV2.cn" tvg-name="CETV-2" tvg-logo="https://i.imgur.com/ZD8XPmw.png" tvg-country="CN" tvg-language="Chinese" group-title="China",CETV-2 (576p)
+http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
+#EXTINF:-1 tvg-id="CharanaTV.lk" tvg-name="Charana TV" tvg-country="LK" tvg-language="Sinhala" group-title="Sri Lanka",Charana TV (360p)
+https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
+#EXTINF:-1 tvg-id="ChemodanTV.ua" tvg-name="Chemodan TV" tvg-logo="https://i.imgur.com/1WjGN8u.png" tvg-country="UA" tvg-language="Ukrainian;English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Ukraine",Chemodan TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/399/index.m3u8
+#EXTINF:-1 tvg-id="ChuzhouScienceEducationChannel.cn" tvg-name="Chuzhou Science & Education Channel" tvg-logo="https://i.imgur.com/9JfZJRv.png" tvg-country="CN" tvg-language="Chinese" group-title="China",Chuzhou Science & Education Channel (400p)
+http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-name="Ciftci TV" tvg-logo="https://i.imgur.com/CLzP4vL.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",Ciftci TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase" tvg-logo="https://i.imgur.com/QzMRKWy.png" tvg-country="US" tvg-language="English" group-title="United States",Classic Arts Showcase (720p)
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="CloudflareTV.us" tvg-name="Cloudflare TV" tvg-logo="https://i.imgur.com/l4m0is8.jpeg" tvg-country="US" tvg-language="English" group-title="United States",Cloudflare TV (720p)
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="CMAC2.us" tvg-name="CMAC 2" tvg-logo="https://i.imgur.com/O0sYOED.png" tvg-country="US" tvg-language="English" group-title="United States",CMAC 2 (720p)
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="Colombeia.ve" tvg-name="Colombeia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_Colombeia.png" tvg-country="VE" tvg-language="Spanish" group-title="Venezuela",Colombeia (576p)
+http://200.59.191.177:8000/play/a0la/index.m3u8
+#EXTINF:-1 tvg-id="Create.us" tvg-name="Create" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/960px-Create_TV_network_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Create (1080p)
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="Create.us" tvg-name="Create" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/960px-Create_TV_network_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Create WMPT (720p)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-name="CreaTV Channel 28" tvg-logo="https://i.imgur.com/rvQdzL1.png" tvg-country="US" tvg-language="English" group-title="United States",CreaTV Channel 28 (720p)
+https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
+#EXTINF:-1 tvg-id="CuriosityChannel.de" tvg-name="Curiosity Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png" tvg-country="DE" tvg-language="German" group-title="Germany",Curiosity Channel (720p)
+https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
+#EXTINF:-1 tvg-id="CVCEducation.us" tvg-name="CVC Education" tvg-logo="https://i.imgur.com/tUgEAUJ.png" tvg-country="US" tvg-language="English" group-title="United States",CVC Education (480p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Da Vinci (576p)
+http://stream.mcquack.net/238/index.m3u8
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Da Vinci (576p)
+https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Da Vinci
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-country="DE" tvg-language="Vietnamese;English" group-title="Germany",Da Vinci Asia Vietnam (1080p)
+https://vmttv.dpdns.org/tv360?id=davinci-hd
+#EXTINF:-1 tvg-id="DabangaTV.sd" tvg-name="Dabanga TV" tvg-logo="https://i.imgur.com/BH1N6TA.png" tvg-country="SD" tvg-language="Arabic" group-title="Sudan",Dabanga TV (1080p)
+https://hls.dabangasudan.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KISAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",DD Kisan (1080p)
+https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KISAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",DD Kisan (720p)
+https://cdn.pishow.tv/ott/live/9/master.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KISAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",DD Kisan (576p)
+https://cdn.pishow.tv/ott/live/223/master.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KISAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",DD Kisan (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/148/148_0.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KISAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",DD Kisan (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+#EXTINF:-1 tvg-id="DensKnowledge.id" tvg-name="Dens Knowledge" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" tvg-country="ID" tvg-language="Indonesian" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" http-referrer="https://www.dens.tv/" group-title="Indonesia",Dens Knowledge [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+#EXTINF:-1 tvg-id="DeParintiro.ro" tvg-name="DeParinti.ro" tvg-logo="https://assets.antenaplay.ro/2023/11/21/EO57SfnF8caVPEaQFs4Z.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",DeParinti.ro (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
+#EXTINF:-1 tvg-id="DerryTV23.us" tvg-name="DerryTV 23" tvg-logo="https://i.imgur.com/MRR6UL3.png" tvg-country="US" tvg-language="English" group-title="United States",DerryTV 23 (720p)
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DetroitChannel22.us" tvg-name="Detroit Channel 22" tvg-logo="https://i.imgur.com/zAdcg9m.png" tvg-country="US" tvg-language="English" group-title="United States",Detroit Channel 22
+https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="DKN.us" tvg-name="DKN" tvg-logo="https://i.imgur.com/DIau0GB.png" tvg-country="US" tvg-language="English" group-title="United States",DKN (1080p)
+https://video.oct.dc.gov/out/u/DKN.m3u8
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-name="DLTV 1" tvg-logo="https://i.imgur.com/nLzdGeX.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 1 (1080p)
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-name="DLTV 10" tvg-logo="https://i.imgur.com/TgN81Zr.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 10 (1080p)
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-name="DLTV 11" tvg-logo="https://i.imgur.com/hFk2b5s.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 11 (1080p)
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-name="DLTV 12" tvg-logo="https://i.imgur.com/ITt6lY7.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 12 (1080p)
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-name="DLTV 13" tvg-logo="https://i.imgur.com/asB5w3v.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 13 (1080p)
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-name="DLTV 14" tvg-logo="https://i.imgur.com/HOjZRNS.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 14 (1080p)
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-name="DLTV 15" tvg-logo="https://i.imgur.com/onJi2b6.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 15 (1080p)
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-name="DLTV 2" tvg-logo="https://i.imgur.com/lDBSTfE.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 2 (1080p)
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-name="DLTV 3" tvg-logo="https://i.imgur.com/wmrxerm.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 3 (1080p)
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-name="DLTV 4" tvg-logo="https://i.imgur.com/WkpoQhU.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 4 (1080p)
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-name="DLTV 5" tvg-logo="https://i.imgur.com/J1E89jX.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 5 (1080p)
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-name="DLTV 6" tvg-logo="https://i.imgur.com/qeIHWC0.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 6 (1080p)
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-name="DLTV 7" tvg-logo="https://i.imgur.com/OjYwMe3.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 7 (1080p)
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-name="DLTV 8" tvg-logo="https://i.imgur.com/xIwn5Ha.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 8 (1080p)
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-name="DLTV 9" tvg-logo="https://i.imgur.com/yPeSAry.png" tvg-country="TH" tvg-language="Thai;English" group-title="Thailand",DLTV 9 (1080p)
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Doctor (1080p)
+http://31.148.48.15/Doktor/index.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Doctor (576p)
+http://178.134.1.158:8081/doktor/index.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Doctor (576p)
+http://stream.mcquack.net/80/index.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Doctor (576i)
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="EVidya10.in" tvg-name="E-Vidya 10" tvg-logo="https://i.imgur.com/0sz6t9F.png" tvg-country="IN" tvg-language="Hindi" group-title="India",E-Vidya 10 (576p)
+http://103.72.101.252:8080/live/411.m3u8
+#EXTINF:-1 tvg-id="EVidya11.in" tvg-name="E-Vidya 11" tvg-logo="https://i.imgur.com/0sz6t9F.png" tvg-country="IN" tvg-language="Hindi" group-title="India",E-Vidya 11 (576p)
+http://103.72.101.252:8080/live/1410.m3u8
+#EXTINF:-1 tvg-id="EVidya12.in" tvg-name="E-Vidya 12" tvg-logo="https://i.imgur.com/0sz6t9F.png" tvg-country="IN" tvg-language="Hindi" group-title="India",E-Vidya 12 (576p)
+http://103.72.101.252:8080/live/1532.m3u8
+#EXTINF:-1 tvg-id="EVidya4.in" tvg-name="E-Vidya 4" tvg-logo="https://i.imgur.com/0sz6t9F.png" tvg-country="IN" tvg-language="Hindi" group-title="India",E-Vidya 4 (576p)
+http://103.72.101.252:8080/live/406.m3u8
+#EXTINF:-1 tvg-id="EVidya5.in" tvg-name="E-Vidya 5" tvg-logo="https://i.imgur.com/0sz6t9F.png" tvg-country="IN" tvg-language="Hindi" group-title="India",E-Vidya 5 (576p)
+http://103.72.101.252:8080/live/407.m3u8
+#EXTINF:-1 tvg-id="EVidya6.in" tvg-name="E-Vidya 6" tvg-logo="https://i.imgur.com/0sz6t9F.png" tvg-country="IN" tvg-language="Hindi" group-title="India",E-Vidya 6 (576p)
+http://103.72.101.252:8080/live/408.m3u8
+#EXTINF:-1 tvg-id="EVidya7.in" tvg-name="E-Vidya 7" tvg-logo="https://i.imgur.com/0sz6t9F.png" tvg-country="IN" tvg-language="Hindi" group-title="India",E-Vidya 7 (576p)
+http://103.72.101.252:8080/live/404.m3u8
+#EXTINF:-1 tvg-id="EVidya8.in" tvg-name="E-Vidya 8" tvg-logo="https://i.imgur.com/0sz6t9F.png" tvg-country="IN" tvg-language="Hindi" group-title="India",E-Vidya 8 (576p)
+http://103.72.101.252:8080/live/409.m3u8
+#EXTINF:-1 tvg-id="EVidya9.in" tvg-name="E-Vidya 9" tvg-logo="https://i.imgur.com/0sz6t9F.png" tvg-country="IN" tvg-language="Hindi" group-title="India",E-Vidya 9 (576p)
+http://103.72.101.252:8080/live/410.m3u8
+#EXTINF:-1 tvg-id="EBCGeneralEducation.kh" tvg-name="EBC General Education" tvg-logo="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png" tvg-country="KH" tvg-language="Khmer" group-title="Cambodia",EBC General Education (720p) [Not 24/7]
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-name="EBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png" tvg-country="KR" tvg-language="Korean" group-title="South Korea",EBS 1TV (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-name="EBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png" tvg-country="KR" tvg-language="Korean" group-title="South Korea",EBS 1TV (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-name="EBS 2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png" tvg-country="KR" tvg-language="Korean" group-title="South Korea",EBS 2TV (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English" tvg-logo="https://i.imgur.com/5wLJzb0.png" tvg-country="KR" tvg-language="English;Korean" group-title="South Korea",EBS English (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-name="EBS Plus 1" tvg-logo="https://i.imgur.com/aCeuhon.png" tvg-country="KR" tvg-language="Korean" group-title="South Korea",EBS Plus 1 (400p)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-name="EBS Plus 2" tvg-logo="https://i.imgur.com/pllIMGi.png" tvg-country="KR" tvg-language="English;Korean" group-title="South Korea",EBS Plus 2 (400p)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EDUTV.rs" tvg-name="EDU TV" tvg-logo="https://i.imgur.com/NE48DJb.png" tvg-country="RS" tvg-language="Serbian" group-title="Serbia",EDU TV (576p) [Not 24/7]
+https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
+#EXTINF:-1 tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-logo="https://i.imgur.com/nDRVsIc.png" tvg-country="EC" tvg-language="Spanish" group-title="Ecuador",Educa TV (720p) [Not 24/7]
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Educanal.py" tvg-name="Educanal" tvg-logo="https://i.imgur.com/857OkFf.png" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",Educanal (1080p)
+http://190.128.214.97:64333/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="EdutainmentTV.mn" tvg-name="Edutainment TV" tvg-logo="https://www.mongolsat.mn/assets/img/channel/8.png" tvg-country="MN" tvg-language="Mongolian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Mongolia",Edutainment TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
+#EXTINF:-1 tvg-id="EdutainmentTV.mn" tvg-name="Edutainment TV" tvg-logo="https://www.mongolsat.mn/assets/img/channel/8.png" tvg-country="MN" tvg-language="Mongolian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Mongolia",Edutainment TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8
+#EXTINF:-1 tvg-id="Eduvision.co" tvg-name="Eduvision" tvg-logo="https://i.imgur.com/ppBdqel.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Eduvision (1080p)
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-name="English Class" tvg-logo="https://i.imgur.com/gst7wW7.png" tvg-country="RU" tvg-language="English" group-title="Russia",English Class (1080p)
+http://31.148.48.15/English_club_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="English Club TV" tvg-logo="https://i.imgur.com/9FMvaRK.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",English Club TV (576i)
+https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="English Club TV" tvg-logo="https://i.imgur.com/9FMvaRK.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="ETV.th" tvg-name="ETV" tvg-logo="https://i.imgur.com/HTnQGcs.png" tvg-country="TH" tvg-language="Thai" group-title="Thailand",ETV (1080p)
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Fauna.ua" tvg-name="Fauna" tvg-logo="https://i.imgur.com/UwQcDTm.png" tvg-country="UA" tvg-language="Ukrainian;Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",Fauna (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/401/index.m3u8
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Futura (720p)
+http://170.83.49.66:8083/FUTURAHD/index.m3u8
+#EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us" tvg-name="Gillette Public Access Television Channel 189" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj" tvg-country="US" tvg-language="English" group-title="United States",Gillette Public Access Television Channel 189
+https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
+#EXTINF:-1 tvg-id="GVision.cl" tvg-name="GVision" tvg-logo="https://i.imgur.com/jUPHG21.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",GVision (288p)
+https://videostream.chileservidores.com:8081/tome/index.m3u8
+#EXTINF:-1 tvg-id="Gyandarshan.in" tvg-name="Gyandarshan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Gyandarshan (720p)
+https://cdn.pishow.tv/ott/live/14/master.m3u8
+#EXTINF:-1 tvg-id="Gyandarshan.in" tvg-name="Gyandarshan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Gyandarshan HD (576p)
+https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
+#EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us" tvg-name="HCTV Educational Access Channel" tvg-logo="https://i.imgur.com/bVbpgiD.png" tvg-country="US" tvg-language="English" group-title="United States",HCTV Educational Access Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="HKTV.us" tvg-name="HKTV" tvg-logo="https://i.imgur.com/AYzdlMz.png" tvg-country="US" tvg-language="English" group-title="United States",HKTV (1080p) [Geo-blocked]
+https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Vietnam",HTV4 (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Vietnam",HTV4 (720p)
+https://dethich.pw/htv4/index.m3u8
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-name="ILCE Canal 15 Summa Saberes" tvg-logo="https://i.imgur.com/r7czgOc.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",ILCE Canal 15 Summa Saberes (720p)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 tvg-id="IntiTV.ec" tvg-name="Inti TV" tvg-logo="https://i.imgur.com/2WirGqb.png" tvg-country="EC" tvg-language="Spanish" group-title="Ecuador",Inti TV (1080p) [Not 24/7]
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+#EXTINF:-1 tvg-id="iSTUFF.de" tvg-name="iSTUFF" tvg-logo="https://i.imgur.com/1V3UXVb.jpg" tvg-country="DE" tvg-language="German" group-title="Germany",iSTUFF (720p) [Not 24/7]
+https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+#EXTINF:-1 tvg-id="ISTV.br" tvg-name="ISTV" tvg-logo="https://i.imgur.com/RUKVrOH.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",ISTV (720p) [Not 24/7]
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-name="Jalisco TV" tvg-logo="https://i.imgur.com/N4meE8I.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Jalisco TV (720p)
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 tvg-id="JiangsuEducationalChannel.cn" tvg-name="Jiangsu Educational Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jsjy.jpg" tvg-country="CN" tvg-language="Chinese" group-title="China",Jiangsu Educational Channel (576p)
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+#EXTINF:-1 tvg-id="JiangsuEducationalChannel.cn" tvg-name="Jiangsu Educational Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jsjy.jpg" tvg-country="CN" tvg-language="Chinese" group-title="China",Jiangsu Educational Channel (576p) [Not 24/7]
+http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
+#EXTINF:-1 tvg-id="JilinRuralChannel.cn" tvg-name="Jilin Rural Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jlxcpd.jpg" tvg-country="CN" tvg-language="Chinese" group-title="China",Jilin Rural Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+#EXTINF:-1 tvg-id="KanEducational.il" tvg-name="Kan Educational" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png" tvg-country="IL" tvg-language="Hebrew" group-title="Israel",Kan Educational (720p)
+http://stream.mcquack.net/378/index.m3u8
+#EXTINF:-1 tvg-id="KBEV.us" tvg-name="KBEV" tvg-logo="https://i.imgur.com/YFVrphZ.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",KBEV (1080p)
+https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="KCAT.us" tvg-name="KCAT" tvg-logo="https://i.imgur.com/ZAypRkk.png" tvg-country="US" tvg-language="English" group-title="United States",KCAT (1080p)
+https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-id="KiteVicters.in" tvg-name="Kite Victers" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KITE_Victers.png" tvg-country="IN" tvg-language="Malayalam" group-title="India",Kite Victers (720p) [Not 24/7]
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca" tvg-name="Knowledge Network" tvg-logo="https://i.imgur.com/VfofmZZ.png" tvg-country="CA" tvg-language="English" group-title="Canada",Knowledge Network (720p) [Geo-blocked]
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:-1 tvg-id="KOCTChannel19.us" tvg-name="KOCT Channel 19" tvg-logo="https://i.imgur.com/6C71KwP.png" tvg-country="US" tvg-language="English" group-title="United States",KOCT Channel 19 (720p)
+https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
+#EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-name="Kto est kto" tvg-logo="https://i.imgur.com/PmD17UQ.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Kto est kto (576p)
+http://31.148.48.15/Kto_est_kto/index.m3u8
+#EXTINF:-1 tvg-id="Kunskapskanalen.se" tvg-name="Kunskapskanalen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/960px-Kunskapskanalen_2017.svg.png" tvg-country="SE" tvg-language="Swedish" group-title="Sweden",Kunskapskanalen HD (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 tvg-id="LA36.us" tvg-name="LA36" tvg-logo="https://i.imgur.com/JxTzUEq.png" tvg-country="US" tvg-language="English" group-title="United States",LA36 (1080p)
+https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="LeominsterTVEducational.us" tvg-name="Leominster TV Educational" tvg-logo="https://i.imgur.com/Cy94oLl.png" tvg-country="US" tvg-language="English" group-title="United States",Leominster TV Educational (720p)
+https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LiceumTV.hu" tvg-name="Liceum TV" tvg-logo="https://i.imgur.com/Hf122ZD.png" tvg-country="HU" tvg-language="Hungarian" group-title="Hungary",Liceum TV (576p)
+http://193.225.32.62:8890/live.m3u8
+#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" tvg-logo="https://i.imgur.com/y21wFd0.png" tvg-country="HU" tvg-language="Hungarian" group-title="Hungary",M5 (1080p)
+http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" tvg-country="KG" tvg-language="Kirghiz;Turkish" group-title="Kyrgyzstan",Manas TV (1080p)
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" tvg-country="KG" tvg-language="Kirghiz;Turkish" group-title="Kyrgyzstan",Manas TV
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=0
+#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk" tvg-name="Master Chefs Academy TV" tvg-logo="https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png" tvg-country="UK" tvg-language="Arabic;English" group-title="United Kingdom",Master Chefs Academy TV (720p)
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
+#EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-name="MCN6 Arts Channel" tvg-logo="https://i.imgur.com/j6IiysJ.png" tvg-country="US" tvg-language="English" group-title="United States",MCN6 Arts Channel (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1 tvg-id="MCPSSTV.us" tvg-name="MCPSS TV" tvg-logo="https://i.imgur.com/qo5sk1g.png" tvg-country="US" tvg-language="English" group-title="United States",MCPSS TV (720p)
+https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MediBizTV.in" tvg-name="MediBizTV" tvg-logo="https://www.medibiztv.com/assets/logo-E76jcvP9.png" tvg-country="IN" tvg-language="English" group-title="India",MediBizTV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us" tvg-name="Midpen Media Center Channel 28" tvg-logo="https://i.imgur.com/RPJiolQ.png" tvg-country="US" tvg-language="English" group-title="United States",Midpen Media Center Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MonroeCommunityMediaEducationChannel.us" tvg-name="Monroe Community Media Education Channel" tvg-logo="https://i.imgur.com/gS4x0uX.png" tvg-country="US" tvg-language="English" group-title="United States",Monroe Community Media Education Channel
+https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-id="MSTV.us" tvg-name="MSTV" tvg-logo="https://i.imgur.com/x0lJqSp.png" tvg-country="US" tvg-language="English" group-title="United States",MSTV (1080p)
+https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
+#EXTINF:-1 tvg-id="NashuaETV.us" tvg-name="Nashua ETV" tvg-logo="https://i.imgur.com/iv9Vfcb.png" tvg-country="US" tvg-language="English" group-title="United States",Nashua ETV (720p)
+https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NatickEducationChannel.us" tvg-name="Natick Education Channel" tvg-logo="https://i.imgur.com/VKU9qwy.png" tvg-country="US" tvg-language="English" group-title="United States",Natick Education Channel (720p)
+https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NBS.kr" tvg-name="NBS" tvg-logo="https://i.imgur.com/pOSroOE.png" tvg-country="KR" tvg-language="Korean" group-title="South Korea",NBS (720p)
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-name="NCM Educational & Kids Channel" tvg-logo="https://i.imgur.com/3YPvfPn.png" tvg-country="US" tvg-language="English" group-title="United States",NCM Educational & Kids Channel
+https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
+#EXTINF:-1 tvg-id="NRWision.de" tvg-name="NRWision" tvg-logo="https://i.imgur.com/RkF2Kmx.png" tvg-country="DE" tvg-language="German" group-title="Germany",NRWision (1080p)
+https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-name="O Encantador de Caes" tvg-logo="https://i.imgur.com/sQn6vvh.png" tvg-country="US" tvg-language="Portuguese" group-title="United States",O Encantador de Caes
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+#EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh" tvg-name="One TV E-School Cambodia" tvg-logo="https://i.imgur.com/wLzVdeT.png" tvg-country="KH" tvg-language="Khmer" group-title="Cambodia",One TV E-School Cambodia (1080p)
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+#EXTINF:-1 tvg-id="OUN.kr" tvg-name="OUN" tvg-logo="https://i.imgur.com/7s6JtcU.png" tvg-country="KR" tvg-language="Korean" group-title="South Korea",OUN (1080p)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-name="Paighan TV" tvg-logo="https://i.imgur.com/zokC3gO.png" tvg-country="PK" tvg-language="Urdu" group-title="Pakistan",Paighan TV (1080p)
+http://116.90.120.151:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-name="Paighan TV" tvg-logo="https://i.imgur.com/zokC3gO.png" tvg-country="PK" tvg-language="Urdu" group-title="Pakistan",Paighan TV
+https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
+#EXTINF:-1 tvg-id="PalestineEdu.ps" tvg-name="Palestine Edu" tvg-logo="https://i.imgur.com/AwVHXyC.png" tvg-country="PS" tvg-language="Arabic" group-title="Palestine",Palestine Edu (1080p)
+https://pbc.furrera.ps/PalestineEDU/index.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.us" tvg-name="Payam Javan TV" tvg-logo="https://i.imgur.com/GYfsHh9.png" tvg-country="US" tvg-language="Persian" group-title="United States",Payam Javan TV (720p) [Not 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS KETS [Geo-blocked]
+https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS KHET (1080p) [Not 24/7]
+https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS KMOS-TV (1080p) [Geo-blocked]
+https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS KQED (1080p)
+https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS KUON-TV (1080p) [Geo-blocked]
+https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS KVIE (1080p)
+https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS WEDQ (1080p)
+https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS WJXT (720p)
+https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS WNJT (1080p) [Not 24/7]
+https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PBS_America_2022.svg/960px-PBS_America_2022.svg.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",PBS America (576p)
+http://185.19.191.2:8090/PBS/index.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-country="US" tvg-language="English" group-title="United States",PBS Kids (720p)
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-country="US" tvg-language="English" group-title="United States",PBS Kids (720p)
+https://tvsen7.aynascope.net/pbskids/index.m3u8
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-name="PBS Kids Alaska" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-country="US" tvg-language="English" group-title="United States",PBS Kids Alaska (1080p)
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-name="PBS Kids Eastern/Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us" tvg-name="PBS Kids Hawaii" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-country="US" tvg-language="English" group-title="United States",PBS Kids Hawaii (720p)
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+#EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-name="PBS Kids Mountain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS Kids Mountain (1080p)
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-name="PBS Kids Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" tvg-country="US" tvg-language="English" group-title="United States",PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 tvg-id="PersianaMedical.fr" tvg-name="Persiana Medical" tvg-country="FR" tvg-language="Persian" group-title="France",Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaMedical.fr" tvg-name="Persiana Medical" tvg-country="FR" tvg-language="Persian" group-title="France",Persiana Medical
+https://tfnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-name="Platzi TV" tvg-logo="https://i.imgur.com/vEzeqHP.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMinhaObsessaoFavorita.us" tvg-name="Pluto TV Minha Obsessao Favorita" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",Pluto TV Minha Obsessao Favorita
+https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMisterios.us" tvg-name="Pluto TV Misterios" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",Pluto TV Misterios
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMisterios.us" tvg-name="Pluto TV Misterios" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoSVG.svg" tvg-country="US" tvg-language="Spanish" group-title="United States",Pluto TV Misterios LatAm
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNatureza.us" tvg-name="Pluto TV Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",Pluto TV Natureza
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+#EXTINF:-1 tvg-id="PlutoTVPaisagensporStingray.us" tvg-name="Pluto TV Paisagens por Stingray" tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",Pluto TV Paisagens por Stingray (720p)
+https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+#EXTINF:-1 tvg-id="PlutoTVVidaReal.us" tvg-name="Pluto TV Vida Real" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoSVG_1732044921023.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",Pluto TV Vida Real
+https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+#EXTINF:-1 tvg-id="PlutoTVVidaReal.us" tvg-name="Pluto TV Vida Real" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoSVG_1732044921023.svg" tvg-country="US" tvg-language="Spanish" group-title="United States",Pluto TV Vida Real LatAm
+https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
+#EXTINF:-1 tvg-id="ProntosocorroHistoriasDeEmergencia.us" tvg-name="Pronto-socorro: Historias De Emergencia" tvg-logo="https://i.imgur.com/0PkyJ3U.png" tvg-country="US" tvg-language="Portuguese" group-title="United States",Pronto-socorro: Historias De Emergencia
+https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+#EXTINF:-1 tvg-id="PSDTV.us" tvg-name="PSD TV" tvg-logo="https://i.imgur.com/djT0Q8q.png" tvg-country="US" tvg-language="English" group-title="United States",PSD TV (720p)
+https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-id="RChannel.th" tvg-name="R Channel" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/R%20Channel.png" tvg-country="TH" tvg-language="Thai" group-title="Thailand",R Channel
+http://180.180.243.239/streams/3/hls
+#EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo" tvg-name="Radio Universitaria San Andres" tvg-logo="https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",Radio Universitaria San Andres (720p)
+https://edge.enhdtv.com/8054/index.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Rai Scuola (576p) [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTINF:-1 tvg-id="RedApple21.us" tvg-name="Red Apple 21" tvg-logo="https://i.imgur.com/ICcQUCH.png" tvg-country="US" tvg-language="English" group-title="United States",Red Apple 21 (480p) [Not 24/7]
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-name="Rede Minas" tvg-logo="https://i.imgur.com/MtQWAHv.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede Minas (1080p) [Not 24/7]
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-name="Rede Minas" tvg-logo="https://i.imgur.com/MtQWAHv.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede Minas (720p)
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RinjaniTV.id" tvg-name="Rinjani TV" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" tvg-country="ID" tvg-language="Indonesian" group-title="Indonesia",Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
+#EXTINF:-1 tvg-id="RyongnamsanTelevision.kp" tvg-name="Ryongnamsan Television" tvg-logo="https://i.imgur.com/1BHJjY4.png" tvg-country="KP" tvg-language="Korean" group-title="North Korea",Ryongnamsan Television (720p) [Not 24/7]
+https://live.koryocdn.org/ryongnamsan/index.m3u8
+#EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-name="Santa Cecilia TV" tvg-logo="https://i.imgur.com/KxYsq1d.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Santa Cecilia TV (1080p)
+https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-name="Santa Cecilia TV" tvg-logo="https://i.imgur.com/KxYsq1d.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Santa Cecilia TV (1080p) [Not 24/7]
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-id="ShamsTV.af" tvg-name="Shams TV" tvg-logo="https://i.imgur.com/Lsy31iZ.jpeg" tvg-country="AF" tvg-language="Dari (Parsi);Pashto" group-title="Afghanistan",Shams TV (1080p)
+https://fflive-darya-educationtv.b-cdn.net/master.m3u8
+#EXTINF:-1 tvg-id="ShikshaTV.in" tvg-name="Shiksha TV" tvg-logo="https://play-lh.googleusercontent.com/1ibQhkMCsnXaI9LOiZH-Iyw8rM8CMVJEZAlbFphWuZApSPIp-eZsjltDlN6rqJzIonQ" tvg-country="IN" tvg-language="Bengali" group-title="India",Shiksha TV (720p)
+http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
+#EXTINF:-1 tvg-id="SMCTVChannel24.us" tvg-name="SMCTV Channel 24" tvg-logo="https://i.imgur.com/4Autljp.png" tvg-country="US" tvg-language="English" group-title="United States",SMCTV Channel 24 (720p)
+https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="StLuciePublicSchools.us" tvg-name="St Lucie Public Schools" tvg-logo="https://i.imgur.com/wnB0fWG.png" tvg-country="US" tvg-language="English" group-title="United States",St Lucie Public Schools
+https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
+#EXTINF:-1 tvg-id="STVETelebasica.hn" tvg-name="STVE Telebasica" tvg-logo="https://i.imgur.com/nUsq67m.png" tvg-country="HN" tvg-language="Spanish" group-title="Honduras",STVE Telebasica (1080p)
+https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleUV.mx" tvg-name="Tele UV" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Tele UV [Not 24/7]
+https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepace3.it" tvg-name="Telepace 3" tvg-logo="https://i.imgur.com/hE4i2ft.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Telepace 3 (1080p)
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" tvg-logo="https://i.imgur.com/jAAPgpV.png" tvg-country="ID" tvg-language="English" group-title="Indonesia",The Indonesia Channel (1080p)
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1 tvg-id="TRTEBA.tr" tvg-name="TRT EBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",TRT EBA (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr" tvg-name="TRT EBA Ilkokul" tvg-logo="https://i.imgur.com/CRBfZi4.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",TRT EBA Ilkokul (720p)
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBALise.tr" tvg-name="TRT EBA Lise" tvg-logo="https://i.imgur.com/vj2L2L2.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",TRT EBA Lise (720p)
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TUTV.us" tvg-name="TUTV" tvg-logo="https://i.imgur.com/At0BPeA.png" tvg-country="US" tvg-language="English" group-title="United States",TUTV (1080p)
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBUAP.mx" tvg-name="TV BUAP" tvg-logo="https://i.imgur.com/hHrIn0r.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",TV BUAP (1080p)
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVCuatro44.mx" tvg-name="TV Cuatro 4.4" tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",TV Cuatro 4.4 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-name="TV Mackenzie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/960px-TV_Mackenzie_logo.svg.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Mackenzie (480p)
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaya.gt" tvg-name="TV Maya" tvg-logo="https://i.imgur.com/BGFa4OO.png" tvg-country="GT" tvg-language="Yucatec Maya" group-title="Guatemala",TV Maya (480p)
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUFG.br" tvg-name="TV UFG" tvg-logo="https://i.imgur.com/Yp3dbJo.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV UFG (720p) [Not 24/7]
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUFOP.br" tvg-name="TV UFOP" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV UFOP (1080p)
+https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 tvg-id="TVUG.mx" tvg-name="TV UG" tvg-logo="https://i.imgur.com/pxkDpTU.jpeg" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",TV UG (1080p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUJAT.mx" tvg-name="TV UJAT" tvg-logo="https://i.imgur.com/4demWOi.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",TV UJAT (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUniversidad.ar" tvg-name="TV Universidad" tvg-logo="https://i.imgur.com/0MXsQ25.png" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-id="TVUsach.cl" tvg-name="TV Usach" tvg-logo="https://i.imgur.com/KDC7IVl.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",TV Usach (720p)
+https://stv4.janus.cl/playlist/stream.m3u8
+#EXTINF:-1 tvg-id="TVERS.br" tvg-name="TVE RS" tvg-logo="https://i.imgur.com/MQ6lJpS.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TVE RS (1080p)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVK2.kh" tvg-name="TVK 2" tvg-logo="https://i.imgur.com/L36ptO2.png" tvg-country="KH" tvg-language="Khmer" group-title="Cambodia",TVK 2 (720p)
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="UAATV.mx" tvg-name="UAA TV" tvg-logo="https://i.imgur.com/brCSiGh.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",UAA TV (1080p)
+https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
+#EXTINF:-1 tvg-id="UACJTV.mx" tvg-name="UACJ-TV" tvg-logo="https://i.imgur.com/a1WaGTQ.jpeg" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",UACJ-TV [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
+#EXTINF:-1 tvg-id="UCTV.us" tvg-name="UCTV" tvg-logo="https://i.imgur.com/ehMz9T5.png" tvg-country="US" tvg-language="English" group-title="United States",UCTV (720p) [Not 24/7]
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="UEBITVOnline.ec" tvg-name="UEBI TV Online" tvg-logo="https://i.imgur.com/Tf0BF2q.jpg" tvg-country="EC" tvg-language="Spanish" group-title="Ecuador",UEBI TV Online (720p) [Not 24/7]
+https://ventaxtv.com:3575/live/uebilive.m3u8
+#EXTINF:-1 tvg-id="UMAGTV.cl" tvg-name="UMAGTV" tvg-logo="https://i.imgur.com/biXepTU.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",UMAGTV (720p)
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",UMSA TVU Internacional (720p)
+https://edge.enhdtv.com/8026/index.m3u8
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" tvg-country="BO" tvg-language="Spanish" http-referrer="https://tvu.umsa.bo/tvu-internacional" group-title="Bolivia",UMSA TVU Internacional (720p)
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",UMSA TVU LP (720p)
+https://edge.enhdtv.com/8190/index.m3u8
+#EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" tvg-country="BO" tvg-language="Spanish" http-referrer="https://tvu.umsa.bo/en-vivo" group-title="Bolivia",UMSA TVU LP (720p)
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="UNIANDESTV.ec" tvg-name="UNIANDES TV" tvg-logo="https://i.imgur.com/1rluyB7.png" tvg-country="EC" tvg-language="Spanish" group-title="Ecuador",UNIANDES TV (720p) [Not 24/7]
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+#EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",Unifranz (720p)
+https://edge.enhdtv.com/8192/index.m3u8
+#EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",Unifranz (720p)
+https://live.enhdtv.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-id="UnisonTV.mx" tvg-name="Unison TV" tvg-logo="https://i.imgur.com/7ixWRId.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Unison TV (1080p) [Not 24/7]
+https://stream.unison.mx/hls/unisontvatem.m3u8
+#EXTINF:-1 tvg-id="UnisulTV.br" tvg-name="Unisul TV" tvg-logo="https://i.imgur.com/N0TvAFz.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Unisul TV (720p)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-name="UniTV Porto Alegre" tvg-logo="https://i.imgur.com/GmA5uuk.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",UniTV Porto Alegre (480p)
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:-1 tvg-id="UTalcaTV.cl" tvg-name="UTalca TV" tvg-logo="https://i.imgur.com/2AK61FQ.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",UTalca TV (1080p)
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="Vive.ve" tvg-name="Vive" tvg-logo="https://i.imgur.com/VEYhkDq.png" tvg-country="VE" tvg-language="Spanish" group-title="Venezuela",Vive (576p)
+http://200.59.191.177:8000/play/a0l6/index.m3u8
+#EXTINF:-1 tvg-id="VyasChannel.in" tvg-name="Vyas Channel" tvg-logo="https://www.yupptv.com/seo_img/UGC_GEC_big.jpg" tvg-country="IN" tvg-language="English" group-title="India",Vyas Channel (576p)
+https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
+#EXTINF:-1 tvg-id="WikiTV.kh" tvg-name="Wiki TV" tvg-logo="https://i.imgur.com/rnV0Ui1.png" tvg-country="KH" tvg-language="Khmer" group-title="Cambodia",Wiki TV (720p)
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-country="ZA" tvg-language="English" group-title="South Africa",WildEarth (1080p)
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-country="ZA" tvg-language="English" group-title="South Africa",WildEarth (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-country="ZA" tvg-language="English" group-title="South Africa",WildEarth (1080p)
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-country="ZA" tvg-language="English" group-title="South Africa",WildEarth (1080p)
+https://wildearth-xumo.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-country="ZA" tvg-language="English" group-title="South Africa",WildEarth (1080p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-country="ZA" tvg-language="English" group-title="South Africa",WildEarth (1080p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-name="World Channel" tvg-logo="https://worldchannel.org/static/images/logo-world-channel.png" tvg-country="US" tvg-language="English" group-title="United States",World Channel (1080p)
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-name="World Channel" tvg-logo="https://worldchannel.org/static/images/logo-world-channel.png" tvg-country="US" tvg-language="English" group-title="United States",World Channel WGTV (1080p)
+https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
+#EXTINF:-1 tvg-id="WPSTV.us" tvg-name="WPS-TV" tvg-logo="https://i.imgur.com/zwzmwse.jpg" tvg-country="US" tvg-language="English" group-title="United States",WPS-TV (360p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
+#EXTINF:-1 tvg-id="XHUNESTDT.mx" tvg-name="XHUNES-TDT" tvg-logo="https://i.imgur.com/LbZkdca.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",XHUNES-TDT (720p)
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 tvg-id="Yaslyk.tm" tvg-name="Yaslyk" tvg-logo="https://i.imgur.com/QVWBNGM.png" tvg-country="TM" tvg-language="Turkmen" group-title="Turkmenistan",Yaslyk (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch002.m3u8
+#EXTINF:-1 tvg-id="Yaslyk.tm" tvg-name="Yaslyk" tvg-logo="https://i.imgur.com/QVWBNGM.png" tvg-country="TM" tvg-language="Turkmen" group-title="Turkmenistan",Yaslyk (406p) [Not 24/7]
+https://alpha.tv.online.tm/legacyhls/ch002.m3u8
+#EXTINF:-1 tvg-id="ZhejiangEducationTechnologyChannel.cn" tvg-name="Zhejiang Education Technology Channel" tvg-logo="https://i.imgur.com/MAa36aQ.png" tvg-country="CN" tvg-language="Chinese" group-title="China",Zhejiang Education Technology Channel
+rtmp://splay-qukan.cztv.com/live/1792059848292249?auth_key=1886667907-3d9b01248b784f0dad521e451a627376-0-810b24f67775043e86a4337d9660392c
+#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Zoom (1080p)
+http://138.121.15.230:9002/ZOOM/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Zoom (1080p)
+http://190.217.66.92:8000/play/a0ej/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Zoom (1080p)
+http://200.122.223.13:55000/play/zoom-banda-ku/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Zoom
+http://181.78.79.131:8000/play/a0sg

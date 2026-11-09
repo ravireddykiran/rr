@@ -1,0 +1,303 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" tvg-name="30A Darcizzle Offshore" tvg-logo="https://i.imgur.com/Q4l2uao.png" tvg-country="US" tvg-language="English" group-title="United States",30A Darcizzle Offshore (720p)
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 tvg-id="AgriculturaTV.cl" tvg-name="Agricultura TV" tvg-logo="https://i.imgur.com/sxrYc3Q.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",Agricultura TV (1080p)
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" tvg-logo="https://i.imgur.com/1uLGa3w.png" tvg-country="PE" tvg-language="Spanish" group-title="Peru",Agro TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" tvg-logo="https://i.imgur.com/1uLGa3w.png" tvg-country="PE" tvg-language="Spanish" group-title="Peru",Agro TV (720p)
+https://play.agenciastreaming.com:8081/agrotv/index.m3u8
+#EXTINF:-1 tvg-id="AgroTV.bg" tvg-name="Agro TV" tvg-logo="https://i.imgur.com/tPMNDtD.png" tvg-country="BG" tvg-language="Bulgarian" group-title="Bulgaria",Agro TV (480p)
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV" tvg-logo="https://i.imgur.com/S7X1PiC.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",Agro TV (360p) [Not 24/7]
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-logo="https://i.imgur.com/aNkP7Zd.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroBrasil TV (720p) [Not 24/7]
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-logo="https://i.imgur.com/aNkP7Zd.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroBrasil TV (720p) [Not 24/7]
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal (720p)
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal (720p)
+http://168.197.104.22/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal (720p)
+http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal (720p)
+http://186.219.52.187/agro_canal/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal
+https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-name="Agrotendencia TV" tvg-logo="https://i.imgur.com/frd60hR.png" tvg-country="CR" tvg-language="Spanish" group-title="Costa Rica",Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-name="AKC TV" tvg-logo="https://i.imgur.com/XRTfoSp.png" tvg-country="US" tvg-language="English" group-title="United States",AKC TV (1080p)
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-name="AKC TV" tvg-logo="https://i.imgur.com/XRTfoSp.png" tvg-country="US" tvg-language="English" group-title="United States",AKC TV (1080p)
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-name="AKC TV Meet the Breeds" tvg-logo="https://i.imgur.com/66avgdk.png" tvg-country="US" tvg-language="English" group-title="United States",AKC TV Meet the Breeds (1080p)
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-name="AKC TV Puppies" tvg-logo="https://i.imgur.com/2nzRS60.png" tvg-country="US" tvg-language="English" group-title="United States",AKC TV Puppies (1080p)
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="ANIMALKINGDOM.de" tvg-name="ANIMAL KINGDOM" tvg-country="DE" tvg-language="German;English" group-title="Germany",ANIMAL KINGDOM (720p)
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+#EXTINF:-1 tvg-id="ARDBTV.kh" tvg-name="ARDB TV" tvg-logo="https://i.imgur.com/yOncWla.png" tvg-country="KH" tvg-language="Khmer" group-title="Cambodia",ARDB TV (1080p) [Not 24/7]
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+#EXTINF:-1 tvg-id="CacciaePesca.it" tvg-name="Caccia e Pesca" tvg-logo="https://i.imgur.com/uZr0cXB.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Caccia e Pesca (720p)
+http://102.129.186.182:81/cacciapesca/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-name="Canal do Criador" tvg-logo="https://i.imgur.com/k29So6X.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal do Criador (1080p)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Rural (720p)
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Rural (720p)
+http://186.219.52.187/canal_rural/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-name="CCTV-17" tvg-logo="https://i.imgur.com/jSQURxS.png" tvg-country="CN" tvg-language="Chinese" group-title="China",CCTV-17 HD (1080p)
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" tvg-logo="https://i.imgur.com/gy7AEfO.png" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Chacra TV
+https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-name="Ciudad Magica" tvg-logo="https://i.imgur.com/HJkSz2U.png" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Ciudad Magica (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+#EXTINF:-1 tvg-id="CottageLife.ca" tvg-name="Cottage Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cottage_Life_Logo.svg/960px-Cottage_Life_Logo.svg.png" tvg-country="CA" tvg-language="English" group-title="Canada",Cottage Life (720p)
+http://185.246.209.113/CottageLife/index.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KISAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",DD Kisan (1080p)
+https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KISAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",DD Kisan (720p)
+https://cdn.pishow.tv/ott/live/9/master.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KISAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",DD Kisan (576p)
+https://cdn.pishow.tv/ott/live/223/master.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KISAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",DD Kisan (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/148/148_0.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KISAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",DD Kisan (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+#EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-name="Dikaya okhota" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Dikaya okhota HD (1080p)
+http://stream.mcquack.net/274/index.m3u8
+#EXTINF:-1 tvg-id="Dikayarybalka.ru" tvg-name="Dikaya rybalka" tvg-logo="https://i.imgur.com/e3BFVgt.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Dikaya rybalka HD (1080p)
+http://stream.mcquack.net/275/index.m3u8
+#EXTINF:-1 tvg-id="Dikij.ru" tvg-name="Dikij" tvg-logo="https://i.imgur.com/VDXDiPC.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Dikij (576p)
+https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DuckHuntingTV.us" tvg-name="Duck Hunting TV" tvg-logo="https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png" tvg-country="US" tvg-language="English" group-title="United States",Duck Hunting TV (1080p)
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+#EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-name="El Mundo del Campo" tvg-logo="https://i.imgur.com/xG2apUG.jpeg" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",El Mundo del Campo (1080p)
+http://181.78.21.38:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-name="El Mundo del Campo" tvg-logo="https://i.imgur.com/xG2apUG.jpeg" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",El Mundo del Campo (720p)
+https://movil.ejeserver.com/live/elmundodelcampo.m3u8
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Fish TV (1080p)
+http://190.128.214.97:64333/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Fish TV (720p)
+http://45.162.64.114/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Fish TV (720p)
+http://168.197.104.22/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Fish TV (720p)
+http://170.83.16.50/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse & Country TV" tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse & Country TV" tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Horse & Country TV (720p)
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse & Country TV" tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Horse & Country TV (720p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse & Country TV" tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Horse & Country TV (720p)
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" tvg-logo="https://i.imgur.com/a40chFI.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",InTrouble (1080p) [Geo-blocked]
+https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" tvg-logo="https://i.imgur.com/a40chFI.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",InTrouble (1080p) [Geo-blocked]
+https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" tvg-logo="https://i.imgur.com/a40chFI.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",InTrouble (1080p)
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/qrn6tUO.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Italian Fishing TV (1080p)
+https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Chinese;Turkish;Bulgarian;Czech;Hungarian;Russian;Spanish" group-title="Canada",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Chinese;Turkish;Bulgarian;Czech;Hungarian;Russian;Spanish" group-title="Canada",Love Nature (1080p) [Geo-blocked]
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Chinese;Turkish;Bulgarian;Czech;Hungarian;Russian;Spanish" group-title="Canada",Love Nature (720p) [Geo-blocked]
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Chinese;Turkish;Bulgarian;Czech;Hungarian;Russian;Spanish" group-title="Canada",Love Nature (720p)
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English" group-title="Canada",Love Nature 4K (2160p) [Geo-blocked]
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="Czech" group-title="Canada",Love Nature 4K Czechia
+http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="Czech" group-title="Canada",Love Nature Czechia
+http://88.212.15.50/live/test_lovenature/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Chinese;Turkish;Bulgarian;Czech;Hungarian;Russian;Spanish" group-title="Canada",Love Nature HD (1080p)
+https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" tvg-country="US" tvg-language="English" group-title="United States",Monster Jam (720p)
+https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" tvg-country="US" tvg-language="English" group-title="United States",Monster Jam (720p)
+https://jmp2.uk/plu-65c33fd4dc10a40008f26af8.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" tvg-country="US" tvg-language="English" group-title="United States",Monster Jam (720p)
+https://jmp2.uk/plu-65c340383a116800078c8454.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" tvg-country="US" tvg-language="English" group-title="United States",Monster Jam (720p)
+https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" tvg-country="US" tvg-language="English" group-title="United States",Monster Jam (720p)
+https://jmp2.uk/plu-65c340983ba51e00083988e8.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" tvg-country="US" tvg-language="English" group-title="United States",Monster Jam
+https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Moya Planeta (720p)
+http://31.148.48.15/Moya_Planeta_HD/index.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Moya Planeta (576p)
+http://stream.mcquack.net/124/index.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Moya Planeta (576p)
+https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NashaTema.ru" tvg-name="Nasha Tema" tvg-logo="https://i.imgur.com/67ZVDKW.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Nasha Tema (1080p)
+https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" tvg-logo="https://i.imgur.com/Bj1jI7F.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Ohotnik i rybolov (576i)
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" tvg-logo="https://i.imgur.com/Bj1jI7F.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Ohotnik i rybolov HD (1080p)
+http://stream.mcquack.net/194/index.m3u8
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-country="RU" tvg-language="Russian;English" group-title="Russia",Okhota i rybalka (576p)
+http://stream.mcquack.net/155/index.m3u8
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-country="RU" tvg-language="Russian;English" group-title="Russia",Okhota i rybalka
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-name="Outdoor America" tvg-logo="https://i.imgur.com/UKfimFD.png" tvg-country="US" tvg-language="English" group-title="United States",Outdoor America (1080p)
+https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-name="Outdoor America" tvg-logo="https://i.imgur.com/UKfimFD.png" tvg-country="US" tvg-language="English" group-title="United States",Outdoor America (1080p)
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-country="US" tvg-language="English" group-title="United States",Outdoor Channel (1080p)
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-country="US" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="United States",Outdoor Channel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-country="US" tvg-language="English" group-title="United States",Outdoor Channel (1080p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-country="US" tvg-language="English" group-title="United States",Outdoor Channel HD (720p)
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-country="US" tvg-language="English;Vietnamese" group-title="United States",Outdoor Channel Vietnam (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=216
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-name="Outside TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988d3bac4421ebc533616/images/logo_20231219_220634_59.png" tvg-country="US" tvg-language="English" group-title="United States",Outside TV (1080p)
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-name="Outside TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988d3bac4421ebc533616/images/logo_20231219_220634_59.png" tvg-country="US" tvg-language="English" group-title="United States",Outside TV (1080p) [Geo-blocked]
+https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-name="Outside TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988d3bac4421ebc533616/images/logo_20231219_220634_59.png" tvg-country="US" tvg-language="English" group-title="United States",Outside TV (1080p)
+https://desdobebr2wri.cloudfront.net/Outside.m3u8
+#EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-name="Peer TV Alto Adige" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Peer TV Alto Adige (1280p)
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it" tvg-name="Peer TV South Tyrol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" tvg-country="IT" tvg-language="English" group-title="Italy",Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-name="Peer TV Sudtirol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-country="IT" tvg-language="German" group-title="Italy",Peer TV Sudtirol (1080p)
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-id="PescaeCaccia.it" tvg-name="Pesca e Caccia" tvg-logo="https://i.imgur.com/nW5dJBl.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Pesca e Caccia (720p)
+http://102.129.186.182:81/pescacaccia/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAdventure.us" tvg-name="Pluto TV Adventure" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Pluto TV Adventure
+https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAdventure.us" tvg-name="Pluto TV Adventure" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Pluto TV Adventure CA
+https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFishing.se" tvg-name="Pluto TV Fishing" tvg-logo="https://images.pluto.tv/channels/619e1874e0d3a7000729a036/colorLogoSVG.svg" tvg-country="SE" tvg-language="Danish" group-title="Sweden",Pluto TV Fishing
+https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us" tvg-name="Pluto TV Naturaleza" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoSVG.svg" tvg-country="US" tvg-language="Spanish" group-title="United States",Pluto TV Naturaleza
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Poehali!" tvg-logo="https://i.imgur.com/ZNCpbII.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Poehali! (1080p)
+http://31.148.48.15/Poehali/index.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Poehali!" tvg-logo="https://i.imgur.com/ZNCpbII.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Poehali! (576p)
+http://88.212.15.50/live/test_poehali/playlist.m3u8
+#EXTINF:-1 tvg-id="ProductivaTV.py" tvg-name="Productiva TV" tvg-logo="https://i.imgur.com/KXHK7UP.png" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",Productiva TV (1080p)
+http://190.128.214.97:64333/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="ProductivaTV.py" tvg-name="Productiva TV" tvg-logo="https://i.imgur.com/KXHK7UP.png" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",Productiva TV (720p)
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-country="US" tvg-language="English" group-title="United States",PursuitUP (1080p)
+https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-country="US" tvg-language="English" group-title="United States",PursuitUP (1080p)
+https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-country="US" tvg-language="English" group-title="United States",PursuitUP (1080p)
+https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-country="US" tvg-language="English" group-title="United States",PursuitUP (720p)
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-country="US" tvg-language="English" group-title="United States",PursuitUP (720p)
+https://a-cdn.klowdtv.com/live2/pursuitup/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-country="US" tvg-language="English" group-title="United States",PursuitUP (720p) [Geo-blocked]
+https://pursuitup-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="English" group-title="Austria",Red Bull TV (1080p)
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="English" group-title="Austria",Red Bull TV (1080p)
+https://76b17ec8b2424026b8e1523836cc90e7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-641-WORBEUENFAST-WHALETVPLUS/641/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="English" group-title="Austria",Red Bull TV AU (1080p)
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="Portuguese" group-title="Austria",Red Bull TV BR (1080p)
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="Portuguese" group-title="Austria",Red Bull TV BR (720p)
+https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="German" group-title="Austria",Red Bull TV DE (1080p)
+https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="German" group-title="Austria",Red Bull TV DE (1080p)
+https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="German" group-title="Austria",Red Bull TV DE (720p)
+https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="Spanish" group-title="Austria",Red Bull TV ES (1080p)
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="Spanish" group-title="Austria",Red Bull TV ES (720p)
+https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="English;German" group-title="Austria",Red Bull TV SD (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="English;German" group-title="Austria",Red Bull TV SD (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="English;German" group-title="Austria",Red Bull TV SD (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="English" group-title="Austria",Red Bull TV UK (1080p)
+https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="English" group-title="Austria",Red Bull TV UK (1080p)
+https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="English" group-title="Austria",Red Bull TV UK (1080p)
+https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="English" group-title="Austria",Red Bull TV US (1080p)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="REVNAction.us" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" tvg-country="US" tvg-language="English" group-title="United States",REV'N Action (720p) [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
+#EXTINF:-1 tvg-id="REVNAction.us" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" tvg-country="US" tvg-language="English" group-title="United States",REV'N Action (720p) [Geo-blocked]
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+#EXTINF:-1 tvg-id="Rybalka.ua" tvg-name="Rybalka" tvg-logo="https://i.imgur.com/NafW0xT.png" tvg-country="UA" tvg-language="Ukrainian" group-title="Ukraine",Rybalka (1080p)
+https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rybolov.ru" tvg-name="Rybolov" tvg-logo="https://i.imgur.com/wJMTcFS.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Rybolov (576p)
+http://stream.mcquack.net/264/index.m3u8
+#EXTINF:-1 tvg-id="SpikeOutdoors.us" tvg-name="Spike Outdoors" tvg-logo="https://i.imgur.com/cdCD2A2.png" tvg-country="US" tvg-language="English" group-title="United States",Spike Outdoors
+https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAmerican.at" tvg-name="Swamiji TV American" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-country="AT" tvg-language="English" group-title="Austria",Swamiji TV American (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAustralian.at" tvg-name="Swamiji TV Australian" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-country="AT" tvg-language="English" group-title="Austria",Swamiji TV Australian (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVEuropean.at" tvg-name="Swamiji TV European" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-country="AT" tvg-language="English" group-title="Austria",Swamiji TV European (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Terra Viva (720p)
+http://45.162.64.114/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Terra Viva (720p)
+http://45.177.114.115/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Terra Viva (720p)
+http://168.197.104.22/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Terra Viva (720p)
+http://170.83.16.50/TERRA_VIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Terra Viva (720p)
+http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Terra Viva (720p)
+https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-country="HU" tvg-language="Czech;Romanian;Hungarian;Bulgarian" group-title="Hungary",The Fishing & Hunting Channel
+http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-country="HU" tvg-language="Czech;Romanian;Hungarian;Bulgarian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Hungary",The Fishing & Hunting Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/fishing_hun/index.m3u8
+#EXTINF:-1 tvg-id="Trofei.ua" tvg-name="Trofei" tvg-logo="https://i.imgur.com/VDt4mKB.png" tvg-country="UA" tvg-language="Ukrainian;Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",Trofei (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/357/index.m3u8
+#EXTINF:-1 tvg-id="TVAgro.co" tvg-name="TVAgro" tvg-logo="https://i.imgur.com/9nzY7Ch.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",TVAgro (1080p)
+http://190.61.47.54:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="TVAgro.co" tvg-name="TVAgro" tvg-logo="https://i.imgur.com/9nzY7Ch.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",TVAgro (720p)
+http://168.228.44.241:9999/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="UMCTV.co" tvg-name="UMC TV" tvg-logo="https://i.imgur.com/YQUK4wO.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",UMC TV (720p)
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
+#EXTINF:-1 tvg-id="WaterBear.ch" tvg-name="WaterBear" tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" tvg-country="CH" tvg-language="English" group-title="Switzerland",WaterBear (1080p)
+https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-country="US" tvg-language="English" group-title="United States",Waypoint TV (1080p)
+https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-country="US" tvg-language="English" group-title="United States",Waypoint TV (1080p)
+https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-country="US" tvg-language="English" group-title="United States",Waypoint TV (1080p)
+https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-country="US" tvg-language="English" group-title="United States",Waypoint TV (720p)
+https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-country="ZA" tvg-language="English" group-title="South Africa",WildEarth (1080p)
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-country="ZA" tvg-language="English" group-title="South Africa",WildEarth (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-country="ZA" tvg-language="English" group-title="South Africa",WildEarth (1080p)
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-country="ZA" tvg-language="English" group-title="South Africa",WildEarth (1080p)
+https://wildearth-xumo.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-country="ZA" tvg-language="English" group-title="South Africa",WildEarth (1080p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-country="ZA" tvg-language="English" group-title="South Africa",WildEarth (1080p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8

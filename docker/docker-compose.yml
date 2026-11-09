@@ -1,0 +1,43 @@
+# Self-hosted "TV box" in two containers, all free software:
+#
+#   web      – serves the web player + playlists on http://<host>:8080
+#   jellyfin – a full media server with a Live TV guide; point it at the
+#              playlist and EPG below and every Jellyfin app (Android TV,
+#              Fire TV, Roku, iOS, Samsung, LG, web...) becomes an IPTV client.
+#
+#   cd docker && docker compose up -d
+#
+# Then open http://<host>:8080  (player)  and  http://<host>:8096  (Jellyfin).
+# Jellyfin Live TV setup: Dashboard → Live TV → Tuner Devices → "+" →
+#   Tuner type: M3U Tuner, File or URL: http://web/playlists/all.m3u
+#   (or any file from playlists/, e.g. http://web/playlists/featured/english-news.m3u)
+# Then TV Guide Data Providers → "+" → XMLTV →
+#   File or URL: https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz  (pick your country)
+services:
+  web:
+    image: nginx:1.27-alpine
+    container_name: freetv-web
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - ../player:/usr/share/nginx/html:ro
+      - ../playlists:/usr/share/nginx/html/playlists:ro
+
+  jellyfin:
+    image: jellyfin/jellyfin:10.10.7
+    container_name: freetv-jellyfin
+    restart: unless-stopped
+    ports:
+      - "8096:8096"
+    environment:
+      - TZ=${TZ:-UTC}
+    volumes:
+      - jellyfin-config:/config
+      - jellyfin-cache:/cache
+      - ../playlists:/playlists:ro
+
+volumes:
+  jellyfin-config:
+  jellyfin-cache:

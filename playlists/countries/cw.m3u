@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BonceTV.cw" tvg-name="Bonce TV" tvg-logo="https://i.imgur.com/7cVkllH.png" tvg-country="CW" tvg-language="Dutch;Papiamento" group-title="Entertainment",Bonce TV (480p) [Not 24/7]
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+#EXTINF:-1 tvg-id="NosPais.cw" tvg-name="Nos Pais" tvg-logo="https://i.imgur.com/ZUob2uZ.png" tvg-country="CW" tvg-language="Papiamento;Dutch;English" group-title="Entertainment",Nos Pais (720p) [Not 24/7]
+https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDirect13.cw" tvg-name="TV Direct 13" tvg-logo="https://i.imgur.com/T2IbQqv.png" tvg-country="CW" tvg-language="Dutch;Papiamento" group-title="General",TV Direct 13 (480p) [Not 24/7]
+https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="VAMTV.cw" tvg-name="VAM TV" tvg-logo="https://i.imgur.com/CD1PffA.png" tvg-country="CW" tvg-language="Dutch;Papiamento;English" group-title="Music",VAM TV (720p)
+https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8

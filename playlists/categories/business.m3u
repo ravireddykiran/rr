@@ -1,0 +1,275 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" tvg-logo="https://i.imgur.com/bSXKdK5.png" tvg-country="UA" tvg-language="Russian;Ukrainian" group-title="Ukraine",100% NEWS (576p)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-id="30AInvestmentPitch.us" tvg-name="30A Investment Pitch" tvg-logo="https://i.imgur.com/CKCtZo7.png" tvg-country="US" tvg-language="English" group-title="United States",30A Investment Pitch (720p)
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+#EXTINF:-1 tvg-id="30AInvestmentPitch.us" tvg-name="30A Investment Pitch" tvg-logo="https://i.imgur.com/CKCtZo7.png" tvg-country="US" tvg-language="English" group-title="United States",30A Investment Pitch (720p)
+https://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 tvg-id="5DiasTV.py" tvg-name="5Dias TV" tvg-logo="https://i.imgur.com/AX25tmv.png" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",5Dias TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae" tvg-name="Al Arabiya Business" tvg-logo="https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png" tvg-country="AE" tvg-language="Arabic" group-title="United Arab Emirates",Al Arabiya Business (1080p)
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlephBusiness.ro" tvg-name="Aleph Business" tvg-logo="https://i.imgur.com/IqvZBeo.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",Aleph Business (1280p)
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Ameritrade.us" tvg-name="Ameritrade" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" tvg-country="US" tvg-language="English" group-title="United States",Ameritrade (1080p) [Not 24/7]
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="apartTV.lu" tvg-name="apart TV" tvg-logo="https://i.imgur.com/IBcMIcZ.png" tvg-country="LU" tvg-language="Letzeburgesch" group-title="Luxembourg",apart TV (1080p)
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-country="SA" tvg-language="Arabic" group-title="Saudi Arabia",Asharq News (1080p)
+https://live-news.asharq.com/asharq.m3u8
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-country="SA" tvg-language="Arabic" group-title="Saudi Arabia",Asharq News (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-country="SA" tvg-language="Arabic" group-title="Saudi Arabia",Asharq News (1080p)
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-country="SA" tvg-language="Arabic" group-title="Saudi Arabia",Asharq News (1080p)
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AsharqRadio.sa" tvg-name="Asharq Radio" tvg-logo="https://i.imgur.com/M6K8cD3.jpeg" tvg-country="SA" tvg-language="Arabic" group-title="Saudi Arabia",Asharq Radio (1080p)
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+#EXTINF:-1 tvg-id="AtamekenBusiness.kz" tvg-name="Atameken Business" tvg-logo="https://i.imgur.com/CfRvm8i.png" tvg-country="KZ" tvg-language="Russian" group-title="Kazakhstan",Atameken Business (576p)
+https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="AusbizTV.au" tvg-name="Ausbiz TV" tvg-logo="https://i.imgur.com/8vGGdB0.png" tvg-country="AU" tvg-language="English" group-title="Australia",Ausbiz TV (720p) [Not 24/7]
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-logo="https://i.imgur.com/psqIHn4.png" tvg-country="FR" tvg-language="French" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France",BFM Business (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-logo="https://i.imgur.com/psqIHn4.png" tvg-country="FR" tvg-language="French" group-title="France",BFM Business (576p)
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",Bloomberg HT (720p)
+https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",Bloomberg HT (720p) [Not 24/7]
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",Bloomberg HT (720p)
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",Bloomberg HT
+http://193.123.61.120:3000/kanal/bloomberght
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" group-title="United States",Bloomberg Originals (1080p)
+https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg Originals (1080p)
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg Originals (1080p)
+https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg Originals (1080p)
+https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg Originals (1080p)
+https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg Originals SD (1080p)
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" http-referrer="https://www.bloomberg.com/originals" group-title="United States",Bloomberg Originals SD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+#EXTVLCOPT:http-referrer=https://www.bloomberg.com/originals
+https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" group-title="United States",Bloomberg TV (1080p)
+https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV (1080p)
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV (720p)
+https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV (720p)
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV (576p)
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV + (2160p)
+https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV + (2160p)
+https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV + (2160p)
+https://d2d98ykcmmhgd4.cloudfront.net/v1/bloomberg_bloombergtv_2/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV + (1080p)
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV + (720p)
+https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV + (720p)
+https://jmp2.uk/plu-61de991729cd4a00079f812b.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="United States",Bloomberg TV + (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV + (720p)
+https://jmp2.uk/plu-61559552dd585f0007321eca.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV + (720p)
+https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV +
+https://jmp2.uk/plu-61de8d4b8acf6c0007f1c2f3.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV +
+https://jmp2.uk/plu-61de8fa251cca800076dde41.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV Australia (270p)
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV Live Event (720p)
+https://bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg TV Politics Live Event (720p)
+https://bloomberg.com/media-manifest/streams/politics.m3u8
+#EXTINF:-1 tvg-id="BloombergTVBulgaria.bg" tvg-name="Bloomberg TV Bulgaria" tvg-logo="https://i.imgur.com/cHwOVqk.png" tvg-country="BG" tvg-language="Bulgarian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Bloomberg TV Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04m
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-name="Bloomberg TV Mongolia" tvg-logo="https://www.mongolsat.mn/assets/img/channel/44.png" tvg-country="MN" tvg-language="Mongolian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Mongolia",Bloomberg TV Mongolia (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-name="Bloomberg TV Mongolia" tvg-logo="https://www.mongolsat.mn/assets/img/channel/44.png" tvg-country="MN" tvg-language="Mongolian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Mongolia",Bloomberg TV Mongolia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
+#EXTINF:-1 tvg-id="BMGTV.ge" tvg-name="BMG TV" tvg-logo="https://i.imgur.com/vGLkTPA.png" tvg-country="GE" tvg-language="Georgian" group-title="Georgia",BMG TV
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+#EXTINF:-1 tvg-id="BNNBloomberg.ca" tvg-name="BNN Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png" tvg-country="CA" tvg-language="English" group-title="Canada",BNN Bloomberg
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+#EXTINF:-1 tvg-id="BTTV.in" tvg-name="BT TV" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/best-bank-new.png" tvg-country="IN" tvg-language="English" group-title="India",BT TV (720p)
+https://feeds.intoday.in/bttv/itgd.m3u8
+#EXTINF:-1 tvg-id="BusinessRockstars.us" tvg-name="Business Rockstars" tvg-logo="https://i.imgur.com/vfAMWLJ.png" tvg-country="US" tvg-language="English" group-title="United States",Business Rockstars (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2220
+#EXTINF:-1 tvg-id="CafeTradeTV.ir" tvg-name="Cafe Trade TV" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png" tvg-country="IR" tvg-language="Persian" group-title="Iran",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CanalPro.py" tvg-name="Canal Pro" tvg-logo="https://i.imgur.com/h7qelDq.png" tvg-country="PY" tvg-language="Spanish" http-referrer="https://www.canalpro.com.py/en-vivo" group-title="Paraguay",Canal Pro
+#EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
+https://www.desde-paraguay.com/pro.m3u8
+#EXTINF:-1 tvg-id="CanalZ.be" tvg-name="Canal Z" tvg-logo="https://i.imgur.com/qtiGLzZ.png" tvg-country="BE" tvg-language="French" group-title="Belgium",Canal Z (1080p)
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV-2" tvg-logo="https://i.imgur.com/ILamhwU.png" tvg-country="CN" tvg-language="Chinese" group-title="China",CCTV-2 (720p)
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" tvg-logo="https://i.imgur.com/qBmomnF.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",CGTN Global Biz (1080p)
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" tvg-logo="https://i.imgur.com/qBmomnF.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",CGTN Global Biz (1080p)
+https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="ChampionTV.ci" tvg-name="Champion TV" tvg-logo="https://i.imgur.com/WjHSrHN.png" tvg-country="CI" tvg-language="French" group-title="Ivory Coast",Champion TV
+https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
+#EXTINF:-1 tvg-id="ClassCNBC.it" tvg-name="Class CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Class_CNBC_2026.svg/960px-Class_CNBC_2026.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Class CNBC (1080p)
+https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
+#EXTINF:-1 tvg-id="ClassCNBC.it" tvg-name="Class CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Class_CNBC_2026.svg/960px-Class_CNBC_2026.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Class CNBC (1080p) [Geo-blocked]
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" tvg-country="US" tvg-language="English" group-title="United States",CNBC (720p) [Geo-blocked]
+http://41.205.93.154/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-name="CNBC Arabiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" tvg-country="AE" tvg-language="Arabic" group-title="United Arab Emirates",CNBC Arabiya (1080p)
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-name="CNBC Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" tvg-country="SG" tvg-language="English" group-title="Singapore",CNBC Asia HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
+#EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-name="CNBC Awaaz" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-new-logo/cnbc-awaaz-livetv.svg" tvg-country="IN" tvg-language="Hindi" group-title="India",CNBC Awaaz (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="CNBCBajar.in" tvg-name="CNBC Bajar" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-new-logo/cnbc-gujrati-livetv.svg" tvg-country="IN" tvg-language="Gujarati" group-title="India",CNBC Bajar (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png" tvg-country="ID" tvg-language="Indonesian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Indonesia",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="CNBCMongolia.mn" tvg-name="CNBC Mongolia" tvg-logo="https://i.imgur.com/Ak6JAkX.png" tvg-country="MN" tvg-language="English;Mongolian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Mongolia",CNBC Mongolia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18.in" tvg-name="CNBC TV18" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-new-logo/cnbc-new-livetv.svg" tvg-country="IN" tvg-language="English" group-title="India",CNBC TV18 (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in" tvg-name="CNBC TV18 Prime HD" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-new-logo/cnbc-prime-livetv.svg" tvg-country="IN" tvg-language="English" group-title="India",CNBC TV18 Prime HD (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-name="CNBC UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",CNBC UK (1080p) [Geo-blocked]
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCUK.uk" tvg-name="CNBC UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",CNBC UK (1080p)
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CNBC-e_2025.svg/960px-CNBC-e_2025.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-id="DeFianceMedia.pr" tvg-name="DeFiance Media" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698943bac4421ebc533695/images/logo_20231219_193005_68.png" tvg-country="PR" tvg-language="English" group-title="Puerto Rico",DeFiance Media (1080p)
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EkhonTV.bd" tvg-name="Ekhon TV" tvg-logo="https://i.imgur.com/tRrDh6z.png" tvg-country="BD" tvg-language="Bengali" group-title="Bangladesh",Ekhon TV (1080p)
+https://tplay.live/out/bangladesh/ekhontv.index.m3u8
+#EXTINF:-1 tvg-id="EntrepreneurTV.us" tvg-name="EntrepreneurTV" tvg-logo="https://i.imgur.com/isRfHYZ.png" tvg-country="US" tvg-language="English" group-title="United States",EntrepreneurTV (1080p) [Geo-blocked]
+https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EntrepreneurTV.us" tvg-name="EntrepreneurTV" tvg-logo="https://i.imgur.com/isRfHYZ.png" tvg-country="US" tvg-language="English" group-title="United States",EntrepreneurTV (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2506
+#EXTINF:-1 tvg-id="EntrepreneurTV.us" tvg-name="EntrepreneurTV" tvg-logo="https://i.imgur.com/isRfHYZ.png" tvg-country="US" tvg-language="English" group-title="United States",EntrepreneurTV (720p)
+https://a-cdn.klowdtv.com/live3/entrepreneurtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="ETNow.in" tvg-name="ET Now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3d39f3b175376a61db/images/LOGO_HD/LOGO_HD_V0Qv9pfm6_ETNow1_1.png" tvg-country="IN" tvg-language="English" http-referrer="https://www.timesnownews.com/" group-title="India",ET Now (720p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.timesnownews.com/
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
+#EXTINF:-1 tvg-id="ETNowSwadesh.in" tvg-name="ET Now Swadesh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4639f3b175376a61e1/images/LOGO_HD/LOGO_HD_X3wkpp-9M_ET-swadesh1_1.png" tvg-country="IN" tvg-language="English" group-title="India",ET Now Swadesh (1080p) [Geo-blocked]
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox Business Network (576p)
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox Business Network (480p)
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" tvg-country="US" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="United States",Fox Business Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/125/index.m3u8
+#EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" tvg-name="Hong Kong International Business Channel" tvg-logo="https://i.imgur.com/jaIdkbz.png" tvg-country="HK" tvg-language="Chinese;English" group-title="Hong Kong",Hong Kong International Business Channel (1080p) [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" tvg-name="Hong Kong International Business Channel" tvg-logo="https://i.imgur.com/jaIdkbz.png" tvg-country="HK" tvg-language="Chinese;English" group-title="Hong Kong",Hong Kong International Business Channel [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
+#EXTINF:-1 tvg-id="JiangxiEconomyLifeChannel.cn" tvg-name="Jiangxi Economy & Life Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv3.jpg" tvg-country="CN" tvg-language="Chinese" group-title="China",Jiangxi Economy & Life Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
+#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="https://i.imgur.com/UzcZNe3.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",JOB TV (1080p)
+https://jobtvserver.eu/hls/stream.m3u8
+#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="https://i.imgur.com/UzcZNe3.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",JOB TV (1080i)
+https://jobtvserver.eu/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-id="KanaalZ.be" tvg-name="Kanaal Z" tvg-logo="https://i.imgur.com/YzgYJxM.png" tvg-country="BE" tvg-language="Dutch" group-title="Belgium",Kanaal Z (1080p)
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
+#EXTINF:-1 tvg-id="LaboralTV.br" tvg-name="Laboral TV" tvg-logo="https://tv.laboralsst.com.br/logo.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Laboral TV (360p)
+https://tv.laboralsst.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" tvg-name="Le Nouveau Manager TV" tvg-logo="https://i.imgur.com/pEoOtEf.jpeg" tvg-country="BJ" tvg-language="French" group-title="Benin",Le Nouveau Manager TV
+https://lnmlive.com/live/lnmtv.m3u8
+#EXTINF:-1 tvg-id="MNTV.mz" tvg-name="MNTV" tvg-logo="https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png" tvg-country="MZ" tvg-language="Portuguese" group-title="Mozambique",MNTV
+https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.in" tvg-name="NDTV Profit" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png" tvg-country="IN" group-title="India",NDTV Profit (1080p)
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.in" tvg-name="NDTV Profit" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English" group-title="India",NDTV Profit (1080p)
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.in" tvg-name="NDTV Profit" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English" group-title="India",NDTV Profit (576p)
+https://cdn.pishow.tv/ott/live/1287/master.m3u8
+#EXTINF:-1 tvg-id="NegociosTV.es" tvg-name="Negocios TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669895cbac4421ebc5336b4/images/logo_20240130_181524_70.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Negocios TV (1080p)
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="NewsCapitalMarket.in" tvg-name="News Capital Market" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapitalMarket.png" tvg-country="IN" tvg-language="Gujarati" group-title="India",News Capital Market (1080p)
+https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
+#EXTINF:-1 tvg-id="NWEconomie.tg" tvg-name="NW Economie" tvg-logo="https://i.imgur.com/OmlFQa8.png" tvg-country="TG" tvg-language="French" group-title="Togo",NW Economie (576p)
+https://hls.newworldtv.com/nw-economie/video/live.m3u8
+#EXTINF:-1 tvg-id="ProBusiness.ru" tvg-name="Pro Business" tvg-logo="https://i.imgur.com/1u8KvTD.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Pro Business (720p)
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="QBC.qa" tvg-name="QBC" tvg-logo="https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg" tvg-country="QA" tvg-language="Arabic" group-title="Qatar",QBC (1080p)
+https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
+#EXTINF:-1 tvg-id="QBC.qa" tvg-name="QBC" tvg-logo="https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg" tvg-country="QA" tvg-language="Arabic" group-title="Qatar",QBC (1080p)
+https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RBK-TV (576p)
+http://176.118.197.101/RBK/index.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RBK-TV (576p)
+https://uiptv.do.am/1ufc/701293058/playlist.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RBK-TV (576p)
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RBK-TV (576p)
+http://31.148.48.15/RBK/index.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RBK-TV (560p)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RBK-TV
+http://online-video.rbc.ru/online2/rbctv.m3u8
+#EXTINF:-1 tvg-id="SchwabNetwork.us" tvg-name="Schwab Network" tvg-logo="https://i.imgur.com/zmQnKV6.png" tvg-country="US" tvg-language="English" group-title="United States",Schwab Network (1080p)
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+#EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-name="Telewizja Biznesowa" tvg-logo="https://i.imgur.com/XC7i7ZL.png" tvg-country="PL" tvg-language="Polish" group-title="Poland",Telewizja Biznesowa (1080p)
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-id="Tevex.cl" tvg-name="Tevex" tvg-logo="https://i.imgur.com/FnInQRd.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",Tevex (1080p)
+https://v2.tustreaming.cl/tevex/index.m3u8
+#EXTINF:-1 tvg-id="Tevex.cl" tvg-name="Tevex" tvg-logo="https://i.imgur.com/FnInQRd.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",Tevex (720p) [Not 24/7]
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="XianBusinessInformationChannel.cn" tvg-name="Xi'an Business Information Channel" tvg-logo="https://i.imgur.com/dzdiY4O.png" tvg-country="CN" tvg-language="Chinese" group-title="China",Xi'an Business Information Channel (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv3/playlist.m3u8
+#EXTINF:-1 tvg-id="XuzhouEconomicLifeChannel.cn" tvg-name="Xuzhou Economic Life Channel" tvg-country="CN" tvg-language="Chinese" group-title="China",Xuzhou Economic Life Channel (1080p)
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" tvg-country="US" tvg-language="English" group-title="United States",Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" tvg-country="US" tvg-language="English" group-title="United States",Yahoo! Finance (1080p) [Geo-blocked]
+https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" tvg-country="US" tvg-language="English" group-title="United States",Yahoo! Finance (1080p)
+https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" tvg-country="US" tvg-language="English" group-title="United States",Yahoo! Finance (1080p)
+https://yahoo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" tvg-country="US" tvg-language="English" group-title="United States",Yahoo! Finance (1080p)
+https://yahoo-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" tvg-country="US" tvg-language="English" group-title="United States",Yahoo! Finance (1080p)
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" tvg-country="US" tvg-language="English" group-title="United States",Yahoo! Finance (720p)
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="Zee Business" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ZEEDIGITAL/LIVECHANNEL/67ed20afb9965350035ecc50/images/LOGO/LOGO_3scYDc5V6_Zbusiness_logo-for-larg.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Zee Business (1080p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="Zee Business" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ZEEDIGITAL/LIVECHANNEL/67ed20afb9965350035ecc50/images/LOGO/LOGO_3scYDc5V6_Zbusiness_logo-for-larg.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Zee Business (720p)
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="Zee Business" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ZEEDIGITAL/LIVECHANNEL/67ed20afb9965350035ecc50/images/LOGO/LOGO_3scYDc5V6_Zbusiness_logo-for-larg.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Zee Business (576p)
+https://dwby15d04agvq.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-id="ZhejiangEconomicChannel.cn" tvg-name="Zhejiang Economic Channel" tvg-logo="https://i.imgur.com/pq9Aeeb.png" tvg-country="CN" tvg-language="Chinese" group-title="China",Zhejiang Economic Channel
+rtmp://splay-qukan.cztv.com/live/1792060094123056?auth_key=1886668326-379148691825438db322fe5c1545be6b-0-ae4e25174445c06889d2da4cf99c48af
+#EXTINF:-1 tvg-id="ZuracaTV.bo" tvg-name="Zuraca TV" tvg-logo="https://i.imgur.com/NsNytWD.jpeg" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",Zuraca TV (720p)
+https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8

@@ -1,0 +1,583 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-name="13 Humor" tvg-logo="https://i.imgur.com/KvMuTzN.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",13 Humor (1080p)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-name="30A Ridiculous TV" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" tvg-country="US" tvg-language="English" group-title="United States",30A Ridiculous TV (720p)
+https://30a-tv.com/feeds/720p/63.m3u8
+#EXTINF:-1 tvg-id="3CatPlatsbruts.es" tvg-name="3Cat Plats bruts" tvg-logo="https://i.imgur.com/49ZENis.png" tvg-country="ES" tvg-language="Catalan" group-title="Spain",3Cat Plats bruts (1080p)
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 tvg-id="AFV.us" tvg-name="AFV" tvg-logo="https://i.imgur.com/TOB9vmW.png" tvg-country="US" tvg-language="English" group-title="United States",AFV (720p)
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-name="AFV Espanol" tvg-logo="https://i.imgur.com/HUK4WXC.png" tvg-country="US" tvg-language="Spanish" group-title="United States",AFV Espanol (720p) [Not 24/7]
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AllehassenChris.de" tvg-name="Alle hassen Chris" tvg-logo="https://images.pluto.tv/channels/622f6e1e2792150007e0b2ff/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Alle hassen Chris
+https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
+#EXTINF:-1 tvg-id="alphaCinema.ru" tvg-name="alpha Cinema" tvg-logo="https://i.imgur.com/146OgfU.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",alpha Cinema (1080p)
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-country="US" tvg-language="English" group-title="United States",Anger Management Channel (1080p)
+https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-country="US" tvg-language="English" group-title="United States",Anger Management Channel (720p)
+https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
+#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-country="US" tvg-language="English" group-title="United States",Anger Management Channel
+https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d.m3u8
+#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-country="US" tvg-language="English" group-title="United States",Anger Management Channel
+https://jmp2.uk/plu-655ca57e4261ca00080b3a04.m3u8
+#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-country="US" tvg-language="English" group-title="United States",Anger Management Channel
+https://jmp2.uk/plu-6964b6f5f7f6b0334bbf6cdb.m3u8
+#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-country="US" tvg-language="English" group-title="United States",Anger Management Channel
+https://jmp2.uk/plu-6964b77dff4f2148e520fa9b.m3u8
+#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-country="US" tvg-language="English" group-title="United States",Anger Management Channel
+https://jmp2.uk/plu-6964b7e007ea70192df28d43.m3u8
+#EXTINF:-1 tvg-id="Awkward.se" tvg-name="Awkward" tvg-logo="https://images.pluto.tv/channels/61c0925c738ecd000882450a/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Awkward
+https://jmp2.uk/plu-61c0925c738ecd000882450a.m3u8
+#EXTINF:-1 tvg-id="BeavisandButtHead.se" tvg-name="Beavis and Butt-Head" tvg-logo="https://images.pluto.tv/channels/6486e8984cfc2c0008b6844e/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Beavis and Butt-Head
+https://jmp2.uk/plu-6486e8b48e3c0a0008e56914.m3u8
+#EXTINF:-1 tvg-id="BeavisandButtHead.se" tvg-name="Beavis and Butt-Head" tvg-logo="https://images.pluto.tv/channels/6486e8984cfc2c0008b6844e/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Beavis and Butt-Head DK
+https://jmp2.uk/plu-6486e8984cfc2c0008b6844e.m3u8
+#EXTINF:-1 tvg-id="BeavisandButtHead.se" tvg-name="Beavis and Butt-Head" tvg-logo="https://images.pluto.tv/channels/6486e8984cfc2c0008b6844e/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Beavis and Butt-Head NO
+https://jmp2.uk/plu-6486e8328e3c0a0008e5686c.m3u8
+#EXTINF:-1 tvg-id="Becker.de" tvg-name="Becker" tvg-logo="https://images.pluto.tv/channels/630348a54c48ce00077eb6c7/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Becker
+https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
+#EXTINF:-1 tvg-id="BETThrowbacks.us" tvg-name="BET Throwbacks" tvg-logo="https://images.pluto.tv/channels/61326275b3c86a00078e4833/colorLogoSVG_1759340008909.svg" tvg-country="US" tvg-language="English" group-title="United States",BET Throwbacks
+https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
+#EXTINF:-1 tvg-id="BlackFamilySitcoms.us" tvg-name="Black Family Sitcoms" tvg-logo="https://images.pluto.tv/channels/686d61503484d6073283059d/colorLogoSVG_1752619658233.svg" tvg-country="US" tvg-language="English" group-title="United States",Black Family Sitcoms
+https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
+#EXTINF:-1 tvg-id="BritishComedy.us" tvg-name="British Comedy" tvg-logo="https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoSVG_1745597219351.svg" tvg-country="US" tvg-language="English" group-title="United States",British Comedy
+https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
+#EXTINF:-1 tvg-id="BroadCity.se" tvg-name="Broad City" tvg-logo="https://images.pluto.tv/channels/65cba73611ced700082123bc/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Broad City
+https://jmp2.uk/plu-65cba7b1ec452d0008acbed8.m3u8
+#EXTINF:-1 tvg-id="BroadCity.se" tvg-name="Broad City" tvg-logo="https://images.pluto.tv/channels/65cba73611ced700082123bc/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Broad City DK
+https://jmp2.uk/plu-65cba73611ced700082123bc.m3u8
+#EXTINF:-1 tvg-id="BroadCity.se" tvg-name="Broad City" tvg-logo="https://images.pluto.tv/channels/65cba73611ced700082123bc/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Broad City NO
+https://jmp2.uk/plu-65cba778ec452d0008acbe86.m3u8
+#EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="bTV Comedy" tvg-logo="https://i.imgur.com/1c6A5dO.png" tvg-country="BG" tvg-language="Bulgarian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04k
+#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-name="Camera Smile TV" tvg-logo="https://i.imgur.com/V5h4R83.png" tvg-country="US" tvg-language="English" group-title="United States",Camera Smile TV (480p)
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
+#EXTINF:-1 tvg-id="CarolineintheCity.se" tvg-name="Caroline in the City" tvg-logo="https://images.pluto.tv/channels/66a7aa44cd0d31000843942b/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Caroline in the City
+https://jmp2.uk/plu-66a7ab4dcd0d3100084395b4.m3u8
+#EXTINF:-1 tvg-id="CarolineintheCity.se" tvg-name="Caroline in the City" tvg-logo="https://images.pluto.tv/channels/66a7aa44cd0d31000843942b/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Caroline in the City DK
+https://jmp2.uk/plu-66a7aa44cd0d31000843942b.m3u8
+#EXTINF:-1 tvg-id="CarolineintheCity.se" tvg-name="Caroline in the City" tvg-logo="https://images.pluto.tv/channels/66a7aa44cd0d31000843942b/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Caroline in the City NO
+https://jmp2.uk/plu-66a7aac9d512590008ab2dcb.m3u8
+#EXTINF:-1 tvg-id="CCPlutoTV.de" tvg-name="CC Pluto TV" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",CC Pluto TV
+https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
+#EXTINF:-1 tvg-id="ChappellesShow.se" tvg-name="Chappelle's Show" tvg-logo="https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Chappelle's Show
+https://jmp2.uk/plu-65e9783b0d456100082d9e05.m3u8
+#EXTINF:-1 tvg-id="ChappellesShow.se" tvg-name="Chappelle's Show" tvg-logo="https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Chappelle's Show DK
+https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8
+#EXTINF:-1 tvg-id="ChappellesShow.se" tvg-name="Chappelle's Show" tvg-logo="https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Chappelle's Show NO
+https://jmp2.uk/plu-65e977a618036500082ec972.m3u8
+#EXTINF:-1 tvg-id="Cheers.se" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Cheers NO
+https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8
+#EXTINF:-1 tvg-id="CheersPlusFrasier.us" tvg-name="Cheers + Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Cheers + Frasier
+https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
+#EXTINF:-1 tvg-id="ClassicTVComedy.us" tvg-name="Classic TV Comedy" tvg-logo="https://i.imgur.com/wg5I5Fb.png" tvg-country="US" tvg-language="English" group-title="United States",Classic TV Comedy
+https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+#EXTINF:-1 tvg-id="ComediaalobestiadePlutoTV.de" tvg-name="Comedia a lo bestia de Pluto TV" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoSVG_1759402463607.svg" tvg-country="DE" tvg-language="Spanish" group-title="Germany",Comedia a lo bestia de Pluto TV
+https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Comedy Central (720p)
+http://team-tv.co:81/comedy/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="DE" tvg-language="German" group-title="Germany",Comedy Central
+https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+#EXTINF:-1 tvg-id="ComedyCentral.se" tvg-name="Comedy Central" tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Comedy Central
+https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Comedy Central CA
+https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.se" tvg-name="Comedy Central" tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Comedy Central DK (720p)
+https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-name="Comedy Central Animation" tvg-logo="https://i.imgur.com/uENch0P.png" tvg-country="US" tvg-language="English" group-title="United States",Comedy Central Animation
+https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralBrasil.br" tvg-name="Comedy Central Brasil" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Comedy Central Brasil (480p)
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralenEspanol.us" tvg-name="Comedy Central en Espanol" tvg-logo="https://i.imgur.com/6xTD3G8.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Comedy Central en Espanol
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="US" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="United States",Comedy Central Latin America (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Comedy Central Latin America (1080p)
+https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Comedy Central Pluto TV
+https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",Comedy Central Pluto TV BR
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoSVG.svg" tvg-country="US" tvg-language="Spanish" group-title="United States",Comedy Central Pluto TV LatAm
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralRoast.se" tvg-name="Comedy Central Roast" tvg-logo="https://images.pluto.tv/channels/6641fd41b18d700008e7e2b8/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Comedy Central Roast
+https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoSVG_1733160637079.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",Comedy Central South Park
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoSVG_1733160637079.svg" tvg-country="US" tvg-language="Spanish" group-title="United States",Comedy Central South Park LatAm
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-country="US" tvg-language="English" group-title="United States",Comedy Dynamics (1080p)
+https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-country="US" tvg-language="English" group-title="United States",Comedy Dynamics (1080p)
+https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-country="US" tvg-language="English" group-title="United States",Comedy Dynamics (1080p)
+https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-country="US" tvg-language="English" group-title="United States",Comedy Dynamics (720p)
+https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://i.imgur.com/6kAeVOk.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",Comedy Play (576i)
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.ge" tvg-name="Comedy TV" tvg-logo="https://i.imgur.com/i1TANKv.png" tvg-country="GE" tvg-language="Georgian" group-title="Georgia",Comedy TV
+http://31.146.5.178:8087/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="Comedy.TV" tvg-logo="https://i.imgur.com/KLfXnba.png" tvg-country="US" tvg-language="English" group-title="United States",Comedy.TV (720p)
+https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CrazyExGirlfriend.se" tvg-name="Crazy Ex-Girlfriend" tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoSVG_1770039249880.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Crazy Ex-Girlfriend
+https://jmp2.uk/plu-693ae5b792fad2e93412a2c7.m3u8
+#EXTINF:-1 tvg-id="CrazyExGirlfriend.se" tvg-name="Crazy Ex-Girlfriend" tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoSVG_1770039249880.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Crazy Ex-Girlfriend DK
+https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8
+#EXTINF:-1 tvg-id="CrazyExGirlfriend.se" tvg-name="Crazy Ex-Girlfriend" tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoSVG_1770039249880.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Crazy Ex-Girlfriend NO
+https://jmp2.uk/plu-693ae58fc2d0f38be38df821.m3u8
+#EXTINF:-1 tvg-id="Daria.us" tvg-name="Daria" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoSVG.svg" tvg-country="US" tvg-language="Spanish" group-title="United States",Daria
+https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-country="MX" tvg-language="Spanish;English" group-title="Mexico",Distrito Comedia (1080p)
+http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-country="MX" tvg-language="Spanish;English" group-title="Mexico",Distrito Comedia (1080p)
+http://45.5.57.58:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-country="MX" tvg-language="Spanish;English" group-title="Mexico",Distrito Comedia (1080p)
+http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-country="MX" tvg-language="Spanish;English" group-title="Mexico",Distrito Comedia (1080p)
+http://190.61.47.54:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us" tvg-name="Dry Bar Comedy+" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-country="US" tvg-language="English" group-title="United States",Dry Bar Comedy+ (720p)
+https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us" tvg-name="Dry Bar Comedy+" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-country="US" tvg-language="English" group-title="United States",Dry Bar Comedy+ (720p)
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us" tvg-name="Dry Bar Comedy+" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-country="US" tvg-language="English" group-title="United States",Dry Bar Comedy+ (720p)
+https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us" tvg-name="Dry Bar Comedy+" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-country="US" tvg-language="English" group-title="United States",Dry Bar Comedy+ (720p)
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ETVComedy.in" tvg-name="ETV Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20251106T195117SQUARE.png" tvg-country="IN" tvg-language="Telugu" group-title="India",ETV Comedy (1080p)
+https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="EverybodyHatesChris.se" tvg-name="Everybody Hates Chris" tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Everybody Hates Chris
+https://jmp2.uk/plu-697b5be36dc3c71eb14d728a.m3u8
+#EXTINF:-1 tvg-id="EverybodyHatesChris.se" tvg-name="Everybody Hates Chris" tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Everybody Hates Chris DK
+https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8
+#EXTINF:-1 tvg-id="EverybodyHatesChris.se" tvg-name="Everybody Hates Chris" tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Everybody Hates Chris NO
+https://jmp2.uk/plu-697b5a6c9567bf7b5f71a350.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://jmp2.uk/plu-6177f6bf7693550007531275.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://failarmy-international-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://jmp2.uk/plu-5f1abf5fafb5ee0007d4d0ca.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://failarmy-international-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://jmp2.uk/plu-5f8ecd9169d2d4000864a974.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://jmp2.uk/plu-608014d19a26320007c92ab6.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://failarmy-international-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://jmp2.uk/plu-61781077929e930007c194ee.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://failarmy-international-no.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p)
+https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy (720p) [Geo-blocked]
+https://pb-w5ixcojas1swl.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy
+https://jmp2.uk/plu-62bdb5500c21270007218ce1.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy
+https://jmp2.uk/plu-6178037c35922000072a2ff5.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy
+https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="Portuguese" group-title="United States",FailArmy Brazil
+https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="Italian" group-title="United States",FailArmy Italy (720p)
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy Poland (720p)
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="English" group-title="United States",FailArmy UK (720p)
+https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FamilyTies.se" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Family Ties
+https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
+#EXTINF:-1 tvg-id="FamilyTies.se" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Family Ties DK
+https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8
+#EXTINF:-1 tvg-id="FamilyTies.se" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Family Ties NO
+https://jmp2.uk/plu-654a4f7bf9cc8200086877d5.m3u8
+#EXTINF:-1 tvg-id="ForaTedioTV.br" tvg-name="Fora Tedio TV" tvg-logo="https://i.imgur.com/R9ul4T1.png" tvg-country="BR" tvg-language="Portuguese" http-referrer="https://www.foratedio.com" group-title="Brazil",Fora Tedio TV (720p)
+#EXTVLCOPT:http-referrer=https://www.foratedio.com
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 tvg-id="FrasierBeruhmteGaste.de" tvg-name="Frasier: Beruhmte Gaste" tvg-logo="https://images.pluto.tv/channels/6790fa9e1cfc4aa96dfadcef/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Frasier: Beruhmte Gaste
+https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
+#EXTINF:-1 tvg-id="FunnyAF.us" tvg-name="Funny AF" tvg-logo="https://i.imgur.com/UCwjdtQ.png" tvg-country="US" tvg-language="English" group-title="United States",Funny AF
+https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
+#EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" tvg-logo="https://i.imgur.com/ENj5GIp.png" tvg-country="US" tvg-language="Russian;English" group-title="United States",Gagsnetwork (576p)
+http://stream.mcquack.net/458/index.m3u8
+#EXTINF:-1 tvg-id="GEMComedy.tr" tvg-name="GEM Comedy" tvg-logo="https://i.imgur.com/FuscfJW.png" tvg-country="TR" tvg-language="Persian" group-title="Turkiye",GEM Comedy
+https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="HAHATV.sk" tvg-name="HAHA TV" tvg-country="SK" tvg-language="Slovak" group-title="Slovakia",HAHA TV
+https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",HBO Pop Latin America (1080p) [Geo-blocked]
+http://15.204.246.24:8080/HBOPOPHD/index.m3u8
+#EXTINF:-1 tvg-id="HumorMill.us" tvg-name="Humor Mill" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988f3bac4421ebc53362e/images/logo_20231219_214029_67.png" tvg-country="US" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="United States",Humor Mill (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK
+#EXTINF:-1 tvg-id="HumorMill.us" tvg-name="Humor Mill" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988f3bac4421ebc53362e/images/logo_20231219_214029_67.png" tvg-country="US" tvg-language="English" group-title="United States",Humor Mill (1080p) [Not 24/7]
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
+#EXTINF:-1 tvg-id="HumorMill.us" tvg-name="Humor Mill" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988f3bac4421ebc53362e/images/logo_20231219_214029_67.png" tvg-country="US" tvg-language="English" group-title="United States",Humor Mill (1080p)
+https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8
+#EXTINF:-1 tvg-id="ILoveLucy.us" tvg-name="I Love Lucy" tvg-logo="https://images.pluto.tv/channels/63a2f1dda0d69700078b7cba/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",I Love Lucy
+https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+#EXTINF:-1 tvg-id="ILoveLucy.us" tvg-name="I Love Lucy" tvg-logo="https://images.pluto.tv/channels/63a2f1dda0d69700078b7cba/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",I Love Lucy CA
+https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
+#EXTINF:-1 tvg-id="InPuiiMei.ro" tvg-name="In Puii Mei" tvg-logo="https://assets.antenaplay.ro/2026/05/07/aUyRzOHx0tkHM6SXjA9K.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",In Puii Mei (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
+#EXTINF:-1 tvg-id="iRoast.ro" tvg-name="iRoast" tvg-logo="https://assets.antenaplay.ro/2026/05/07/1CKR5EoJo1qeSZCe9lkT.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",iRoast (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
+#EXTINF:-1 tvg-id="iUmor.ro" tvg-name="iUmor" tvg-logo="https://assets.antenaplay.ro/2026/05/07/pB32HtJzC1i0xlH75Rb0.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",iUmor (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
+#EXTINF:-1 tvg-id="JordanComedy.jo" tvg-name="Jordan Comedy" tvg-logo="https://i.imgur.com/DuwwoO2.png" tvg-country="JO" tvg-language="Arabic" group-title="Jordan",Jordan Comedy (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (1080p)
+https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://jmp2.uk/plu-677f929054f43dad4b325c1c.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://distributionsjustepourrire-justforlaughsgags-1-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://distributionsjustepourrire-justforlaughsgags-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://jmp2.uk/plu-6093f48c95132a00075fd859.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://distributionsjustepourrire-justforlaughsgags-1-lu.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://distributionsjustepourrire-justforlaughsgags-1-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://distributionsjustepourrire-justforlaughsgags-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://jmp2.uk/plu-61781878a3580d0008967df8.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://distributionsjustepourrire-justforlaughsgags-1-no.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://jmp2.uk/plu-61780ce4c215ad0007a66ab2.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://distributionsjustepourrire-justforlaughsgags-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags (720p)
+https://dzmydakq7xf9n.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="English" group-title="United States",Just for Laughs Gags
+https://jmp2.uk/plu-6177fd9812fe0c000726f9eb.m3u8
+#EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us" tvg-name="Kevin Hart's LOL! Network" tvg-logo="https://i.imgur.com/Tiy3Ur2.png" tvg-country="US" tvg-language="English" group-title="United States",Kevin Hart's LOL! Network (720p)
+https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="KeyPeele.se" tvg-name="Key & Peele" tvg-logo="https://images.pluto.tv/channels/65cba715dc10a40008034917/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Key & Peele
+https://jmp2.uk/plu-65cba798d77d450008d056e5.m3u8
+#EXTINF:-1 tvg-id="KeyPeele.se" tvg-name="Key & Peele" tvg-logo="https://images.pluto.tv/channels/65cba715dc10a40008034917/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Key & Peele DK
+https://jmp2.uk/plu-65cba715dc10a40008034917.m3u8
+#EXTINF:-1 tvg-id="KeyPeele.se" tvg-name="Key & Peele" tvg-logo="https://images.pluto.tv/channels/65cba715dc10a40008034917/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Key & Peele NO
+https://jmp2.uk/plu-65cba7573ba51e00084d76e1.m3u8
+#EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Kinokomedija (576p)
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Kinokomedija (576p)
+https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Klovn.se" tvg-name="Klovn" tvg-logo="https://images.pluto.tv/channels/65a63ff00d9ab400080b101c/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Klovn
+https://jmp2.uk/plu-65a63ff00d9ab400080b101c.m3u8
+#EXTINF:-1 tvg-id="Komedia.ru" tvg-name="Komedia" tvg-logo="https://i.imgur.com/VRC5juh.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Komedia (576p)
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 tvg-id="Komedia.ru" tvg-name="Komedia" tvg-logo="https://i.imgur.com/VRC5juh.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Komedia (576p)
+http://stream.mcquack.net/68/index.m3u8
+#EXTINF:-1 tvg-id="Komediynoe.ru" tvg-name="Komediynoe" tvg-logo="https://i.imgur.com/cEKe8XC.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Komediynoe HD (1080p)
+http://stream.mcquack.net/74/index.m3u8
+#EXTINF:-1 tvg-id="KVNTV.ru" tvg-name="KVN TV" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",KVN TV (576p)
+http://178.124.179.122:8080/KVN-TV/index.m3u8
+#EXTINF:-1 tvg-id="KVNTV.ru" tvg-name="KVN TV" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",KVN TV (576p)
+https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KVNTV.ru" tvg-name="KVN TV" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",KVN TV (576p)
+http://31.148.48.15/KVN_TV/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/960px-LAFF_logo.png" tvg-country="US" tvg-language="English" group-title="United States",Laff (576p)
+http://tvsen7.aynascope.net/laff/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/960px-LAFF_logo.png" tvg-country="US" tvg-language="English" group-title="United States",Laff (576p)
+https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
+#EXTINF:-1 tvg-id="ManwithaPlan.se" tvg-name="Man with a Plan" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Man with a Plan
+https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8
+#EXTINF:-1 tvg-id="ManwithaPlan.se" tvg-name="Man with a Plan" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Man with a Plan DK
+https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8
+#EXTINF:-1 tvg-id="ManwithaPlan.se" tvg-name="Man with a Plan" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Man with a Plan NO
+https://jmp2.uk/plu-6825eeeeb19ce6d4a34ebb2a.m3u8
+#EXTINF:-1 tvg-id="MorePlutoTVComedy.us" tvg-name="More Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoSVG_1759310320963.svg" tvg-country="US" tvg-language="English" group-title="United States",More Pluto TV Comedy
+https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
+#EXTINF:-1 tvg-id="MoreTVSitcoms.us" tvg-name="More TV Sitcoms" tvg-logo="https://i.imgur.com/4mbhOEo.png" tvg-country="US" tvg-language="English" group-title="United States",More TV Sitcoms
+https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk" tvg-name="Mr Bean Live Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1360f1ba-3ea1-4cc1-9ab9-6e99776c1a89/MrBeanLiveAction_Logo_Light_1500x1000_-_Harry_Marshall.png" tvg-country="UK" group-title="United Kingdom",Mr Bean Live Action (1080p)
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk" tvg-name="Mr Bean Live Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1360f1ba-3ea1-4cc1-9ab9-6e99776c1a89/MrBeanLiveAction_Logo_Light_1500x1000_-_Harry_Marshall.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Mr Bean Live Action (1080p)
+https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-name="Mystery Science Theater 3000" tvg-logo="https://i.imgur.com/8KWjY4o.png" tvg-country="US" tvg-language="English" group-title="United States",Mystery Science Theater 3000 (1080p)
+https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-name="Mystery Science Theater 3000" tvg-logo="https://i.imgur.com/8KWjY4o.png" tvg-country="US" tvg-language="English" group-title="United States",Mystery Science Theater 3000 (1080p)
+https://mst3k-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCComedyVault.us" tvg-name="NBC Comedy Vault" tvg-logo="https://i.imgur.com/nydZWwg.png" tvg-country="US" tvg-language="English" group-title="United States",NBC Comedy Vault (1080p)
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de" tvg-name="Nick/Comedy Central +1" tvg-logo="https://i.imgur.com/08ZUI9k.png" tvg-country="DE" tvg-language="German;English" group-title="Germany",Nick/Comedy Central +1
+http://90.183.52.46:4000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-name="Persiana Comedy" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" tvg-country="FR" tvg-language="Persian" group-title="France",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-name="Pitaara Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PitaaraComedy.png" tvg-country="IN" tvg-language="Panjabi" group-title="India",Pitaara Comedy (1080p)
+https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8
+#EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-name="Pitaara Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PitaaraComedy.png" tvg-country="IN" tvg-language="Panjabi" group-title="India",Pitaara Comedy (1080p)
+https://janya-pitaaralive.akamaized.net/ptnr-monitoring/v1/vglive-sk-217489/live/PitaaraComedy_15/chunks.m3u8
+#EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-name="Pitaara Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PitaaraComedy.png" tvg-country="IN" tvg-language="Panjabi" group-title="India",Pitaara Comedy (1080p)
+https://pitaara-lg.vgcdn.net/v1/vglive-sk-217489/playlist.m3u8
+#EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-name="Pitaara Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PitaaraComedy.png" tvg-country="IN" tvg-language="Panjabi" group-title="India",Pitaara Comedy (1080p)
+https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-Pitaara_Comedy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-343626/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetFun.uk" tvg-name="Planet Fun" tvg-logo="https://i.imgur.com/5U1iKUq.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Planet Fun (1080p)
+http://66.102.126.10:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAdultAnimation.de" tvg-name="Pluto TV Adult Animation" tvg-logo="https://images.pluto.tv/channels/67f68bd2135aeda9ddf0ef54/colorLogoSVG_1746816413166.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Pluto TV Adult Animation
+https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimation.de" tvg-name="Pluto TV Animation" tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoSVG.svg" tvg-country="DE" tvg-language="English" group-title="Germany",Pluto TV Animation
+https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComediamadeinSpain.de" tvg-name="Pluto TV Comedia made in Spain" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoSVG.svg" tvg-country="DE" tvg-language="Spanish" group-title="Germany",Pluto TV Comedia made in Spain
+https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComediasRomanticas.de" tvg-name="Pluto TV Comedias Romanticas" tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoSVG_1747044085172.svg" tvg-country="DE" tvg-language="Spanish" group-title="Germany",Pluto TV Comedias Romanticas
+https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComedie.de" tvg-name="Pluto TV Comedie" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoSVG.svg" tvg-country="DE" tvg-language="French" group-title="Germany",Pluto TV Comedie
+https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComediesCultes.de" tvg-name="Pluto TV Comedies Cultes" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoSVG.svg" tvg-country="DE" tvg-language="French" group-title="Germany",Pluto TV Comedies Cultes
+https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComedy.us" tvg-name="Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Pluto TV Comedy
+https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComedy.us" tvg-name="Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Pluto TV Comedy CA
+https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComedyMovies.us" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Pluto TV Comedy Movies
+https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComedyTherapie.de" tvg-name="Pluto TV Comedy Therapie" tvg-logo="https://images.pluto.tv/channels/69b968ba255fecb01f602257/colorLogoSVG_1777380677093.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Pluto TV Comedy Therapie
+https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDeutscheComedy.de" tvg-name="Pluto TV Deutsche Comedy" tvg-logo="https://images.pluto.tv/channels/6672f49f61a39900089db68e/colorLogoSVG_1748857140231.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Pluto TV Deutsche Comedy
+https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFranBesteMamaMomente.de" tvg-name="Pluto TV Fran: Beste Mama-Momente" tvg-logo="https://images.pluto.tv/channels/69b968e011fc7b9e27c0d958/colorLogoSVG_1777469414817.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Pluto TV Fran: Beste Mama-Momente
+https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHumor.se" tvg-name="Pluto TV Humor" tvg-logo="https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoSVG.svg" tvg-country="SE" tvg-language="Danish" group-title="Sweden",Pluto TV Humor
+https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKomedi.se" tvg-name="Pluto TV Komedi" tvg-logo="https://images.pluto.tv/channels/61c0b36d18447e000717d686/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Pluto TV Komedi
+https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKomedie.se" tvg-name="Pluto TV Komedie" tvg-logo="https://images.pluto.tv/channels/61c1e3a679a4390007c78136/colorLogoSVG.svg" tvg-country="SE" tvg-language="Norwegian" group-title="Sweden",Pluto TV Komedie
+https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKultComedies.de" tvg-name="Pluto TV Kult Comedies" tvg-logo="https://images.pluto.tv/channels/66337de656fc840008ff7a65/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Pluto TV Kult Comedies
+https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
+#EXTINF:-1 tvg-id="PlutoTVLaughsinSpanish.de" tvg-name="Pluto TV Laughs in Spanish" tvg-logo="https://images.pluto.tv/channels/69a554179a3f3bb488c7d2be/colorLogoSVG_1774964411015.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Pluto TV Laughs in Spanish
+https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8
+#EXTINF:-1 tvg-id="PlutoTVScherzierisate.de" tvg-name="Pluto TV Scherzi e risate" tvg-logo="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoSVG.svg" tvg-country="DE" tvg-language="Italian" group-title="Germany",Pluto TV Scherzi e risate
+https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us" tvg-name="Pluto TV Series Comedia" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",Pluto TV Series Comedia
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSitcoms.de" tvg-name="Pluto TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/colorLogoPNG.png" tvg-country="DE" tvg-language="German" group-title="Germany",Pluto TV Sitcoms
+https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSitcoms.de" tvg-name="Pluto TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/colorLogoPNG.png" tvg-country="DE" tvg-language="English" group-title="Germany",Pluto TV Sitcoms GB
+https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVWorstofBundy.de" tvg-name="Pluto TV Worst of Bundy" tvg-logo="https://images.pluto.tv/channels/69b968ca1c36025fd0a3d92d/colorLogoSVG_1777369824096.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Pluto TV Worst of Bundy
+https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8
+#EXTINF:-1 tvg-id="Reno911.se" tvg-name="Reno 911" tvg-logo="https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Reno 911
+https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
+#EXTINF:-1 tvg-id="Reno911.se" tvg-name="Reno 911" tvg-logo="https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Reno 911 DK
+https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8
+#EXTINF:-1 tvg-id="Reno911.se" tvg-name="Reno 911" tvg-logo="https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Reno 911 NO
+https://jmp2.uk/plu-65e977874e01740008c9fb4c.m3u8
+#EXTINF:-1 tvg-id="Ridiculousness.de" tvg-name="Ridiculousness" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoSVG.svg" tvg-country="DE" tvg-language="French" group-title="Germany",Ridiculousness (720p)
+https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
+#EXTINF:-1 tvg-id="Ridiculousness.us" tvg-name="Ridiculousness" tvg-logo="https://images.pluto.tv/channels/6996296087742204bff43147/colorLogoSVG_1772650134049.svg" tvg-country="US" tvg-language="English" group-title="United States",Ridiculousness
+https://jmp2.uk/plu-6996296087742204bff43147.m3u8
+#EXTINF:-1 tvg-id="RiffTrax.us" tvg-name="RiffTrax" tvg-logo="https://i.imgur.com/hM4yKMn.png" tvg-country="US" tvg-language="English" group-title="United States",RiffTrax (720p)
+https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
+#EXTINF:-1 tvg-id="RiffTrax.us" tvg-name="RiffTrax" tvg-logo="https://i.imgur.com/hM4yKMn.png" tvg-country="US" tvg-language="English" group-title="United States",RiffTrax
+https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
+#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-name="Rotana Comedy" tvg-logo="https://i.imgur.com/IlT8U6S.png" tvg-country="SA" tvg-language="Arabic" http-referrer="https://rotana.net/" group-title="Saudi Arabia",Rotana Comedy (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="SabrinaTheTeenageWitch.de" tvg-name="Sabrina The Teenage Witch" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoSVG.svg" tvg-country="DE" tvg-language="English" group-title="Germany",Sabrina The Teenage Witch
+https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
+#EXTINF:-1 tvg-id="SabrinatheTeenageWitch.se" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6512ecf63a0d700008db506a/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Sabrina the Teenage Witch
+https://jmp2.uk/plu-6512d72b473a540008592be5.m3u8
+#EXTINF:-1 tvg-id="SabrinatheTeenageWitch.se" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6512ecf63a0d700008db506a/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Sabrina the Teenage Witch DK
+https://jmp2.uk/plu-6512ecf63a0d700008db506a.m3u8
+#EXTINF:-1 tvg-id="SabrinatheTeenageWitch.se" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6512ecf63a0d700008db506a/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Sabrina the Teenage Witch NO
+https://jmp2.uk/plu-6512d3c96a84140008513ff5.m3u8
+#EXTINF:-1 tvg-id="SabrinaTotalverhext.de" tvg-name="Sabrina: Total verhext!" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Sabrina: Total verhext!
+https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
+#EXTINF:-1 tvg-id="SirippoliTV.in" tvg-name="Sirippoli TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SIRIPPOLI/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Tamil" group-title="India",Sirippoli TV (576p)
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1 tvg-id="SitcomLegends.us" tvg-name="Sitcom Legends" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Sitcom Legends
+https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
+#EXTINF:-1 tvg-id="SketchyAF.us" tvg-name="Sketchy AF" tvg-logo="https://images.pluto.tv/channels/67882c1c7b11714b795c2008/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Sketchy AF
+https://jmp2.uk/plu-67882c1c7b11714b795c2008.m3u8
+#EXTINF:-1 tvg-id="SNLVault.us" tvg-name="SNL Vault" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" tvg-country="US" tvg-language="English" group-title="United States",SNL Vault (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
+#EXTINF:-1 tvg-id="SNLVault.us" tvg-name="SNL Vault" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" tvg-country="US" tvg-language="English" group-title="United States",SNL Vault (1080p)
+https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoSVG_1748431640576.svg" tvg-country="DE" tvg-language="Spanish" group-title="Germany",South Park
+https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
+#EXTINF:-1 tvg-id="SouthPark.se" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoSVG_1754471523419.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",South Park
+https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
+#EXTINF:-1 tvg-id="SouthPark.us" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",South Park
+https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
+#EXTINF:-1 tvg-id="SouthPark.se" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoSVG_1754471523419.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",South Park DK
+https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
+#EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoSVG_1748431640576.svg" tvg-country="DE" tvg-language="English" group-title="Germany",South Park GB
+https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
+#EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoSVG_1748431640576.svg" tvg-country="DE" tvg-language="Italian" group-title="Germany",South Park IT
+https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
+#EXTINF:-1 tvg-id="SouthPark.se" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoSVG_1754471523419.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",South Park NO
+https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8
+#EXTINF:-1 tvg-id="SouthParkArmageddon.se" tvg-name="South Park Armageddon" tvg-logo="https://images.pluto.tv/channels/660bff28516d260008479e23/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",South Park Armageddon
+https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8
+#EXTINF:-1 tvg-id="SouthParkArmageddon.se" tvg-name="South Park Armageddon" tvg-logo="https://images.pluto.tv/channels/660bff28516d260008479e23/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",South Park Armageddon DK
+https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
+#EXTINF:-1 tvg-id="SouthParkArmageddon.se" tvg-name="South Park Armageddon" tvg-logo="https://images.pluto.tv/channels/660bff28516d260008479e23/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",South Park Armageddon NO
+https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8
+#EXTINF:-1 tvg-id="SouthParkEnFrancais.us" tvg-name="South Park En Francais" tvg-logo="https://images.pluto.tv/channels/62bdb919d36cbd0007e6ab8a/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",South Park En Francais
+https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
+#EXTINF:-1 tvg-id="SouthParkRockinOut.se" tvg-name="South Park Rockin' Out" tvg-logo="https://images.pluto.tv/channels/664f132c8ea5560008ce4d86/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",South Park Rockin' Out
+https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
+#EXTINF:-1 tvg-id="SouthParkRockinOut.se" tvg-name="South Park Rockin' Out" tvg-logo="https://images.pluto.tv/channels/664f132c8ea5560008ce4d86/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",South Park Rockin' Out DK
+https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
+#EXTINF:-1 tvg-id="SouthParkRockinOut.se" tvg-name="South Park Rockin' Out" tvg-logo="https://images.pluto.tv/channels/664f132c8ea5560008ce4d86/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",South Park Rockin' Out NO
+https://jmp2.uk/plu-664f1370f78a8500092df452.m3u8
+#EXTINF:-1 tvg-id="SouthParkVersionOriginal.de" tvg-name="South Park Version Original" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoSVG.svg" tvg-country="DE" tvg-language="Spanish" group-title="Germany",South Park Version Original
+https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+#EXTINF:-1 tvg-id="SouthParkButtersCollection.de" tvg-name="South Park: Butters Collection" tvg-logo="https://images.pluto.tv/channels/646b14a0e94c3800082a8d3a/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",South Park: Butters Collection
+https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
+#EXTINF:-1 tvg-id="SouthParkButtersCollection.se" tvg-name="South Park: Butters Collection" tvg-logo="https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",South Park: Butters Collection
+https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
+#EXTINF:-1 tvg-id="SouthParkButtersCollection.se" tvg-name="South Park: Butters Collection" tvg-logo="https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",South Park: Butters Collection DK
+https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
+#EXTINF:-1 tvg-id="SouthParkButtersCollection.se" tvg-name="South Park: Butters Collection" tvg-logo="https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",South Park: Butters Collection NO
+https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.de" tvg-name="South Park: Cartman Collection" tvg-logo="https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",South Park: Cartman Collection
+https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se" tvg-name="South Park: Cartman Collection" tvg-logo="https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",South Park: Cartman Collection
+https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.us" tvg-name="South Park: Cartman Collection" tvg-logo="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",South Park: Cartman Collection
+https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se" tvg-name="South Park: Cartman Collection" tvg-logo="https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",South Park: Cartman Collection DK
+https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se" tvg-name="South Park: Cartman Collection" tvg-logo="https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",South Park: Cartman Collection NO
+https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8
+#EXTINF:-1 tvg-id="SouthParkColecaoCartman.us" tvg-name="South Park: Colecao Cartman" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",South Park: Colecao Cartman
+https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
+#EXTINF:-1 tvg-id="SouthParkColecaoKenny.us" tvg-name="South Park: Colecao Kenny" tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",South Park: Colecao Kenny
+https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
+#EXTINF:-1 tvg-id="SouthParkColecaoKyle.us" tvg-name="South Park: Colecao Kyle" tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",South Park: Colecao Kyle
+https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
+#EXTINF:-1 tvg-id="SouthParkColecaoStan.us" tvg-name="South Park: Colecao Stan" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",South Park: Colecao Stan
+https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
+#EXTINF:-1 tvg-id="SouthParkColeccionCartman.us" tvg-name="South Park: Coleccion Cartman" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoSVG.svg" tvg-country="US" tvg-language="Spanish" group-title="United States",South Park: Coleccion Cartman
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:-1 tvg-id="SouthParkColeccionKenny.us" tvg-name="South Park: Coleccion Kenny" tvg-logo="https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/colorLogoSVG.svg" tvg-country="US" tvg-language="Spanish" group-title="United States",South Park: Coleccion Kenny
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
+#EXTINF:-1 tvg-id="SouthParkColeccionKyle.us" tvg-name="South Park: Coleccion Kyle" tvg-logo="https://images.pluto.tv/channels/65df73520d4561000817c29b/colorLogoSVG.svg" tvg-country="US" tvg-language="Spanish" group-title="United States",South Park: Coleccion Kyle
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+#EXTINF:-1 tvg-id="SouthParkColeccionStan.us" tvg-name="South Park: Coleccion Stan" tvg-logo="https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoSVG.svg" tvg-country="US" tvg-language="Spanish" group-title="United States",South Park: Coleccion Stan
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+#EXTINF:-1 tvg-id="SouthParkIntotheStars.se" tvg-name="South Park: Into the Stars" tvg-logo="https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",South Park: Into the Stars
+https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
+#EXTINF:-1 tvg-id="SouthParkIntotheStars.se" tvg-name="South Park: Into the Stars" tvg-logo="https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",South Park: Into the Stars DK
+https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
+#EXTINF:-1 tvg-id="SouthParkIntotheStars.se" tvg-name="South Park: Into the Stars" tvg-logo="https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",South Park: Into the Stars NO
+https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.de" tvg-name="South Park: Kenny Collection" tvg-logo="https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",South Park: Kenny Collection
+https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.se" tvg-name="South Park: Kenny Collection" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",South Park: Kenny Collection
+https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.us" tvg-name="South Park: Kenny Collection" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",South Park: Kenny Collection
+https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.se" tvg-name="South Park: Kenny Collection" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",South Park: Kenny Collection DK
+https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.se" tvg-name="South Park: Kenny Collection" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",South Park: Kenny Collection NO
+https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.de" tvg-name="South Park: Kyle Collection" tvg-logo="https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",South Park: Kyle Collection
+https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.se" tvg-name="South Park: Kyle Collection" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",South Park: Kyle Collection
+https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.us" tvg-name="South Park: Kyle Collection" tvg-logo="https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",South Park: Kyle Collection
+https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.se" tvg-name="South Park: Kyle Collection" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",South Park: Kyle Collection DK
+https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.se" tvg-name="South Park: Kyle Collection" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",South Park: Kyle Collection NO
+https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
+#EXTINF:-1 tvg-id="SouthParkOriginalVersion.de" tvg-name="South Park: Original Version" tvg-logo="https://images.pluto.tv/channels/646b150a15939400089e2702/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",South Park: Original Version
+https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+#EXTINF:-1 tvg-id="SouthParkStanCollection.de" tvg-name="South Park: Stan Collection" tvg-logo="https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",South Park: Stan Collection
+https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
+#EXTINF:-1 tvg-id="SouthParkStanCollection.se" tvg-name="South Park: Stan Collection" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",South Park: Stan Collection
+https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
+#EXTINF:-1 tvg-id="SouthParkStanCollection.us" tvg-name="South Park: Stan Collection" tvg-logo="https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",South Park: Stan Collection
+https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
+#EXTINF:-1 tvg-id="SouthParkStanCollection.se" tvg-name="South Park: Stan Collection" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",South Park: Stan Collection DK
+https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
+#EXTINF:-1 tvg-id="SouthParkStanCollection.se" tvg-name="South Park: Stan Collection" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",South Park: Stan Collection NO
+https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
+#EXTINF:-1 tvg-id="SouthParkWelcometoCanada.us" tvg-name="South Park: Welcome to Canada!" tvg-logo="https://images.pluto.tv/channels/663115d923e24f000843b49c/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",South Park: Welcome to Canada!
+https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png" tvg-country="PT" tvg-language="Portuguese" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Portugal",Star Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/960px-Starz_Comedy_Logo_2022.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Starz Comedy (1080p)
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="TakeshisCastle.de" tvg-name="Takeshi's Castle" tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Takeshi's Castle
+https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
+#EXTINF:-1 tvg-id="Telecyan.us" tvg-name="Telecyan" tvg-logo="https://i.imgur.com/9BnHCj5.png" tvg-country="US" tvg-language="English" group-title="United States",Telecyan (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
+#EXTINF:-1 tvg-id="TheBeverlyHillbillies.us" tvg-name="The Beverly Hillbillies" tvg-logo="https://images.pluto.tv/channels/6565fefdc917a50008485cc6/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",The Beverly Hillbillies
+https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
+#EXTINF:-1 tvg-id="TheChatShowChannel.uk" tvg-name="The Chat Show Channel" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-country="UK" tvg-language="English" group-title="United Kingdom",The Chat Show Channel (1080p)
+https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="TheChatShowChannel.uk" tvg-name="The Chat Show Channel" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-country="UK" tvg-language="English" group-title="United Kingdom",The Chat Show Channel (1080p)
+https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheConners.us" tvg-name="The Conners" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" tvg-country="US" tvg-language="English" group-title="United States",The Conners (1080p) [Geo-blocked]
+https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheConners.us" tvg-name="The Conners" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" tvg-country="US" tvg-language="English" group-title="United States",The Conners (720p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/e08080ff-3d87-4d9e-a156-91554fd2e39b/playlist.m3u8
+#EXTINF:-1 tvg-id="TheConners.us" tvg-name="The Conners" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" tvg-country="US" tvg-language="English" group-title="United States",The Conners
+https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
+#EXTINF:-1 tvg-id="Tosh0.se" tvg-name="Tosh.0" tvg-logo="https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Tosh.0
+https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
+#EXTINF:-1 tvg-id="Tosh0.se" tvg-name="Tosh.0" tvg-logo="https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Tosh.0 DK
+https://jmp2.uk/plu-65e977042873090008b48be9.m3u8
+#EXTINF:-1 tvg-id="Tosh0.se" tvg-name="Tosh.0" tvg-logo="https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Tosh.0 NO
+https://jmp2.uk/plu-65e977c48b24c8000805b9ef.m3u8
+#EXTINF:-1 tvg-id="TVLandSitcoms.us" tvg-name="TV Land Sitcoms" tvg-logo="https://i.imgur.com/phHHs7l.png" tvg-country="US" tvg-language="English" group-title="United States",TV Land Sitcoms
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
+#EXTINF:-1 tvg-id="TV2Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://i.imgur.com/B02hbcV.png" tvg-country="HU" tvg-language="Hungarian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hungary",TV2 Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/tv2_comedy/index.m3u8
+#EXTINF:-1 tvg-id="TVMaticComedy.br" tvg-name="TVMatic Comedy" tvg-logo="https://i.imgur.com/l5PBcKN.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TVMatic Comedy (720p)
+http://cdn.tvmatic.net/comedy.m3u8
+#EXTINF:-1 tvg-id="TvoyeTVYumor.ru" tvg-name="Tvoye TV Yumor" tvg-logo="https://smotret.tv/images/tvoe-tv-yumor.webp" tvg-country="RU" tvg-language="Russian" group-title="Russia",Tvoye TV Yumor (1080p)
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us" tvg-name="TVS Comedy Network" tvg-logo="https://i.imgur.com/rXORbti.png" tvg-country="US" tvg-language="English" group-title="United States",TVS Comedy Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-id="UniversalComedy.us" tvg-name="Universal Comedy" tvg-logo="https://i.imgur.com/avBL8pQ.png" tvg-country="US" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="United States",Universal Comedy (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-country="US" tvg-language="English" group-title="United States",USA Network (720p)
+http://190.197.41.183/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-country="US" tvg-language="English" group-title="United States",USA Network (720p)
+http://200.32.231.178/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Vayasemanita.us" tvg-name="Vaya semanita" tvg-logo="https://i.imgur.com/0bCLNUG.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Vaya semanita
+https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
+#EXTINF:-1 tvg-id="VelvetSeriesHits.ru" tvg-name="Velvet. Series Hits" tvg-logo="https://antiabuse-container.b-cdn.net/serialyhity.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Velvet. Series Hits (1080p)
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 tvg-id="VelvetWorldSeries.ru" tvg-name="Velvet. World Series" tvg-logo="https://antiabuse-container.b-cdn.net/mirseriallogo.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Velvet. World Series (1080p)
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
+#EXTINF:-1 tvg-id="ViasatKinoComedy.ua" tvg-name="Viasat Kino Comedy" tvg-logo="https://i.imgur.com/qVYt8kP.png" tvg-country="UA" tvg-language="Russian;English;Latin" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" http-referrer="http://live.tvstitch.com/" group-title="Ukraine",Viasat Kino Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ==
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="viju+ Comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju+ Comedy HD (1080p)
+http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="viju+ Comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju+ Comedy HD (1080p)
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 tvg-id="ZeeComedyNation.in" tvg-name="Zee Comedy Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Zee Comedy Nation (1080p)
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8

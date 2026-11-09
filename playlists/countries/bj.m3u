@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ADOTV.bj" tvg-name="ADO TV" tvg-logo="https://i.imgur.com/pxFamLr.png" tvg-country="BJ" tvg-language="French" group-title="Kids;Sports",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="BeninTVJunior.bj" tvg-name="Benin TV Junior" tvg-logo="https://i.imgur.com/bWxjtuJ.png" tvg-country="BJ" tvg-language="French" group-title="Kids",Benin TV Junior (720p)
+https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="BeninWebTV.bj" tvg-name="Benin Web TV" tvg-logo="https://i.imgur.com/CYy4n0N.png" tvg-country="BJ" tvg-language="French" group-title="News",Benin Web TV (720p)
+https://stream.beninwebtv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-id="DigitalChannel.bj" tvg-name="Digital Channel" tvg-logo="https://digitalchannel.bj/wp-content/uploads/2025/03/cropped-logo-192x192.png" tvg-country="BJ" tvg-language="French" group-title="General",Digital Channel (480p)
+https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
+#EXTINF:-1 tvg-id="EdenTV.bj" tvg-name="Eden TV" tvg-logo="https://i.imgur.com/4ClnG0x.png" tvg-country="BJ" tvg-language="French;Ayizo Gbe;Fon" group-title="General",Eden TV (540p) [Not 24/7]
+https://rtmp.edentv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id="HC2TV.bj" tvg-name="HC2 TV" tvg-logo="https://i.imgur.com/CV38429.jpeg" tvg-country="BJ" tvg-language="French" group-title="News",HC2 TV
+https://stream.hc2tv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-id="ICONETV.bj" tvg-name="ICONE TV" tvg-logo="https://i.imgur.com/Aws11wj.jpeg" tvg-country="BJ" tvg-language="French" group-title="News",ICONE TV
+https://lecteur.iconetv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KassouaTV.bj" tvg-name="KassouaTV" tvg-logo="https://i.imgur.com/EfX3HNG.png" tvg-country="BJ" tvg-language="French" group-title="General",KassouaTV (720p)
+https://playtv4k.live/live/kassouatv/index.m3u8
+#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" tvg-name="Le Nouveau Manager TV" tvg-logo="https://i.imgur.com/pEoOtEf.jpeg" tvg-country="BJ" tvg-language="French" group-title="Business",Le Nouveau Manager TV
+https://lnmlive.com/live/lnmtv.m3u8
+#EXTINF:-1 tvg-id="ORTBTV.bj" tvg-name="ORTB TV" tvg-logo="https://i.imgur.com/o6zAR88.png" tvg-country="BJ" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" group-title="General",ORTB TV (1080i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-name="Speedline TV" tvg-logo="https://i.imgur.com/1lXShsh.png" tvg-country="BJ" tvg-language="French" group-title="General",Speedline TV
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
+#EXTINF:-1 tvg-id="TVCBenin.bj" tvg-name="TVC Benin" tvg-logo="https://i.imgur.com/oUnEYl5.png" tvg-country="BJ" tvg-language="French" group-title="General",TVC Benin (720p)
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8

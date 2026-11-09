@@ -1,0 +1,65 @@
+name: Update playlists & deploy player
+
+on:
+  schedule:
+    - cron: "17 4 * * 1,4"   # Monday and Thursday 04:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main, master, "claude/**"]
+    paths: ["scripts/**", "player/index.html", ".github/workflows/update.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-playlists
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild playlists from iptv-org
+        run: python3 scripts/build_playlists.py --refresh
+
+      - name: Commit refreshed playlists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlists player/channels.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: refresh playlists ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+      - name: Assemble site
+        run: |
+          mkdir -p dist
+          cp -r player/. dist/
+          cp -r playlists dist/playlists
+          touch dist/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true   # Pages must be enabled once (Settings → Pages → Source: GitHub Actions)
