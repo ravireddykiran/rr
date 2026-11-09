@@ -68,6 +68,8 @@ Roku does not allow generic IPTV apps on its store. Workarounds, all free:
 
 ## Android phones and tablets
 
+Step-by-step phone guide: [MOBILE.md](MOBILE.md).
+
 - **Televizo**, **OTT Navigator**, **IPTV Smarters Pro**, **TiviMate** (phone version), **VLC**, **MX Player** (open the m3u file).
 - **Chrome**: open the web player and tap **Install app** to add it to the home screen as a standalone app.
 

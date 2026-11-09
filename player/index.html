@@ -30,7 +30,7 @@
   header .spacer { flex: 1; }
   header .meta { color: var(--muted); font-size: 12px; white-space: nowrap; }
   button, select, input { font: inherit; color: var(--text); }
-  .btn { background: var(--panel-2); border: 1px solid var(--line); border-radius: 8px; padding: 7px 12px; cursor: pointer; }
+  .btn { background: var(--panel-2); border: 1px solid var(--line); border-radius: 8px; padding: 7px 12px; cursor: pointer; text-decoration: none; color: var(--text); display: inline-block; }
   .btn:hover { border-color: var(--accent); }
   .btn.primary { background: var(--accent-2); border-color: var(--accent-2); color: #fff; }
   main { flex: 1; display: grid; grid-template-columns: 360px 1fr; min-height: 0; }
@@ -59,7 +59,8 @@
   video { width: 100%; height: 100%; background: #000; }
   .overlay { position: absolute; inset: 0; display: grid; place-items: center; text-align: center; color: #cbd5e1; padding: 24px; pointer-events: none; }
   .overlay.hidden { display: none; }
-  .overlay .box { background: rgba(0,0,0,.65); padding: 16px 20px; border-radius: var(--radius); max-width: 560px; pointer-events: auto; }
+  .overlay .box { background: rgba(0,0,0,.72); padding: 14px 18px; border-radius: var(--radius); max-width: 560px; max-height: 100%; overflow: auto; pointer-events: auto; font-size: 14px; }
+  .overlay .box .btn { margin: 2px; }
   .overlay a { color: var(--accent); }
   .now { padding: 14px 16px; display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
   .now img { width: 64px; height: 44px; object-fit: contain; background: #fff; border-radius: 6px; }
@@ -79,6 +80,15 @@
     aside { order: 2; border-right: 0; border-top: 1px solid var(--line); min-height: 40vh; }
     section.player { order: 1; }
     header .meta { display: none; }
+    header { padding: 8px 12px; }
+    header h1 { font-size: 16px; }
+    .overlay { padding: 10px; }
+    .overlay .box { font-size: 12.5px; padding: 10px 12px; }
+    .now { padding: 10px 12px; }
+    .now h2 { font-size: 16px; }
+    .now .actions { margin-left: 0; width: 100%; }
+    .alts, .help { padding-left: 12px; padding-right: 12px; }
+    .filters { padding: 10px 12px; }
   }
 </style>
 </head>
@@ -114,7 +124,7 @@
   <section class="player">
     <div class="video-wrap">
       <video id="video" controls playsinline autoplay></video>
-      <div class="overlay" id="overlay"><div class="box" id="overlayMsg">Pick a channel on the left to start watching.</div></div>
+      <div class="overlay" id="overlay"><div class="box" id="overlayMsg">Pick a channel to start watching.</div></div>
     </div>
     <div class="now" id="now"></div>
     <div class="alts" id="alts"></div>
@@ -289,12 +299,14 @@
   function renderNow(key, alts) {
     const s = current; const flags = s.b.map(b => `<span class="badge${b === 'Geo-blocked' ? ' geo' : ''}">${esc(b)}</span>`).join('');
     els.now.innerHTML = `${s.o ? `<img src="${esc(s.o)}" alt="">` : ''}<div><h2>${esc(s.n)} ${flags}</h2><div class="sub">${esc([(meta.countries || {})[s.c] || s.c, s.g.map(g => (meta.categories || {})[g] || cap(g)).join(', '), s.l.map(l => (meta.languages || {})[l] || l).join(', '), s.q].filter(Boolean).join(' · '))}${s.i ? ` · <code>${esc(s.i)}</code>` : ''}</div></div>
-      <div class="actions"><button class="btn" id="copy">Copy URL</button><a class="btn" id="vlc" href="vlc://${esc(s.u)}">Open in VLC</a><button class="btn" id="share">Share link</button><button class="btn" id="fs">Fullscreen</button></div>`;
+      <div class="actions"><button class="btn" id="copy">Copy URL</button><a class="btn" id="vlc" href="${esc(vlcLink(s.u))}">Open in VLC</a><button class="btn" id="share">Share link</button><button class="btn" id="fs">Fullscreen</button></div>`;
     $('#copy').onclick = () => navigator.clipboard.writeText(s.u).then(() => toast('Stream URL copied'), () => prompt('Copy the URL:', s.u));
     $('#share').onclick = () => navigator.clipboard.writeText(location.href).then(() => toast('Link copied'), () => prompt('Copy the link:', location.href));
     $('#fs').onclick = () => fullscreen();
     els.alts.innerHTML = alts.length > 1 ? `${alts.length} sources for this channel: ` + alts.map((a, i) => `<button class="btn${i === altIndex ? ' primary' : ''}" onclick="window.__play('${esc(key).replace(/'/g, "\\'")}',${i})">${i + 1}${a.q ? ' · ' + esc(a.q) : ''}${a.b.includes('Geo-blocked') ? ' · geo' : ''}</button>`).join('') : '';
   }
+  const isIOS = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  function vlcLink(u) { return isIOS ? 'vlc-x-callback://x-callback-url/stream?url=' + encodeURIComponent(u) : 'vlc://' + u; }
   function fullscreen() { const w = document.querySelector('.video-wrap'); if (document.fullscreenElement) document.exitFullscreen(); else (w.requestFullscreen || w.webkitRequestFullscreen).call(w); }
   function toast(msg) { els.toast.textContent = msg; els.toast.classList.add('show'); clearTimeout(toast.t); toast.t = setTimeout(() => els.toast.classList.remove('show'), 2200); }
 

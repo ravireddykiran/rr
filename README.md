@@ -4,6 +4,8 @@ Ready-to-use playlists, a web player that installs as an app, setup guides for e
 
 **Where the channels come from.** The [iptv-org](https://github.com/iptv-org/iptv) community index: 18,000+ streams that broadcasters publish openly (public broadcasters, news networks, free ad-supported channels like Pluto TV, Plex, Rakuten, Samsung TV Plus, DistroTV). No pirated pay-TV. Details in [docs/LEGAL.md](docs/LEGAL.md).
 
+**On a phone?** Go straight to **[docs/MOBILE.md](docs/MOBILE.md)** (Android and iPhone, with or without installing anything).
+
 ## 1-minute start
 
 1. Pick a playlist from **[playlists/README.md](playlists/README.md)** and copy its URL. Good first picks:
@@ -57,7 +59,7 @@ Edit `scripts/curated.json` to change the featured lists (channel IDs are the `t
 playlists/        generated M3U files + index (README.md)
 player/           web player (index.html, channels.json, hls.min.js, PWA files)
 scripts/          build_playlists.py, check_streams.py, curated.json
-docs/             APPS.md, EPG.md, TROUBLESHOOTING.md, LEGAL.md
+docs/             MOBILE.md, APPS.md, EPG.md, TROUBLESHOOTING.md, LEGAL.md
 docker/           docker-compose.yml (nginx + Jellyfin), nginx.conf
 .github/workflows automatic refresh + GitHub Pages deploy
 ```
