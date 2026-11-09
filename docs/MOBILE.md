@@ -8,7 +8,8 @@ The playlist URLs below point at this repository on GitHub. Pick ONE to start wi
 |---|---|
 | English news | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/english-news.m3u` |
 | Indian channels (all languages) | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/india.m3u` |
-| **Telugu — live TV + movies** | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/telugu.m3u` |
+| **Telugu — free-to-air (works best)** | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/telugu-free.m3u` |
+| Telugu — everything incl. pay-TV (many blue-screen) | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/telugu.m3u` |
 | **Sports (all free, English + global)** | `https://raw.githubusercontent.com/ravireddykiran/rr/claude/free-iptv-setup-65wk2h/playlists/featured/sports.m3u` |
 | Movies | `.../playlists/featured/movies.m3u` |
 | Sports | `.../playlists/featured/sports.m3u` |

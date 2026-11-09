@@ -4,7 +4,7 @@ Ready-to-use playlists, a web player that installs as an app, setup guides for e
 
 **Where the channels come from.** The [iptv-org](https://github.com/iptv-org/iptv) community index: 18,000+ streams that broadcasters publish openly (public broadcasters, news networks, free ad-supported channels like Pluto TV, Plex, Rakuten, Samsung TV Plus, DistroTV). No pirated pay-TV. Details in [docs/LEGAL.md](docs/LEGAL.md).
 
-**On a phone?** Go straight to **[docs/MOBILE.md](docs/MOBILE.md)** (Android and iPhone, with or without installing anything).
+**Telugu?** Read [docs/TELUGU.md](docs/TELUGU.md) first — it explains which Telugu channels are genuinely free. **On a phone?** Go straight to **[docs/MOBILE.md](docs/MOBILE.md)** (Android and iPhone, with or without installing anything).
 
 ## 1-minute start
 
