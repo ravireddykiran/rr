@@ -2230,8 +2230,6 @@ https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
 https://jmp2.uk/plu-662a63275a402e00086bc8a5.m3u8
 #EXTINF:-1 tvg-name="Omstars" group-title="Other",Omstars (1080p)
 https://d1too6m5v9oyet.cloudfront.net/scheduler/scheduleMaster/281.m3u8
-#EXTINF:-1 tvg-name="On Patrol: Live" group-title="Other",On Patrol: Live (720p)
-https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="ON Vie Drama" group-title="Other",ON Vie Drama (720p)
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:-1 tvg-name="Operation Repo" group-title="Other",Operation Repo (1080p)
@@ -2656,12 +2654,6 @@ https://jmp2.uk/plu-660d7232635c75000828c95a.m3u8
 https://jmp2.uk/plu-645a0ddfe1979c00086d83ff.m3u8
 #EXTINF:-1 tvg-name="Red Uno Santa Cruz" group-title="Other",Red Uno Santa Cruz (1080p)
 http://190.181.18.82:4111/play/a006/index.m3u8
-#EXTINF:-1 tvg-name="Reelz Famous & Infamous" group-title="Other",Reelz Famous & Infamous (1080p)
-https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
-#EXTINF:-1 tvg-name="Reelz Famous & Infamous" group-title="Other",Reelz Famous & Infamous (1080p)
-https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="Reelz Famous & Infamous" group-title="Other",Reelz Famous & Infamous (720p)
-https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Regional MX" group-title="Other",Regional MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 #EXTINF:-1 tvg-name="Relic Hunter" group-title="Other",Relic Hunter

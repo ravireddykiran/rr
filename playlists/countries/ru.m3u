@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",.black (576p)
 http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",.black (576p)
+http://s1.merlive.am/black/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",.red (576p)
 http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",.red (576p)
@@ -467,6 +469,10 @@ http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-id="FONMusic.ru" tvg-name="FON Music" tvg-logo="https://i.imgur.com/tXABQDE.png" tvg-country="RU" tvg-language="Russian" group-title="Music",FON Music (576p)
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FONTV.ru" tvg-name="FON TV" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" tvg-country="RU" tvg-language="Russian" group-title="Sports",FON TV (1080p)
+https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
+#EXTINF:-1 tvg-id="FONTV.ru" tvg-name="FON TV" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" tvg-country="RU" tvg-language="Russian" group-title="Sports",FON TV (1080p)
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" tvg-country="RU" tvg-language="Russian" group-title="Cooking",Food Network (1080p)
 http://stream.mcquack.net/298/index.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="FoodTime" tvg-logo="https://i.imgur.com/gxCYAwH.png" tvg-country="RU" group-title="Cooking",FoodTime (1080p)
@@ -646,6 +652,8 @@ http://stream.mcquack.net/171/index.m3u8
 https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" tvg-logo="https://i.imgur.com/ZRaWqxj.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinosvidanie
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" tvg-logo="https://i.imgur.com/mAcAAQF.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinouzhas (1080p)
+http://s1.merlive.am/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" tvg-logo="https://i.imgur.com/mAcAAQF.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinouzhas (576p)
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" tvg-logo="https://i.imgur.com/mAcAAQF.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinouzhas (576p)
@@ -735,6 +743,8 @@ http://stream.mcquack.net/188/index.m3u8
 http://31.148.48.15/Match_Igra/index.m3u8
 #EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-name="Match! Planeta" tvg-logo="https://i.imgur.com/vhyMb9D.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",Match! Planeta (576p)
 https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-name="Match! Planeta" tvg-logo="https://i.imgur.com/vhyMb9D.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",Match! Planeta (576p)
+http://s1.merlive.am/matchplaneta/index.m3u8
 #EXTINF:-1 tvg-id="MatchPremier.ru" tvg-name="Match! Premier" tvg-logo="https://i.imgur.com/GQPyHYK.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",Match! Premier (576p)
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru" tvg-name="Match! Strana" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",Match! Strana (720p)
@@ -1967,6 +1977,8 @@ https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 tvg-id="Sportivnyy.ru" tvg-name="Sportivnyy" tvg-logo="https://i.imgur.com/ujS6mMo.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",Sportivnyy (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 tvg-id="StarCinema.ru" tvg-name="Star Cinema" tvg-logo="https://i.imgur.com/5sis895.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Star Cinema (576p)
+http://s1.merlive.am/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru" tvg-name="Star Cinema" tvg-logo="https://i.imgur.com/5sis895.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru" tvg-name="Star Family" tvg-logo="https://i.imgur.com/eGuGHnZ.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Star Family (1080p)
@@ -2065,6 +2077,8 @@ https://streaming.televizor-24-tochka.ru/live/24.m3u8
 http://31.148.48.15/Sochi_HD/index.m3u8
 #EXTINF:-1 tvg-id="Teatr.ru" tvg-name="Teatr" tvg-logo="https://i.imgur.com/nc2ijCH.png" tvg-country="RU" tvg-language="Russian" group-title="Culture",Teatr (576p)
 http://31.148.48.15/Sochi_HD/video.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" group-title="Cooking",Telecafe (1080p)
+http://s1.merlive.am/telekafe/index.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Telecafe (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
@@ -2088,6 +2102,8 @@ https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-id="Telplus.ru" tvg-name="Telplus" tvg-logo="https://i.imgur.com/1zbcZ3p.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Telplus (360p) [Not 24/7]
 https://streaming.astrakhan.ru/telplushd/playlist.m3u8
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",TERRA (1080p)
+http://s1.merlive.am/TerraHD/index.m3u8
 #EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",TERRA (720p)
 http://31.148.48.15/Terra_HD/index.m3u8
 #EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",TERRA (576p)
@@ -2102,6 +2118,8 @@ http://stream.mcquack.net/111/index.m3u8
 https://live-3.otcnet.ru/Tiji/index.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" tvg-logo="https://i.imgur.com/QCOUJ30.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",TiJi (576p)
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" tvg-logo="https://i.imgur.com/QCOUJ30.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",TiJi (576p)
+http://s1.merlive.am/TiJi/index.m3u8
 #EXTINF:-1 tvg-id="TKR.ru" tvg-name="TKR" tvg-logo="https://i.imgur.com/VqtPB7L.png" tvg-country="RU" tvg-language="Russian" group-title="Other",TKR (1080p) [Not 24/7]
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Lifestyle",TLC (1080p)
@@ -2452,6 +2470,8 @@ http://31.148.48.15/Zhivaya_Planeta/index.m3u8
 http://stream.mcquack.net/83/index.m3u8
 #EXTINF:-1 tvg-id="Zhivayapriroda.ru" tvg-name="Zhivaya priroda" tvg-logo="https://i.imgur.com/9lHQPdN.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Zhivaya priroda HD (1080p)
 http://stream.mcquack.net/225/index.m3u8
+#EXTINF:-1 tvg-id="Zhivayapriroda.ru" tvg-name="Zhivaya priroda" tvg-logo="https://i.imgur.com/9lHQPdN.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Zhivaya priroda HD (1080p)
+http://s1.merlive.am/Jivaiapriroda/index.m3u8
 #EXTINF:-1 tvg-id="Zhivi.ru" tvg-name="Zhivi!" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2019/12/jivi(1).png" tvg-country="RU" tvg-language="Russian" group-title="Lifestyle",Zhivi! (1080p)
 http://31.148.48.15/Zhivi/index.m3u8
 #EXTINF:-1 tvg-id="Zhivi.ru" tvg-name="Zhivi!" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2019/12/jivi(1).png" tvg-country="RU" tvg-language="Russian" group-title="Lifestyle",Zhivi! (576p)

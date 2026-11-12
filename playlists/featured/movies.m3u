@@ -74,7 +74,7 @@ https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="GravitasMovies.us" tvg-name="Gravitas Movies" tvg-logo="https://i.imgur.com/H2hD4vT.png" tvg-country="US" tvg-language="English" group-title="Movies",Gravitas Movies (1080p)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" tvg-logo="https://i.imgur.com/CXjo8kn.png" tvg-country="US" tvg-language="English" group-title="Movies;Shop",Magnificent Movies Network
-https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" tvg-country="US" tvg-language="English" group-title="Movies",Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" tvg-country="US" tvg-language="English" group-title="Movies",Maverick Black Cinema (720p)

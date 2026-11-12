@@ -3,6 +3,8 @@
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="5DiasTV.py" tvg-name="5Dias TV" tvg-logo="https://i.imgur.com/AX25tmv.png" tvg-country="PY" tvg-language="Spanish" group-title="Business",5Dias TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
+#EXTINF:-1 tvg-id="A24Paraguay.py" tvg-name="A24 Paraguay" tvg-logo="https://i.imgur.com/XWBmjBk.png" tvg-country="PY" tvg-language="Spanish" group-title="News",A24 Paraguay
+https://tv.mitvparaguay.com/hls?type=hls&id=a24
 #EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC-TV Paraguay" tvg-logo="https://i.imgur.com/OqfBMGy.png" tvg-country="PY" tvg-language="Spanish" group-title="News",ABC-TV Paraguay
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 #EXTINF:-1 tvg-id="AGRFMTV.py" tvg-name="AGR FM TV" tvg-logo="https://i.imgur.com/tg6EjTU.png" tvg-country="PY" tvg-language="Spanish" group-title="General",AGR FM TV
@@ -13,6 +15,8 @@ https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 #EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" tvg-logo="https://i.imgur.com/0COKxet.png" tvg-country="PY" tvg-language="Spanish" group-title="General",America Paraguay
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
+#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" tvg-logo="https://i.imgur.com/0COKxet.png" tvg-country="PY" tvg-language="Spanish" group-title="General",America Paraguay
+https://tv.mitvparaguay.com/hls?type=hls&id=americatv
 #EXTINF:-1 tvg-id="BrunoMasiTV.py" tvg-name="Bruno Masi TV" tvg-logo="https://i.ibb.co/QFmyjZN/unnamed-1.png" tvg-country="PY" tvg-language="Spanish" group-title="General",Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:-1 tvg-id="C9N.py" tvg-name="C9N" tvg-logo="https://i.imgur.com/iXkwP31.png" tvg-country="PY" tvg-language="Spanish" group-title="News",C9N (720p)
@@ -47,6 +51,9 @@ http://190.128.214.97:64333/play/a011/index.m3u8
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="FarraPlay.py" tvg-name="Farra Play" tvg-logo="https://i.imgur.com/bXWzstH.png" tvg-country="PY" tvg-language="Spanish" group-title="Music",Farra Play (576p)
 https://stream.farra.com.py/live/farra_low.m3u8
+#EXTINF:-1 tvg-id="Gen.py" tvg-name="Gen" tvg-logo="https://i.imgur.com/vEMnZF4.png" tvg-country="PY" tvg-language="Spanish" http-referrer="https%3A//gentv.desdepylabs.com/External/gentv" group-title="General",Gen
+#EXTVLCOPT:http-referrer=https%3A//gentv.desdepylabs.com/External/gentv
+https://tv.mitvparaguay.com/hls?type=hls&url=https%3A%2F%2Fcopacogen.desdeparaguay.net%2Fgentv%2Fgentv_py_baja%2Fchunklist_w2016222336.m3u8%3Fk%3D6de8e821fe4afa30bafdeab37d3d09300b830f37e1c3a1499ce23c9220df2ba8%26exp%3D1794402945&referer=https%3A//gentv.desdepylabs.com/External/gentv&origin=https%3A//www.gen.com.py
 #EXTINF:-1 tvg-id="GOTV.py" tvg-name="GO TV" tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" tvg-country="PY" tvg-language="Spanish" group-title="Entertainment;Music",GO TV (720p)
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="HEiNow.py" tvg-name="HEi Now" tvg-logo="https://i.imgur.com/oMHiGRN.png" tvg-country="PY" tvg-language="Spanish" http-referrer="https://www.heinow.com.py/" group-title="Music",HEi Now (1080p)
@@ -154,6 +161,8 @@ https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" tvg-logo="https://i.imgur.com/cgIv5QK.png" tvg-country="PY" tvg-language="Spanish" group-title="General",Trece
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" tvg-logo="https://i.imgur.com/cgIv5QK.png" tvg-country="PY" tvg-language="Spanish" group-title="General",Trece
+https://tv.mitvparaguay.com/hls?type=hls&id=trece
 #EXTINF:-1 tvg-id="Tropicalia939FM.py" tvg-name="Tropicalia 93.9 FM" tvg-logo="https://i.imgur.com/oMML5Ue.png" tvg-country="PY" tvg-language="Spanish" group-title="Music",Tropicalia 93.9 FM
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 #EXTINF:-1 tvg-id="TVAire.py" tvg-name="TV Aire" tvg-logo="https://i.imgur.com/7gHFKPZ.png" tvg-country="PY" tvg-language="Spanish" group-title="General",TV Aire (1080p)

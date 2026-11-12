@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JM1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_JM1.xml.gz"
+#EXTINF:-1 tvg-id="BlessTV.jm" tvg-name="Bless TV" tvg-logo="https://i.imgur.com/USshSMj.png" tvg-country="JM" tvg-language="English" group-title="Religious",Bless TV (1080p)
+https://932y483pdjv8-hls-live.5centscdn.com/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CaribbeanGospelTV.jm" tvg-name="Caribbean Gospel TV" tvg-logo="https://i.imgur.com/lhgrqmA.png" tvg-country="JM" tvg-language="English" group-title="Religious",Caribbean Gospel TV
 https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8
 #EXTINF:-1 tvg-id="Fame95FM.jm" tvg-name="Fame95 FM" tvg-logo="https://i.imgur.com/n3PUxes.png" tvg-country="JM" tvg-language="English" group-title="Music",Fame95 FM (614p)

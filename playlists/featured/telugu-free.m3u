@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",TV9 Telugu (1080p)
+https://amg01106-amg01106c4-amgplt0747.playout.now3.amagi.tv/amg01106c4/hls.m3u8
 #EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",TV9 Telugu (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",TV9 Telugu (576p)
@@ -33,6 +35,8 @@ https://mumt07.tangotv.in/zHjX9OFlSAKSHITV/index.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
 #EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",Sakshi TV (576p)
 https://yuppnimresmum.akamaized.net/240122/sakshi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" tvg-country="IN" tvg-language="Telugu" group-title="News",ABN Andhra Jyoti (1080p)
+https://stream.ottlive.co.in/abnandhrajyothycdn/index.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" tvg-country="IN" tvg-language="Telugu" group-title="News",ABN Andhra Jyoti (720p)
 https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" tvg-country="IN" tvg-language="Telugu" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",ABN Andhra Jyoti (576p)
@@ -107,6 +111,8 @@ https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8
 https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_36_UP_UK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",Prime9 News (1080p)
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
+#EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_36_UP_UK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",Prime9 News (1080p)
+https://stream.ottlive.co.in/prime9news/index.m3u8
 #EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_36_UP_UK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",Prime9 News (576p)
 https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Mahaa-News-logo_2000_X_1125-Transpharent.png" tvg-country="IN" tvg-language="Telugu" group-title="News",Mahaa News (1080p)
@@ -144,6 +150,8 @@ https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8
 https://cdn.pishow.tv/ott/live/1037/master.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" tvg-country="IN" tvg-language="Telugu" group-title="General",Metro TV (1080p)
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+#EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" tvg-country="IN" tvg-language="Telugu" group-title="General",Metro TV (1080p)
+https://stream.ottlive.co.in/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="SwatantraTV.in" tvg-name="Swatantra TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swatantra_News.png" tvg-country="IN" tvg-language="Telugu" group-title="News",Swatantra TV (1080p)
 https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_ANDHRA_PRADESH/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",ETV Andhra Pradesh (1080p)
@@ -179,6 +187,8 @@ https://cdn.pishow.tv/ott/live/397/master.m3u8
 https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8
 #EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" tvg-country="IN" tvg-language="Telugu" group-title="Religious",Bhakthi TV (576p)
 https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-country="IN" tvg-language="Telugu" group-title="Religious",Aastha Telugu (720p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a3e6a5fec4354ec4ae0ca5ed539ff641/index.m3u8
 #EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-country="IN" tvg-language="Telugu" group-title="Religious",Aastha Telugu (576p)
 https://cdn.pishow.tv/ott/live/262/master.m3u8
 #EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-country="IN" tvg-language="Telugu" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha Telugu (576p)

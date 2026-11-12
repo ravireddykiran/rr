@@ -56,8 +56,6 @@ http://74.91.26.218:82/live/cctv17hd.m3u8
 http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV-3" tvg-logo="https://i.imgur.com/iFlkIuw.png" tvg-country="CN" tvg-language="Chinese" group-title="Entertainment",CCTV-3 (720p)
 http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 America" tvg-logo="https://i.imgur.com/gBbLyqh.png" tvg-country="CN" tvg-language="Chinese;English" group-title="General",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 America" tvg-logo="https://i.imgur.com/gBbLyqh.png" tvg-country="CN" tvg-language="Chinese;English" group-title="General",CCTV-4 America
 https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-name="CCTV-4 Asia" tvg-logo="https://i.imgur.com/tWt4Wou.png" tvg-country="CN" tvg-language="Chinese;English" group-title="General",CCTV-4 Asia (720p)
@@ -122,8 +120,6 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" tvg-country="CN" tvg-language="English;Chinese" group-title="News",CGTN (1080p)
 https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" tvg-country="CN" tvg-language="English;Chinese" group-title="News",CGTN (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" tvg-country="CN" tvg-language="English;Chinese" group-title="News",CGTN (720p)
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" tvg-country="CN" tvg-language="English;Chinese" group-title="News",CGTN (720p)
@@ -148,8 +144,6 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="Documentary",CGTN Documentary (1080p) [Not 24/7]
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="Documentary",CGTN Documentary (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="Documentary",CGTN Documentary (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="Documentary",CGTN Documentary
@@ -168,8 +162,6 @@ https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" tvg-logo="https://i.imgur.com/qBmomnF.png" tvg-country="CN" tvg-language="Chinese;English" group-title="Business",CGTN Global Biz (1080p)
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" tvg-logo="https://i.imgur.com/qBmomnF.png" tvg-country="CN" tvg-language="Chinese;English" group-title="Business",CGTN Global Biz (1080p)
-https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-country="CN" tvg-language="Russian" group-title="News",CGTN Russian (1080p)
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-country="CN" tvg-language="Russian" group-title="News",CGTN Russian (576p)
@@ -180,8 +172,6 @@ https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-country="CN" tvg-language="Spanish" group-title="News",CGTN Spanish (1080p)
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-country="CN" tvg-language="Spanish" group-title="News",CGTN Spanish (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-country="CN" tvg-language="Spanish" group-title="News",CGTN Spanish (720p)
 http://45.165.82.19/test/index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-country="CN" tvg-language="Spanish" group-title="News",CGTN Spanish (576p)
@@ -202,8 +192,6 @@ http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/inde
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" tvg-country="CN" tvg-language="Chinese;English" group-title="Documentary;Travel;Culture",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" tvg-country="CN" tvg-language="Chinese;English" group-title="Documentary;Travel;Culture",China Travel (1080p)
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="ChinaWeatherChannel.cn" tvg-name="China Weather Channel" tvg-logo="https://i.imgur.com/syNwDpg.png" tvg-country="CN" tvg-language="Chinese" group-title="Weather",China Weather Channel (576p) [Not 24/7]
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="ChuxiongNewsChannel.cn" tvg-name="Chuxiong News Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/chuxiongtv.jpg" tvg-country="CN" tvg-language="Chinese" group-title="News",Chuxiong News Channel [Not 24/7]
@@ -222,8 +210,6 @@ http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" tvg-logo="https://i.imgur.com/wr2bLaA.png" tvg-country="CN" tvg-language="Chinese;English" group-title="Documentary;Culture",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" tvg-logo="https://i.imgur.com/wr2bLaA.png" tvg-country="CN" tvg-language="Chinese;English" group-title="Documentary;Culture",Discovering China (1080p)
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="DocumentaryHumanitiesChannel.cn" tvg-name="Documentary Humanities Channel" tvg-logo="https://i.imgur.com/CEcNWsE.png" tvg-country="CN" tvg-language="Chinese" group-title="Other",Documentary Humanities Channel (1080p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="DongguanComprehensiveNewsChannel.cn" tvg-name="Dongguan Comprehensive News Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/dgtv1.jpg" tvg-country="CN" tvg-language="Chinese" group-title="News",Dongguan Comprehensive News Channel

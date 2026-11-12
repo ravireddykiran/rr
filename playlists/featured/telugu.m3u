@@ -32,6 +32,8 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/studioyuva/playlist.m3u8?hdnts=st=1
 https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
 #EXTINF:-1 tvg-id="TeluguOne.in" tvg-name="Telugu One" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400058AF_20260311T004509SQUARE.png" tvg-country="IN" tvg-language="Telugu" group-title="Entertainment",Telugu One (1080p)
 https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
+#EXTINF:-1 tvg-id="TeluguOne.in" tvg-name="Telugu One" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400058AF_20260311T004509SQUARE.png" tvg-country="IN" tvg-language="Telugu" group-title="Entertainment",Telugu One (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4eda1f4a-c0ee-4273-adfe-17afc51977fc/playlist.m3u8
 #EXTINF:-1 tvg-id="VissaTV.in" tvg-name="Vissa TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="Entertainment",Vissa TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
 #EXTINF:-1 tvg-id="MangoMobileTV.in" tvg-name="Mango Mobile TV" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg" tvg-country="IN" tvg-language="Telugu" group-title="Entertainment",Mango Mobile TV (1080p)
@@ -62,6 +64,8 @@ https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="Telugu" group-title="Movies",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="TollyTV.in" tvg-name="Tolly TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png" tvg-country="IN" tvg-language="Telugu" group-title="Movies",Tolly TV (1080p)
+https://streams2.sofast.tv/ptnr-khabriya/title-TOLLY-TV-TEL_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb55dff-7a74-43aa-bcf7-ea537e8b9e92/manifest.m3u8
+#EXTINF:-1 tvg-id="TollyTV.in" tvg-name="Tolly TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png" tvg-country="IN" tvg-language="Telugu" group-title="Movies",Tolly TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
 #EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETVMusic12.png" tvg-country="IN" group-title="Music",ETV Music (1080p)
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
@@ -87,6 +91,8 @@ https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8
 #EXTINF:-1 tvg-id="ETVNews.in" tvg-name="ETV News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900001AQ_20250811T033458SQUARE.png" tvg-country="IN" tvg-language="Telugu" group-title="News",ETV News (1080p)
 https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",TV9 Telugu (1080p)
+https://amg01106-amg01106c4-amgplt0747.playout.now3.amagi.tv/amg01106c4/hls.m3u8
 #EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",TV9 Telugu (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",TV9 Telugu (576p)
@@ -109,6 +115,8 @@ https://cdn.pishow.tv/ott/live/383/master.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NTV_Telugu.png" tvg-country="IN" tvg-language="Telugu" group-title="News",NTV Telugu (576p)
 https://yuppnimresmum.akamaized.net/110322/ntv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" tvg-country="IN" tvg-language="Telugu" group-title="News",ABN Andhra Jyoti (1080p)
+https://stream.ottlive.co.in/abnandhrajyothycdn/index.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" tvg-country="IN" tvg-language="Telugu" group-title="News",ABN Andhra Jyoti (720p)
 https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" tvg-country="IN" tvg-language="Telugu" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",ABN Andhra Jyoti (576p)
@@ -177,6 +185,8 @@ https://cdn.pishow.tv/ott/live/279/master.m3u8
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
 #EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_36_UP_UK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",Prime9 News (1080p)
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
+#EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_36_UP_UK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",Prime9 News (1080p)
+https://stream.ottlive.co.in/prime9news/index.m3u8
 #EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_36_UP_UK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",Prime9 News (576p)
 https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Mahaa-News-logo_2000_X_1125-Transpharent.png" tvg-country="IN" tvg-language="Telugu" group-title="News",Mahaa News (1080p)
@@ -232,6 +242,8 @@ https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8
 https://cdn.pishow.tv/ott/live/1037/master.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" tvg-country="IN" tvg-language="Telugu" group-title="General",Metro TV (1080p)
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+#EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" tvg-country="IN" tvg-language="Telugu" group-title="General",Metro TV (1080p)
+https://stream.ottlive.co.in/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="SwatantraTV.in" tvg-name="Swatantra TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swatantra_News.png" tvg-country="IN" tvg-language="Telugu" group-title="News",Swatantra TV (1080p)
 https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTeluguNews.in" tvg-name="Zee Telugu News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_News.png" tvg-country="IN" tvg-language="Telugu" group-title="News",Zee Telugu News (720p)
@@ -248,6 +260,8 @@ https://cdn.pishow.tv/ott/live/397/master.m3u8
 https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8
 #EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" tvg-country="IN" tvg-language="Telugu" group-title="Religious",Bhakthi TV (576p)
 https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-country="IN" tvg-language="Telugu" group-title="Religious",Aastha Telugu (720p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a3e6a5fec4354ec4ae0ca5ed539ff641/index.m3u8
 #EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-country="IN" tvg-language="Telugu" group-title="Religious",Aastha Telugu (576p)
 https://cdn.pishow.tv/ott/live/262/master.m3u8
 #EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-country="IN" tvg-language="Telugu" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha Telugu (576p)
@@ -320,12 +334,8 @@ https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8
 https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi;Tamil;Telugu;Kannada;Malayalam;Bengali;Marathi" group-title="Kids",Sonic (576p)
 http://103.185.24.134:3001/SONIC/index.m3u8
-#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi;Tamil;Telugu" group-title="Kids",Hungama TV (576p)
-http://103.135.253.32:8080/HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="EpicKids.in" tvg-name="Epic Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="Kids",Epic Kids Digital (1080p)
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name="Discovery Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Malayalam;Hindi;Tamil;Telugu" group-title="Kids",Discovery Kids (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_Health.png" tvg-country="IN" tvg-language="Telugu" group-title="Lifestyle",CVR Health (576p)
 https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
 #EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_Health.png" tvg-country="IN" tvg-language="Telugu" group-title="Lifestyle",CVR Health (576p)

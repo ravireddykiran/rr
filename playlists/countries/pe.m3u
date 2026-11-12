@@ -19,6 +19,8 @@ https://servilive.com:3199/live/amazoniatvlive.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonicaTV.pe" tvg-name="Amazonica TV" tvg-logo="https://i.imgur.com/22ebHAX.jpeg" tvg-country="PE" tvg-language="Spanish" group-title="General",Amazonica TV
 https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
+#EXTINF:-1 tvg-id="AmericaInternacional.pe" tvg-name="America Internacional" tvg-logo="https://i.imgur.com/4ZTKAGd.png" tvg-country="PE" tvg-language="Spanish" group-title="General",America Internacional (720p)
+https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-country="PE" tvg-language="Spanish" group-title="General",America Television (1080p)
 http://190.93.224.42/AMERICA-TV/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-country="PE" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" group-title="General",America Television (1080p)
@@ -91,6 +93,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="BicolorPlusPremium.pe" tvg-name="Bicolor+ Premium" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790183086681/1dff7002a22a_640_360.png" tvg-country="PE" tvg-language="Spanish" group-title="Sports",Bicolor+ Premium [Geo-blocked]
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="BicolorPlusPremium2.pe" tvg-name="Bicolor+ Premium 2" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194132371/1e57475a9a6b_640_360.png" tvg-country="PE" tvg-language="Spanish" group-title="Sports",Bicolor+ Premium 2 (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="BNBDigital.pe" tvg-name="BNB Digital" tvg-logo="https://i.imgur.com/MgEN1F8.png" tvg-country="PE" tvg-language="Spanish" group-title="General",BNB Digital (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="CadenaTV.pe" tvg-name="Cadena TV" tvg-logo="https://i.imgur.com/stvzqzd.png" tvg-country="PE" tvg-language="Spanish" group-title="Other",Cadena TV (720p) [Not 24/7]
@@ -121,8 +125,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMasTV.pe" tvg-name="Canal Mas TV" tvg-logo="https://i.imgur.com/rdHygJ1.png" tvg-country="PE" tvg-language="Spanish" group-title="General",Canal Mas TV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-country="PE" tvg-language="Spanish" group-title="News",Canal N (1080p)
-http://170.244.209.30:8000/play/a1ib/index.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-country="PE" tvg-language="Spanish" group-title="News",Canal N (1080p)
 http://187.102.208.209:8000/play/a0az/index.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-country="PE" tvg-language="Spanish" group-title="News",Canal N (576p)
@@ -159,8 +161,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8
 https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EvolucionTV.pe" tvg-name="Evolucion TV" tvg-logo="https://i.imgur.com/OUsT530.jpeg" tvg-country="PE" tvg-language="Spanish" group-title="General",Evolucion TV (576p)
 https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-country="PE" tvg-language="Spanish" group-title="News",Exitosa TV (1080p)
-http://170.244.209.30:8000/play/a1ic/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-country="PE" tvg-language="Spanish" group-title="News",Exitosa TV (1080p)
 http://190.93.224.42/EXITOSA/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-country="PE" tvg-language="Spanish" group-title="News",Exitosa TV (720p)
@@ -236,6 +236,8 @@ https://eu1.servers10.com:8081/8004/index.m3u8
 http://190.93.224.42/LA-TELE/index.m3u8
 #EXTINF:-1 tvg-id="LaTele.pe" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png" tvg-country="PE" tvg-language="Spanish" group-title="Entertainment",La Tele (1080p)
 https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LaTremendaTV.pe" tvg-name="La Tremenda TV" tvg-logo="https://i.pinimg.com/736x/46/24/d3/4624d356bfdaa6254c2597f686108841.jpg" tvg-country="PE" tvg-language="Spanish" group-title="General",La Tremenda TV (1080p)
+https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://i.imgur.com/MOsWriY.png" tvg-country="PE" tvg-language="Spanish" group-title="General",Latina (1080p)
 http://190.93.224.42/LATINA/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://i.imgur.com/MOsWriY.png" tvg-country="PE" tvg-language="Spanish" group-title="General",Latina (1080p)
@@ -279,8 +281,6 @@ https://www.milenial.news/salida/milenial.m3u8
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-logo="https://i.imgur.com/SuVO9T7.png" tvg-country="PE" tvg-language="Spanish" group-title="Sports",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://i.imgur.com/Zt3iE86.png" tvg-country="PE" tvg-language="Spanish" group-title="Sports",Movistar Deportes (1080p)
-http://170.244.209.30:8000/play/a1i8/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://i.imgur.com/Zt3iE86.png" tvg-country="PE" tvg-language="Spanish" group-title="Sports",Movistar Deportes (1080p)
 http://195.178.110.110/movistar/index.m3u8
 #EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" tvg-logo="https://i.imgur.com/yGQGDoi.png" tvg-country="PE" tvg-language="Spanish" group-title="Entertainment",Movistar Plus (576p)
@@ -533,8 +533,6 @@ https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
 #EXTINF:-1 tvg-id="WEST.pe" tvg-name="WEST" tvg-logo="https://aptcperu.org/wp-content/uploads/2026/04/logoMesa-de-trabajo-1-copia-5.png" tvg-country="PE" tvg-language="Spanish" group-title="Entertainment",WEST (1080p)
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-country="PE" tvg-language="Spanish" group-title="General",Willax TV (1080p)
-http://170.244.209.30:8000/play/a1id/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-country="PE" tvg-language="Spanish" group-title="General",Willax TV (1080p)
 http://190.93.224.42/WILLAX/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-country="PE" tvg-language="Spanish" group-title="General",Willax TV (720p)

@@ -81,8 +81,6 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png" tvg-country="ES" tvg-language="Spanish" group-title="General",Antena 3
 https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
-#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" tvg-country="ES" tvg-language="Spanish" group-title="General",Antena 3 Internacional (1080p)
-http://38.252.238.18:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="ArabiTV.es" tvg-name="Arabi TV" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" tvg-country="ES" tvg-language="Spanish" group-title="General",Arabi TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 #EXTINF:-1 tvg-id="AragonTVInternacional.es" tvg-name="Aragon TV Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512" tvg-country="ES" tvg-language="Spanish" group-title="General;Public",Aragon TV Internacional (720p) [Not 24/7]
@@ -674,8 +672,6 @@ http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/960px-Star_TVE_2026.svg.png" tvg-country="ES" tvg-language="Spanish" group-title="Series",TVE Star (576p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
-#EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/960px-Star_TVE_2026.svg.png" tvg-country="ES" tvg-language="Spanish" group-title="Series",TVE Star HD (1080p)
-http://38.252.238.18:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/960px-Star_TVE_2026.svg.png" tvg-country="ES" tvg-language="Spanish" group-title="Series",TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/960px-Star_TVE_2026.svg.png" tvg-country="ES" tvg-language="Spanish" group-title="Series",TVE Star HD (1080p)

@@ -201,7 +201,7 @@ https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-name="Thikrayat TV" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-country="SA" tvg-language="Arabic" group-title="Saudi Arabia",Thikrayat TV (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
 #EXTINF:-1 tvg-id="TimelessTV.us" tvg-name="Timeless TV" tvg-logo="https://i.imgur.com/bjcpeVH.png" tvg-country="US" tvg-language="English" group-title="United States",Timeless TV
-https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+https://timelesstv1.b-cdn.net/hls/TimelessTV.m3u8
 #EXTINF:-1 tvg-id="TMF.nl" tvg-name="TMF" tvg-logo="https://www.maxx-xs.nl/images/assets/3/c/3c123778ef66464786705dc4138303ec/COV/cover_l_01.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",TMF (1080p)
 https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-name="TVN3" tvg-logo="https://i.imgur.com/9LEiQPJ.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",TVN3 (1080p) [Geo-blocked]

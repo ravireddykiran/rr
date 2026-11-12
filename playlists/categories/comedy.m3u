@@ -528,7 +528,7 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="TakeshisCastle.de" tvg-name="Takeshi's Castle" tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoSVG.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 #EXTINF:-1 tvg-id="Telecyan.us" tvg-name="Telecyan" tvg-logo="https://i.imgur.com/9BnHCj5.png" tvg-country="US" tvg-language="English" group-title="United States",Telecyan (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8
 #EXTINF:-1 tvg-id="TheBeverlyHillbillies.us" tvg-name="The Beverly Hillbillies" tvg-logo="https://images.pluto.tv/channels/6565fefdc917a50008485cc6/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",The Beverly Hillbillies
 https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
 #EXTINF:-1 tvg-id="TheChatShowChannel.uk" tvg-name="The Chat Show Channel" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-country="UK" tvg-language="English" group-title="United Kingdom",The Chat Show Channel (1080p)
@@ -561,8 +561,6 @@ https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.us" tvg-name="Universal Comedy" tvg-logo="https://i.imgur.com/avBL8pQ.png" tvg-country="US" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="United States",Universal Comedy (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-country="US" tvg-language="English" group-title="United States",USA Network (720p)
-http://190.197.41.183/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-country="US" tvg-language="English" group-title="United States",USA Network (720p)
 http://200.32.231.178/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Vayasemanita.us" tvg-name="Vaya semanita" tvg-logo="https://i.imgur.com/0bCLNUG.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Vaya semanita

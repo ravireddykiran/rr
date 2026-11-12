@@ -94,7 +94,7 @@ https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Magnat.ru" tvg-name="Magnat" tvg-logo="https://i.imgur.com/r485aZL.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Magnat (1080p)
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" tvg-logo="https://i.imgur.com/CXjo8kn.png" tvg-country="US" tvg-language="English" group-title="United States",Magnificent Movies Network
-https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="Mango.pl" tvg-name="Mango" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg" tvg-country="PL" tvg-language="Polish" group-title="Poland",Mango (1080p) [Geo-blocked]
 https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
 #EXTINF:-1 tvg-id="MOMOTV.tw" tvg-name="MOMO TV" tvg-logo="https://m.momoshop.com.tw/img/message.png" tvg-country="TW" tvg-language="Chinese" group-title="Taiwan",MOMO TV (1080p)
@@ -105,6 +105,8 @@ https://moymir.ru/hls/onair.m3u8
 https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 #EXTINF:-1 tvg-id="NSShopPlus.kr" tvg-name="NS Shop+" tvg-logo="https://i.imgur.com/7KmXNci.png" tvg-country="KR" tvg-language="Korean" group-title="South Korea",NS Shop+ (720p)
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+#EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" tvg-logo="https://i.imgur.com/yaCK1Mh.png" tvg-country="US" tvg-language="English" group-title="United States",OnTV4U (1080p)
+https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8
 #EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" tvg-logo="https://i.imgur.com/yaCK1Mh.png" tvg-country="US" tvg-language="English" group-title="United States",OnTV4U (1080p) [Geo-blocked]
 https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC.jp" tvg-name="QVC" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-country="JP" tvg-language="Japanese" group-title="Japan",QVC (1080p)
@@ -164,7 +166,7 @@ https://live.shoppingntmall.com/live/10011.m3u8
 #EXTINF:-1 tvg-id="TeaTV.vn" tvg-name="Tea TV" tvg-logo="https://i.imgur.com/WorbnyD.jpg" tvg-country="VN" tvg-language="Vietnamese" group-title="Vietnam",Tea TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TimelessTV.us" tvg-name="Timeless TV" tvg-logo="https://i.imgur.com/bjcpeVH.png" tvg-country="US" tvg-language="English" group-title="United States",Timeless TV
-https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+https://timelesstv1.b-cdn.net/hls/TimelessTV.m3u8
 #EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC" tvg-logo="https://i.imgur.com/fk5rEje.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",TJC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC" tvg-logo="https://i.imgur.com/fk5rEje.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",TJC (1080p)

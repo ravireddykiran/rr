@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt" tvg-name="Amigos TV Chiquimula" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" tvg-country="GT" tvg-language="Spanish" group-title="Religious",Amigos TV Chiquimula (1080p)
+http://45.166.93.156:9999/play/a0j2/index.m3u8
 #EXTINF:-1 tvg-id="AmigosTVChiquimula.gt" tvg-name="Amigos TV Chiquimula" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" tvg-country="GT" tvg-language="Spanish" group-title="Religious",Amigos TV Chiquimula (480p)
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-name="Aurora Media Films" tvg-logo="https://i.imgur.com/DVC5w6H.png" tvg-country="GT" tvg-language="Spanish" group-title="Movies",Aurora Media Films (720p)
@@ -8,7 +10,7 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-id="BDTelevision.gt" tvg-name="BD Television" tvg-logo="https://i.ibb.co/VBJhHkJ/Fda27b8e352949c39c8d88de33a284a4.png" tvg-country="GT" tvg-language="Spanish" group-title="General",BD Television (720p)
 https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal100Chinique.gt" tvg-name="Canal 100 Chinique" tvg-logo="https://i.imgur.com/ygNKJXx.png" tvg-country="GT" tvg-language="Spanish" group-title="Other",Canal 100 Chinique (1080p)
-https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-name="Canal 11" tvg-logo="https://i.imgur.com/nmlBLpI.png" tvg-country="GT" tvg-language="Spanish" group-title="General",Canal 11 (1080p)
 http://168.228.44.241:9999/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-name="Canal 11" tvg-logo="https://i.imgur.com/nmlBLpI.png" tvg-country="GT" tvg-language="Spanish" group-title="General",Canal 11 (720p)
@@ -118,16 +120,16 @@ https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
 https://s2.tvdatta.com:3112/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" tvg-logo="https://i.imgur.com/5o821rT.png" tvg-country="GT" tvg-language="Spanish" group-title="Religious",Rhema TV (1080p)
 http://45.171.64.30:6060/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" tvg-logo="https://i.imgur.com/5o821rT.png" tvg-country="GT" tvg-language="Spanish" group-title="Religious",Rhema TV (1080p)
+http://45.166.93.156:9999/play/a0ff/index.m3u8
 #EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" tvg-logo="https://i.imgur.com/5o821rT.png" tvg-country="GT" tvg-language="Spanish" group-title="Religious",Rhema TV (720p)
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
-#EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" tvg-logo="https://i.imgur.com/5o821rT.png" tvg-country="GT" tvg-language="Spanish" group-title="Religious",Rhema TV
-http://190.61.90.17:40000/play/a0iw/index.m3u8
 #EXTINF:-1 tvg-id="SASTV.gt" tvg-name="SAS TV" tvg-logo="https://i.imgur.com/VShjB3o.png" tvg-country="GT" tvg-language="Spanish" group-title="Entertainment",SAS TV (720p)
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1 tvg-id="SILTV.gt" tvg-name="SIL TV" tvg-logo="https://i.imgur.com/tWZXRVu.png" tvg-country="GT" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome" http-referrer="https://www.facebook.com/Siltv32" group-title="General",SIL TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
 #EXTVLCOPT:http-referrer=https://www.facebook.com/Siltv32
-https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 #EXTINF:-1 tvg-id="SolTV.gt" tvg-name="Sol TV" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" tvg-country="GT" tvg-language="Spanish" group-title="General",Sol TV (720p)
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-id="Telecosta.gt" tvg-name="Telecosta" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" tvg-country="GT" tvg-language="Spanish" group-title="Other",Telecosta (720p)
@@ -161,4 +163,4 @@ http://181.78.106.127:5000/play/ca090/index.m3u8
 #EXTINF:-1 tvg-id="VisionTV.gt" tvg-name="Vision TV" tvg-logo="https://i.imgur.com/S0JrfIl.png" tvg-country="GT" tvg-language="Spanish" group-title="Other",Vision TV (720p)
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="WorldTVGuatemala.gt" tvg-name="World TV Guatemala" tvg-logo="https://i.ibb.co/G4cTmRgz/World-Tv-Guatemala.png" tvg-country="GT" tvg-language="Spanish" group-title="General",World TV Guatemala (720p)
-https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8

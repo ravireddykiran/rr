@@ -84,6 +84,8 @@ https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 #EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" tvg-logo="https://makrodigitaltelevision.com/logo.jpg" tvg-country="EC" tvg-language="Spanish" http-referrer="https://makrodigitaltelevision.com" group-title="Entertainment",MakroDigital Television (1080p)
 #EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" tvg-logo="https://makrodigitaltelevision.com/logo.jpg" tvg-country="EC" tvg-language="Spanish" group-title="Entertainment",MakroDigital Television (1080p)
+http://205.235.6.29:8000/play/a0wp/index.m3u8
 #EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" tvg-logo="https://makrodigitaltelevision.com/logo.jpg" tvg-country="EC" tvg-language="Spanish" group-title="Entertainment",MakroDigital Television (720p)
 http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Manavision.ec" tvg-name="Manavision" tvg-logo="https://i.imgur.com/mZkW342.png" tvg-country="EC" tvg-language="Spanish" group-title="Culture",Manavision (480p)

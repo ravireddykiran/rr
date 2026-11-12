@@ -23,8 +23,6 @@ https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",China Travel (1080p)
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-name="Costa Rica Channel" tvg-logo="https://i.imgur.com/N4pFVVF.png" tvg-country="CR" tvg-language="Spanish" group-title="Costa Rica",Costa Rica Channel (576p) [Not 24/7]
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/960px-Destination_America_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Destination America (720p)
@@ -128,8 +126,6 @@ https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-id="Teletur.do" tvg-name="Teletur" tvg-logo="https://i.imgur.com/Ig4gR93.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Teletur (720p) [Not 24/7]
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil" tvg-logo="https://i.imgur.com/3tBJERH.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Travel Box Brazil (720p)
-http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil" tvg-logo="https://i.imgur.com/3tBJERH.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Travel Box Brazil (720p)
 http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Travel_Channel_logo-cerulean_blue.png/960px-Travel_Channel_logo-cerulean_blue.png" tvg-country="PL" tvg-language="English" group-title="Poland",Travel Channel (576i)

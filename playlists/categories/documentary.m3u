@@ -31,16 +31,10 @@ https://tv.alterna.ar/stream/hls/live.m3u8
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Animal Planet (1080p)
 http://stream.mcquack.net/114/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi;Tamil" group-title="India",Animal Planet (720p)
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Animal Planet (720p)
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Animal Planet (720p)
-http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Animal Planet
 http://37.49.224.5/stream/10/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi;Tamil" group-title="India",Animal Planet HD (720p)
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Animal Planet Latin America (1080p)
 http://190.128.214.97:64333/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Animal Planet Latin America HD (720p) [Geo-blocked]
@@ -135,8 +129,6 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="China",CGTN Documentary (1080p) [Not 24/7]
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="China",CGTN Documentary (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="China",CGTN Documentary (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="China",CGTN Documentary
@@ -148,8 +140,6 @@ https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8
 http://stream.mcquack.net/399/index.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",China Travel (1080p)
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoDok.ru" tvg-name="City Eden KinoDok" tvg-logo="https://i.imgur.com/itRbMX3.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",City Eden KinoDok [Not 24/7]
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-name="CNA Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" tvg-country="SG" tvg-language="English" group-title="Singapore",CNA Originals (1080p)
@@ -204,8 +194,6 @@ https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8
 https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" tvg-logo="https://i.imgur.com/wr2bLaA.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" tvg-logo="https://i.imgur.com/wr2bLaA.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",Discovering China (1080p)
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png" tvg-country="UK" tvg-language="English;Polish" group-title="United Kingdom",Discovery History
 http://37.49.224.5/stream/12/index.m3u8
 #EXTINF:-1 tvg-id="DocuBayTV.in" tvg-name="DocuBay TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DocuBay.png" tvg-country="IN" tvg-language="English" group-title="India",DocuBay TV (1080p)
@@ -356,15 +344,11 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Investigation Discovery (1080p) [Geo-blocked]
 http://212.5.144.156:8080/id/index.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi" group-title="India",Investigation Discovery (720p)
-https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.fr" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-country="FR" tvg-language="French" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="France",Investigation Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://192.99.186.30/stream/81/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-country="HU" tvg-language="Czech;English;Hungarian" group-title="Hungary",Investigation Discovery
 http://88.212.7.14/live/id_hun/index.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-name="Investigation Discovery Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Investigation Discovery Latin America South (1080p)
-http://38.65.175.84:8000/play/a0ch/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-name="Investigation Discovery Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Investigation Discovery Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl" tvg-name="INWILD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",INWILD (1080p)
@@ -471,8 +455,9 @@ http://88.212.7.14/live/ngc_hun/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="TR" tvg-language="Turkish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Turkiye",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://nord.ayakkabiparti.lol/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi;Kannada;Malayalam;Telugu;Tamil;Bengali;Marathi" group-title="India",National Geographic HD (1080p)
-http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="UK" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="United Kingdom",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://82.47.42.44/stream/405/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.nl" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="NL" tvg-language="Dutch" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Netherlands",National Geographic HD (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://46.32.176.50/NationalGeographicHD/index.m3u8
@@ -673,6 +658,12 @@ http://92.114.85.87:8015/play/a005/index.m3u8
 http://92.114.85.87:8016/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="Reelz.us" tvg-name="Reelz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Reelz (720p)
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" tvg-logo="https://i.imgur.com/czrTtNK.png" tvg-country="US" tvg-language="English" group-title="United States",Reelz Famous & Infamous (1080p)
+https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" tvg-logo="https://i.imgur.com/czrTtNK.png" tvg-country="US" tvg-language="English" group-title="United States",Reelz Famous & Infamous (1080p)
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" tvg-logo="https://i.imgur.com/czrTtNK.png" tvg-country="US" tvg-language="English" group-title="United States",Reelz Famous & Infamous (720p)
+https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RL PRO TV" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" tvg-country="CD" tvg-language="French" group-title="Democratic Republic of the Congo",RL PRO TV
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-country="RU" tvg-language="English" group-title="Russia",RT Documentary (1080p) [Geo-blocked]
@@ -715,6 +706,8 @@ https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
 https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
 #EXTINF:-1 tvg-id="TeenMom.us" tvg-name="Teen Mom" tvg-logo="https://i.imgur.com/8o3ClCV.png" tvg-country="US" tvg-language="English" group-title="United States",Teen Mom
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",TERRA (1080p)
+http://s1.merlive.am/TerraHD/index.m3u8
 #EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",TERRA (720p)
 http://31.148.48.15/Terra_HD/index.m3u8
 #EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",TERRA (576p)

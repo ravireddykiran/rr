@@ -21,8 +21,6 @@ https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
 http://168.196.127.137:6001/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="Az Cinema" tvg-logo="https://i.imgur.com/B5UN7C8.png" tvg-country="MX" tvg-language="Spanish" group-title="Movies",Az Cinema (1080p)
 http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="Az Clic" tvg-logo="https://i.imgur.com/ClqIQ4M.png" tvg-country="MX" tvg-language="Spanish" group-title="Entertainment",Az Clic (1080p)
-http://38.252.238.18:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Az Corazon" tvg-logo="https://i.imgur.com/KIpSdQC.png" tvg-country="MX" tvg-language="Spanish" group-title="Series",Az Corazon (720p)
 http://200.115.120.1:8000/play/ca020/index.m3u8
 #EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Az Mundo" tvg-logo="https://i.imgur.com/a7Ejid0.png" tvg-country="MX" tvg-language="Spanish" group-title="Other",Az Mundo (1080p)
@@ -104,10 +102,6 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 http://45.181.87.106/CANAL5HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-country="MX" tvg-language="Spanish" group-title="General",Canal 5 (1080p)
 http://45.189.151.7:8000/play/a05s
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-country="MX" tvg-language="Spanish" group-title="General",Canal 5 (1080p)
-http://132.255.210.69:8000/play/a06e
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-country="MX" tvg-language="Spanish" group-title="General",Canal 5 (1080p)
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-country="MX" tvg-language="Spanish" group-title="General",Canal 5 (720p) [Geo-blocked]
 http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-country="MX" tvg-language="Spanish" group-title="General",Canal 5 (576p)
@@ -179,14 +173,14 @@ https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="ElSonorense.mx" tvg-name="El Sonorense" tvg-logo="https://i.imgur.com/aKvPd4g.jpg" tvg-country="MX" tvg-language="Spanish" group-title="Culture",El Sonorense (1080p) [Not 24/7]
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
-#EXTINF:-1 tvg-id="ExaTV.mx" tvg-name="Exa TV" tvg-logo="https://i.imgur.com/JWOqr1a.png" tvg-country="MX" tvg-language="Spanish" group-title="Music",Exa TV
-http://190.61.90.17:40000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-id="ExpresaTV.mx" tvg-name="Expresa TV" tvg-logo="https://i.imgur.com/kFVVGrg.png" tvg-country="MX" tvg-language="Spanish" group-title="General",Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmex.mx" tvg-name="Filmex" tvg-logo="https://i.imgur.com/Hiz2OyC.png" tvg-country="MX" tvg-language="Spanish" group-title="Movies",Filmex (1080p) [Geo-blocked]
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-name="Filmex Clasico" tvg-logo="https://i.imgur.com/D3dj4mv.png" tvg-country="MX" tvg-language="Spanish" group-title="Movies",Filmex Clasico (1080p) [Geo-blocked]
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FOXCentral.mx" tvg-name="FOX Central" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-country="MX" tvg-language="Spanish" group-title="Sports",FOX Central (1080p)
+http://181.78.106.127:5000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="GikTVMX.mx" tvg-name="GikTVMX" tvg-logo="https://i.imgur.com/Gwz78jZ.png" tvg-country="MX" tvg-language="Spanish" group-title="Culture;Animation;Entertainment",GikTVMX (720p)
 https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://i.imgur.com/NNd1lYl.png" tvg-country="MX" tvg-language="Spanish" group-title="Other",Golden (1080p)
@@ -249,8 +243,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="https://i.imgur.com/zyAS1hk.png" tvg-country="MX" tvg-language="Spanish" group-title="Legislative",Justicia TV (720p)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-country="MX" tvg-language="Spanish" group-title="General",Las Estrellas (1080p)
-http://45.189.151.7:8000/play/a07s
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-country="MX" tvg-language="Spanish" group-title="General",Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-country="MX" tvg-language="Spanish" group-title="General",Las Estrellas Latin America (1080p)
@@ -319,10 +311,6 @@ https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 https://srspsn.live/live/livestream.m3u8
 #EXTINF:-1 tvg-id="PSNCanal452.mx" tvg-name="PSN Canal 45.2" tvg-logo="https://i.imgur.com/7i7GkSL.png" tvg-country="MX" tvg-language="Spanish" group-title="News",PSN Canal 45.2 (288p)
 https://srspsn2.live/live/livestream.m3u8
-#EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png" tvg-country="MX" tvg-language="Spanish" group-title="Sports",PX Sports (1080p)
-http://38.65.175.84:8000/play/a0ku/index.m3u8
-#EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png" tvg-country="MX" tvg-language="Spanish" group-title="Sports",PX Sports (1080p)
-http://38.252.238.18:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="RadioyTelevisionCrisoldelaAlegria.mx" tvg-name="Radio y Television Crisol de la Alegria" tvg-logo="https://i.imgur.com/EW2z5Ko.jpg" tvg-country="MX" tvg-language="Spanish" group-title="Religious",Radio y Television Crisol de la Alegria (1080p) [Not 24/7]
 https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8
 #EXTINF:-1 tvg-id="Radiotele.mx" tvg-name="Radiotele" tvg-logo="https://i.imgur.com/XpcCZvu.png" tvg-country="MX" tvg-language="Spanish" group-title="General",Radiotele (352p)

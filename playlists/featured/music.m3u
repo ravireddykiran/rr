@@ -51,8 +51,6 @@ https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-id="CMTEqualPlay.us" tvg-name="CMT Equal Play" tvg-logo="https://i.imgur.com/9ysjkkL.png" tvg-country="US" tvg-language="English" group-title="Music",CMT Equal Play (720p)
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
-#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Music",AXS TV (720p)
-http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Music",AXS TV (576p)
 https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
 #EXTINF:-1 tvg-id="LIVExLIVE.us" tvg-name="LIVExLIVE" tvg-logo="https://i.imgur.com/KFzEoed.png" tvg-country="US" tvg-language="English" group-title="Music",LIVExLIVE (1080p)

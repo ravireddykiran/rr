@@ -133,8 +133,6 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" tvg-logo="https://i.imgur.com/qBmomnF.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",CGTN Global Biz (1080p)
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" tvg-logo="https://i.imgur.com/qBmomnF.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",CGTN Global Biz (1080p)
-https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="ChampionTV.ci" tvg-name="Champion TV" tvg-logo="https://i.imgur.com/WjHSrHN.png" tvg-country="CI" tvg-language="French" group-title="Ivory Coast",Champion TV
 https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
 #EXTINF:-1 tvg-id="ClassCNBC.it" tvg-name="Class CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Class_CNBC_2026.svg/960px-Class_CNBC_2026.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Class CNBC (1080p)
@@ -219,6 +217,8 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
 #EXTINF:-1 tvg-id="NWEconomie.tg" tvg-name="NW Economie" tvg-logo="https://i.imgur.com/OmlFQa8.png" tvg-country="TG" tvg-language="French" group-title="Togo",NW Economie (576p)
 https://hls.newworldtv.com/nw-economie/video/live.m3u8
+#EXTINF:-1 tvg-id="ONInfoTV.vn" tvg-name="ON Info TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab9%20-%20ON%20Info%20TV.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Vietnam",ON Info TV (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=189
 #EXTINF:-1 tvg-id="ProBusiness.ru" tvg-name="Pro Business" tvg-logo="https://i.imgur.com/1u8KvTD.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Pro Business (720p)
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="QBC.qa" tvg-name="QBC" tvg-logo="https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg" tvg-country="QA" tvg-language="Arabic" group-title="Qatar",QBC (1080p)

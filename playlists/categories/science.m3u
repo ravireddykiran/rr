@@ -14,8 +14,6 @@ https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 http://live.cztv.cc:85/live/sjpd.m3u8
 #EXTINF:-1 tvg-id="CosmosTV.py" tvg-name="Cosmos TV" tvg-logo="https://i.imgur.com/dAMyExY.jpg" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",Cosmos TV (720p)
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="Discovery Science" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi" group-title="India",Discovery Science (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk" tvg-name="Discovery Science Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Discovery Science Europe UK
 http://37.49.224.5/stream/9/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Discovery Science Latin America (720p)

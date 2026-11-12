@@ -124,6 +124,8 @@ http://5.180.164.197:8080/DMAX/index.m3u8
 http://90.163.85.113:8093/stream/51/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://i.imgur.com/uGd9fnn.png" tvg-country="IT" tvg-language="Italian;English" group-title="Italy",DMAX HD (720p)
 http://102.129.186.182:81/dmax/index.m3u8
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png" tvg-country="DE" tvg-language="German" group-title="Germany",DMAX HD (576p)
+https://s6.hopslan.com/dmaxX/index.m3u8
 #EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Doctor (1080p)
 http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Doctor (576p)
@@ -175,12 +177,18 @@ https://fta.ektv.in/live/332/master.m3u8
 http://163.61.226.31:9981/stream/channelid/943090988?profile=pass
 #EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" tvg-country="IN" tvg-language="French" group-title="India",FashionTV (576p)
 http://163.61.226.31:9981/stream/channelid/448803688?profile=pass
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" tvg-country="IN" tvg-language="French" group-title="India",FashionTV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3FASHIONTV/index.m3u8
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" tvg-country="IN" tvg-language="French" group-title="India",FashionTV (576p)
+https://samitaorigin.tangotv.in/FASHIONTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="FashionTV Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" tvg-country="FR" tvg-language="English" group-title="France",FashionTV Europe (1080p)
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr" tvg-name="FashionTV Paris L'Original" tvg-logo="https://i.imgur.com/GFTAN5Q.png" tvg-country="FR" tvg-language="French" group-title="France",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="FashionTVSecrets.fr" tvg-name="FashionTV Secrets" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" tvg-country="FR" tvg-language="English" group-title="France",FashionTV Secrets (1080p)
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Food%20Food.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Food Food (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Food%20Food.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Food Food (576p)
 https://cdn.pishow.tv/ott/live/267/master.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Food%20Food.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Food Food (576p)
@@ -280,8 +288,6 @@ http://103.154.3.101:5001/live/1736.m3u8
 http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
 #EXTINF:-1 tvg-id="LuxembourgGlobalRadioTV.lu" tvg-name="Luxembourg Global Radio TV" tvg-logo="https://globalradio.lu/wp-content/uploads/2025/03/Mask-Group-1.jpg#10" tvg-country="LU" tvg-language="English" group-title="Luxembourg",Luxembourg Global Radio TV (1080p)
 https://stream.globalradio.lu/lgr/index.m3u8
-#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/960px-Magnolia_Network.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Magnolia Network (720p)
-http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MasterChefDanmarksstorstemadtalenter.se" tvg-name="MasterChef Danmarks storste madtalenter" tvg-logo="https://images.pluto.tv/channels/61c19edbf535220007075c4e/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",MasterChef Danmarks storste madtalenter
 https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
 #EXTINF:-1 tvg-id="Medknivenforstruben.se" tvg-name="Med kniven for struben" tvg-logo="https://images.pluto.tv/channels/63e3b33e8795f300087e6a46/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Med kniven for struben
@@ -414,14 +420,10 @@ https://aegis-cloudfront-1.tubi.video/28fb04b8-8d48-4c2a-833a-7f51059a405d/playl
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",TLC (1080p)
 http://stream.mcquack.net/168/index.m3u8
-#EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC_HD/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi" group-title="India",TLC (720p)
-https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-country="DE" tvg-language="German" group-title="Germany",TLC (576p)
 https://s6.hopslan.com/tlcX/index.m3u8
 #EXTINF:-1 tvg-id="TLC.hu" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-country="HU" tvg-language="Hungarian;English" group-title="Hungary",TLC
 http://88.212.7.14/live/tlc_hungary/index.m3u8
-#EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC_HD/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi" group-title="India",TLC HD (720p)
-https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="TLCLatinAmerica.us" tvg-name="TLC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",TLC Latin America (1080p)
 http://38.134.250.110:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="TLCLatinAmerica.us" tvg-name="TLC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-country="US" tvg-language="Portuguese" group-title="United States",TLC Latin America Brazil (720p)

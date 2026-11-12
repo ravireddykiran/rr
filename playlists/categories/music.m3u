@@ -50,6 +50,8 @@ https://fta.ektv.in/live/771/master.m3u8
 https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-country="IN" tvg-language="Tamil" group-title="India",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="7XMusic.in" tvg-name="7X Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png" tvg-country="IN" tvg-language="Hindi" group-title="India",7X Music (1080p)
+https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8
 #EXTINF:-1 tvg-id="7XMusic.in" tvg-name="7X Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png" tvg-country="IN" tvg-language="Hindi" group-title="India",7X Music (360p)
 https://cdn2.in/7xPunjabihls/live.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" tvg-logo="https://i.imgur.com/i3YwORV.png" tvg-country="CR" tvg-language="Spanish" group-title="Costa Rica",88 Stereo (720p) [Not 24/7]
@@ -182,8 +184,6 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://master.tucableip.com/audiokisstv/index.m3u8
 #EXTINF:-1 tvg-id="AvangTV.us" tvg-name="Avang TV" tvg-logo="https://i.imgur.com/3I1n7fO.png" tvg-country="US" tvg-language="Persian" group-title="United States",Avang TV (1080p)
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",AXS TV (720p)
-http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",AXS TV (576p)
 https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
 #EXTINF:-1 tvg-id="AzaharesRadiovisualMultimedia.ar" tvg-name="Azahares Radiovisual Multimedia" tvg-logo="https://i.imgur.com/g1BFoSs.png" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Azahares Radiovisual Multimedia (720p)
@@ -192,6 +192,8 @@ https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" tvg-country="IN" tvg-language="Hindi" group-title="India",B4U Music (1080p)
 https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" tvg-country="IN" tvg-language="Hindi" group-title="India",B4U Music (1080p)
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" tvg-country="IN" tvg-language="Hindi" group-title="India",B4U Music (576p)
 http://66.102.126.10:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" tvg-country="IN" tvg-language="Hindi" group-title="India",B4U Music (576p)
@@ -434,6 +436,8 @@ https://cdn.pishow.tv/ott/live/1456/master.m3u8
 https://fta.ektv.in/live/378/master.m3u8
 #EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Bengali" group-title="India",Dhoom Music (576p)
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Bengali" group-title="India",Dhoom Music (576p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:dhoom.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoMix.ro" tvg-name="Disco Mix" tvg-logo="https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png" tvg-country="RO" tvg-language="English;Romanian" group-title="Romania",Disco Mix (576i) [Geo-blocked]
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music" tvg-logo="https://i.imgur.com/ZZbuTv7.png" tvg-country="PL" tvg-language="Polish" group-title="Poland",Disco Polo Music (1080p)
@@ -508,8 +512,6 @@ https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/184/index.m3u8
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" tvg-logo="https://i.imgur.com/GLc4qrc.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Europa Plus TV Belarus (576p)
 http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
-#EXTINF:-1 tvg-id="ExaTV.mx" tvg-name="Exa TV" tvg-logo="https://i.imgur.com/JWOqr1a.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Exa TV
-http://190.61.90.17:40000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa" tvg-name="Fabulosa Estereo 100.5 FM" tvg-logo="https://i.imgur.com/YFmzkOp.png" tvg-country="PA" tvg-language="Spanish" group-title="Panama",Fabulosa Estereo 100.5 FM (720p)
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 #EXTINF:-1 tvg-id="Fairuz.sa" tvg-name="Fairuz" tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png" tvg-country="SA" tvg-language="Arabic" group-title="Saudi Arabia",Fairuz (1080p)
@@ -896,6 +898,9 @@ https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
 https://eu1.servers10.com:8081/8214/index.m3u8
 #EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe" tvg-name="Metropolitana del Cuzco" tvg-logo="https://i.imgur.com/0B04qgM.png" tvg-country="PE" tvg-language="Spanish" group-title="Peru",Metropolitana del Cuzco
 https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://i.imgur.com/auNdGeW.png" tvg-country="FR" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="France",Mezzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://92.180.26.103/stream/62/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" tvg-logo="https://i.imgur.com/H9ytKPN.png" tvg-country="FR" tvg-language="English" group-title="France",Mezzo Live (1080p)
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" tvg-logo="https://i.imgur.com/H9ytKPN.png" tvg-country="FR" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="France",Mezzo Live
@@ -973,8 +978,6 @@ https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 tvg-id="Music.kg" tvg-name="Music" tvg-logo="https://www.utrk.kg/img/stream/45.png" tvg-country="KG" tvg-language="Kirghiz;Russian" group-title="Kyrgyzstan",Music (480p) [Not 24/7]
 https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil" tvg-logo="https://i.imgur.com/CDPCF2X.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Music Box Brazil (720p)
-http://168.197.104.22/MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil" tvg-logo="https://i.imgur.com/CDPCF2X.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Music Box Brazil (720p)
 http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxClassic.cz" tvg-name="Music Box Classic" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" tvg-country="CZ" tvg-language="English" group-title="Czech Republic",Music Box Classic
@@ -1066,9 +1069,6 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NavahangTV.fi" tvg-name="Navahang TV" tvg-logo="https://i.imgur.com/YteKXJy.png" tvg-country="FI" tvg-language="Persian" group-title="Finland",Navahang TV
 https://simahls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NewChannel.ca" tvg-name="New Channel" tvg-logo="https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920" tvg-country="CA" tvg-language="English" http-referrer="https://splay.bamboo-cloud.com/channel/6ab2104508fd5ee36702e3d4" group-title="Canada",New Channel (480p)
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab2104508fd5ee36702e3d4
-https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
 #EXTINF:-1 tvg-id="NEWKPOP.us" tvg-name="NEW K-POP" tvg-logo="https://i.imgur.com/B7ILXMc.png" tvg-country="US" tvg-language="English" group-title="United States",NEW K-POP (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="NEWKPOP.us" tvg-name="NEW K-POP" tvg-logo="https://i.imgur.com/B7ILXMc.png" tvg-country="US" tvg-language="English" group-title="United States",NEW K-POP (1080p)
@@ -1305,6 +1305,8 @@ https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
 https://livingindiaottlive.akamaized.net/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Hits.png" tvg-country="IN" tvg-language="Panjabi" group-title="India",Punjabi Hits (1080p)
 https://stream.ottlive.co.in/punjabihits/index.m3u8
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Hits.png" tvg-country="IN" tvg-language="Panjabi" group-title="India",Punjabi Hits (1080p)
+https://livingindia.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiMusicHD.in" tvg-name="Punjabi Music HD" tvg-logo="https://papaji.freetvindia.com/media/Punjabi_Music_HD.png" tvg-country="IN" tvg-language="Panjabi" group-title="India",Punjabi Music HD (720p)
 https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="QMusic.be" tvg-name="Q-Music" tvg-logo="https://i.imgur.com/VX5e9Xt.png" tvg-country="BE" tvg-language="Dutch" group-title="Belgium",Q-Music (1080p)
@@ -1568,6 +1570,8 @@ https://salto-streams.nl/hls/sotv1.m3u8
 https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="SanaPlus.in" tvg-name="Sana Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="Tamil" group-title="India",Sana Plus (1080p) [Not 24/7]
 https://galaxyott.live/hls/sanaplus.m3u8
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-name="Sana Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="Tamil" group-title="India",Sana Plus (1080p)
+https://stream.ottlive.co.in/sanaplus/index.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_BANGLA/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="Bengali" group-title="India",Sangeet Bangla (720p)
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_BANGLA/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="Bengali" group-title="India",Sangeet Bangla (576p)
@@ -1617,8 +1621,6 @@ https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
 #EXTINF:-1 tvg-id="SiembraTV.do" tvg-name="Siembra TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Siembra TV (720p)
 https://streamunoapp.com:3809/live/siembratvlive.m3u8
-#EXTINF:-1 tvg-id="SinLimites.co" tvg-name="Sin Limites" tvg-logo="https://i.imgur.com/wrFfgzC.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Sin Limites (1080p)
-http://170.244.209.30:8000/play/a1im/index.m3u8
 #EXTINF:-1 tvg-id="SkyFolkTV.mk" tvg-name="Sky Folk TV" tvg-logo="https://i.imgur.com/ya5xpUL.png" tvg-country="MK" tvg-language="Macedonian" group-title="North Macedonia",Sky Folk TV (720p) [Not 24/7]
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="SkyFolkTV.mk" tvg-name="Sky Folk TV" tvg-logo="https://i.imgur.com/ya5xpUL.png" tvg-country="MK" tvg-language="Macedonian" group-title="North Macedonia",Sky Folk TV (720p) [Not 24/7]
@@ -2099,6 +2101,8 @@ https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg000
 https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" tvg-name="Vevo True School Hip-Hop" tvg-logo="https://i.imgur.com/owUXUih.png" tvg-country="US" tvg-language="English" group-title="United States",Vevo True School Hip-Hop
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" tvg-country="US" tvg-language="English" group-title="United States",VH1 (1080p)
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1 tvg-id="VideoMixTV.us" tvg-name="Video Mix TV" tvg-logo="https://i.imgur.com/nyLrIPP.png" tvg-country="US" tvg-language="English" group-title="United States",Video Mix TV (1080p)
 https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
 #EXTINF:-1 tvg-id="VideoRola.it" tvg-name="Video Rola" tvg-logo="https://i.imgur.com/9w54eVy.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Video Rola (1080p)
@@ -2141,6 +2145,8 @@ http://92.114.85.87:8016/play/a00a/index.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="WavezFM.aw" tvg-name="Wavez FM" tvg-logo="https://i.imgur.com/uyROZSS.png" tvg-country="AW" tvg-language="Dutch;Papiamento" group-title="Aruba",Wavez FM
 https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
+#EXTINF:-1 tvg-id="WOXTV.us" tvg-name="WOX TV" tvg-logo="https://image.roku.com/developer_channels/prod/7e6a7c4835ec344de629865f7a36feb4058001e7a3d9bc8dd0d1f3dc8e754cd7.png" tvg-country="US" tvg-language="Spanish" group-title="United States",WOX TV (1080p)
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-id="WVCULP.us" tvg-name="WVCU-LP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/WVCU-LP_2015.PNG" tvg-country="US" tvg-language="English" group-title="United States",WVCU-LP (1080p)
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" tvg-logo="https://i.imgur.com/28b810Y.png" tvg-country="AW" tvg-language="English;Papiamento" group-title="Aruba",X 102.7 FM (720p)
@@ -2148,8 +2154,6 @@ https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8
 #EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" tvg-logo="https://i.imgur.com/28b810Y.png" tvg-country="AW" tvg-language="English;Papiamento" http-referrer="https://player.castr.com/live_21e811c0d60d11eeaa1a471c2c967e4a" group-title="Aruba",X 102.7 FM (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_21e811c0d60d11eeaa1a471c2c967e4a
 https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8
-#EXTINF:-1 tvg-id="XLevelMedia.ar" tvg-name="X Level Media" tvg-logo="https://i.imgur.com/BGwQdQW.jpeg" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",X Level Media (1080p)
-https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" tvg-logo="https://i.imgur.com/jxuwGRi.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",XITE (720p)
 https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" tvg-logo="https://i.imgur.com/jxuwGRi.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",XITE (720p) [Not 24/7]
@@ -2212,8 +2216,6 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4039f3b175376a61de/images/LOGO_HD/LOGO_HD_KN-eM9VvQ_ZoomTV1_1.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Zoom (576p)
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
-#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4039f3b175376a61de/images/LOGO_HD/LOGO_HD_KN-eM9VvQ_ZoomTV1_1.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Zoom Nepal (720p)
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-name="Zwei Music Television" tvg-logo="https://i.imgur.com/RbdpCNf.png" tvg-country="DE" tvg-language="German" group-title="Germany",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="VivaLatino.ua" tvg-name="¡Viva Latino!" tvg-logo="https://i.imgur.com/KRakHAq.png" tvg-country="UA" tvg-language="Ukrainian" group-title="Ukraine",¡Viva Latino! (1080p)

@@ -16,10 +16,6 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-logo="https://i.imgur.com/aNkP7Zd.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroBrasil TV (720p) [Not 24/7]
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal (720p)
-http://45.162.64.114/AGRO_CANAL/index.m3u8
-#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal (720p)
-http://168.197.104.22/AGRO_CANAL/index.m3u8
-#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal (720p)
 http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",AgroCanal (720p)
 http://186.219.52.187/agro_canal/index.m3u8
@@ -81,10 +77,6 @@ https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Fish TV (1080p)
 http://190.128.214.97:64333/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Fish TV (720p)
-http://45.162.64.114/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Fish TV (720p)
-http://168.197.104.22/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Fish TV (720p)
 http://170.83.16.50/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse & Country TV" tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Horse & Country TV (1080p)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
@@ -110,7 +102,7 @@ https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Chinese;Turkish;Bulgarian;Czech;Hungarian;Russian;Spanish" group-title="Canada",Love Nature (720p)
 https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English" group-title="Canada",Love Nature 4K (2160p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Romanian" group-title="Canada",Love Nature 4K (2160p) [Geo-blocked]
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="Czech" group-title="Canada",Love Nature 4K Czechia
 http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
@@ -254,11 +246,7 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SwamijiTVEuropean.at" tvg-name="Swamiji TV European" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-country="AT" tvg-language="English" group-title="Austria",Swamiji TV European (1080p) [Not 24/7]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Terra Viva (720p)
-http://45.162.64.114/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Terra Viva (720p)
 http://45.177.114.115/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Terra Viva (720p)
-http://168.197.104.22/TERRAVIVA/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Terra Viva (720p)
 http://170.83.16.50/TERRA_VIVA/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Terra Viva (720p)

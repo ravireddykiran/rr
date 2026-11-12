@@ -72,12 +72,8 @@ http://212.5.144.156:8080/natgeo/index.m3u8
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Documentary",National Geographic Wild HD East (720p)
 http://198.58.104.90:8989/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi;Kannada;Malayalam;Telugu;Tamil;Bengali;Marathi" group-title="Documentary",National Geographic HD (1080p)
-http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Documentary",Animal Planet (720p)
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Documentary",Animal Planet (720p)
-http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-country="UK" tvg-language="English" group-title="Documentary",Animal Planet
 http://37.49.224.5/stream/10/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Entertainment",Discovery Channel (1080p) [Geo-blocked]
@@ -200,8 +196,6 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="Documentary",CGTN Documentary (1080p) [Not 24/7]
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="Documentary",CGTN Documentary (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="Documentary",CGTN Documentary (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="Documentary",CGTN Documentary

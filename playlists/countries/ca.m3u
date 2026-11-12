@@ -28,6 +28,8 @@ https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CanadaOne.ca" tvg-name="Canada One" tvg-country="CA" tvg-language="English" group-title="Other",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" tvg-country="CA" tvg-language="English" group-title="News",CBC News Network (1080p)
+https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" tvg-country="CA" tvg-language="English" group-title="News",CBC News Network (1080p)
 https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" tvg-country="CA" tvg-language="English" group-title="News",CBC News Network (1080p)
 https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
@@ -243,7 +245,7 @@ https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Chinese;Turkish;Bulgarian;Czech;Hungarian;Russian;Spanish" group-title="Outdoor",Love Nature (720p)
 https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English" group-title="Outdoor",Love Nature 4K (2160p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Romanian" group-title="Outdoor",Love Nature 4K (2160p) [Geo-blocked]
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="Czech" group-title="Outdoor",Love Nature 4K Czechia
 http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
@@ -291,12 +293,6 @@ https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" tvg-country="CA" tvg-language="English" group-title="Documentary",NatureTime UK (1080p)
 https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NewChannel.ca" tvg-name="New Channel" tvg-logo="https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920" tvg-country="CA" tvg-language="English" http-referrer="https://splay.bamboo-cloud.com/channel/6ab2104508fd5ee36702e3d4" group-title="Music;Kids",New Channel (480p)
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab2104508fd5ee36702e3d4
-https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
-#EXTINF:-1 tvg-id="NewChannelPop.ca" tvg-name="New Channel Pop!" tvg-logo="https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_vjhh0bly/version/100012/width/1920" tvg-country="CA" tvg-language="English;Indonesian;Malay;Russian;Portuguese" http-referrer="https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85" group-title="Kids",New Channel Pop! (480p)
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85
-https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
 #EXTINF:-1 tvg-id="NTV.ca" tvg-name="NTV" tvg-logo="https://i.imgur.com/KQtQg5y.png" tvg-country="CA" tvg-language="English" group-title="General",NTV CJON-DT (480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVPlus.ca" tvg-name="NTV+" tvg-logo="https://i.imgur.com/YEUhPBv.png" tvg-country="CA" tvg-language="English" group-title="Other",NTV+
@@ -313,6 +309,8 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 tvg-id="PrimeAsiaTV.ca" tvg-name="Prime Asia TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png" tvg-country="CA" tvg-language="English" group-title="Other",Prime Asia TV (1080p)
 http://primeasia.selfip.net/Samsung/index.m3u8
+#EXTINF:-1 tvg-id="PrimeAsiaTV.ca" tvg-name="Prime Asia TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png" tvg-country="CA" tvg-language="English" group-title="Other",Prime Asia TV (1080p)
+https://stream.ottlive.co.in/primeasia/index.m3u8
 #EXTINF:-1 tvg-id="PrimeCanadaTV.ca" tvg-name="Prime Canada TV" tvg-logo="https://i.imgur.com/Vji81jB.png" tvg-country="CA" tvg-language="Panjabi" group-title="Entertainment",Prime Canada TV (720p) [Not 24/7]
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca" tvg-name="Probashi TV News" tvg-logo="https://i.imgur.com/7oTsfQ4.png" tvg-country="CA" tvg-language="Bengali" group-title="News",Probashi TV News (1080p)

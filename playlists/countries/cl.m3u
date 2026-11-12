@@ -75,8 +75,6 @@ https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
 #EXTINF:-1 tvg-id="CanalClaro.cl" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" tvg-country="CL" tvg-language="Spanish" group-title="Other",Canal Claro (720p)
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-#EXTINF:-1 tvg-id="CanalClaro.cl" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" tvg-country="CL" tvg-language="Spanish" group-title="Other",Canal Claro
-http://190.61.90.17:40000/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-id="CanalISB.cl" tvg-name="Canal ISB" tvg-logo="https://i.imgur.com/cQ4ggTw.png" tvg-country="CL" tvg-language="Spanish" group-title="Religious",Canal ISB (720p)
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalLatino54.cl" tvg-name="Canal Latino 54" tvg-logo="https://i.imgur.com/mKUQoX7.png" tvg-country="CL" tvg-language="Spanish" group-title="Other",Canal Latino 54 (360p)
@@ -193,6 +191,8 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="https://i.imgur.com/nJOVM6e.png" tvg-country="CL" tvg-language="Spanish" group-title="General",La Red (720p) [Not 24/7]
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="https://i.imgur.com/nJOVM6e.png" tvg-country="CL" tvg-language="Spanish" group-title="General",La Red (720p)
+https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8
 #EXTINF:-1 tvg-id="LilaTVPencahue.cl" tvg-name="Lila TV Pencahue" tvg-logo="https://i.imgur.com/widaSu3.png" tvg-country="CL" tvg-language="Spanish" group-title="General",Lila TV Pencahue (720p)
 https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
 #EXTINF:-1 tvg-id="MarayTV.cl" tvg-name="Maray TV" tvg-logo="https://i.imgur.com/YinMA8c.png" tvg-country="CL" tvg-language="Spanish" group-title="General",Maray TV (1080p)
@@ -367,16 +367,18 @@ https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8
 https://v2.tustreaming.cl/tnetv/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-country="CL" tvg-language="Spanish" group-title="Sports",TNT Sports (480p)
 http://209.45.101.130:8040/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-country="CL" tvg-language="Spanish" group-title="Sports",TNT Sports (480p)
+http://205.235.6.29:8000/play/a0xa/index.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-country="CL" tvg-language="Spanish" group-title="Sports",TNT Sports Premium ArgentinaHD (1080p)
 http://181.78.79.131:8000/play/a0q9
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-country="CL" tvg-language="Spanish" group-title="Sports",TNT Sports Premium HD
+https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8
 #EXTINF:-1 tvg-id="TurfMovil.cl" tvg-name="Turf Movil" tvg-logo="https://i.imgur.com/TwIe4lK.png" tvg-country="CL" tvg-language="Spanish" group-title="Sports",Turf Movil (720p)
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
 #EXTINF:-1 tvg-id="TurismoTravelTV.cl" tvg-name="Turismo Travel TV" tvg-logo="https://i.imgur.com/4ixl8Px.png" tvg-country="CL" tvg-language="Spanish" group-title="Travel",Turismo Travel TV
 https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Turno.cl" tvg-name="Turno" tvg-logo="https://i.imgur.com/XuSeHBt.png" tvg-country="CL" tvg-language="Spanish" group-title="News",Turno (720p)
 https://redirector.dps.live/hls/turno/playlist.m3u8
-#EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TV Chile" tvg-logo="https://i.imgur.com/oYFto0V.png" tvg-country="CL" tvg-language="Spanish" group-title="General",TV Chile (576p)
-http://38.252.238.18:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="TVSenado.cl" tvg-name="TV Senado" tvg-logo="https://i.imgur.com/CNUZ6ig.png" tvg-country="CL" tvg-language="Spanish" group-title="Other",TV Senado (360p)
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUCT.cl" tvg-name="TV UCT" tvg-logo="https://i.imgur.com/tpI0WQH.png" tvg-country="CL" tvg-language="Spanish" group-title="Other",TV UCT (1080p)

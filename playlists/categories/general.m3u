@@ -437,8 +437,12 @@ https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlis
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaEstereoTulcan.ec" tvg-name="America Estereo Tulcan" tvg-logo="https://i.imgur.com/gUqKymM.png" tvg-country="EC" tvg-language="Spanish" group-title="Ecuador",America Estereo Tulcan (614p)
 https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaInternacional.pe" tvg-name="America Internacional" tvg-logo="https://i.imgur.com/4ZTKAGd.png" tvg-country="PE" tvg-language="Spanish" group-title="Peru",America Internacional (720p)
+https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
 #EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" tvg-logo="https://i.imgur.com/0COKxet.png" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",America Paraguay
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
+#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" tvg-logo="https://i.imgur.com/0COKxet.png" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",America Paraguay
+https://tv.mitvparaguay.com/hls?type=hls&id=americatv
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-country="PE" tvg-language="Spanish" group-title="Peru",America Television (1080p)
 http://190.93.224.42/AMERICA-TV/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-country="PE" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" group-title="Peru",America Television (1080p)
@@ -482,8 +486,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Antena 3
 https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
-#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Antena 3 Internacional (1080p)
-http://38.252.238.18:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" tvg-logo="https://i.imgur.com/zKWFgeQ.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Antena 7 (480p)
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" tvg-logo="https://i.imgur.com/zKWFgeQ.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Antena 7 HD (1080p) [Not 24/7]
@@ -578,8 +580,6 @@ https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="https://i.imgur.com/Asu5pE9.png" tvg-country="KR" tvg-language="English" group-title="South Korea",Arirang TV HD (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=111
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="https://i.imgur.com/Asu5pE9.png" tvg-country="KR" tvg-language="English" group-title="South Korea",Arirang TV HD (720p)
-http://45.162.64.114/ARIRANG/index.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="https://i.imgur.com/Asu5pE9.png" tvg-country="KR" tvg-language="English" group-title="South Korea",Arirang TV HD
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-id="Aris24.ru" tvg-name="Aris 24" tvg-logo="https://i.imgur.com/CTFVEAb.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Aris 24 (720p) [Not 24/7]
@@ -1233,10 +1233,10 @@ http://45.167.2.101:8000/play/a0r8/index.m3u8
 https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
 #EXTINF:-1 tvg-id="Canal10.ni" tvg-name="Canal 10" tvg-logo="https://i.imgur.com/ztp781b.png" tvg-country="NI" tvg-language="Spanish" group-title="Nicaragua",Canal 10 (360p) [Geo-blocked]
 https://www.canal10.com.ni/envivo
+#EXTINF:-1 tvg-id="Canal10Goya.ar" tvg-name="Canal 10 Goya" tvg-logo="https://i.ibb.co/cySdXxP/unnamed-5.png" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Canal 10 Goya (1080p)
+https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-name="Canal 11" tvg-logo="https://i.imgur.com/nmlBLpI.png" tvg-country="GT" tvg-language="Spanish" group-title="Guatemala",Canal 11 (1080p)
 http://168.228.44.241:9999/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="Canal11.hn" tvg-name="Canal 11" tvg-logo="https://i.imgur.com/Sht2Rd4.png" tvg-country="HN" tvg-language="Spanish" group-title="Honduras",Canal 11 (1080p)
-http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-name="Canal 11" tvg-logo="https://i.imgur.com/Sht2Rd4.png" tvg-country="HN" tvg-language="Spanish" group-title="Honduras",Canal 11 (1080p) [Not 24/7]
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11.cr" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png" tvg-country="CR" tvg-language="Spanish" group-title="Costa Rica",Canal 11 (720p)
@@ -1324,6 +1324,9 @@ http://181.119.177.253:8000/play/a03o/index.m3u8
 https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Canal3.bf" tvg-name="Canal 3" tvg-logo="https://i.imgur.com/WIrVAa2.png" tvg-country="BF" tvg-language="French" group-title="Burkina Faso",Canal 3
 https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal3Arroyito.ar" tvg-name="Canal 3 Arroyito" tvg-logo="https://i.imgur.com/FHVdMwg.jpeg" tvg-country="AR" tvg-language="Spanish" http-referrer="https://canal3.cespalarroyito.coop/" group-title="Argentina",Canal 3 Arroyito (1080p)
+#EXTVLCOPT:http-referrer=https://canal3.cespalarroyito.coop/
+https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8
 #EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-name="Canal 3 Impresionante" tvg-logo="https://i.imgur.com/mdfiWG9.png" tvg-country="SV" tvg-language="Spanish" group-title="El Salvador",Canal 3 Impresionante (480p)
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 #EXTINF:-1 tvg-id="Canal3Tacural.ar" tvg-name="Canal 3 Tacural" tvg-logo="https://i.imgur.com/RKvSa52.jpeg" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Canal 3 Tacural
@@ -1360,10 +1363,6 @@ https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
 http://45.181.87.106/CANAL5HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Canal 5 (1080p)
 http://45.189.151.7:8000/play/a05s
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Canal 5 (1080p)
-http://132.255.210.69:8000/play/a06e
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Canal 5 (1080p)
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Canal 5 (720p) [Geo-blocked]
 http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.uy" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/IpYxSr1.png" tvg-country="UY" tvg-language="Spanish" group-title="Uruguay",Canal 5 (720p)
@@ -1627,8 +1626,6 @@ http://45.5.117.57:8200/play/a0e9/index.m3u8
 #EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Caracol Internacional (1080p)
 http://45.238.141.222:8000/play/a0oo/index.m3u8
 #EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Caracol Internacional (1080p)
-http://132.255.210.69:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Caracol Internacional (1080p)
 http://167.249.23.102:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Caracol Internacional (1080p)
 http://168.196.127.137:6001/play/a09m/index.m3u8
@@ -1722,6 +1719,8 @@ http://200.122.232.149:8000/play/a020/index.m3u8
 http://201.216.147.90:8729/play/a01v
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Caracol TV (1080p)
 https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Caracol TV (1080p)
+http://45.166.93.156:9999/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Caracol TV (576p)
 http://181.79.86.130:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",Caracol TV
@@ -1798,8 +1797,6 @@ https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" tvg-logo="https://i.imgur.com/TpA3cUl.png" tvg-country="CN" tvg-language="Chinese" group-title="China",CCTV-1 HD (1080p)
 http://198.204.240.250:82/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 America" tvg-logo="https://i.imgur.com/gBbLyqh.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 America" tvg-logo="https://i.imgur.com/gBbLyqh.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",CCTV-4 America
 https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-name="CCTV-4 Asia" tvg-logo="https://i.imgur.com/tWt4Wou.png" tvg-country="CN" tvg-language="Chinese;English" group-title="China",CCTV-4 Asia (720p)
@@ -1812,8 +1809,6 @@ http://198.204.240.250:82/live/cctv4k.m3u8
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="CCX1.us" tvg-name="CCX1" tvg-logo="https://i.imgur.com/1hHW3IK.png" tvg-country="US" tvg-language="English" group-title="United States",CCX1 (1080p)
 http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="CDN.do" tvg-name="CDN" tvg-logo="https://i.imgur.com/eQyjIgf.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",CDN (576p)
-http://190.61.90.17:40000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="CDN.do" tvg-name="CDN" tvg-logo="https://i.imgur.com/eQyjIgf.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",CDN (480p)
 http://187.245.231.226:8000/play/a0ss/index.m3u8
 #EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-name="CEACOM TV" tvg-logo="https://i.imgur.com/hutdRfk.png" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",CEACOM TV (1080p) [Not 24/7]
@@ -2150,11 +2145,11 @@ http://23.237.10.66:16372
 rtmp://59.124.75.138:1935/sat/tv111
 #EXTINF:-1 tvg-id="CTTCanal49.do" tvg-name="CTT Canal 49" tvg-logo="https://i.imgur.com/jsi4qVb.jpg" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",CTT Canal 49 (1080p) [Not 24/7]
 https://cdnfox.hostlagarto.com/cct49/index.m3u8
-#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" tvg-logo="https://i.imgur.com/ljKb0UX.png" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",CTV (1080p)
+#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" tvg-logo="https://ctvbolivia.com/wp-content/uploads/2026/06/Red-Nacional.png" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",CTV (1080p)
 http://15.204.246.24:8080/CTVHD/index.m3u8
-#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" tvg-logo="https://i.imgur.com/ljKb0UX.png" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",CTV (720p)
+#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" tvg-logo="https://ctvbolivia.com/wp-content/uploads/2026/06/Red-Nacional.png" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",CTV (720p)
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
-#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" tvg-logo="https://i.imgur.com/ljKb0UX.png" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",CTV
+#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" tvg-logo="https://ctvbolivia.com/wp-content/uploads/2026/06/Red-Nacional.png" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",CTV
 https://live.ctvbolivia.com/hls/ctv.m3u8
 #EXTINF:-1 tvg-id="CTV2Atlantic.ca" tvg-name="CTV 2 Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png" tvg-country="CA" tvg-language="English" group-title="Canada",CTV 2 Atlantic (720p)
 http://stream.cammonitorplus.net/1731/index.m3u8
@@ -2162,7 +2157,7 @@ http://stream.cammonitorplus.net/1731/index.m3u8
 https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
 #EXTINF:-1 tvg-id="CTV8HD.kh" tvg-name="CTV8 HD" tvg-logo="https://i.imgur.com/yrdr4Po.png" tvg-country="KH" tvg-language="Khmer" group-title="Cambodia",CTV8 HD
 https://server.dtvhd.com/memfs/92d5968d-1b58-486d-a1ba-7b5a3f21c16c.m3u8
-#EXTINF:-1 tvg-id="Cubavision.cu" tvg-name="Cubavision" tvg-logo="https://i.imgur.com/ki9ipMU.png" tvg-country="CU" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" http-referrer="https://teveo.cu/" group-title="Cuba",Cubavision
+#EXTINF:-1 tvg-id="Cubavision.cu" tvg-name="Cubavision" tvg-logo="https://i.imgur.com/ki9ipMU.png" tvg-country="CU" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" http-referrer="https://teveo.cu/" group-title="Cuba",Cubavision (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
@@ -2421,7 +2416,7 @@ https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="DelfiTV.lt" tvg-name="Delfi TV" tvg-logo="https://i.imgur.com/IFoHP5M.png" tvg-country="LT" tvg-language="Estonian" group-title="Lithuania",Delfi TV
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
 #EXTINF:-1 tvg-id="DellaTV.it" tvg-name="DellaTV" tvg-logo="https://i.imgur.com/6lvQ3Xz.png" tvg-country="IT" tvg-language="English;Japanese" group-title="Italy",DellaTV (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:-1 tvg-id="DELTATV.gr" tvg-name="DELTA TV" tvg-logo="https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png" tvg-country="GR" tvg-language="Greek" group-title="Greece",DELTA TV (720p)
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.bo" tvg-name="Delta TV" tvg-logo="https://i.imgur.com/FcciYMD.png" tvg-country="BO" tvg-language="Spanish" group-title="Bolivia",Delta TV
@@ -2864,8 +2859,6 @@ https://aegis-cloudfront-1.tubi.video/5689247c-331e-4444-92e1-f7cc21377360/index
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox WNYW (720p)
 https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox WSVN (1080p)
-http://190.197.41.183/Fox/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox WTTG (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox WTTG (720p)
@@ -2951,6 +2944,9 @@ https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8
 https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="GDSTV.ge" tvg-name="GDS TV" tvg-logo="https://i.imgur.com/gv61tFf.png" tvg-country="GE" tvg-language="Georgian" group-title="Georgia",GDS TV
 http://31.146.5.178:8087/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="Gen.py" tvg-name="Gen" tvg-logo="https://i.imgur.com/vEMnZF4.png" tvg-country="PY" tvg-language="Spanish" http-referrer="https%3A//gentv.desdepylabs.com/External/gentv" group-title="Paraguay",Gen
+#EXTVLCOPT:http-referrer=https%3A//gentv.desdepylabs.com/External/gentv
+https://tv.mitvparaguay.com/hls?type=hls&url=https%3A%2F%2Fcopacogen.desdeparaguay.net%2Fgentv%2Fgentv_py_baja%2Fchunklist_w2016222336.m3u8%3Fk%3D6de8e821fe4afa30bafdeab37d3d09300b830f37e1c3a1499ce23c9220df2ba8%26exp%3D1794402945&referer=https%3A//gentv.desdepylabs.com/External/gentv&origin=https%3A//www.gen.com.py
 #EXTINF:-1 tvg-id="GeniosTV.pe" tvg-name="Genios TV" tvg-logo="https://i.imgur.com/iH2Lx6E.png" tvg-country="PE" tvg-language="Spanish" group-title="Peru",Genios TV (1080p)
 https://sc3.wasidata.com/Genios2_1902/video.m3u8
 #EXTINF:-1 tvg-id="GHTelevision.do" tvg-name="GH Television" tvg-logo="https://i.imgur.com/xhkiiO3.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",GH Television (1080p) [Not 24/7]
@@ -3233,6 +3229,8 @@ https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
 https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" tvg-country="ID" tvg-language="Indonesian" group-title="Indonesia",Indosiar HD (1080p)
 http://202.150.172.59/Indosiar/index.m3u8
+#EXTINF:-1 tvg-id="InfoHD.ro" tvg-name="Info HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Info_TV_Deva.png/revision/latest?cb=20241109152015" tvg-country="RO" tvg-language="Romanian" group-title="Romania",Info HD (576i)
+https://netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1 tvg-id="InformeTV.do" tvg-name="Informe TV" tvg-logo="https://imgur.com/TmJaXrO.jpg" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Informe TV (1080p) [Not 24/7]
 https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ingushetia.ru" tvg-name="Ingushetia" tvg-logo="https://i.imgur.com/Fw2Hkk4.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Ingushetia (1080p)
@@ -3290,6 +3288,9 @@ https://istoki.tv/live/stream1/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Italia 1 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png" tvg-country="IT" tvg-language="Italian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Italy",Italia 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.62/stream/21/index.m3u8
 #EXTINF:-1 tvg-id="ItelTVCanal2.ar" tvg-name="Itel TV Canal 2" tvg-logo="https://i.imgur.com/OxmpRDx.png" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Itel TV Canal 2
 https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV.ua" tvg-name="ITV" tvg-logo="https://i.imgur.com/NZdT9yJ.png" tvg-country="UA" tvg-language="Ukrainian" group-title="Ukraine",ITV (720p)
@@ -3374,6 +3375,10 @@ https://cdn.pishow.tv/ott/live/10006/master.m3u8
 #EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JONACK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Assamese" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Jonack (576p)
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/676/master.m3u8
+#EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JONACK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Assamese" group-title="India",Jonack (576p)
+https://mumt04.tangotv.in/m18aqlK4JONAKTV/index.m3u8
+#EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JONACK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Assamese" group-title="India",Jonack (576p)
+https://samitaorigin.tangotv.in/JONAKTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JONACK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Assamese" group-title="India",Jonack (360p) [Not 24/7]
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-id="JonmoBhumiTV.au" tvg-name="JonmoBhumi TV" tvg-logo="https://i.imgur.com/2snahLk.png" tvg-country="AU" tvg-language="Bengali" group-title="Australia",JonmoBhumi TV (720p)
@@ -3625,6 +3630,8 @@ https://flv.intechmedia.net/live/ch118.m3u8
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-name="KTV 1" tvg-logo="https://i.imgur.com/kG0d8Ay.png" tvg-country="KW" tvg-language="Arabic" group-title="Kuwait",KTV 1 (360p)
 https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" tvg-logo="https://ktvbangla.com/wp-content/uploads/2025/10/cropped-Tribe-TV-REDLogo_High-RES.jpg" tvg-country="IN" tvg-language="Bengali;Santali" group-title="India",KTV Bangla (1080p)
+https://stream.ottlive.co.in/ktvbangla/index.m3u8
 #EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" tvg-logo="https://ktvbangla.com/wp-content/uploads/2025/10/cropped-Tribe-TV-REDLogo_High-RES.jpg" tvg-country="IN" tvg-language="Bengali;Santali" group-title="India",KTV Bangla (720p)
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 #EXTINF:-1 tvg-id="Kuban24.ru" tvg-name="Kuban 24" tvg-logo="https://i.imgur.com/atzrXcz.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Kuban 24 (480p) [Geo-blocked]
@@ -3684,6 +3691,8 @@ https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="https://i.imgur.com/nJOVM6e.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",La Red (720p) [Not 24/7]
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="https://i.imgur.com/nJOVM6e.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",La Red (720p)
+https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8
 #EXTINF:-1 tvg-id="LaReinaTV.do" tvg-name="La Reina TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3386-294x165-FFFFFF.jpg" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",La Reina TV (360p) [Geo-blocked]
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRutaTV.do" tvg-name="La Ruta TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2896-294x165-FFFFFF.jpg" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",La Ruta TV
@@ -3692,6 +3701,8 @@ https://streamunoapp.com:3983/live/larutatvlive.m3u8
 https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
 #EXTINF:-1 tvg-id="LaTR3Marsala.it" tvg-name="La TR3 Marsala" tvg-logo="https://i.imgur.com/R4sqZQu.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",La TR3 Marsala (720p)
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 tvg-id="LaTremendaTV.pe" tvg-name="La Tremenda TV" tvg-logo="https://i.pinimg.com/736x/46/24/d3/4624d356bfdaa6254c2597f686108841.jpg" tvg-country="PE" tvg-language="Spanish" group-title="Peru",La Tremenda TV (1080p)
+https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LA7.it" tvg-name="LA7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",LA7 HD (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
 #EXTINF:-1 tvg-id="LA7d.it" tvg-name="LA7d" tvg-logo="https://i.imgur.com/sM0A3GD.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",LA7d (720p)
@@ -3714,8 +3725,6 @@ https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
 https://live.baolaocai.vn/channel2/stream.m3u8
 #EXTINF:-1 tvg-id="LarivisionTV.do" tvg-name="Larivision TV" tvg-logo="https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Larivision TV (720p) [Not 24/7]
 https://live.larivision.net/livelan/live.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Las Estrellas (1080p)
-http://45.189.151.7:8000/play/a07s
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Las Estrellas Latin America (1080p)
@@ -3900,6 +3909,8 @@ https://goliveafrica.media:9998/live/659e7c6432815/index.m3u8
 http://ares.mnet.mk/hls/mnet.m3u8
 #EXTINF:-1 tvg-id="MNetHD.mk" tvg-name="M-Net HD" tvg-logo="https://i.imgur.com/HDYqWuR.png" tvg-country="MK" tvg-language="Macedonian" group-title="North Macedonia",M-Net HD
 https://live.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 tvg-id="M9TVRomania.ro" tvg-name="M9TV Romania" tvg-logo="https://i.imgur.com/hRBNoVD.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",M9TV Romania (576i)
+https://netstreaming.eu/m9tv.m3u8
 #EXTINF:-1 tvg-id="Madaniyatvamarifat.uz" tvg-name="Madaniyat va ma'rifat" tvg-logo="https://i.imgur.com/eeNLXCP.png" tvg-country="UZ" tvg-language="Uzbek" group-title="Uzbekistan",Madaniyat va ma'rifat (576p)
 https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="MaduTV.id" tvg-name="Madu TV" tvg-logo="https://i.imgur.com/cKpgbgW.png" tvg-country="ID" tvg-language="Indonesian" http-referrer="https://madu.tv/live-streaming/" group-title="Indonesia",Madu TV (1080p) [Not 24/7]
@@ -4075,6 +4086,8 @@ https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
 https://rtmp.win:3793/live/mesogeiostvlive.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" tvg-country="IN" tvg-language="Telugu" group-title="India",Metro TV (1080p)
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+#EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" tvg-country="IN" tvg-language="Telugu" group-title="India",Metro TV (1080p)
+https://stream.ottlive.co.in/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="MetropolaTV.ro" tvg-name="Metropola TV" tvg-logo="https://i.imgur.com/Gzq05v8.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",Metropola TV (1080p) [Not 24/7]
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-name="Mexiquense TV" tvg-logo="https://i.imgur.com/iVfzakA.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Mexiquense TV (720p)
@@ -4372,8 +4385,6 @@ https://str2.yodacdn.net/ntv/video.m3u8
 #EXTINF:-1 tvg-id="NayaritComunica.mx" tvg-name="Nayarit Comunica" tvg-logo="https://i.imgur.com/aZCTkjU.jpg" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",Nayarit Comunica (1080p)
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/960px-NBC_Peacock_1986.svg.png" tvg-country="US" tvg-language="English" group-title="United States",NBC (1080p)
-http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/960px-NBC_Peacock_1986.svg.png" tvg-country="US" tvg-language="English" group-title="United States",NBC (1080p)
 http://stream.cammonitorplus.net/1785/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/960px-NBC_Peacock_1986.svg.png" tvg-country="US" tvg-language="English" group-title="United States",NBC KNTV (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
@@ -4431,8 +4442,6 @@ https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/960px-NBC_Peacock_1986.svg.png" tvg-country="US" tvg-language="English" group-title="United States",NBC WRDE-LD (720p) [Not 24/7]
 https://live.field59.com/wrde/wrde1/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/960px-NBC_Peacock_1986.svg.png" tvg-country="US" tvg-language="English" group-title="United States",NBC WTLV (1080p)
-http://190.197.41.183/NBC/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/960px-NBC_Peacock_1986.svg.png" tvg-country="US" tvg-language="English" group-title="United States",NBC WTMJ-TV (720p)
 https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/960px-NBC_Peacock_1986.svg.png" tvg-country="US" tvg-language="English" group-title="United States",NBC WTOV-TV (1080p)
@@ -4495,6 +4504,8 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 https://watch.haitilive.net/naktvhd/index.m3u8
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NETWORK_10/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Network 10 (720p)
 https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
+#EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NETWORK_10/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Network 10 (720p)
+https://network10.livebox.co.in/network10outhls/live.m3u8
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NETWORK_10/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Network 10 (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/network10/playlist.m3u8
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NETWORK_10/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Network 10 (576p)
@@ -4574,6 +4585,10 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
 #EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" tvg-country="IN" tvg-language="Kannada" group-title="India",NKR TV Kannada (1080p)
 https://stream.ottlive.co.in/nkrtv/index.m3u8
+#EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" tvg-country="IN" tvg-language="Kannada" group-title="India",NKR TV Kannada (1080p)
+https://vglivessai.akamaized.net/ptnr-lg/title-NKR_TV/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4833d1-e98f-4fc4-8868-6d31dc2ea843/index.m3u8
+#EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" tvg-country="IN" tvg-language="Kannada" group-title="India",NKR TV Kannada (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bd25b31b-5ce2-453d-a544-d073555d85f3/index.m3u8
 #EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" tvg-country="IN" tvg-language="Kannada" group-title="India",NKR TV Kannada (576p)
 https://mumt05.tangotv.in/87NeALx2NKRTV/index.m3u8
 #EXTINF:-1 tvg-id="noa4Hamburg.de" tvg-name="noa4 Hamburg" tvg-logo="https://i.imgur.com/7A2LRKI.png" tvg-country="DE" tvg-language="German" group-title="Germany",noa4 Hamburg (1080p)
@@ -5465,10 +5480,6 @@ https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br" tvg-name="Rede SPTV" tvg-logo="https://i.imgur.com/kh3LGAP.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede TV! SD (720p)
-http://45.162.64.114/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede TV! SD (720p)
-http://168.197.104.22/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede TV! SD (720p)
 http://170.83.16.50/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede TV! SD (720p)
 http://170.83.49.66:8083/REDETVHD/index.m3u8
@@ -6126,7 +6137,7 @@ https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
 #EXTINF:-1 tvg-id="SILTV.gt" tvg-name="SIL TV" tvg-logo="https://i.imgur.com/tWZXRVu.png" tvg-country="GT" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome" http-referrer="https://www.facebook.com/Siltv32" group-title="Guatemala",SIL TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
 #EXTVLCOPT:http-referrer=https://www.facebook.com/Siltv32
-https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 #EXTINF:-1 tvg-id="SilkWay.kz" tvg-name="Silk Way" tvg-logo="https://i.imgur.com/SJNDksF.png" tvg-country="KZ" tvg-language="Kazakh;Russian;English" group-title="Kazakhstan",Silk Way (1080p)
 https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
 #EXTINF:-1 tvg-id="SilkWay.kz" tvg-name="Silk Way" tvg-logo="https://i.imgur.com/SJNDksF.png" tvg-country="KZ" tvg-language="Kazakh;Russian;English" group-title="Kazakhstan",Silk Way
@@ -6602,8 +6613,8 @@ https://streamunoapp.com:3366/live/telemetrolive.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/index_pc.php
 https://live2.telemicro.com.do/live/55/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/KEYU_logo_2019.png" tvg-country="US" tvg-language="English" group-title="United States",Telemundo (720p)
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-name="Telemicro" tvg-logo="https://i.imgur.com/WhgySAk.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Telemicro HD (720p) [Geo-blocked]
+https://cdn4.wind.do/streams/telemicro/telemicro_1080.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/KEYU_logo_2019.png" tvg-country="US" tvg-language="English" group-title="United States",Telemundo East HD (1080p)
 https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/KEYU_logo_2019.png" tvg-country="US" tvg-language="English" group-title="United States",Telemundo KNSD (1080p) [Not 24/7]
@@ -6849,6 +6860,8 @@ http://190.60.46.228:8888/play/a030/index.m3u8
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" tvg-logo="https://i.imgur.com/cgIv5QK.png" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",Trece
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" tvg-logo="https://i.imgur.com/cgIv5QK.png" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",Trece
+https://tv.mitvparaguay.com/hls?type=hls&id=trece
 #EXTINF:-1 tvg-id="TrendTV.hr" tvg-name="Trend TV" tvg-logo="https://i.imgur.com/4SmNISY.jpg" tvg-country="HR" tvg-language="Croatian" group-title="Croatia",Trend TV (480p)
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TrimedioTV.hu" tvg-name="Trimedio TV" tvg-logo="https://i.imgur.com/P4hxWVZ.png" tvg-country="HU" tvg-language="Hungarian" group-title="Hungary",Trimedio TV (1080p) [Geo-blocked]
@@ -6956,8 +6969,6 @@ https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCentroHD.hn" tvg-name="TV Centro HD" tvg-logo="https://i.imgur.com/bcfmqHb.png" tvg-country="HN" tvg-language="Spanish" group-title="Honduras",TV Centro HD (720p)
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-#EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TV Chile" tvg-logo="https://i.imgur.com/oYFto0V.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",TV Chile (576p)
-http://38.252.238.18:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-name="TV Chosun" tvg-logo="https://i.imgur.com/62EwaCG.png" tvg-country="KR" tvg-language="Korean" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv" group-title="South Korea",TV Chosun (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
@@ -7179,6 +7190,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://i.imgur.com/wSyPmiY.png" tvg-country="MY" tvg-language="Malay;English" http-referrer="https://rtm-player.glueapi.io/" group-title="Malaysia",TV1 (1080p)
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:-1 tvg-id="TV1.ro" tvg-name="TV1" tvg-logo="https://tv1sm.ro/uploads/logo/logo_6725d98a792221-79839652.jpg" tvg-country="RO" tvg-language="Romanian" group-title="Romania",TV1 (576i)
+https://netstreaming.eu/tv1.m3u8
 #EXTINF:-1 tvg-id="TV1.rw" tvg-name="TV1" tvg-logo="https://i.imgur.com/nQNOHJx.png" tvg-country="RW" tvg-language="English;Kinyarwanda" group-title="Rwanda",TV1 (480p)
 https://live.tv1.rw/index.m3u8
 #EXTINF:-1 tvg-id="TV1KG.kg" tvg-name="TV1.KG" tvg-logo="https://i.imgur.com/Mti9t9C.png" tvg-country="KG" tvg-language="Russian" group-title="Kyrgyzstan",TV1.KG (1080p)
@@ -7688,8 +7701,6 @@ https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist
 #EXTINF:-1 tvg-id="WillametteFallsMediaCenter.us" tvg-name="Willamette Falls Media Center" tvg-logo="https://i.imgur.com/KwlFyem.png" tvg-country="US" tvg-language="English" group-title="United States",Willamette Falls Media Center
 https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-country="PE" tvg-language="Spanish" group-title="Peru",Willax TV (1080p)
-http://170.244.209.30:8000/play/a1id/index.m3u8
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-country="PE" tvg-language="Spanish" group-title="Peru",Willax TV (1080p)
 http://190.93.224.42/WILLAX/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-country="PE" tvg-language="Spanish" group-title="Peru",Willax TV (720p)
 http://187.102.210.46/WILLAX/index.m3u8
@@ -7698,7 +7709,7 @@ http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1 tvg-id="WITN22.us" tvg-name="WITN22" tvg-logo="https://i.imgur.com/Esu8PyB.png" tvg-country="US" tvg-language="English" group-title="United States",WITN22 (1080p) [Not 24/7]
 https://witn.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-id="WorldTVGuatemala.gt" tvg-name="World TV Guatemala" tvg-logo="https://i.ibb.co/G4cTmRgz/World-Tv-Guatemala.png" tvg-country="GT" tvg-language="Spanish" group-title="Guatemala",World TV Guatemala (720p)
-https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-name="WOW TV" tvg-logo="https://i.imgur.com/dHxaWyp.png" tvg-country="SV" tvg-language="Spanish" group-title="El Salvador",WOW TV (1080p)
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-name="WOW TV" tvg-logo="https://i.imgur.com/dHxaWyp.png" tvg-country="SV" tvg-language="Spanish" group-title="El Salvador",WOW TV (720p)

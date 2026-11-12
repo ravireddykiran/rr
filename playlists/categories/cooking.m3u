@@ -25,8 +25,6 @@ http://92.114.85.87:8019/play/a009/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 #EXTINF:-1 tvg-id="ChefRocShow.us" tvg-name="Chef Roc Show" tvg-logo="https://i.imgur.com/vhVnAzE.png" tvg-country="US" tvg-language="English" group-title="United States",Chef Roc Show (720p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
-#EXTINF:-1 tvg-id="ChefTV.br" tvg-name="Chef TV" tvg-logo="https://i.imgur.com/UYksTee.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Chef TV (720p)
-http://168.197.104.22/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-id="Chefilacutite.ro" tvg-name="Chefi la cutite" tvg-logo="https://assets.antenaplay.ro/2026/11/04/G8N7skUwdPOXMI5hwmDm.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",Chefi la cutite (576i)
 https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",Chefi.ro (1080p)
@@ -53,6 +51,8 @@ http://138.121.15.230:9002/EL-GOURMET/index.m3u8
 http://190.61.101.11:7050/play/a09s/index.m3u8?hls
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",El Gourmet South (1080p)
 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Food%20Food.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Food Food (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Food%20Food.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Food Food (576p)
 https://cdn.pishow.tv/ott/live/267/master.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Food%20Food.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Food Food (576p)
@@ -171,6 +171,8 @@ https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/pl
 https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
 #EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-name="Tastemade Travel" tvg-logo="https://i.imgur.com/8s6aRwv.png" tvg-country="US" tvg-language="English" group-title="United States",Tastemade Travel (1080p) [Geo-blocked]
 https://tm-tmtar-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Telecafe (1080p)
+http://s1.merlive.am/telekafe/index.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Russia",Telecafe (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8

@@ -37,11 +37,11 @@ https://eu1.servers10.com:8081/ceacom/index.m3u8
 https://live.cineramatvbo.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CoralTV.bo" tvg-name="Coral TV" tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" tvg-country="BO" tvg-language="Spanish" group-title="General",Coral TV (720p)
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
-#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" tvg-logo="https://i.imgur.com/ljKb0UX.png" tvg-country="BO" tvg-language="Spanish" group-title="General",CTV (1080p)
+#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" tvg-logo="https://ctvbolivia.com/wp-content/uploads/2026/06/Red-Nacional.png" tvg-country="BO" tvg-language="Spanish" group-title="General",CTV (1080p)
 http://15.204.246.24:8080/CTVHD/index.m3u8
-#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" tvg-logo="https://i.imgur.com/ljKb0UX.png" tvg-country="BO" tvg-language="Spanish" group-title="General",CTV (720p)
+#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" tvg-logo="https://ctvbolivia.com/wp-content/uploads/2026/06/Red-Nacional.png" tvg-country="BO" tvg-language="Spanish" group-title="General",CTV (720p)
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
-#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" tvg-logo="https://i.imgur.com/ljKb0UX.png" tvg-country="BO" tvg-language="Spanish" group-title="General",CTV
+#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" tvg-logo="https://ctvbolivia.com/wp-content/uploads/2026/06/Red-Nacional.png" tvg-country="BO" tvg-language="Spanish" group-title="General",CTV
 https://live.ctvbolivia.com/hls/ctv.m3u8
 #EXTINF:-1 tvg-id="CVC.bo" tvg-name="CVC" tvg-logo="https://i.imgur.com/taGdzLe.png" tvg-country="BO" tvg-language="Spanish" group-title="Religious",CVC (1080p)
 http://15.204.246.24:8080/CVCHD/index.m3u8

@@ -60,8 +60,14 @@ http://163.61.226.31:9981/stream/channelid/565086134?profile=pass
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aastha.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Aastha HD (720p)
 https://mumbai-edge.smartplaytv.in/Aastha/index.m3u8
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aastha.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Aastha HD (720p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c0a91ce585024dc9ac69786ea4e6ebd4/index.m3u8
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aastha.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Aastha HD (720p)
+https://aasthaott.akamaized.net/110923/smil:aastha.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aastha.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Aastha UK (576p)
 https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aastha%20Bhajan.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Aastha Bhajan (720p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/218f9e64bdce42369500e93cff50572f/index.m3u8
 #EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aastha%20Bhajan.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Aastha Bhajan (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/339/master.m3u8
@@ -72,6 +78,8 @@ https://fta.ektv.in/live/339/master.m3u8
 https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
 #EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aastha%20Bhajan.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Aastha Bhajan (480p)
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" tvg-country="IN" tvg-language="Gujarati" group-title="India",Aastha Gujarati (720p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f5846689505a485a8d4d4c424009c1b3/index.m3u8
 #EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" tvg-country="IN" tvg-language="Gujarati" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Aastha Gujarati (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/372/master.m3u8
@@ -81,6 +89,8 @@ https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
 https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AasthaInternational.in" tvg-name="Aastha International" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Aastha_international.png/960px-Aastha_international.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Aastha International (576p)
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Kannada.png" tvg-country="IN" tvg-language="Kannada" group-title="India",Aastha Kannada (720p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/6938ef4f35324389bf08c16b7e8cd1f7/index.m3u8
 #EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Kannada.png" tvg-country="IN" tvg-language="Kannada" group-title="India",Aastha Kannada (576p)
 https://cdn.pishow.tv/ott/live/234/master.m3u8
 #EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Kannada.png" tvg-country="IN" tvg-language="Kannada" group-title="India",Aastha Kannada (480p)
@@ -89,6 +99,8 @@ https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 #EXTINF:-1 tvg-id="AasthaTamil.in" tvg-name="Aastha Tamil" tvg-logo="https://i.imgur.com/YQK9ewf.png" tvg-country="IN" tvg-language="Tamil" group-title="India",Aastha Tamil (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-country="IN" tvg-language="Telugu" group-title="India",Aastha Telugu (720p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a3e6a5fec4354ec4ae0ca5ed539ff641/index.m3u8
 #EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-country="IN" tvg-language="Telugu" group-title="India",Aastha Telugu (576p)
 https://cdn.pishow.tv/ott/live/262/master.m3u8
 #EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-country="IN" tvg-language="Telugu" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Aastha Telugu (576p)
@@ -237,6 +249,8 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8
 #EXTINF:-1 tvg-id="AmazingFactsTV.us" tvg-name="Amazing Facts TV" tvg-logo="https://i.imgur.com/4d65Bev.png" tvg-country="US" tvg-language="English" group-title="United States",Amazing Facts TV (1080p)
 https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
+#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt" tvg-name="Amigos TV Chiquimula" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" tvg-country="GT" tvg-language="Spanish" group-title="Guatemala",Amigos TV Chiquimula (1080p)
+http://45.166.93.156:9999/play/a0j2/index.m3u8
 #EXTINF:-1 tvg-id="AmigosTVChiquimula.gt" tvg-name="Amigos TV Chiquimula" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" tvg-country="GT" tvg-language="Spanish" group-title="Guatemala",Amigos TV Chiquimula (480p)
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 #EXTINF:-1 tvg-id="AmozhgaryTV.iq" tvg-name="Amozhgary TV" tvg-logo="https://i.imgur.com/sseqFsO.png" tvg-country="IQ" tvg-language="Kurdish" group-title="Iraq",Amozhgary TV
@@ -383,6 +397,8 @@ https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?hdnts=st=1735898
 https://newsliveindia.com:4433/bhaktidhara/index.m3u8
 #EXTINF:-1 tvg-id="BhaktiSagar.in" tvg-name="Bhakti Sagar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Bhakti Sagar (576p)
 https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
+#EXTINF:-1 tvg-id="BlessTV.jm" tvg-name="Bless TV" tvg-logo="https://i.imgur.com/USshSMj.png" tvg-country="JM" tvg-language="English" group-title="Jamaica",Bless TV (1080p)
+https://932y483pdjv8-hls-live.5centscdn.com/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BoonniyomTV.th" tvg-name="Boonniyom TV" tvg-logo="https://i.imgur.com/KvdFCD5.png" tvg-country="TH" tvg-language="Thai" group-title="Thailand",Boonniyom TV (720p)
 https://live.x2.co.th/live/bntv.m3u8
 #EXTINF:-1 tvg-id="BTLTV.nl" tvg-name="BTL TV" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo" tvg-country="NL" tvg-language="Urdu;Panjabi;English" group-title="Netherlands",BTL TV (1080p)
@@ -475,6 +491,8 @@ https://ch14.tv/live/ch4teendoc/playlist.m3u8
 https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
 #EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_TV.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Channel Divya (1080p)
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_TV.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Channel Divya (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8
 #EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_TV.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Channel Divya (720p)
 https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8
 #EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_TV.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Channel Divya (576p)
@@ -604,6 +622,8 @@ https://mdn.dg.church/683c0cb036885-1/index.m3u8
 https://mdn.dg.church/673ac57a073a4-1/index.m3u8
 #EXTINF:-1 tvg-id="DhammaTV.id" tvg-name="Dhamma TV" tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" tvg-country="ID" tvg-language="Indonesian" group-title="Indonesia",Dhamma TV (720p) [Not 24/7]
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 tvg-id="DharmSandesh.in" tvg-name="Dharm Sandesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Dharm Sandesh (720p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/aed713462c734923aac946a547265288/index.m3u8
 #EXTINF:-1 tvg-id="DharmSandesh.in" tvg-name="Dharm Sandesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Dharm Sandesh (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/625/master.m3u8
@@ -670,8 +690,6 @@ https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElPuertoTV.do" tvg-name="El Puerto TV" tvg-logo="https://i.imgur.com/FnshExB.jpg" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",El Puerto TV (720p)
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="ElSembradorNuevaEvangelizacionESNE.us" tvg-name="El Sembrador Nueva Evangelizacion ESNE" tvg-logo="https://i.imgur.com/APhSi1Y.jpg" tvg-country="US" tvg-language="Spanish" group-title="United States",El Sembrador Nueva Evangelizacion ESNE
-http://190.61.90.17:40000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="ElRoiTV.gt" tvg-name="El-Roi TV" tvg-logo="https://i.imgur.com/h8S0eA4.png" tvg-country="GT" tvg-language="Spanish" group-title="Guatemala",El-Roi TV (720p)
 https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
 #EXTINF:-1 tvg-id="ElbesharaGTV.us" tvg-name="Elbeshara GTV" tvg-logo="https://i.imgur.com/b0Wx7pE.png" tvg-country="US" tvg-language="Arabic" group-title="United States",Elbeshara GTV (1080p) [Not 24/7]
@@ -683,8 +701,6 @@ https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ElimTV.sv" tvg-name="Elim TV" tvg-logo="https://i.imgur.com/payIg0N.png" tvg-country="SV" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36" group-title="El Salvador",Elim TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://stream.soporteccrtv.xyz/live/elimtv/main_stream.m3u8
-#EXTINF:-1 tvg-id="ElimTV.sv" tvg-name="Elim TV" tvg-logo="https://i.imgur.com/payIg0N.png" tvg-country="SV" tvg-language="Spanish" group-title="El Salvador",Elim TV (576p)
-http://38.252.238.18:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="ElimTV.sv" tvg-name="Elim TV" tvg-logo="https://i.imgur.com/payIg0N.png" tvg-country="SV" tvg-language="Spanish" group-title="El Salvador",Elim TV (480p) [Not 24/7]
 https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8
 #EXTINF:-1 tvg-id="EmanChannel.uk" tvg-name="Eman Channel" tvg-logo="https://i.imgur.com/ugn0DWe.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Eman Channel (576p)
@@ -721,10 +737,6 @@ https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 #EXTINF:-1 tvg-id="EslahTV.af" tvg-name="Eslah TV" tvg-logo="https://i.imgur.com/To7VnsA.png" tvg-country="AF" tvg-language="Pashto" group-title="Afghanistan",Eslah TV (720p)
 https://eslahtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="https://i.imgur.com/bwAuFgx.png" tvg-country="US" tvg-language="Spanish" group-title="United States",ESNE TV (1080p)
-http://132.255.210.69:8000/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="https://i.imgur.com/bwAuFgx.png" tvg-country="US" tvg-language="Spanish" group-title="United States",ESNE TV (1080p)
-http://190.217.66.92:8000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="https://i.imgur.com/bwAuFgx.png" tvg-country="US" tvg-language="Spanish" group-title="United States",ESNE TV (720p)
 http://168.196.127.137:6001/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="EspirituSantoYFuegoTV.gt" tvg-name="Espiritu Santo Y Fuego TV" tvg-logo="https://i.imgur.com/8mdSWO4.jpg" tvg-country="GT" tvg-language="Spanish" group-title="Guatemala",Espiritu Santo Y Fuego TV (480p)
@@ -793,6 +805,8 @@ https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
 #EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Fateh_TV.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Fateh TV (1080p) [Not 24/7]
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
+#EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Fateh_TV.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Fateh TV (1080p)
+https://stream.ottlive.co.in/fatehtv/index.m3u8
 #EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Fateh_TV.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Fateh TV (576p)
 https://cdn.pishow.tv/ott/live/349/master.m3u8
 #EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Fateh_TV.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Fateh TV (576p)
@@ -1502,6 +1516,8 @@ http://202.150.161.117:8000/play/NabawiTV
 https://cdn.pishow.tv/ott/live/1389/master.m3u8
 #EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-name="Nambikkai TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Tamil" group-title="India",Nambikkai TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="NamdhariTV.in" tvg-name="Namdhari TV" tvg-logo="https://i.imgur.com/NalsXTo.png" tvg-country="IN" tvg-language="Panjabi" group-title="India",Namdhari TV (576p)
+https://samitaorigin.tangotv.in/NAMDHARICHANNEL/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="NamdhariTV.in" tvg-name="Namdhari TV" tvg-logo="https://i.imgur.com/NalsXTo.png" tvg-country="IN" tvg-language="Panjabi" group-title="India",Namdhari TV (404p) [Not 24/7]
 https://namdhari.tv/live/sbs1.m3u8
 #EXTINF:-1 tvg-id="NanaksarLive.in" tvg-name="Nanaksar Live" tvg-logo="https://papaji.freetvindia.com/media/Nanasar_live.png" tvg-country="IN" tvg-language="Panjabi" group-title="India",Nanaksar Live (720p)
@@ -1539,10 +1555,6 @@ https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="NoursatEnglish.lb" tvg-name="Noursat English" tvg-logo="https://i.imgur.com/RC5Kw82.png" tvg-country="LB" tvg-language="English" group-title="Lebanon",Noursat English (576p)
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Novo Tempo (720p)
-http://45.162.64.114/NOVO_TEMPO/index.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Novo Tempo (720p)
-http://168.197.104.22/NOVO_TEMPO/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Novo Tempo (720p)
 http://186.219.52.187/novo_tempo/index.m3u8
 #EXTINF:-1 tvg-id="NRBTV.us" tvg-name="NRBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/NRB_blue-768x530-1.png/960px-NRB_blue-768x530-1.png" tvg-country="US" tvg-language="English" group-title="United States",NRBTV (720p)
@@ -1649,6 +1661,8 @@ https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
 https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
 #EXTINF:-1 tvg-id="ProclamacionTV.ve" tvg-name="Proclamacion TV" tvg-logo="https://i.imgur.com/8dt7awY.jpeg" tvg-country="VE" tvg-language="Spanish" group-title="Venezuela",Proclamacion TV [Not 24/7]
 https://video2.getstreamhosting.com:19360/8000/8000.m3u8
+#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_SIMRAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Panjabi" group-title="India",PTC Simran (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/index.m3u8
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_SIMRAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Panjabi" group-title="India",PTC Simran (576p)
 https://cdn.pishow.tv/ott/live/1503/master.m3u8
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_SIMRAN/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Panjabi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",PTC Simran (576p)
@@ -1719,13 +1733,9 @@ http://45.177.114.115/REDE_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" tvg-logo="https://i.imgur.com/mttSwgO.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede Gospel (720p)
 http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede Seculo 21 (720p)
-http://45.162.64.114/REDE_SECULO_21/index.m3u8
-#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede Seculo 21 (720p)
 http://186.219.52.187/seculo21/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/mP1qfp2.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede Vida (720p)
 http://46.151.196.223:14244
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/mP1qfp2.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede Vida (720p)
-http://168.197.104.22/REDE_VIDA/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/mP1qfp2.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede Vida (720p)
 http://170.84.165.204/REDEVIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/mP1qfp2.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Rede Vida (720p)
@@ -1736,10 +1746,10 @@ https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" tvg-logo="https://i.imgur.com/5o821rT.png" tvg-country="GT" tvg-language="Spanish" group-title="Guatemala",Rhema TV (1080p)
 http://45.171.64.30:6060/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" tvg-logo="https://i.imgur.com/5o821rT.png" tvg-country="GT" tvg-language="Spanish" group-title="Guatemala",Rhema TV (1080p)
+http://45.166.93.156:9999/play/a0ff/index.m3u8
 #EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" tvg-logo="https://i.imgur.com/5o821rT.png" tvg-country="GT" tvg-language="Spanish" group-title="Guatemala",Rhema TV (720p)
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
-#EXTINF:-1 tvg-id="RhemaTV.gt" tvg-name="Rhema TV" tvg-logo="https://i.imgur.com/5o821rT.png" tvg-country="GT" tvg-language="Spanish" group-title="Guatemala",Rhema TV
-http://190.61.90.17:40000/play/a0iw/index.m3u8
 #EXTINF:-1 tvg-id="RiddimHopeTV.tt" tvg-name="Riddim & Hope TV" tvg-logo="https://i.imgur.com/c27k0Bd.png" tvg-country="TT" tvg-language="English" group-title="Trinidad and Tobago",Riddim & Hope TV
 https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" tvg-logo="https://i.imgur.com/Unjs1wi.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",RIT TV (1080p)
@@ -1808,6 +1818,8 @@ https://cdn.pishow.tv/ott/live/1135/master.m3u8
 https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Sanskar TV (1080p)
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Sanskar TV (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Sanskar TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/165/master.m3u8
@@ -1825,6 +1837,8 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 https://sat7phls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SatsangTV.in" tvg-name="Satsang TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATSANG/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Satsang TV (1080p)
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+#EXTINF:-1 tvg-id="SatsangTV.in" tvg-name="Satsang TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATSANG/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Satsang TV (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index.m3u8
 #EXTINF:-1 tvg-id="SatsangTV.in" tvg-name="Satsang TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATSANG/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Satsang TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/341/master.m3u8
@@ -1878,6 +1892,10 @@ https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 https://samitaorigin.tangotv.in/SHREEHAZURSAHIBJI/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ShreeSanatanTV.in" tvg-name="Shree Sanatan TV" tvg-logo="https://papaji.freetvindia.com/media/channels/shri_Sanatan_TV.png" tvg-country="IN" tvg-language="Gujarati" group-title="India",Shree Sanatan TV (720p)
 http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
+#EXTINF:-1 tvg-id="ShriShyamTV.in" tvg-name="Shri Shyam TV" tvg-logo="https://papaji.freetvindia.com/media/channels/Shri_Shyam.png" tvg-country="IN" tvg-language="Gujarati" group-title="India",Shri Shyam TV (1080p)
+https://7xshreeshyam.akamaized.net/shreeshyamtv/index.m3u8
+#EXTINF:-1 tvg-id="ShriShyamTV.in" tvg-name="Shri Shyam TV" tvg-logo="https://papaji.freetvindia.com/media/channels/Shri_Shyam.png" tvg-country="IN" tvg-language="Gujarati" group-title="India",Shri Shyam TV (1080p)
+https://cloudcdn.in/live/shreeshyamtv/index.m3u8
 #EXTINF:-1 tvg-id="ShubhsandeshTV.in" tvg-name="Shubhsandesh TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Shubhsandesh TV (720p) [Not 24/7]
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 #EXTINF:-1 tvg-id="ShubhsandeshTV.in" tvg-name="Shubhsandesh TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Shubhsandesh TV (576p)
@@ -1943,6 +1961,8 @@ https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SVBC3.in" tvg-name="SVBC 3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SVBG-3-Transparent.png" tvg-country="IN" tvg-language="Kannada" group-title="India",SVBC 3 (576p)
 https://mumt01.tangotv.in/O5aw8Zn3SVBC3KANNADA/index.m3u8
+#EXTINF:-1 tvg-id="SVBC3.in" tvg-name="SVBC 3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SVBG-3-Transparent.png" tvg-country="IN" tvg-language="Kannada" group-title="India",SVBC 3 (576p)
+https://cdn.pishow.tv/ott/live/1517/master.m3u8
 #EXTINF:-1 tvg-id="SVBC4.in" tvg-name="SVBC 4" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png" tvg-country="IN" tvg-language="Hindi" group-title="India",SVBC 4 (1080p)
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SVBC4.in" tvg-name="SVBC 4" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",SVBC 4 (576p)
@@ -2046,11 +2066,7 @@ https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Aparecida (720p)
-http://45.162.64.114/TV_APARECIDA/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Aparecida (720p)
 http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Aparecida (720p)
-http://168.197.104.22/TV_APARECIDA/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Aparecida (720p)
 http://170.83.16.50/TV_APARECIDA/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Aparecida (720p)
@@ -2059,10 +2075,6 @@ http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
 https://radiocret.net:8082/hls/tvcret.m3u8
 #EXTINF:-1 tvg-id="TVEstrella.hn" tvg-name="TV Estrella" tvg-logo="https://i.imgur.com/QqSR7l7.png" tvg-country="HN" tvg-language="Spanish" group-title="Honduras",TV Estrella (720p)
 https://s.emisoras.tv:8081/tve/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Evangelizar (720p)
-http://45.162.64.114/EVANGELIZAR/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Evangelizar (720p)
-http://168.197.104.22/EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Evangelizar (720p)
 http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Evangelizar (720p)
@@ -2106,10 +2118,6 @@ https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPadreCicero.br" tvg-name="TV Padre Cicero" tvg-logo="https://i.imgur.com/Y7b29VG.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Padre Cicero (720p)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-logo="https://i.imgur.com/iuoXchN.png" tvg-country="BR" tvg-language="Portuguese;English" group-title="Brazil",TV Pai Eterno (720p)
-http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-logo="https://i.imgur.com/iuoXchN.png" tvg-country="BR" tvg-language="Portuguese;English" group-title="Brazil",TV Pai Eterno (720p)
-http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-logo="https://i.imgur.com/iuoXchN.png" tvg-country="BR" tvg-language="Portuguese;English" group-title="Brazil",TV Pai Eterno (720p)
 http://186.219.52.187/pai_eterno/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-logo="https://i.imgur.com/iuoXchN.png" tvg-country="BR" tvg-language="Portuguese;English" group-title="Brazil",TV Pai Eterno (720p)
 https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
@@ -2143,6 +2151,10 @@ https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
 http://cabletv.valamtv.in/hls/stream0.m3u8
 #EXTINF:-1 tvg-id="ValamTVDayro.in" tvg-name="Valam TV Dayro" tvg-logo="https://papaji.freetvindia.com/media/channels/Valam_Dayro.png" tvg-country="IN" tvg-language="Gujarati" group-title="India",Valam TV Dayro (576p)
 https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
+#EXTINF:-1 tvg-id="ValamTVDayro.in" tvg-name="Valam TV Dayro" tvg-logo="https://papaji.freetvindia.com/media/channels/Valam_Dayro.png" tvg-country="IN" tvg-language="Gujarati" group-title="India",Valam TV Dayro (576p)
+https://samitaorigin.tangotv.in/VALAMDAIRO/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Vedic.in" tvg-name="Vedic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Vedic.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Vedic (720p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/5812b1a12b62482f83c38f9c8d34cb5a/index.m3u8
 #EXTINF:-1 tvg-id="Vedic.in" tvg-name="Vedic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Vedic.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Vedic (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/628/master.m3u8

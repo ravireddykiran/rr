@@ -29,10 +29,6 @@ http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 https://hls.botflix.tv/tv/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-name="Cartoon Classics" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" tvg-country="PL" tvg-language="English" group-title="Poland",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi;Tamil;Telugu;Kannada;Malayalam;Marathi" group-title="India",Cartoon Network (720p)
-https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Cartoon Network (720p) [Geo-blocked]
-http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="IT" tvg-language="Italian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Italy",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://185.227.34.104/stream/122/index.m3u8
@@ -42,6 +38,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3
 http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Cartoon Network [Not 24/7] [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="English;Spanish;Portuguese" group-title="United States",Cartoon Network West (1080p) [Geo-blocked]
+http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-name="Cartoon Network Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" tvg-country="AE" tvg-language="Arabic" group-title="United Arab Emirates",Cartoon Network Arabic
 http://149.100.11.252:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="SG" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Singapore",Cartoon Network Asia (720p)
@@ -66,21 +64,13 @@ http://92.114.85.87:8007/play/a009
 http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi;Tamil;Telugu;Kannada;Malayalam;Marathi" group-title="India",Cartoon Network HD+ (1080p)
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" tvg-country="IN" group-title="India",Cartoon Network HD+ (720p)
-https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="United States",Cartoon Network Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="Portuguese" group-title="United States",Cartoon Network Latin America Brazil (720p)
-http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="Portuguese" group-title="United States",Cartoon Network Latin America Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Cartoon Network Latin America North Atlantic (1080p)
-http://38.252.238.18:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Cartoon Network Latin America North Atlantic (1080p)
 http://45.173.12.70:8000/play/a0fj
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Cartoon Network Latin America North Atlantic (1080p)
-http://170.244.209.30:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Cartoon Network Latin America South Atlantic (1080p)
 http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Cartoon Network Latin America South Pacific (576p)
@@ -126,8 +116,6 @@ http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="AR" tvg-language="Spanish;Portuguese" group-title="Argentina",Disney Channel Latin America Panregional HD (1080p)
 http://138.59.227.20:8000/play/a06w/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="AR" tvg-language="Spanish;Portuguese" group-title="Argentina",Disney Channel Latin America Panregional HD (1080p)
-http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="AR" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Argentina",Disney Channel Latin America South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
@@ -139,8 +127,6 @@ http://190.14.10.19:16000/play/a02d/index.m3u8
 http://190.93.224.42/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Disney Jr. Latin America North HD (1080p)
 http://181.78.14.26:4000/play/a073/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Disney Jr. Latin America North HD (1080p)
-http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Disney Jr. Latin America South (1080p)
 http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Disney Jr. Latin America South
@@ -298,8 +284,6 @@ https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStarTrekAnimation.de" tvg-name="Pluto TV Star Trek: Animation" tvg-logo="https://images.pluto.tv/channels/69492467ae33e24d916e56cf/colorLogoSVG_1770896970638.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Pluto TV Star Trek: Animation
 https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
-#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi;Tamil;Telugu;Kannada;Malayalam;Marathi" group-title="India",Pogo (720p)
-https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi;Tamil;Telugu;Kannada;Malayalam;Marathi" group-title="India",Pogo (576p)
 http://103.135.253.32:8080/POGO/index.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush" tvg-logo="https://i.imgur.com/M40b4YI.png" tvg-country="US" tvg-language="English" group-title="United States",RetroCrush (1080p)
