@@ -29,6 +29,8 @@ http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 https://hls.botflix.tv/tv/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-name="Cartoon Classics" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" tvg-country="PL" tvg-language="English" group-title="Poland",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Cartoon Network (1080p)
+https://tvnow.hostless.app/cartoon-network.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="IT" tvg-language="Italian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Italy",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://185.227.34.104/stream/122/index.m3u8

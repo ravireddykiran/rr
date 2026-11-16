@@ -31,9 +31,8 @@ https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-country="DE" tvg-language="English" group-title="Entertainment",MTV
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-country="FR" tvg-language="French" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-country="FR" tvg-language="French" group-title="Entertainment",MTV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" http-referrer="https://bhoomtv.org/" group-title="Entertainment",MTV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/

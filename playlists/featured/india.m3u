@@ -372,8 +372,6 @@ https://mumt07.tangotv.in/zHjX9OFlMAZHAVILMANORAMAHD/index.m3u8
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18Kerala.in" tvg-name="News18 Kerala" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_KERALA/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Malayalam" group-title="News",News18 Kerala (1080p) [Geo-blocked]
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="Bengali" group-title="Entertainment",Zee Bangla HD (1080p)
-https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="Bengali" group-title="Entertainment",Zee Bangla HD (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="Bengali" group-title="Entertainment",Zee Bangla HD (720p) [Geo-blocked]
@@ -484,9 +482,6 @@ http://163.61.226.31:9981/stream/channelid/297962113?profile=pass
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="Hindi" group-title="Movies",Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Action (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/270/master.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="Entertainment",Sony Entertainment Television HD (1080p)
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/6729deffe5b96c58f0401085/images/LANDSCAPE_169/LANDSCAPE_169_YPiKWyPKh_STAR-PLUS.png" tvg-country="IN" tvg-language="Hindi" group-title="Entertainment",StarPlus HD (1080p)

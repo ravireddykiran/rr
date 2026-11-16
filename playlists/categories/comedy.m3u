@@ -76,6 +76,10 @@ https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
 #EXTINF:-1 tvg-id="ComediaalobestiadePlutoTV.de" tvg-name="Comedia a lo bestia de Pluto TV" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoSVG_1759402463607.svg" tvg-country="DE" tvg-language="Spanish" group-title="Germany",Comedia a lo bestia de Pluto TV
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Comedy Central (1080p)
+https://tvnow.hostless.app/comedy-central.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="FR" tvg-language="French" group-title="France",Comedy Central (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Comedy Central (720p)
 http://team-tv.co:81/comedy/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="DE" tvg-language="German" group-title="Germany",Comedy Central
@@ -92,11 +96,6 @@ https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us" tvg-name="Comedy Central en Espanol" tvg-logo="https://i.imgur.com/6xTD3G8.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Comedy Central en Espanol
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="US" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="United States",Comedy Central Latin America (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Comedy Central Latin America (1080p)
-https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",Comedy Central Pluto TV BR

@@ -228,8 +228,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
-#EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" tvg-logo="https://i.imgur.com/8VKc2Ya.png" tvg-country="RU" tvg-language="Russian" group-title="General",Channel 5 International (576p)
-http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" tvg-logo="https://i.imgur.com/8VKc2Ya.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Channel 5 International (576i)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
@@ -247,10 +245,6 @@ https://v4.proofix.ru/8tv-russia/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 #EXTVLCOPT:http-referrer=http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel8Krasnoyarsk.ru" tvg-name="Channel 8 Krasnoyarsk" tvg-logo="https://i.imgur.com/q3JCAC3.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" http-referrer="https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8" group-title="General",Channel 8 Krasnoyarsk HD (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
-https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Channel8Novosibirsk.ru" tvg-name="Channel 8 Novosibirsk" tvg-logo="https://i.imgur.com/eHGETvU.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" group-title="General",Channel 8 Novosibirsk (480i)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
@@ -281,8 +275,6 @@ https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Channel16.ru" tvg-name="Channel-16" tvg-logo="https://i.imgur.com/7tNDKHe.png" tvg-country="RU" tvg-language="Russian" group-title="General",Channel-16 (406p) [Not 24/7]
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" tvg-logo="https://i.imgur.com/ZOcDGpB.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",Che! (576p)
-http://176.118.197.101/Che/index.m3u8
 #EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" tvg-logo="https://i.imgur.com/ZOcDGpB.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",Che! (576p)
 http://flussonic.linkintel.ru/che/index.m3u8
 #EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" tvg-logo="https://i.imgur.com/ZOcDGpB.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",Che! (576p)
@@ -631,11 +623,11 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinopokaz
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinopremyera (1080p)
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinopremyera
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinopremyera HD (1080p)
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-country="RU" group-title="Movies",Kinopremyera (1080p)
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-country="RU" group-title="Movies",Kinopremyera
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KinoSat.ru" tvg-name="KinoSat" tvg-logo="https://i.imgur.com/7KsNvBz.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",KinoSat (576p)
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Kinosemja" tvg-logo="https://i.imgur.com/4BF5VeK.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinosemja (576p)
@@ -1174,8 +1166,6 @@ http://flussonic.linkintel.ru/ren_tv/index.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="General",REN TV (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 tvg-id="RENTVInternational.ru" tvg-name="REN TV International" tvg-logo="https://i.imgur.com/gBjk9oF.png" tvg-country="RU" tvg-language="Russian" group-title="General",REN TV International (576p)
-http://178.134.1.158:8081/RENTV/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" tvg-country="RU" tvg-language="Russian" group-title="Classic",Retro (576p)
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" tvg-country="RU" tvg-language="Russian" group-title="Classic",Retro (576p)
@@ -1824,6 +1814,8 @@ http://stream.mcquack.net/266/index.m3u8
 https://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" tvg-logo="https://i.imgur.com/cQN0P2B.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Russkiy roman (576p)
 http://31.148.48.15/Russkiy_Roman/index.m3u8
+#EXTINF:-1 tvg-id="Rybalkaiokhota.ru" tvg-name="Rybalka i okhota" tvg-logo="https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png" tvg-country="RU" tvg-language="Russian" group-title="Outdoor",Rybalka i okhota (576p)
+https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="Rybolov.ru" tvg-name="Rybolov" tvg-logo="https://i.imgur.com/wJMTcFS.png" tvg-country="RU" tvg-language="Russian" group-title="Outdoor",Rybolov (576p)
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-name="Ryzhiy" tvg-logo="https://i.imgur.com/acrU2IE.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Ryzhiy (576i)
@@ -1863,12 +1855,6 @@ http://31.148.48.15/Sapfir/index.m3u8
 http://stream.mcquack.net/81/index.m3u8
 #EXTINF:-1 tvg-id="Sarafan.ru" tvg-name="Sarafan" tvg-logo="https://i.imgur.com/u4q1rMT.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Sarafan (576p)
 http://31.148.48.15/Sarafan/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSports1.ru" tvg-name="Setanta Sports 1" tvg-logo="https://i.imgur.com/8ANUZAu.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 tvg-id="SetantaSports2.ru" tvg-name="Setanta Sports 2" tvg-logo="https://i.imgur.com/NOBACb6.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-id="Seven.ru" tvg-name="Seven" tvg-logo="https://i.imgur.com/GpCwqUF.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Seven (576p)
 http://31.148.48.15/7TV/index.m3u8
 #EXTINF:-1 tvg-id="Sever.ru" tvg-name="Sever" tvg-logo="https://i.imgur.com/sTOQLYl.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Sever
@@ -2020,8 +2006,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-country="RU" tvg-language="Russian" group-title="Family",STS HD (1080p)
 http://stream.mcquack.net/138/index.m3u8
-#EXTINF:-1 tvg-id="STSInternational.ru" tvg-name="STS International" tvg-logo="https://i.imgur.com/mwiC0RG.png" tvg-country="RU" tvg-language="Russian" group-title="Other",STS International (576p)
-http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" tvg-logo="https://i.imgur.com/o9kLpAL.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",STS kids (1080p)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" tvg-logo="https://i.imgur.com/o9kLpAL.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",STS kids (576p)

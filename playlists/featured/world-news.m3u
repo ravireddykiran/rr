@@ -24,6 +24,8 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png" tvg-country="QA" tvg-language="English" group-title="News",Al Jazeera English (1080p)
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png" tvg-country="QA" tvg-language="English" group-title="News",Al Jazeera English (1080p)
+https://live-hls-web-aje-gcp.thehlive.com/AJE/04.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png" tvg-country="QA" tvg-language="English" group-title="News",Al Jazeera English (1080p)
 https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png" tvg-country="QA" tvg-language="English" group-title="News",Al Jazeera English (720p)
 http://170.83.16.50/ALJAZEERA/index.m3u8
@@ -217,6 +219,8 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" tvg-country="FR" tvg-language="Spanish" group-title="News",Euronews Spanish (1080p)
 https://iptv.bitred.cl/euronews/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" tvg-country="FR" tvg-language="Spanish" group-title="News",Euronews Spanish (1080p)
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" tvg-country="FR" tvg-language="Spanish" group-title="News",Euronews Spanish (720p)
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" tvg-country="FR" tvg-language="Spanish" group-title="News",Euronews Spanish (720p)

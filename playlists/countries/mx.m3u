@@ -170,7 +170,7 @@ http://190.61.47.54:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="EclipseTV.mx" tvg-name="Eclipse TV" tvg-logo="https://i.imgur.com/GiDD8xG.jpg" tvg-country="MX" tvg-language="Spanish" group-title="General",Eclipse TV (720p)
 https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 #EXTINF:-1 tvg-id="ElChavoTV.mx" tvg-name="El Chavo TV" tvg-logo="https://gia.tv/streams/pptv/211465.png" tvg-country="MX" tvg-language="Spanish" group-title="Kids",El Chavo TV (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="ElSonorense.mx" tvg-name="El Sonorense" tvg-logo="https://i.imgur.com/aKvPd4g.jpg" tvg-country="MX" tvg-language="Spanish" group-title="Culture",El Sonorense (1080p) [Not 24/7]
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpresaTV.mx" tvg-name="Expresa TV" tvg-logo="https://i.imgur.com/kFVVGrg.png" tvg-country="MX" tvg-language="Spanish" group-title="General",Expresa TV (720p)

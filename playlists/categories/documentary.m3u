@@ -471,6 +471,8 @@ http://45.173.231.22:8000/play/a05z/index.m3u8
 http://190.93.224.42/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",National Geographic Latin America (1080p)
 https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",National Geographic Latin America (1080p)
+http://181.78.12.119:16123/play/ch30
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",National Geographic Latin America
 http://181.78.79.131:8000/play/a0pt
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",National Geographic Wild (1080p) [Geo-blocked]
@@ -534,8 +536,6 @@ http://31.148.48.15/Nauka_2.0/index.m3u8
 http://stream.mcquack.net/125/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Nauka
 https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 tvg-id="NutaGold.pl" tvg-name="Nuta Gold" tvg-logo="https://i.imgur.com/BEs160o.png" tvg-country="PL" tvg-language="Polish" group-title="Poland",Nuta Gold
-http://92.114.85.87:8010/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="OzbekistonTarixi.uz" tvg-name="O'zbekiston Tarixi" tvg-logo="https://i.imgur.com/iTTd3Ir.png" tvg-country="UZ" tvg-language="Uzbek" group-title="Uzbekistan",O'zbekiston Tarixi (1080p)
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" tvg-logo="https://i.imgur.com/TAmVjUL.png" tvg-country="US" tvg-language="English" group-title="United States",On The Case

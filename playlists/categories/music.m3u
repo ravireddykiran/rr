@@ -613,9 +613,9 @@ https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="HighVisionTV.us" tvg-name="High Vision TV" tvg-logo="https://i.imgur.com/zhCgoru.png" tvg-country="US" tvg-language="Persian" group-title="United States",High Vision TV (1080p) [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
-#EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Hindi Hits (1080p)
+#EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Hindi Hits SD (1080p)
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Hindi Hits (720p)
+#EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Hindi Hits SD (720p)
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" tvg-logo="https://i.imgur.com/QwqM5j6.png" tvg-country="MD" tvg-language="Romanian;Russian" group-title="Moldova",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
@@ -817,9 +817,6 @@ http://dtv.vol.net.ua/M1-HD/index.m3u8
 #EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" tvg-logo="https://i.imgur.com/wbRdUw8.png" tvg-country="UA" tvg-language="Ukrainian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Ukraine",M1 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/218/index.m3u8
-#EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" tvg-logo="https://i.imgur.com/wbRdUw8.png" tvg-country="UA" tvg-language="Ukrainian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Ukraine",M1 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=m1
 #EXTINF:-1 tvg-id="M2.ua" tvg-name="M2" tvg-logo="https://i.imgur.com/AfcBWCg.png" tvg-country="UA" tvg-language="Ukrainian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Ukraine",M2 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/330/index.m3u8
@@ -944,8 +941,8 @@ https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.ism
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
 #EXTINF:-1 tvg-id="MolahitsTV.es" tvg-name="Molahits TV" tvg-logo="https://i.imgur.com/FYcLtqT.png" tvg-country="ES" tvg-language="Catalan" group-title="Spain",Molahits TV (720p)
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 tvg-id="MontonesTV.do" tvg-name="Montones TV" tvg-logo="https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Montones TV (1080p)
-https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
+#EXTINF:-1 tvg-id="MontonesTV.do" tvg-name="Montones TV" tvg-logo="https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Montones TV (720p) [Not 24/7]
+https://183.giatvcdn.com/ssh101/ssh101/montonestv1/playlist.m3u8
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/aX70RD2.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",Mooz Dance HD (1080i) [Geo-blocked]
 https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-name="Mosaique FM" tvg-logo="https://i.imgur.com/GDUykah.png" tvg-country="TN" tvg-language="Arabic" group-title="Tunisia",Mosaique FM (1080p)

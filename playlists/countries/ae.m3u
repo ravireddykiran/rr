@@ -51,6 +51,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-logo="https://i.imgur.com/4FXiyjn.png" tvg-country="AE" tvg-language="Persian" group-title="Entertainment",MBC Persia (720p)
 https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NickelodeonArabia.ae" tvg-name="Nickelodeon Arabia" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="AE" tvg-language="Arabic;English" group-title="Kids",Nickelodeon Arabia (1080i)
+http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NourTV.ae" tvg-name="Nour TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" tvg-country="AE" tvg-language="Persian" group-title="Religious",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 tvg-id="OSNMoviesAction.ae" tvg-name="OSN Movies Action" tvg-logo="https://i.imgur.com/uOzyKup.png" tvg-country="AE" tvg-language="English" group-title="Movies",OSN Movies Action (1080p)
@@ -96,5 +98,7 @@ https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-name="Spacetoon Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" tvg-country="AE" tvg-language="Arabic" http-referrer="https://spacetoon.com" group-title="Animation;Kids",Spacetoon Arabic (576p)
 #EXTVLCOPT:http-referrer=https://spacetoon.com
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+#EXTINF:-1 tvg-id="StarWorldMiddleEast.ae" tvg-name="Star World Middle East" tvg-logo="https://i.imgur.com/TD8d1eQ.png" tvg-country="AE" tvg-language="English" group-title="Other",Star World Middle East (720p)
+http://85.237.89.159:3342/ar-s/STAR-World-HD/index.m3u8
 #EXTINF:-1 tvg-id="WatarRadio.ae" tvg-name="Watar Radio" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/d2/ad/fullhd_48adf2291d08266c05ed1b0c24f326c86b1095b7.png" tvg-country="AE" tvg-language="Arabic" group-title="Other",Watar Radio (1080p)
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8

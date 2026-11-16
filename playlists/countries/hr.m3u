@@ -30,8 +30,14 @@ https://178.253.194.105/klasiktv/playlist.m3u8
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.hr" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="HR" tvg-language="Croatian" group-title="Documentary",National Geographic (1080p)
 http://176.61.157.250/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-country="HR" tvg-language="Croatian" group-title="Kids",Nick Jr. (576p)
+http://5.175.174.49:1234/stream/maxtvhr/nickjrhr/master.m3u8
 #EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-country="HR" tvg-language="Croatian" group-title="Kids",Nick Jr. (540p)
 http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-country="HR" tvg-language="Croatian" group-title="Kids",Nickelodeon (720p)
+http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
+#EXTINF:-1 tvg-id="NicktoonsAdria.hr" tvg-name="Nicktoons Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-country="HR" tvg-language="Croatian" group-title="Kids",Nicktoons Adria (528p)
+http://5.175.174.49:1234/stream/maxtvhr/nicktoonshr-1/master.m3u8
 #EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" tvg-country="HR" tvg-language="Croatian" group-title="General",Nova TV (1080p)
 http://176.61.157.250/NovaTV/index.m3u8
 #EXTINF:-1 tvg-id="OTV.hr" tvg-name="OTV" tvg-logo="https://i.imgur.com/67zVdu2.png" tvg-country="HR" tvg-language="Croatian" group-title="News",OTV (720p) [Not 24/7]

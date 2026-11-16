@@ -52,6 +52,8 @@ https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJ
 http://95.141.36.9:8080/stream/181/index.m3u8
 #EXTINF:-1 tvg-id="BomChannel.it" tvg-name="Bom Channel" tvg-logo="https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png" tvg-country="IT" tvg-language="Italian" group-title="General",Bom Channel (720p)
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Kids",Boomerang
+http://sultanios.alwaysdata.net/vavo.php?ID=2705627802
 #EXTINF:-1 tvg-id="CacciaePesca.it" tvg-name="Caccia e Pesca" tvg-logo="https://i.imgur.com/uZr0cXB.png" tvg-country="IT" tvg-language="Italian" group-title="Outdoor",Caccia e Pesca (720p)
 http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1 tvg-id="CafeTV24.it" tvg-name="CafeTV24" tvg-logo="https://i.imgur.com/SRFzjja.png" tvg-country="IT" tvg-language="Italian" group-title="Other",CafeTV24 (720p)
@@ -382,6 +384,8 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Radiofreccia.it" tvg-name="Radiofreccia" tvg-logo="https://i.imgur.com/RxeRlar.png" tvg-country="IT" tvg-language="Italian" group-title="Music",Radiofreccia (1080p)
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Other",Rai 1 (1080p)
+http://team-tv.co:81/rai1/index.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Other",Rai 1 (720p)
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Other",Rai 1 (576p) [Geo-blocked]
@@ -395,6 +399,8 @@ https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 http://team-tv.co:81/rai2/index.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Other",Rai 3 (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Other",Rai 3 (1080p)
+http://team-tv.co:81/rai3/index.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Other",Rai 3 (720p)
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Other",Rai 3 (576p) [Geo-blocked]
@@ -442,9 +448,13 @@ https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 http://95.141.36.9:8080/stream/170/index.m3u8
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Education",Rai Scuola (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/6PEevOM.png" tvg-country="IT" tvg-language="Italian" group-title="Sports",Rai Sport
+http://sultanios.alwaysdata.net/vavo.php?ID=843891896
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" tvg-country="IT" tvg-language="Italian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Other",Rai Storia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Other",Rai Storia (1080p)
+http://team-tv.co:81/raistoria/index.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Other",Rai Storia (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1 tvg-id="RaiSudtirol.it" tvg-name="Rai Sudtirol" tvg-logo="https://i.imgur.com/Z3npd4M.png" tvg-country="IT" tvg-language="German" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Other",Rai Sudtirol

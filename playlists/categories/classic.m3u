@@ -174,6 +174,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="TeleNostalgia.co" tvg-name="TeleNostalgia" tvg-logo="https://i.imgur.com/WZeMZNy.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",TeleNostalgia (1080p)
 http://38.134.250.110:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="TeleNostalgia.co" tvg-name="TeleNostalgia" tvg-logo="https://i.imgur.com/WZeMZNy.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",TeleNostalgia (1080p)
+http://181.78.211.244:8005/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="TeleNostalgia.co" tvg-name="TeleNostalgia" tvg-logo="https://i.imgur.com/WZeMZNy.png" tvg-country="CO" tvg-language="Spanish" group-title="Colombia",TeleNostalgia (720p)
 http://190.124.20.69/TeleNostalgia/index.m3u8
 #EXTINF:-1 tvg-id="TheAndyGriffithShow.us" tvg-name="The Andy Griffith Show" tvg-logo="https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",The Andy Griffith Show

@@ -379,7 +379,7 @@ https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.us" tvg-name="TV4" tvg-logo="https://i.imgur.com/CRvQ6sF.png" tvg-country="US" tvg-language="English" group-title="United States",TV4 (360p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCG3.me" tvg-name="TVCG 3" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" tvg-country="ME" tvg-language="Serbian" group-title="Montenegro",TVCG 3 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVCG3.me" tvg-name="TVCG 3" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" tvg-country="ME" group-title="Montenegro",TVCG 3 (1080p) [Geo-blocked]
 https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRParlemen.id" tvg-name="TVR Parlemen" tvg-logo="https://i.imgur.com/2XYpmHL.png" tvg-country="ID" tvg-language="Indonesian" group-title="Indonesia",TVR Parlemen (720p) [Not 24/7]
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8

@@ -182,6 +182,8 @@ http://103.250.28.74:8000/play/a04j/index.m3u8
 http://103.250.28.74:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="OneGolf.pk" tvg-name="One Golf" tvg-logo="https://i.imgur.com/7JhaEW5.png" tvg-country="PK" tvg-language="English" group-title="Sports",One Golf (720p)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="PaighamTelevision.pk" tvg-name="Paigham Television" tvg-logo="https://papaji.freetvindia.com/media/1655_FreeTV_Paigam.png" tvg-country="PK" tvg-language="Urdu" group-title="Other",Paigham Television (576p)
+https://samitaorigin.tangotv.in/PAIGAMTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PaighanTV.pk" tvg-name="Paighan TV" tvg-logo="https://i.imgur.com/zokC3gO.png" tvg-country="PK" tvg-language="Urdu" group-title="Religious;Education",Paighan TV (1080p)
 http://116.90.120.151:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="PaighanTV.pk" tvg-name="Paighan TV" tvg-logo="https://i.imgur.com/zokC3gO.png" tvg-country="PK" tvg-language="Urdu" group-title="Religious;Education",Paighan TV

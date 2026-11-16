@@ -91,6 +91,8 @@ https://freya.mivideo.pro/centraltv/video.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" tvg-logo="https://i.imgur.com/PRijvR0.png" tvg-country="CL" tvg-language="Spanish" group-title="General",ChileVision (1080p)
 http://15.204.246.24:8080/CHVHD/index.m3u8
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" tvg-logo="https://i.imgur.com/PRijvR0.png" tvg-country="CL" tvg-language="Spanish" group-title="General",ChileVision (1080p)
+http://181.78.88.113:9800/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="ChiloeRed25.cl" tvg-name="Chiloe Red 25" tvg-logo="https://i.imgur.com/3tqrImm.png" tvg-country="CL" tvg-language="Spanish" group-title="Culture",Chiloe Red 25 (720p)
 https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="ChinaChannel.cl" tvg-name="China Channel" tvg-logo="https://cdn.m3u.cl/logo/1769_China_Channel.png" tvg-country="CL" tvg-language="Spanish" group-title="General",China Channel (720p)
@@ -401,6 +403,8 @@ http://45.173.231.22:8000/play/a06l/index.m3u8
 http://138.121.15.230:9002/TVN/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://i.imgur.com/3FKZHL4.png" tvg-country="CL" tvg-language="Spanish" group-title="General",TVN (1080p)
 https://iptv.bitred.cl/tvn/index.m3u8
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://i.imgur.com/3FKZHL4.png" tvg-country="CL" tvg-language="Spanish" group-title="General",TVN (1080p)
+http://181.78.88.113:9800/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-name="TVN3" tvg-logo="https://i.imgur.com/9LEiQPJ.png" tvg-country="CL" tvg-language="Spanish" group-title="Classic",TVN3 (1080p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="TVOSanVicente.cl" tvg-name="TVO San Vicente" tvg-logo="https://i.imgur.com/PCVWtHd.png" tvg-country="CL" tvg-language="Spanish" http-referrer="http://www.tvosanvicente.cl/" group-title="Other",TVO San Vicente (720p)

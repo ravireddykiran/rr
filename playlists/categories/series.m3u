@@ -124,6 +124,10 @@ https://jmp2.uk/plu-65cf8b9328730900087c5324.m3u8
 https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us" tvg-name="At Home with Family Handyman" tvg-logo="https://i.imgur.com/WfKlGbX.png" tvg-country="US" tvg-language="English" group-title="United States",At Home with Family Handyman (720p)
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Atreseries (480p)
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3s.mpd
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Atreseries HD (1080p)
+https://ignac16.github.io/voxel-tv-streams/a3s.mpd
 #EXTINF:-1 tvg-id="AuctionHunters.se" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/62da73c4ec46c000070f4cb1/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Auction Hunters
 https://jmp2.uk/plu-62da7380478a5b0007e610d9.m3u8
 #EXTINF:-1 tvg-id="AuctionHunters.se" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/62da73c4ec46c000070f4cb1/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Auction Hunters DK
@@ -150,8 +154,6 @@ http://125.227.210.55:4050/VideoInput/play.ts
 http://103.253.74.210:7070/stream/89/index.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="AXN Black" tvg-logo="https://i.imgur.com/Nqvx6nz.png" tvg-country="PL" tvg-language="Polish" group-title="Poland",AXN Black (576i)
 http://92.114.85.87:8014/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="AXN Spin" tvg-logo="https://i.imgur.com/LGEbwnT.png" tvg-country="PL" tvg-language="Polish" group-title="Poland",AXN Spin
-http://92.114.85.87:8010/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="AXN White" tvg-logo="https://i.imgur.com/DaAyLE7.png" tvg-country="PL" tvg-language="Polish" group-title="Poland",AXN White (576i)
 http://92.114.85.87:8014/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.de" tvg-name="AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/AXN_White_logo_%282015%29.svg" tvg-country="DE" tvg-language="German" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Germany",AXN White
@@ -465,9 +467,6 @@ https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8
 https://aegis-cloudfront-1.tubi.video/2a9fb8e7-51c2-40d0-9cc0-6eb963199568/playlist.m3u8
 #EXTINF:-1 tvg-id="FeelGoodDrama.us" tvg-name="Feel Good Drama" tvg-logo="https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Feel Good Drama
 https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
-#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-country="UA" tvg-language="Russian;Ukrainian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Ukraine",FilmUADrama (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-country="UA" tvg-language="Russian;Ukrainian" group-title="Ukraine",FilmUADrama
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxLife.ru" tvg-name="Fox Life" tvg-logo="https://i.imgur.com/O2miSLA.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Fox Life (576p)
@@ -959,6 +958,8 @@ https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Paramount Network (1080p)
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.pl" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-country="PL" tvg-language="Polish" group-title="Poland",Paramount Network
+http://sultanios.alwaysdata.net/vavo.php?ID=3390498693
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" tvg-logo="https://i.imgur.com/U9CYaok.png" tvg-country="US" tvg-language="English" group-title="United States",PBS Antiques Roadshow (1080p) [Geo-blocked]
 https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" tvg-logo="https://i.imgur.com/U9CYaok.png" tvg-country="US" tvg-language="English" group-title="United States",PBS Antiques Roadshow (1080p) [Geo-blocked]

@@ -128,6 +128,12 @@ https://stream8.cinerama.uz/1007/playlist.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Boomerang (720p) [Geo-blocked]
 http://212.5.144.156:8080/boomerang/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Boomerang
+http://sultanios.alwaysdata.net/vavo.php?ID=2705627802
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" tvg-country="TH" tvg-language="Thai" group-title="Thailand",Boomerang
+https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" tvg-country="FR" tvg-language="French" group-title="France",Boomerang HD (720p)
+http://41.205.93.154/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-name="Box Kids TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Box Kids TV (720p)
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 #EXTINF:-1 tvg-id="BratTV.us" tvg-name="Brat TV" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" tvg-country="US" tvg-language="English" group-title="United States",Brat TV (1080p)
@@ -177,6 +183,8 @@ https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.ru" tvg-name="Cartoon Classics" tvg-logo="https://sales.planbkino.tv//b/c/471.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Cartoon Classics
 http://88.218.242.237:8001/Cartoon_Classics
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Cartoon Network (1080p)
+https://tvnow.hostless.app/cartoon-network.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="IT" tvg-language="Italian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Italy",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://185.227.34.104/stream/122/index.m3u8
@@ -290,6 +298,8 @@ https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Clan_2026.svg/960px-Clan_2026.svg.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Clan (720p) [Geo-blocked]
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Clan_2026.svg/960px-Clan_2026.svg.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Clan [Geo-blocked]
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es" tvg-name="Clan Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Clan_2026.svg/960px-Clan_2026.svg.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Clan Internacional (1080p)
 http://168.228.44.241:9999/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es" tvg-name="Clan Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Clan_2026.svg/960px-Clan_2026.svg.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Clan Internacional (1080p) [Geo-blocked]
@@ -298,6 +308,10 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Cufo.al" tvg-name="Cufo" tvg-logo="https://i.imgur.com/GbBHtwD.png" tvg-country="AL" tvg-language="Albanian" group-title="Albania",Cufo
 https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
+#EXTINF:-1 tvg-id="Cula4.ie" tvg-name="Cula4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cula4_Purple_2022_%281%29.svg/960px-Cula4_Purple_2022_%281%29.svg.png" tvg-country="IE" tvg-language="Irish" http-user-agent="Win64" http-referrer="https://www.cula4.com" group-title="Ireland",Cula4 (576p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Win64
+#EXTVLCOPT:http-referrer=https://www.cula4.com
+http://41.180.140.146:4200/bysid/2106
 #EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DeA Kids" tvg-logo="https://i.imgur.com/ixnJAuq.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",DeA Kids
 http://185.227.34.104/stream/113/index.m3u8
 #EXTINF:-1 tvg-id="DeParintiro.ro" tvg-name="DeParinti.ro" tvg-logo="https://assets.antenaplay.ro/2023/11/21/EO57SfnF8caVPEaQFs4Z.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",DeParinti.ro (576p)
@@ -324,6 +338,8 @@ http://38.134.250.110:8000/play/a003/index.m3u8
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Disney Channel (720p)
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Disney Channel (720p)
+https://tvnow.hostless.app/disney-channel.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/UxrAiAe.png" tvg-country="BG" tvg-language="Bulgarian;English" group-title="Bulgaria",Disney Channel (576i)
 http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-country="DE" tvg-language="German" group-title="Germany",Disney Channel (576p)
@@ -400,6 +416,8 @@ http://45.185.163.75:8000/play/a016/index.m3u8
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",Disney Jr. Latin America South HD (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Disney Junior (720p)
+https://tvnow.hostless.app/disney-junior.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-country="PL" tvg-language="Polish" group-title="Poland",Disney Junior (576p)
 http://111.88.7.92:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Disney Junior (576p) [Geo-blocked]
@@ -421,6 +439,8 @@ http://88.212.15.50/live/test_disney_junior/playlist.m3u8
 https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Disney XD (720p)
 http://89.187.179.148:826/1368/gXwiagaXda/1672
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="United States",Disney XD (720p)
+https://tvnow.hostless.app/disney-xd.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-country="PL" tvg-language="Polish" group-title="Poland",Disney XD (576p)
 http://185.227.34.179:8080/disney-xd/index.m3u8
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-name="Dora TV" tvg-logo="https://images.pluto.tv/channels/62e951258a26d40007b3034c/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Dora TV
@@ -457,7 +477,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EKids.bg" tvg-name="EKids" tvg-country="BG" tvg-language="Bulgarian" group-title="Bulgaria",EKids (576p)
 http://78.108.244.134:8899/ekids
 #EXTINF:-1 tvg-id="ElChavoTV.mx" tvg-name="El Chavo TV" tvg-logo="https://gia.tv/streams/pptv/211465.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",El Chavo TV (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicKids.in" tvg-name="Epic Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Epic Kids Digital (1080p)
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" tvg-logo="https://i.imgur.com/fUjGHDa.png" tvg-country="EE" tvg-language="Estonian" group-title="Estonia",ETV 2 (720p)
@@ -471,7 +491,7 @@ http://38.87.224.19:2220/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" tvg-logo="https://i.imgur.com/deeQqYZ.png" tvg-country="US" tvg-language="English" group-title="United States",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" tvg-country="FR" tvg-language="French" group-title="France",France 4 (1080p)
-http://149.62.177.107:9999/France_4/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="FunBox.cl" tvg-name="FunBox" tvg-logo="https://i.imgur.com/9MXM6jD.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile",FunBox
 http://186.148.196.100:8000/play/a00d
 #EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" tvg-logo="https://i.imgur.com/evzfe9C.png" tvg-country="US" tvg-language="English" group-title="United States",Garfield and Friends
@@ -723,12 +743,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-name="NCM Educational & Kids Channel" tvg-logo="https://i.imgur.com/3YPvfPn.png" tvg-country="US" tvg-language="English" group-title="United States",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-country="US" tvg-language="English" group-title="United States",Nick Jr. (1080p)
+https://tvnow.hostless.app/nick-jr.m3u8
 #EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/6p3eFgf.png" tvg-country="IT" tvg-language="Italian;English" group-title="Italy",Nick Jr. (720p)
 http://102.129.186.182:81/nick/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-country="US" tvg-language="English" group-title="United States",Nick Jr. (720p)
 http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-country="US" tvg-language="English" group-title="United States",Nick Jr. (720p)
 http://tvsen7.aynascope.net/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-country="HR" tvg-language="Croatian" group-title="Croatia",Nick Jr. (576p)
+http://5.175.174.49:1234/stream/maxtvhr/nickjrhr/master.m3u8
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi" group-title="India",Nick Jr. (576p)
 http://103.185.24.134:3001/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English;Hindi" group-title="India",Nick Jr. (576p)
@@ -773,6 +797,12 @@ https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 https://hostemea1236.s.gy/hostemea/nickschweiz/28/25/65/74/gg/locos.m3u8
 #EXTINF:-1 tvg-id="NickComedyCentralPlus1.de" tvg-name="Nick/Comedy Central +1" tvg-logo="https://i.imgur.com/08ZUI9k.png" tvg-country="DE" tvg-language="German;English" group-title="Germany",Nick/Comedy Central +1
 http://90.183.52.46:4000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="US" tvg-language="English" group-title="United States",Nickelodeon (1080p)
+https://tvnow.hostless.app/nickelodeon.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="FR" tvg-language="French" group-title="France",Nickelodeon (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-country="HR" tvg-language="Croatian" group-title="Croatia",Nickelodeon (720p)
+http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi;Tamil;Telugu;Kannada;Malayalam;Bengali;Marathi" group-title="India",Nickelodeon (576p)
 http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi;Tamil;Telugu;Kannada;Malayalam;Bengali;Marathi" group-title="India",Nickelodeon (576p)
@@ -815,9 +845,13 @@ http://185.227.34.104/stream/117/index.m3u8
 http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
 #EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20241009234318" tvg-country="RO" tvg-language="Romanian" group-title="Romania",Nickelodeon
 http://178.76.68.60:7442/64/mpegts
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20241009234318" tvg-country="RO" tvg-language="Romanian" group-title="Romania",Nickelodeon
+http://sultanios.alwaysdata.net/vavo.php?ID=181751695
 #EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="UK" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="United Kingdom",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://93.186.201.93/stream/397/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonArabia.ae" tvg-name="Nickelodeon Arabia" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="AE" tvg-language="Arabic;English" group-title="United Arab Emirates",Nickelodeon Arabia (1080i)
+http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon Asia" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="SG" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Singapore",Nickelodeon Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/117/index.m3u8
@@ -831,6 +865,8 @@ https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 #EXTINF:-1 tvg-id="Nickelodeonenespanol.us" tvg-name="Nickelodeon en espanol" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Nickelodeon en espanol
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="Nickelodeon Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" tvg-country="FR" tvg-language="French" group-title="France",Nickelodeon Junior (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Nickelodeon Latin America (1080p)
 http://181.78.79.131:8000/play/a0qm
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Nickelodeon Latin America (1080p)
@@ -839,6 +875,8 @@ http://190.93.224.42/NICK/index.m3u8
 http://190.234.82.52:8000/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Nickelodeon Latin America (1080p)
 https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Nickelodeon Latin America (1080p)
+http://181.224.255.210:8001/play/a0fm
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-name="Nickelodeon Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Nickelodeon Pluto TV (720p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-name="Nickelodeon Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoSVG_1767888207915.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",Nickelodeon Teen (720p)
@@ -851,6 +889,10 @@ https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br" tvg-name="NickOnline" tvg-logo="https://x1colegal.com/logo.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",NickOnline HD (720p)
 https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/960px-Nicktoons_Network_logo_2009.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Nicktoons (1080p)
+https://tvnow.hostless.app/nicktoons.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.fr" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" tvg-country="FR" tvg-language="French" group-title="France",Nicktoons (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/960px-Nicktoons_Network_logo_2009.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Nicktoons (720p)
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/960px-Nicktoons_Network_logo_2009.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Nicktoons (720p)
@@ -872,13 +914,12 @@ https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 #EXTINF:-1 tvg-id="NickToons90s.au" tvg-name="NickToons 90s" tvg-logo="https://images.pluto.tv/channels/64805525536e0c0008a19ca8/colorLogoSVG.svg" tvg-country="AU" tvg-language="English" http-user-agent="otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56" group-title="Australia",NickToons 90s [Geo-blocked]
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
+#EXTINF:-1 tvg-id="NicktoonsAdria.hr" tvg-name="Nicktoons Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-country="HR" tvg-language="Croatian" group-title="Croatia",Nicktoons Adria (528p)
+http://5.175.174.49:1234/stream/maxtvhr/nicktoonshr-1/master.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-name="Nicktoons CIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Nicktoons CIS (1080p)
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" tvg-logo="https://i.imgur.com/DrHsNin.png" tvg-country="UA" tvg-language="Ukrainian" group-title="Ukraine",Niki Junior (1080p)
 http://stream.mcquack.net/262/index.m3u8
-#EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" tvg-logo="https://i.imgur.com/DrHsNin.png" tvg-country="UA" tvg-language="Ukrainian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Ukraine",Niki Junior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=nikijunior
 #EXTINF:-1 tvg-id="NikiKids.ua" tvg-name="Niki Kids" tvg-logo="https://i.imgur.com/HH4HZ2J.png" tvg-country="UA" tvg-language="Ukrainian" group-title="Ukraine",Niki Kids (1080p)
 http://stream.mcquack.net/271/index.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" tvg-logo="https://i.imgur.com/7EngqUi.png" tvg-country="US" tvg-language="English" group-title="United States",Ninja Kidz TV (1080p)
@@ -1192,8 +1233,8 @@ http://92.114.85.72:8000/play/a08g
 http://92.114.85.72:8000/play/a08p
 #EXTINF:-1 tvg-id="TNTKidsTV.ba" tvg-name="TNT Kids TV" tvg-logo="https://i.imgur.com/irTDbpn.png" tvg-country="BA" tvg-language="Bosnian" group-title="Bosnia and Herzegovina",TNT Kids TV (288p)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
-#EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" tvg-country="DO" tvg-language="English" group-title="Dominican Republic",Tom And Jerry (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" tvg-country="DO" tvg-language="English" group-title="Dominican Republic",Tom And Jerry (720p) [Not 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="TomSingsTV.us" tvg-name="Tom Sings TV" tvg-logo="https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920" tvg-country="US" tvg-language="English" http-referrer="https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4" group-title="United States",Tom Sings TV (1080p)
 #EXTVLCOPT:http-referrer=https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4
 https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8

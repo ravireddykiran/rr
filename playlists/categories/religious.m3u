@@ -138,8 +138,8 @@ https://v4.tustreaming.cl/adatvchile/index.m3u8
 https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AdhyatmTV.in" tvg-name="Adhyatm TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adhyatam_TV.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Adhyatm TV (720p)
 https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
-#EXTINF:-1 tvg-id="AdoramTV.do" tvg-name="Adoram TV" tvg-logo="https://i.imgur.com/uU01KHz.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Adoram TV (720p)
-https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
+#EXTINF:-1 tvg-id="AdoramTV.do" tvg-name="Adoram TV" tvg-logo="https://i.imgur.com/uU01KHz.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",Adoram TV (720p) [Not 24/7]
+https://183.giatvcdn.com/giatv/giatv-adoram/adoram/playlist.m3u8
 #EXTINF:-1 tvg-id="AfricaTV3.ng" tvg-name="Africa TV3" tvg-logo="https://i.imgur.com/iibE9WL.png" tvg-country="NG" tvg-language="Hausa" group-title="Nigeria",Africa TV3 (720p) [Not 24/7]
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 #EXTINF:-1 tvg-id="AgapeTV.sv" tvg-name="Agape TV" tvg-logo="https://i.imgur.com/DsGmrnc.png" tvg-country="SV" tvg-language="Spanish" group-title="El Salvador",Agape TV (720p)
@@ -1244,8 +1244,8 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KVTNDT251.us" tvg-name="KVTN-DT 25.1" tvg-logo="https://i.imgur.com/CjKQuEP.png" tvg-country="US" tvg-language="English" group-title="United States",KVTN-DT 25.1 (720p)
 https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="LaVozdeJesusHD.do" tvg-name="La Voz de Jesus HD" tvg-logo="https://gia.tv/streams/pstream/208429.png" tvg-country="DO" tvg-language="English;Spanish" group-title="Dominican Republic",La Voz de Jesus HD (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
+#EXTINF:-1 tvg-id="LaVozdeJesusHD.do" tvg-name="La Voz de Jesus HD" tvg-logo="https://gia.tv/streams/pstream/208429.png" tvg-country="DO" tvg-language="English;Spanish" group-title="Dominican Republic",La Voz de Jesus HD (720p) [Not 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8
 #EXTINF:-1 tvg-id="LaVozdeMaria.do" tvg-name="La Voz de Maria" tvg-logo="https://i.imgur.com/Zv8CxZX.png" tvg-country="DO" tvg-language="Spanish" group-title="Dominican Republic",La Voz de Maria (720p)
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr" tvg-name="Lalegul TV" tvg-logo="https://i.imgur.com/wwCysFs.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",Lalegul TV (1080p)

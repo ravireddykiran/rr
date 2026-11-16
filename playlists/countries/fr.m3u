@@ -14,8 +14,8 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://itthls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" tvg-name="4Kurd" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" tvg-country="FR" tvg-language="Kurdish;Persian" group-title="Music",4Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="https://i.imgur.com/2nd5Cox.png" tvg-country="FR" tvg-language="French" group-title="Entertainment",6ter (1080p)
-http://149.62.177.107:9999/6ter/index.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="https://i.imgur.com/2nd5Cox.png" tvg-country="FR" tvg-language="French" group-title="Entertainment",6ter (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-name="ADN TV+" tvg-logo="https://i.imgur.com/HQZQyWt.png" tvg-country="FR" tvg-language="French" group-title="Animation",ADN TV+ (720p)
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 #EXTINF:-1 tvg-id="Africa24.fr" tvg-name="Africa 24" tvg-logo="https://i.imgur.com/YWIJdai.png" tvg-country="FR" tvg-language="French" group-title="News",Africa 24 (1080p)
@@ -38,6 +38,8 @@ https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-country="FR" tvg-language="French" group-title="Entertainment",arte (1080p)
 http://5.180.164.197:8080/ARTEFR/index.m3u8
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-country="FR" tvg-language="French" group-title="Entertainment",arte (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-country="FR" tvg-language="French" group-title="Entertainment",arte (720p) [Geo-blocked]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-name="BFM Alsace" tvg-logo="https://i.imgur.com/iRsbEpg.png" tvg-country="FR" tvg-language="French" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="General",BFM Alsace (1080p)
@@ -90,6 +92,8 @@ https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM2" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" tvg-country="FR" tvg-language="French" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM2 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" tvg-country="FR" tvg-language="French" group-title="Kids",Boomerang HD (720p)
+http://41.205.93.154/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-name="Brionnais TV" tvg-logo="https://i.imgur.com/y94bhqX.jpg" tvg-country="FR" tvg-language="French" group-title="General",Brionnais TV (720p)
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star" tvg-logo="https://i.imgur.com/w4kAX1V.png" tvg-country="FR" tvg-language="French" group-title="Entertainment",C Star (477p)
@@ -118,6 +122,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr" tvg-name="CNEWS PRIME" tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png" tvg-country="FR" tvg-language="French" group-title="News",CNEWS PRIME (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="FR" tvg-language="French" group-title="Comedy",Comedy Central (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="DBMTV.fr" tvg-name="DBM TV" tvg-logo="https://i.imgur.com/ab6p2SW.png" tvg-country="FR" tvg-language="French" group-title="Music",DBM TV (1080p)
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-country="FR" tvg-language="French" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Entertainment",Discovery Channel
@@ -187,6 +193,8 @@ http://tmptv.sunduk.tv/CH31/index.m3u8
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" tvg-country="FR" tvg-language="Spanish" group-title="News",Euronews Spanish (1080p)
 https://iptv.bitred.cl/euronews/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" tvg-country="FR" tvg-language="Spanish" group-title="News",Euronews Spanish (1080p)
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" tvg-country="FR" tvg-language="Spanish" group-title="News",Euronews Spanish (720p)
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" tvg-country="FR" tvg-language="Spanish" group-title="News",Euronews Spanish (720p)
@@ -198,6 +206,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-
 #EXTINF:-1 tvg-id="Eurosport.fr" tvg-name="Eurosport" tvg-logo="https://i.imgur.com/s4jDnJh.png" tvg-country="FR" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",Eurosport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/122/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="FR" tvg-language="French" group-title="Sports",Eurosport 1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="FR" tvg-language="Bulgarian" group-title="Sports",Eurosport 1 Bulgaria
 http://213.91.179.28:8000/play/a05y
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="FR" tvg-language="Czech" group-title="Sports",Eurosport 1 Czechia
@@ -206,6 +216,8 @@ http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
 http://90.183.52.46:4000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="FR" tvg-language="Hungarian" group-title="Sports",Eurosport 1 Hungary
 http://88.212.7.14/live/esp1_hun/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="FR" tvg-language="Italian" group-title="Sports",Eurosport 1 Italy
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="FR" tvg-language="Portuguese" group-title="Sports",Eurosport 1 Portugal
 http://185.228.163.146:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="FR" tvg-language="Romany" group-title="Sports",Eurosport 1 Romania
@@ -219,6 +231,10 @@ http://87.238.211.217:2209/stream/99/index.m3u8
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="FR" tvg-language="Turkish" group-title="Sports",Eurosport 1 Turkiye
 https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="FR" tvg-language="English" group-title="Sports",Eurosport 1 UK (1080p)
+http://85.117.37.43/eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="French" group-title="Sports",Eurosport 2 (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="Bulgarian" group-title="Sports",Eurosport 2 Bulgaria
 http://213.91.179.28:8000/play/a04b
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="Czech" group-title="Sports",Eurosport 2 Czechia
@@ -228,6 +244,8 @@ http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
 http://46.244.99.71:8181/stream/74/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="Hungarian" group-title="Sports",Eurosport 2 Hungary
 http://88.212.7.14/live/esp2_hun/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="Italian" group-title="Sports",Eurosport 2 Italy (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="Portuguese" group-title="Sports",Eurosport 2 Portugal
 http://185.228.163.146:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="Romany" group-title="Sports",Eurosport 2 Romania
@@ -238,6 +256,8 @@ https://s7.iptv-24.net/1452/playlist.m3u8
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="Turkish" group-title="Sports",Eurosport 2 Turkiye
 https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="English" group-title="Sports",Eurosport 2 UK
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" tvg-logo="https://i.imgur.com/0o3zjC7.png" tvg-country="FR" tvg-language="Romanian;English" group-title="Sports",Eurosport 4K Romania (2160p) [Geo-blocked]
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="EvandisGospelTV.fr" tvg-name="Evandis Gospel TV" tvg-logo="https://i.imgur.com/v8TiqhH.png" tvg-country="FR" tvg-language="French" group-title="Religious",Evandis Gospel TV (1080p)
@@ -249,7 +269,7 @@ https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HL
 #EXTINF:-1 tvg-id="FashionTVSecrets.fr" tvg-name="FashionTV Secrets" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" tvg-country="FR" tvg-language="English" group-title="Lifestyle",FashionTV Secrets (1080p)
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" tvg-country="FR" tvg-language="French" group-title="General",France 2 (1080p)
-http://149.62.177.107:9999/France_2/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" tvg-country="FR" tvg-language="French" group-title="News",France 24 (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" tvg-country="FR" tvg-language="French" group-title="News",France 24 (1080p)
@@ -340,6 +360,8 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" tvg-country="FR" tvg-language="Spanish" group-title="News",France 24 Spanish (360p)
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/France_3_Alsace_-_Logo_2018.svg" tvg-country="FR" tvg-language="French" group-title="General",France 3 (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/France_3_Alsace_-_Logo_2018.svg" tvg-country="FR" tvg-language="French" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="General",France 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.144:5000
@@ -348,11 +370,11 @@ http://89.187.185.76:8080/France3/index.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/France_3_Alsace_-_Logo_2018.svg" tvg-country="FR" tvg-language="French" group-title="General",France 3 Lorraine (1080p)
 http://5.180.164.197:8080/FRANCE3/index.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" tvg-country="FR" tvg-language="French" group-title="Kids",France 4 (1080p)
-http://149.62.177.107:9999/France_4/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" tvg-country="FR" tvg-language="French" group-title="General",France 5 (1080p)
-http://149.62.177.107:9999/France_5/index.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-language="French" group-title="News",Franceinfo (1080p)
-http://149.62.177.107:9999/franceinfo:/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-language="French" group-title="News",Franceinfo (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Francophonie24.fr" tvg-name="Francophonie24" tvg-logo="https://i.imgur.com/uM1v1sd.png" tvg-country="FR" tvg-language="French" group-title="Documentary",Francophonie24 (1080p)
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-name="Frequence Novelas" tvg-logo="https://i.imgur.com/fEjNAps.png" tvg-country="FR" tvg-language="French" group-title="Series",Frequence Novelas (1080p)
@@ -385,7 +407,7 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-country="FR" tvg-language="French" group-title="News",LCI (1080p)
-http://149.62.177.107:9999/LCI/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-country="FR" tvg-language="French" group-title="News",LCI HD (1080p)
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-country="FR" tvg-language="French" group-title="Legislative",LCP (477p)
@@ -421,17 +443,22 @@ https://test.946985.filegear-sg.me/proxy/749755700e4ed9c6
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-id="MoselleTV.fr" tvg-name="Moselle TV" tvg-logo="https://i.imgur.com/hrm5QnU.png" tvg-country="FR" tvg-language="French" group-title="General",Moselle TV (720p) [Not 24/7]
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-country="FR" tvg-language="French" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-country="FR" tvg-language="French" group-title="Entertainment",MTV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MuseumTVFrench.fr" tvg-name="Museum TV French" tvg-logo="https://i.imgur.com/WbjURLo.png" tvg-country="FR" tvg-language="French" group-title="Culture",Museum TV French [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-country="FR" tvg-language="French;English;Russian;Spanish;Turkish;Bulgarian" group-title="Relax",MyZen TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-country="FR" tvg-language="French;English;Russian;Spanish;Turkish;Bulgarian" group-title="Relax",MyZen TV (1080p) [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png" tvg-country="FR" tvg-language="French" group-title="General",NOVO19 (1080p)
-http://149.62.177.107:9999/NOVO19/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="FR" tvg-language="French" group-title="Kids",Nickelodeon (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="Nickelodeon Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" tvg-country="FR" tvg-language="French" group-title="Kids",Nickelodeon Junior (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.fr" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" tvg-country="FR" tvg-language="French" group-title="Kids",Nicktoons (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png" tvg-country="FR" tvg-language="French" group-title="General",NOVO19 (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits" tvg-logo="https://i.imgur.com/2xDVwOh.png" tvg-country="FR" tvg-language="French" group-title="Music",NRJ Hits
 https://test.946985.filegear-sg.me/proxy/a23981548880f405
 #EXTINF:-1 tvg-id="P2MTV.fr" tvg-name="P2M TV" tvg-logo="https://i.imgur.com/TrecSeG.png" tvg-country="FR" tvg-language="French" group-title="Music",P2M TV (720p)
@@ -535,9 +562,9 @@ https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleGohelle.fr" tvg-name="TeleGohelle" tvg-logo="https://i.imgur.com/Oa3Pwbf.png" tvg-country="FR" tvg-language="French" group-title="General",TeleGohelle
 https://videas.agglo-lenslievin.fr/index.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/4CJIDKQ.png" tvg-country="FR" tvg-language="French" group-title="Movies",TF1 Series Films (1080p)
-http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://i.imgur.com/d91GcVf.png" tvg-country="FR" tvg-language="French;English" group-title="Other",TFX (1080p)
-http://149.62.177.107:9999/TFX/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-name="TiVi5 Monde" tvg-logo="https://i.imgur.com/fVVKpmk.png" tvg-country="FR" tvg-language="French" group-title="Other",TiVi5 Monde [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" tvg-country="FR" tvg-language="French" group-title="General",TMC HD (1080p) [Geo-blocked]
@@ -680,6 +707,8 @@ http://45.14.84.37/tv5monde/index.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5Monde Europe" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-country="FR" tvg-language="French" group-title="General",TV5Monde Europe (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5Monde Europe" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-country="FR" tvg-language="French" group-title="General",TV5Monde Europe (576i)
+https://hls01ns.antenaplay.ro/hls/tv5-monde-europe-sd/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-name="TV5Monde France Belgium Switzerland Monaco" tvg-logo="https://i.imgur.com/WmRbudc.png" tvg-country="FR" tvg-language="French" group-title="General",TV5Monde France Belgium Switzerland Monaco (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-country="FR" tvg-language="French" group-title="News",TV5Monde Info (1080p) [Geo-blocked]
