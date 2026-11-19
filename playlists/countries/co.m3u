@@ -23,6 +23,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://video.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-name="Cablenoticias" tvg-logo="https://i.imgur.com/FfhOGR9.png" tvg-country="CO" tvg-language="Spanish" group-title="News",Cablenoticias (1080p)
 http://181.78.211.244:8005/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-name="CaliTV" tvg-logo="https://i.imgur.com/2312Luq.png" tvg-country="CO" tvg-language="Spanish" group-title="General",CaliTV (1080p)
+https://tdcdigital-streams.github.io/iptv/CaliTV.m3u8
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-logo="https://i.imgur.com/YFywPLC.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Canal 1 (1080p)
 http://190.109.2.92:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-logo="https://i.imgur.com/YFywPLC.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Canal 1 (1080p)
@@ -170,6 +172,8 @@ http://200.115.120.1:8000/play/ca067/index.m3u8
 http://138.59.177.78:9999/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (1080p)
 http://38.190.100.202:8000/play/a09v/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (1080p)
+http://45.166.93.156:9999/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",Caracol TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://45.173.12.70:8000/play/a0f9
@@ -188,7 +192,11 @@ http://138.121.15.230:9002/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (1080p)
 http://167.249.23.102:8000/play/a0i1/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (1080p)
+http://167.250.223.26:9998/play/a05e/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (1080p)
 http://168.228.44.241:9997/play/a03t/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (1080p)
+http://179.1.199.50:9000/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (1080p)
 http://179.60.224.196:8000/play/a0hw/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (1080p)
@@ -247,12 +255,6 @@ http://200.122.232.149:8000/play/a020/index.m3u8
 http://201.216.147.90:8729/play/a01v
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (1080p)
 https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (1080p)
-http://45.166.93.156:9999/play/a0f5/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (1080p)
-http://179.1.199.50:9000/play/a0a1/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (1080p)
-http://167.250.223.26:9998/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV (576p)
 http://181.79.86.130:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Caracol TV
@@ -316,9 +318,9 @@ https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 #EXTINF:-1 tvg-id="HeliconiaRadioTV.co" tvg-name="Heliconia Radio TV" tvg-logo="https://i.imgur.com/AJ182BG.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Heliconia Radio TV (720p)
 https://eu1.servers10.com:8081/8178/index.m3u8
 #EXTINF:-1 tvg-id="HogarTV.co" tvg-name="Hogar TV" tvg-logo="https://i.imgur.com/zqovMhf.png" tvg-country="CO" tvg-language="Spanish" group-title="Lifestyle",Hogar TV (1080p)
-http://190.61.47.54:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="HogarTV.co" tvg-name="Hogar TV" tvg-logo="https://i.imgur.com/zqovMhf.png" tvg-country="CO" tvg-language="Spanish" group-title="Lifestyle",Hogar TV (1080p)
 http://181.78.211.244:8005/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="HogarTV.co" tvg-name="Hogar TV" tvg-logo="https://i.imgur.com/zqovMhf.png" tvg-country="CO" tvg-language="Spanish" group-title="Lifestyle",Hogar TV (1080p)
+http://190.61.47.54:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="KaluTV.co" tvg-name="Kalu TV" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" tvg-country="CO" tvg-language="Spanish" group-title="General",Kalu TV (1080p)
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 #EXTINF:-1 tvg-id="LaHermandadSalsera.co" tvg-name="La Hermandad Salsera" tvg-logo="https://i.imgur.com/7Wlt6bc.png" tvg-country="CO" tvg-language="Spanish" group-title="Music",La Hermandad Salsera (1080p) [Not 24/7]
@@ -373,6 +375,8 @@ http://181.78.8.199:8000/play/a0a8/index.m3u8
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 #EXTINF:-1 tvg-id="OndambientalTV.co" tvg-name="Ondambiental TV" tvg-logo="https://i.imgur.com/u5804Au.jpg" tvg-country="CO" tvg-language="Spanish" group-title="Music;Culture",Ondambiental TV (360p)
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-id="OrigenChannel.co" tvg-name="Origen Channel" tvg-logo="https://i.imgur.com/QI3b4HI.png" tvg-country="CO" tvg-language="Spanish" group-title="Culture",Origen Channel (1080p) [Geo-blocked]
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/022/playlist.m3u8
 #EXTINF:-1 tvg-id="PancheTelevision.co" tvg-name="Panche Television" tvg-logo="https://i.imgur.com/BJVlOVA.jpeg" tvg-country="CO" tvg-language="Spanish" group-title="General",Panche Television
 https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 #EXTINF:-1 tvg-id="ParrandaVallenata.co" tvg-name="Parranda Vallenata" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" tvg-country="CO" tvg-language="Spanish" group-title="Music",Parranda Vallenata (720p)
@@ -428,6 +432,8 @@ http://186.148.196.100:8000/play/a02h
 http://190.61.47.54:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-country="CO" tvg-language="Spanish" group-title="Music",Rumba TV (720p)
 http://190.124.20.69/RumbaTV/index.m3u8
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" tvg-country="CO" tvg-language="Spanish" group-title="Music",Salsa Gorda Television (1080p)
+https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" tvg-country="CO" tvg-language="Spanish" group-title="Music",Salsa Gorda Television (1080p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 tvg-id="SantelTV.co" tvg-name="Santel TV" tvg-logo="https://i.imgur.com/jmJx0jo.png" tvg-country="CO" tvg-language="Spanish" group-title="Religious",Santel TV
@@ -532,9 +538,9 @@ http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
 #EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico" tvg-logo="https://i.imgur.com/39hy97J.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Telepacifico (1080p)
 http://190.61.47.54:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico" tvg-logo="https://i.imgur.com/39hy97J.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Telepacifico (1080p) [Geo-blocked]
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico" tvg-logo="https://i.imgur.com/39hy97J.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Telepacifico (1080p) [Geo-blocked]
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/040/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico" tvg-logo="https://i.imgur.com/39hy97J.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Telepacifico (1080p) [Geo-blocked]
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleQuindio.co" tvg-name="TeleQuindio" tvg-logo="https://i.imgur.com/bJWj5ja.png" tvg-country="CO" tvg-language="Spanish" group-title="General",TeleQuindio (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesangil.co" tvg-name="Telesangil" tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" tvg-country="CO" tvg-language="Spanish" group-title="General",Telesangil (720p)

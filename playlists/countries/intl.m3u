@@ -293,6 +293,8 @@ https://ds25p79iq4576.cloudfront.net/master.m3u8
 https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-name="Bad Girls Club" group-title="Other",Bad Girls Club (720p)
 https://jmp2.uk/plu-654932fa4d6d8f00084c4723.m3u8
+#EXTINF:-1 tvg-name="Baku TV" group-title="Other",Baku TV (1080p)
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:-1 tvg-name="Bang Bang TV" group-title="Other",Bang Bang TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
 #EXTINF:-1 tvg-name="Barbie & Friends" group-title="Other",Barbie & Friends
@@ -3085,8 +3087,6 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
 #EXTINF:-1 tvg-name="TeleOnce" group-title="Other",TeleOnce (576p)
 http://45.5.119.43:4000/play/a0jk/index.m3u8
-#EXTINF:-1 tvg-name="TeleRadyo" group-title="Other",TeleRadyo (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 #EXTINF:-1 tvg-name="TeleRegione 118" group-title="Other",TeleRegione 118 (576p)
 https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
 #EXTINF:-1 tvg-name="Televisa Telenovela Channel" group-title="Other",Televisa Telenovela Channel (720p)
@@ -3307,7 +3307,7 @@ https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
 http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV XXI" group-title="Other",TV XXI (1080p)
 http://31.148.48.15/TV_XXI/index.m3u8
-#EXTINF:-1 tvg-name="TV1 Plus" group-title="Other",TV1 Plus [Not 24/7]
+#EXTINF:-1 tvg-name="TV1 Plus" group-title="Other",TV1 Plus (1080p) [Not 24/7]
 https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
 #EXTINF:-1 tvg-name="TV7" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Other",TV7 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -3566,7 +3566,7 @@ https://pb-idvkhrn30b0jf.akamaized.net/cw.m3u8
 https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8
 #EXTINF:-1 tvg-name="Western Bound" group-title="Other",Western Bound (720p)
 https://a-cdn.klowdtv.com/live3/westernbound_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="WFMZ Dorney Park Camera" group-title="Other",WFMZ Dorney Park Camera
+#EXTINF:-1 tvg-name="WFMZ Dorney Park Camera" group-title="Other",WFMZ Dorney Park Camera (720p)
 https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8
 #EXTINF:-1 tvg-name="WFMZ PennST camera" group-title="Other",WFMZ PennST camera
 https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8

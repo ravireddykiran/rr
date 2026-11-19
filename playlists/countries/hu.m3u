@@ -118,7 +118,7 @@ https://stream.streaming4u.hu/GolyaTV/index.m3u8
 https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="GyongyosiTV.hu" tvg-name="Gyongyosi TV" tvg-logo="https://i.imgur.com/RHgaPCk.png" tvg-country="HU" tvg-language="Hungarian" group-title="General",Gyongyosi TV (576p)
 https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="GyongyosiTV.hu" tvg-name="Gyongyosi TV" tvg-logo="https://i.imgur.com/RHgaPCk.png" tvg-country="HU" tvg-language="Hungarian" group-title="General",Gyongyosi TV
+#EXTINF:-1 tvg-id="GyongyosiTV.hu" tvg-name="Gyongyosi TV" tvg-logo="https://i.imgur.com/RHgaPCk.png" tvg-country="HU" tvg-language="Hungarian" group-title="General",Gyongyosi TV (420p)
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HtMusicChannel.hu" tvg-name="H!t Music Channel" tvg-logo="https://i.imgur.com/sqC2hqV.png" tvg-country="HU" tvg-language="Hungarian" group-title="Music",H!t Music Channel (480p)
 http://hitmusic.hu/hitmusic.m3u8

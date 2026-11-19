@@ -7,7 +7,9 @@ https://stream.asiatvnet.com/1/live/master.m3u8
 https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
 #EXTINF:-1 tvg-id="HiruTV.lk" tvg-name="Hiru TV" tvg-logo="https://i.imgur.com/M66UqPB.png" tvg-country="LK" tvg-language="Sinhala" group-title="Entertainment",Hiru TV (360p) [Not 24/7]
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-name="Imai TV" tvg-logo="https://i.imgur.com/9tODclu.png" tvg-country="LK" tvg-language="Tamil" group-title="Culture",Imai TV (1080p)
+#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-name="Imai TV" tvg-logo="https://i.imgur.com/9tODclu.png" tvg-country="LK" tvg-language="Tamil" group-title="Culture",Imai TV (576i)
+https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-name="Imai TV" tvg-logo="https://i.imgur.com/9tODclu.png" tvg-country="LK" tvg-language="Tamil" group-title="Culture",Imai TV (576i)
 https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" tvg-logo="https://i.imgur.com/J8NA1i9.jpeg" tvg-country="LK" tvg-language="Sinhala" group-title="Religious",Jaya TV (480p)
 https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8

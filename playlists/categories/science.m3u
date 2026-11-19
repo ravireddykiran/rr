@@ -53,6 +53,8 @@ http://stream.mcquack.net/403/index.m3u8
 http://88.212.7.14/live/ozone/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-name="Pluto TV Science" tvg-logo="https://i.imgur.com/uhunRoU.png" tvg-country="US" tvg-language="English" group-title="United States",Pluto TV Science
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+#EXTINF:-1 tvg-id="ScienceVieTV.fr" tvg-name="Science & Vie TV" tvg-logo="https://i.imgur.com/9ELsSMI.png" tvg-country="FR" tvg-language="French;Turkish" group-title="France",Science & Vie TV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ShandongTVAgriculturalScienceChannel.cn" tvg-name="Shandong TV Agricultural Science Channel" tvg-logo="https://i.imgur.com/EY2zH06.png" tvg-country="CN" tvg-language="Chinese" group-title="China",Shandong TV Agricultural Science Channel (406p) [Geo-blocked]
 http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-name="Smithsonian Channel Selects" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" tvg-country="US" tvg-language="English" group-title="United States",Smithsonian Channel Selects

@@ -79,7 +79,7 @@ http://187.102.208.209:8000/play/a0ae/index.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" tvg-logo="https://i.imgur.com/YwUVTmS.png" tvg-country="CR" tvg-language="Spanish;English" group-title="Religious",Enlace (576p)
 http://177.234.247.66:9975/Enlace/index.m3u8
-#EXTINF:-1 tvg-id="EnlaceJuvenil.cr" tvg-name="Enlace Juvenil" tvg-logo="https://i.imgur.com/GfpPQ5D.png" tvg-country="CR" tvg-language="Spanish" group-title="Religious",Enlace Juvenil
+#EXTINF:-1 tvg-id="EnlaceJuvenil.cr" tvg-name="Enlace Juvenil" tvg-logo="https://i.imgur.com/GfpPQ5D.png" tvg-country="CR" tvg-language="Spanish" group-title="Religious",Enlace Juvenil (720p)
 https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtraTV42.cr" tvg-name="Extra TV 42" tvg-logo="https://i.imgur.com/jjTodXj.png" tvg-country="CR" tvg-language="Spanish" group-title="General",Extra TV 42 (720p)
 https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8

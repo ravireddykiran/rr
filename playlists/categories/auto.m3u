@@ -7,6 +7,8 @@ https://30a-tv.com/feeds/vidaa/cars.m3u8
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Auto Plus
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Automotolachaine.fr" tvg-name="Automoto la chaine" tvg-logo="https://i.imgur.com/ebf2uc7.png" tvg-country="FR" tvg-language="French;Turkish" group-title="France",Automoto la chaine (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Avto24.ru" tvg-name="Avto24" tvg-logo="https://i.imgur.com/GXSXmN2.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Avto24 (576p)
 http://stream.mcquack.net/78/index.m3u8
 #EXTINF:-1 tvg-id="Avto24.ru" tvg-name="Avto24" tvg-logo="https://i.imgur.com/GXSXmN2.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Avto24 (576p)
@@ -65,6 +67,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/v4kj8pI.png" tvg-country="DE" tvg-language="English" group-title="Germany",Motorvision
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="MotorvisionPlus.de" tvg-name="Motorvision+" tvg-logo="https://i.imgur.com/5cs5GkJ.png" tvg-country="DE" tvg-language="English" group-title="Germany",Motorvision+ (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Pershyiavtomobilnyi.ua" tvg-name="Pershyi avtomobilnyi" tvg-logo="https://i.imgur.com/ul93Lse.png" tvg-country="UA" tvg-language="Ukrainian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",Pershyi avtomobilnyi (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/404/index.m3u8
