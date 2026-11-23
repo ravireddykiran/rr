@@ -26,6 +26,8 @@ https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
 #EXTINF:-1 tvg-id="GalaxyTV.ug" tvg-name="Galaxy TV" tvg-logo="https://i.imgur.com/P5OABe5.png" tvg-country="UG" tvg-language="English" http-referrer="https://player.castr.com/live_43351ad0f3b411ed81c78fcc31887c54" group-title="Music",Galaxy TV (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_43351ad0f3b411ed81c78fcc31887c54
 https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="GloriousTimesTV.ug" tvg-name="Glorious Times TV" tvg-logo="https://i.imgur.com/F3sH2Zt.jpeg" tvg-country="UG" tvg-language="English;Ganda" group-title="Religious",Glorious Times TV (1080p)
+https://gttv-cdn.cybercdn.live/GTTV/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="GuguddeTV.ug" tvg-name="Gugudde TV" tvg-logo="https://i.imgur.com/XEakc6Q.png" tvg-country="UG" tvg-language="English;Ganda" group-title="Religious",Gugudde TV (480p)
 https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="KRCTV.ug" tvg-name="KRC TV" tvg-logo="https://i.imgur.com/8c9Uqks.jpeg" tvg-country="UG" tvg-language="English;Ganda" group-title="General",KRC TV
@@ -34,6 +36,8 @@ https://channels.ad-ug.com/live/ch03/index.m3u8
 https://live.esteem.africa/kstv/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="KSTVUganda.ug" tvg-name="KSTV Uganda" tvg-logo="https://i.imgur.com/MMPzPSl.png" tvg-country="UG" tvg-language="English" group-title="Religious",KSTV Uganda
 https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="KTV.ug" tvg-name="KTV" tvg-logo="https://i.imgur.com/IA8Srft.jpg" tvg-country="UG" tvg-language="English;Ganda" group-title="General",KTV (1080p)
+https://stream.kingdommediaug.com/ktv/video.m3u8
 #EXTINF:-1 tvg-id="RwenzoriTV.ug" tvg-name="Rwenzori TV" tvg-logo="https://i.imgur.com/qo4QHfz.png" tvg-country="UG" tvg-language="Konzo" group-title="General",Rwenzori TV
 https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8
 #EXTINF:-1 tvg-id="SaltTV.ug" tvg-name="Salt TV" tvg-logo="https://i.imgur.com/AK9nE6Y.png" tvg-country="UG" tvg-language="English;Ganda" group-title="Religious",Salt TV (1080p) [Not 24/7]

@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" tvg-logo="https://i.imgur.com/prMkTsZ.png" tvg-country="US" tvg-language="English" group-title="United States",America's Test Kitchen (1080p) [Geo-blocked]
 https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" tvg-logo="https://i.imgur.com/prMkTsZ.png" tvg-country="US" tvg-language="English" group-title="United States",America's Test Kitchen (1080p) [Geo-blocked]
+https://amg01420-americastestkitchen-amg01420c1-vizio-us-887.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-americastestkitchen-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" tvg-logo="https://i.imgur.com/prMkTsZ.png" tvg-country="US" tvg-language="English" group-title="United States",America's Test Kitchen (1080p) [Geo-blocked]
 https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" tvg-logo="https://i.imgur.com/prMkTsZ.png" tvg-country="US" tvg-language="English" group-title="United States",America's Test Kitchen (720p)
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
@@ -62,6 +64,8 @@ https://fta.ektv.in/live/143/143_0.m3u8
 https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Food%20Food.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Food Food (576p)
 https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Food%20Food.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Food Food (576p)
+https://samitaorigin.tangotv.in/FOODFOOD/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Food Network (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Food Network (1080p)
@@ -110,7 +114,7 @@ https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/p
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTINF:-1 tvg-id="JordanKitchen.jo" tvg-name="Jordan Kitchen" tvg-logo="https://i.imgur.com/B45qcQX.png" tvg-country="JO" tvg-language="Arabic" group-title="Jordan",Jordan Kitchen (1080p)
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
-#EXTINF:-1 tvg-id="KitchenTV.rs" tvg-name="Kitchen TV" tvg-logo="https://i.imgur.com/WcGKc4C.png" tvg-country="RS" tvg-language="Serbian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Serbia",Kitchen TV
+#EXTINF:-1 tvg-id="KitchenTV.rs" tvg-name="Kitchen TV" tvg-logo="https://i.imgur.com/WcGKc4C.png" tvg-country="RS" tvg-language="Serbian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Serbia",Kitchen TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03n
 #EXTINF:-1 tvg-id="Kochenpatoppen.se" tvg-name="Koch'en pa toppen" tvg-logo="https://images.pluto.tv/channels/660d667519ca71000849a1e1/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Koch'en pa toppen
@@ -157,6 +161,8 @@ https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-in
 https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-country="US" tvg-language="English" group-title="United States",Tastemade (1080p) [Geo-blocked]
 https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-country="US" tvg-language="English" group-title="United States",Tastemade (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-country="US" tvg-language="English" group-title="United States",Tastemade (720p)
 https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-country="US" tvg-language="English" group-title="United States",Tastemade UK (1080p)
@@ -173,6 +179,8 @@ https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
 https://tm-tmtar-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Telecafe (1080p)
 http://s1.merlive.am/telekafe/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Telecafe (1080p)
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Russia",Telecafe (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
@@ -184,8 +192,6 @@ http://stream.mcquack.net/314/index.m3u8
 https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Telecafe (576p)
 http://31.148.48.15/Telekafe/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Telecafe
-https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TilMiddagHos.se" tvg-name="Til Middag Hos" tvg-logo="https://images.pluto.tv/channels/61c1a05ef30f5d0007e562f3/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Til Middag Hos
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-name="TV5MONDE Chefs" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" tvg-country="FR" tvg-language="French" group-title="France",TV5MONDE Chefs (1080p)

@@ -56,8 +56,6 @@ https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJ
 http://95.141.36.9:8080/stream/181/index.m3u8
 #EXTINF:-1 tvg-id="BomChannel.it" tvg-name="Bom Channel" tvg-logo="https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png" tvg-country="IT" tvg-language="Italian" group-title="General",Bom Channel (720p)
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Kids",Boomerang
-http://sultanios.alwaysdata.net/vavo.php?ID=2705627802
 #EXTINF:-1 tvg-id="CacciaePesca.it" tvg-name="Caccia e Pesca" tvg-logo="https://i.imgur.com/uZr0cXB.png" tvg-country="IT" tvg-language="Italian" group-title="Outdoor",Caccia e Pesca (720p)
 http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1 tvg-id="CafeTV24.it" tvg-name="CafeTV24" tvg-logo="https://i.imgur.com/SRFzjja.png" tvg-country="IT" tvg-language="Italian" group-title="Other",CafeTV24 (720p)
@@ -260,10 +258,10 @@ https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
 http://77.68.40.210:8888/hls/cronache.m3u8
 #EXTINF:-1 tvg-id="LeCronacheTV.it" tvg-name="Le Cronache TV" tvg-logo="https://i.imgur.com/d8ziiEJ.png" tvg-country="IT" tvg-language="Italian" group-title="General",Le Cronache TV (720p)
 http://stucazz.com:8888/hls/cronache.m3u8
+#EXTINF:-1 tvg-id="LiraTV.it" tvg-name="Lira TV" tvg-logo="https://i.imgur.com/sC9ELuY.jpg" tvg-country="IT" tvg-language="Italian" group-title="News",Lira TV (1080p)
+https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 #EXTINF:-1 tvg-id="LiraTV.it" tvg-name="Lira TV" tvg-logo="https://i.imgur.com/sC9ELuY.jpg" tvg-country="IT" tvg-language="Italian" group-title="News",Lira TV (720p) [Not 24/7]
 https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8
-#EXTINF:-1 tvg-id="LiraTV.it" tvg-name="Lira TV" tvg-logo="https://i.imgur.com/sC9ELuY.jpg" tvg-country="IT" tvg-language="Italian" group-title="News",Lira TV
-https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 #EXTINF:-1 tvg-id="LombardiaTV.it" tvg-name="Lombardia TV" tvg-logo="https://i.imgur.com/frVhm9q.png" tvg-country="IT" tvg-language="Italian" group-title="General",Lombardia TV (720p)
 https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it" tvg-name="m2o TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Music",m2o TV (1080p)
@@ -308,6 +306,8 @@ https://streamer-jv9.pages.dev/italy/nickjr.m3u
 #EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="IT" tvg-language="Italian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://185.227.34.104/stream/117/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="IT" tvg-language="Italian" group-title="Kids",Nickelodeon
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-logo="https://i.imgur.com/rTjIkGO.png" tvg-country="IT" tvg-language="Italian;English" group-title="General",Nove (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="NTN.it" tvg-name="NTN" tvg-logo="https://i.imgur.com/AW5fJwa.png" tvg-country="IT" tvg-language="Italian" group-title="General",NTN (720p)
@@ -472,8 +472,6 @@ https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_news_24/live.livx/playl
 http://95.141.36.9:8080/stream/170/index.m3u8
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Education",Rai Scuola (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/6PEevOM.png" tvg-country="IT" tvg-language="Italian" group-title="Sports",Rai Sport
-http://sultanios.alwaysdata.net/vavo.php?ID=843891896
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Other",Rai Storia (1080p)
 http://team-tv.co:81/raistoria/index.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" tvg-country="IT" tvg-language="Italian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Other",Rai Storia (1080p)
@@ -571,6 +569,8 @@ http://109.169.87.42:8080/stream/30/index.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/960px-Sky_Cinema_Uno_-_Logo_2021.svg.png" tvg-country="IT" tvg-language="Italian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Movies",Sky Cinema Uno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://109.169.87.42:8080/stream/2/index.m3u8
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Sports",Sky Sport F1
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d
 #EXTINF:-1 tvg-id="SophiaTV.it" tvg-name="Sophia TV" tvg-logo="https://i.imgur.com/RPXusvS.png" tvg-country="IT" tvg-language="Italian" group-title="Other",Sophia TV (720p)
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://i.imgur.com/0CJGGgd.png" tvg-country="IT" tvg-language="Italian" group-title="Sports",Sportitalia (1080p)

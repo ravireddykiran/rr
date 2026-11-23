@@ -3,10 +3,10 @@
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-id="30AWeLoveCars.us" tvg-name="30A We Love Cars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" tvg-country="US" tvg-language="English" group-title="United States",30A We Love Cars (720p)
 https://30a-tv.com/feeds/vidaa/cars.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Auto Plus (1080p)
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Auto Plus (576p)
 http://31.148.48.15/Avto_Plus/index.m3u8
-#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Auto Plus
-https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Automotolachaine.fr" tvg-name="Automoto la chaine" tvg-logo="https://i.imgur.com/ebf2uc7.png" tvg-country="FR" tvg-language="French;Turkish" group-title="France",Automoto la chaine (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Avto24.ru" tvg-name="Avto24" tvg-logo="https://i.imgur.com/GXSXmN2.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Avto24 (576p)
@@ -27,6 +27,8 @@ https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.it" tvg-name="Discovery Turbo" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Discovery Turbo (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Discovery Turbo (1080p) [Geo-blocked]
+https://amg00136-wbd-amg00136c57-vizio-us-8927.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Discovery Turbo (720p)
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2409.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Discovery Turbo
@@ -92,6 +94,8 @@ https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3
 https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" tvg-logo="https://i.imgur.com/jguTO8E.png" tvg-country="US" tvg-language="English" group-title="United States",PowerNation TV (1080p)
 https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" tvg-logo="https://i.imgur.com/jguTO8E.png" tvg-country="US" tvg-language="English" group-title="United States",PowerNation TV (1080p) [Geo-blocked]
+https://amg01258-raycom-amg01258c1-vizio-us-780.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernation-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" tvg-logo="https://i.imgur.com/jguTO8E.png" tvg-country="US" tvg-language="English" group-title="United States",PowerNation TV
 https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8
 #EXTINF:-1 tvg-id="REVNAction.us" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" tvg-country="US" tvg-language="English" group-title="United States",REV'N Action (720p) [Geo-blocked]
@@ -100,6 +104,10 @@ https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/i
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
 #EXTINF:-1 tvg-id="ShiftTV.hr" tvg-name="Shift TV" tvg-logo="https://i.imgur.com/mudXVT8.png" tvg-country="HR" tvg-language="Croatian" group-title="Croatia",Shift TV (1080p)
 https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1 tvg-id="SPEEDVISION.us" tvg-name="SPEEDVISION" tvg-logo="https://i.imgur.com/3CTudqH.png" tvg-country="US" tvg-language="English" group-title="United States",SPEEDVISION (1080p)
+https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/S6Su6QH.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Top Gear (1080p)
+https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/S6Su6QH.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Top Gear (720p)
 https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/S6Su6QH.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Top Gear (720p)

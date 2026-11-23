@@ -13,6 +13,8 @@ https://streamer.nknews.org/tvdash/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://kcnawatch.org/
 https://streamer.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-id="MansudaeTelevision.kp" tvg-name="Mansudae Television" tvg-logo="https://i.imgur.com/7xowUs2.png" tvg-country="KP" tvg-language="Korean" group-title="Entertainment",Mansudae Television (1080p) [Not 24/7]
+https://live.koryocdn.org/mansudae/index.m3u8
 #EXTINF:-1 tvg-id="RyongnamsanTelevision.kp" tvg-name="Ryongnamsan Television" tvg-logo="https://i.imgur.com/1BHJjY4.png" tvg-country="KP" tvg-language="Korean" group-title="Education",Ryongnamsan Television (720p) [Not 24/7]
 https://live.koryocdn.org/ryongnamsan/index.m3u8
 #EXTINF:-1 tvg-id="SportsTelevision.kp" tvg-name="Sports Television" tvg-logo="https://i.imgur.com/HvFpGeH.png" tvg-country="KP" tvg-language="Korean" group-title="Sports",Sports Television (720p) [Not 24/7]

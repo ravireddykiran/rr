@@ -1,14 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",.black (576p)
+http://116.90.120.149:8000/play/a0s4/index.m3u8
+#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",.black (576p)
 http://s1.merlive.am/black/index.m3u8
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",.black (576p)
 http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",.black HD (1080p)
+http://116.90.120.149:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",.red (576p)
 http://5.188.159.128:8070/RED/index.m3u8
+#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",.red (576p)
+http://116.90.120.149:8000/play/a0an/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",.red (576p)
 http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",.red HD (1080p)
 http://178.134.1.158:8081/red/index.m3u8
+#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-country="RU" tvg-language="Russian" group-title="Science",.sci-fi (576p)
+http://116.90.120.149:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-country="RU" tvg-language="Russian" group-title="Science",.sci-fi (576p)
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-country="RU" tvg-language="Russian" group-title="Science",.sci-fi (576p)
@@ -43,9 +51,9 @@ https://streaming.thestream.cyou/live/7000.m3u8
 #EXTINF:-1 tvg-id="360.ru" tvg-name="360°" tvg-logo="https://i.imgur.com/VTJqdoX.png" tvg-country="RU" tvg-language="Russian" group-title="General",360°
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 tvg-id="360News.ru" tvg-name="360° News" tvg-logo="https://i.imgur.com/YXDeX8q.png" tvg-country="RU" tvg-language="Russian" group-title="News",360° News (1080p)
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="360News.ru" tvg-name="360° News" tvg-logo="https://i.imgur.com/YXDeX8q.png" tvg-country="RU" tvg-language="Russian" group-title="News",360° News
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
+#EXTINF:-1 tvg-id="360News.ru" tvg-name="360° News" tvg-logo="https://i.imgur.com/YXDeX8q.png" tvg-country="RU" tvg-language="Russian" group-title="News",360° News (1080p)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 days TV" tvg-logo="https://i.imgur.com/NfnAiTR.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",365 days TV (576p)
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 days TV" tvg-logo="https://i.imgur.com/NfnAiTR.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",365 days TV (576p)
@@ -116,10 +124,10 @@ https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuTV.ru" tvg-name="Astrahan.Ru TV" tvg-logo="https://i.imgur.com/w4ys6zm.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Astrahan.Ru TV (480p)
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-country="RU" tvg-language="Russian" group-title="Auto",Auto Plus (1080p)
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-country="RU" tvg-language="Russian" group-title="Auto",Auto Plus (576p)
 http://31.148.48.15/Avto_Plus/index.m3u8
-#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-country="RU" tvg-language="Russian" group-title="Auto",Auto Plus
-https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Avto24.ru" tvg-name="Avto24" tvg-logo="https://i.imgur.com/GXSXmN2.png" tvg-country="RU" tvg-language="Russian" group-title="Auto",Avto24 (576p)
 http://stream.mcquack.net/78/index.m3u8
 #EXTINF:-1 tvg-id="Avto24.ru" tvg-name="Avto24" tvg-logo="https://i.imgur.com/GXSXmN2.png" tvg-country="RU" tvg-language="Russian" group-title="Auto",Avto24 (576p)
@@ -180,10 +188,10 @@ http://stream.mcquack.net/320/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-name="BRIDGE Rock" tvg-logo="https://i.imgur.com/MHuwct2.png" tvg-country="RU" tvg-language="Russian" group-title="Music",BRIDGE Rock (576p)
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
+#EXTINF:-1 tvg-id="BST.ru" tvg-name="BST" tvg-logo="https://i.imgur.com/IDotHmQ.png" tvg-country="RU" tvg-language="Russian" group-title="Other",BST (1080p)
+http://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1 tvg-id="BST.ru" tvg-name="BST" tvg-logo="https://i.imgur.com/IDotHmQ.png" tvg-country="RU" tvg-language="Russian" group-title="Other",BST (576p)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:-1 tvg-id="BST.ru" tvg-name="BST" tvg-logo="https://i.imgur.com/IDotHmQ.png" tvg-country="RU" tvg-language="Russian" group-title="Other",BST
-http://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Carousel (1080p)
 http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Carousel (576p)
@@ -196,15 +204,15 @@ http://flussonic.linkintel.ru/Karusel/index.m3u8
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Carousel (576p)
 http://stream.mcquack.net/120/index.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Kids",Carousel (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Kids",Carousel
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Kids",Carousel (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/11.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Carousel
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Carousel (576p)
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Kids",Carousel (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Carousel +4 (720p)
 http://185.37.150.46/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="CarouselInternational.ru" tvg-name="Carousel International" tvg-logo="https://i.imgur.com/DnlngRZ.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Carousel International (576p)
@@ -219,15 +227,17 @@ https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel12.ru" tvg-name="Channel 12" tvg-logo="https://i.imgur.com/OA9hm6e.png" tvg-country="RU" tvg-language="Russian" group-title="General",Channel 12 (576p) [Geo-blocked]
 https://streaming.thestream.cyou/live/7004.m3u8
+#EXTINF:-1 tvg-id="Channel4.ru" tvg-name="Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Channel4_logo.jpg" tvg-country="RU" tvg-language="Russian" group-title="General",Channel 4 (1080p)
+https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/960px-5-tv_logo_%282023%29.svg.png" tvg-country="RU" tvg-language="Russian" group-title="General",Channel 5 (576p)
 http://31.148.5.241/kanal_5/index.m3u8
-#EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/960px-5-tv_logo_%282023%29.svg.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="General",Channel 5 (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/960px-5-tv_logo_%282023%29.svg.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="General",Channel 5
+#EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/960px-5-tv_logo_%282023%29.svg.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="General",Channel 5 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
+#EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/960px-5-tv_logo_%282023%29.svg.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="General",Channel 5 (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" tvg-logo="https://i.imgur.com/8VKc2Ya.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Channel 5 International (576i)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
@@ -271,6 +281,8 @@ https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" tvg-logo="https://i.imgur.com/RUSX0rX.png" tvg-country="RU" tvg-language="Russian" group-title="General",Channel One HD (720p)
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" tvg-logo="https://i.imgur.com/RUSX0rX.png" tvg-country="RU" tvg-language="Russian" group-title="General",Channel One HD (720p) [Geo-blocked]
+http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjMvMXR2LzF0dmNoL3N0cmVhbXMuanNvbg
 #EXTINF:-1 tvg-id="ChannelOneCIS.ru" tvg-name="Channel One CIS" tvg-logo="https://i.imgur.com/RUSX0rX.png" tvg-country="RU" tvg-language="Russian" group-title="General",Channel One CIS (576p)
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Channel16.ru" tvg-name="Channel-16" tvg-logo="https://i.imgur.com/7tNDKHe.png" tvg-country="RU" tvg-language="Russian" group-title="General",Channel-16 (406p) [Not 24/7]
@@ -282,12 +294,12 @@ http://31.148.48.15/Che/index.m3u8
 #EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" tvg-logo="https://i.imgur.com/ZOcDGpB.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Entertainment",Che! (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="https://i.imgur.com/b5e9qUA.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Cinema (1080p)
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="https://i.imgur.com/b5e9qUA.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Cinema (576p)
 http://flussonic.linkintel.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="https://i.imgur.com/b5e9qUA.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="https://i.imgur.com/b5e9qUA.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Cinema
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CityEdenAutoGid.ru" tvg-name="City Eden AutoGid" tvg-logo="https://i.imgur.com/qpe8L27.png" tvg-country="RU" tvg-language="Russian" group-title="Auto",City Eden AutoGid [Not 24/7]
 https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenBirmaPlay.ru" tvg-name="City Eden Birma Play" tvg-logo="https://i.imgur.com/38Q5L5W.png" tvg-country="RU" tvg-language="Russian" group-title="Music",City Eden Birma Play [Not 24/7]
@@ -330,16 +342,18 @@ https://cityeden.catcast.tv/content/46209/index.m3u8
 https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="ClassicMusic.ru" tvg-name="Classic Music" tvg-logo="https://i.imgur.com/TpXs1qA.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Classic Music (1080p)
 http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" tvg-country="RU" tvg-language="Russian" group-title="News",Crimea 24 (576p)
+https://streaming.televizor-24-tochka.ru/live/28.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" tvg-country="RU" tvg-language="Russian" group-title="News",Crimea 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" tvg-country="RU" tvg-language="Russian" group-title="News",Crimea 24
-https://streaming.televizor-24-tochka.ru/live/28.m3u8
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU" tvg-language="Russian" group-title="Education",Da Vinci (1080p)
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU" tvg-language="Russian" group-title="Education",Da Vinci (576p)
+http://116.90.120.149:8000/play/a0s6/index.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU" tvg-language="Russian" group-title="Education",Da Vinci (576p)
 http://stream.mcquack.net/238/index.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU" tvg-language="Russian" group-title="Education",Da Vinci (576p)
 https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU" tvg-language="Russian" group-title="Education",Da Vinci
-https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dagestan.ru" tvg-name="Dagestan" tvg-logo="https://i.imgur.com/jumkRvc.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Dagestan (1080p)
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 tvg-id="DanceHits80.ru" tvg-name="DanceHits80" tvg-logo="https://i.imgur.com/uMw3kks.png" tvg-country="RU" tvg-language="English;Russian" group-title="Music",DanceHits80
@@ -366,13 +380,13 @@ http://178.134.1.158:8081/doktor/index.m3u8
 http://stream.mcquack.net/80/index.m3u8
 #EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-country="RU" tvg-language="Russian" group-title="Education;Lifestyle",Doctor (576i)
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Dom kino (1080p)
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Dom kino (576p)
 http://88.212.15.50/live/test_dom_kino/playlist.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Dom kino (576p)
 http://stream.mcquack.net/236/index.m3u8
-#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Dom kino
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Dom kino
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Dom kino (576p)
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Dom kino International (576p)
 https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
@@ -394,19 +408,19 @@ http://31.148.5.241/kanal_14/index.m3u8
 https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-country="RU" tvg-language="Russian" group-title="Lifestyle",Domashniy (576p)
 http://stream.mcquack.net/227/index.m3u8
-#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Lifestyle",Domashniy (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Lifestyle",Domashniy
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Lifestyle",Domashniy (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Lifestyle",Domashniy (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-id="Don24.ru" tvg-name="Don 24" tvg-logo="https://i.imgur.com/fW15la1.png" tvg-country="RU" tvg-language="Russian" group-title="News",Don 24 (1080p)
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" tvg-logo="https://i.imgur.com/ZH5LuXU.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Dorama (1080p)
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" tvg-logo="https://i.imgur.com/ZH5LuXU.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Dorama (576p)
 https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" tvg-logo="https://i.imgur.com/ZH5LuXU.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Dorama
-https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" tvg-logo="https://i.imgur.com/ZH5LuXU.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Dorama HD (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/412/index.m3u8
@@ -500,7 +514,7 @@ https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 https://gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-id="GovoritMoskva.ru" tvg-name="Govorit Moskva" tvg-logo="https://i.imgur.com/z2mxf3E.png" tvg-country="RU" tvg-language="Russian" group-title="News",Govorit Moskva (720p)
 https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:-1 tvg-id="Groznyj.ru" tvg-name="Groznyj" tvg-logo="https://i.imgur.com/yrN0Vl6.png" tvg-country="RU" tvg-language="Russian" group-title="General",Groznyj
+#EXTINF:-1 tvg-id="Groznyj.ru" tvg-name="Groznyj" tvg-logo="https://i.imgur.com/yrN0Vl6.png" tvg-country="RU" tvg-language="Russian" group-title="General",Groznyj (720p)
 https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
 #EXTINF:-1 tvg-id="GuberniaSamara.ru" tvg-name="Gubernia Samara" tvg-logo="https://i.imgur.com/IlL57Rm.png" tvg-country="RU" tvg-language="Russian" group-title="General",Gubernia Samara (576p)
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
@@ -536,14 +550,14 @@ http://31.148.48.15/Illusion_plus/index.m3u8
 https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="India.ru" tvg-name="India" tvg-logo="https://i.imgur.com/xDVcDOc.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",India (576p)
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Indiyskoye Kino (1080p)
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Indiyskoye Kino (576p)
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Indiyskoye Kino (576p)
 http://stream.mcquack.net/104/index.m3u8
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Indiyskoye Kino (576p)
 https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Indiyskoye Kino
-https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ingushetia.ru" tvg-name="Ingushetia" tvg-logo="https://i.imgur.com/Fw2Hkk4.png" tvg-country="RU" tvg-language="Russian" group-title="General",Ingushetia (1080p)
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 tvg-id="InsaytTV.ru" tvg-name="Insayt TV" tvg-logo="https://i.imgur.com/slLuRel.png" tvg-country="RU" tvg-language="English" group-title="Other",Insayt TV (2160p)
@@ -595,17 +609,17 @@ http://flussonic.linkintel.ru/kino-tv/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" tvg-logo="https://i.imgur.com/sMpamNO.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kino TV (576p)
 http://stream.mcquack.net/221/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" tvg-logo="https://i.imgur.com/sMpamNO.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kino TV (576p)
-http://31.148.48.15/Kino_TV/index.m3u8
-#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" tvg-logo="https://i.imgur.com/sMpamNO.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kino TV
 https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" tvg-logo="https://i.imgur.com/sMpamNO.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kino TV (576p)
+http://31.148.48.15/Kino_TV/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" tvg-logo="https://i.imgur.com/sMpamNO.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kino TV HD (1080p)
 http://176.118.197.101/KinoTvHD/playlist.m3u8
+#EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" tvg-logo="https://i.imgur.com/Ge8vkQM.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",KinoHit (1080p)
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" tvg-logo="https://i.imgur.com/Ge8vkQM.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",KinoHit (576p)
 http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" tvg-logo="https://i.imgur.com/Ge8vkQM.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",KinoHit (576p)
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" tvg-logo="https://i.imgur.com/Ge8vkQM.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",KinoHit
-https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-country="RU" tvg-language="Russian" group-title="Comedy",Kinokomedija (576p)
 http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-country="RU" tvg-language="Russian" group-title="Comedy",Kinokomedija (576p)
@@ -616,17 +630,17 @@ http://93.170.254.17/Kinomiks/index.m3u8
 http://stream.mcquack.net/133/index.m3u8
 #EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Kinomix" tvg-logo="https://i.imgur.com/D4q2XUT.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinomix (576p)
 https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinopokaz (1080p)
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinopokaz (576p)
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinopokaz (576p)
 http://31.148.48.15/Kinopokaz/index.m3u8
-#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinopokaz
-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinopremyera (1080p)
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-country="RU" group-title="Movies",Kinopremyera (1080p)
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-country="RU" group-title="Movies",Kinopremyera
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-country="RU" group-title="Movies",Kinopremyera (1080p)
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KinoSat.ru" tvg-name="KinoSat" tvg-logo="https://i.imgur.com/7KsNvBz.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",KinoSat (576p)
 http://31.148.48.15/Kineko/index.m3u8
@@ -636,14 +650,14 @@ http://stream.mcquack.net/170/index.m3u8
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" tvg-logo="https://i.imgur.com/iao7zLZ.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinoseriya (576p)
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" tvg-logo="https://i.imgur.com/ZRaWqxj.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinosvidanie (1080p)
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" tvg-logo="https://i.imgur.com/ZRaWqxj.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinosvidanie (576p)
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" tvg-logo="https://i.imgur.com/ZRaWqxj.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinosvidanie (576p)
 http://stream.mcquack.net/171/index.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" tvg-logo="https://i.imgur.com/ZRaWqxj.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinosvidanie (576p)
 https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" tvg-logo="https://i.imgur.com/ZRaWqxj.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinosvidanie
-https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" tvg-logo="https://i.imgur.com/mAcAAQF.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinouzhas (1080p)
 http://s1.merlive.am/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" tvg-logo="https://i.imgur.com/mAcAAQF.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Kinouzhas (576p)
@@ -765,6 +779,8 @@ http://46.32.176.50/mcmtop/index.m3u8
 https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-name="Ministerstvo idey" tvg-logo="https://minidey.ru/media/images/minidey_banner.png" tvg-country="RU" tvg-language="Russian" group-title="Culture",Ministerstvo idey (1080p)
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-country="RU" tvg-language="Russian" group-title="General",Mir (1080p)
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Mir (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
@@ -783,8 +799,6 @@ https://streaming.televizor-24-tochka.ru/live/22.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="General",Mir (450p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-country="RU" tvg-language="Russian" group-title="General",Mir
-https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-country="RU" tvg-language="Russian" group-title="General",Mir +2 (540p) [Not 24/7]
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-country="RU" tvg-language="Russian" group-title="General",Mir +4 (576p)
@@ -801,13 +815,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-country="RU" tvg-language="Russian" group-title="General",Mir Kazakhstan (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" tvg-logo="https://i.imgur.com/dj9c8Yd.png" tvg-country="RU" tvg-language="Russian" group-title="News",Mir 24 (1080p)
+https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" tvg-logo="https://i.imgur.com/dj9c8Yd.png" tvg-country="RU" tvg-language="Russian" group-title="News",Mir 24 (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" tvg-logo="https://i.imgur.com/dj9c8Yd.png" tvg-country="RU" tvg-language="Russian" group-title="News",Mir 24 (576p)
 http://5.188.159.128:8070/mir_24/index.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" tvg-logo="https://i.imgur.com/dj9c8Yd.png" tvg-country="RU" tvg-language="Russian" group-title="News",Mir 24 (576p)
 http://31.148.48.15/Mir_24/index.m3u8
-#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" tvg-logo="https://i.imgur.com/dj9c8Yd.png" tvg-country="RU" tvg-language="Russian" group-title="News",Mir 24
-https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-name="Mir Belogorya" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Mir Belogorya (720p) [Geo-blocked]
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-name="Mir Belogorya" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Mir Belogorya (720p) [Geo-blocked]
@@ -817,11 +831,11 @@ http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-name="Mir Seriala" tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-country="RU" tvg-language="Russian" group-title="Series",Mir Seriala (576p)
 http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-country="RU" tvg-language="Russian;English" group-title="Sports",MMA-TV.com (1080p)
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-country="RU" tvg-language="Russian;English" group-title="Sports",MMA-TV.com (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-country="RU" tvg-language="Russian;English" group-title="Sports",MMA-TV.com (576p)
 https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-country="RU" tvg-language="Russian;English" group-title="Sports",MMA-TV.com
-https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" tvg-logo="https://i.imgur.com/95Y8jb6.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Mosfilm Gold Collection (576p)
 http://31.222.235.15/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" tvg-logo="https://i.imgur.com/95Y8jb6.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Mosfilm Gold Collection (576p)
@@ -866,14 +880,16 @@ https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/82/index.m3u8
 #EXTINF:-1 tvg-id="Multimuzyka.ru" tvg-name="Mult i muzyka" tvg-logo="https://i.imgur.com/SYt6BZP.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Mult i muzyka (576p)
 http://31.148.48.15/Multimuzika/index.m3u8
+#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" tvg-logo="https://i.imgur.com/ccwijY0.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Multilandia (1080p)
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" tvg-logo="https://i.imgur.com/ccwijY0.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Multilandia (576p)
 https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" tvg-logo="https://i.imgur.com/ccwijY0.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Multilandia (576p)
 http://31.148.48.15/Multilandiya/index.m3u8
-#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" tvg-logo="https://i.imgur.com/ccwijY0.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Multilandia
-https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MuzSoyuz.ru" tvg-name="Muz Soyuz" tvg-logo="https://i.imgur.com/Puk1Bhx.png" tvg-country="RU" tvg-language="Russian" group-title="Music;Religious",Muz Soyuz (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Muz-TV (1080p)
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Muz-TV (576p)
 http://31.148.5.241/kanal_20/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Muz-TV (576p)
@@ -884,17 +900,15 @@ http://185.71.81.6:8080/20/index.m3u8
 http://stream.mcquack.net/86/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Muz-TV (576p)
 https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Music",Muz-TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/20.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Muz-TV (576p)
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Music",Muz-TV (450p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Muz-TV
-https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Music",Muz-TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.televizor-24-tochka.ru/live/20.m3u8
 #EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Muzhskoe kino" tvg-logo="https://i.imgur.com/8RN3tQC.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Muzhskoe kino (576p)
 http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Muzhskoe kino" tvg-logo="https://i.imgur.com/8RN3tQC.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Muzhskoe kino (576p)
@@ -909,12 +923,12 @@ https://kino-1.catcast.tv/content/37742/index.m3u8
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaLive.ru" tvg-name="Muzyka Live" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2016/08/LOGO_MUSIC_LIVE.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Muzyka Live (576p)
 http://stream.mcquack.net/303/index.m3u8
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" tvg-logo="https://i.imgur.com/U0vKj3P.png" tvg-country="RU" tvg-language="Russian;Ukrainian" group-title="Music",Muzyka Pervogo (1080p)
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" tvg-logo="https://i.imgur.com/U0vKj3P.png" tvg-country="RU" tvg-language="Russian;Ukrainian" group-title="Music",Muzyka Pervogo (576p)
 http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" tvg-logo="https://i.imgur.com/U0vKj3P.png" tvg-country="RU" tvg-language="Russian;Ukrainian" group-title="Music",Muzyka Pervogo (576p)
 http://stream.mcquack.net/153/index.m3u8
-#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" tvg-logo="https://i.imgur.com/U0vKj3P.png" tvg-country="RU" tvg-language="Russian;Ukrainian" group-title="Music",Muzyka Pervogo
-https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" tvg-logo="https://i.imgur.com/dYj3XDa.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",Nano (576p)
 http://stream.mcquack.net/419/index.m3u8
 #EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" tvg-logo="https://i.imgur.com/dYj3XDa.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",Nano HD (1080p)
@@ -929,7 +943,7 @@ https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 tvg-id="Nashemuzhskoe.ru" tvg-name="Nashe muzhskoe" tvg-logo="https://i.imgur.com/QRWKpmb.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Nashe muzhskoe HD (1080p)
 http://stream.mcquack.net/362/index.m3u8
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-name="Nashe Novoe Kino" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Nashe Novoe Kino
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-name="Nashe Novoe Kino" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Nashe Novoe Kino (1080p)
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",National Geographic (1080p)
 http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
@@ -945,7 +959,7 @@ http://178.76.68.60:7442/50/mpegts
 http://31.148.48.15/Nauka_2.0/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",Nauka (576p)
 http://stream.mcquack.net/125/index.m3u8
-#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",Nauka
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",Nauka (576p)
 https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="Nevskiy.ru" tvg-name="Nevskiy" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" tvg-country="RU" tvg-language="Russian" group-title="Series",Nevskiy (1080p)
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
@@ -983,6 +997,8 @@ https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NTS.ru" tvg-name="NTS" tvg-logo="https://i.imgur.com/skkDR7q.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTS (1080p) [Not 24/7]
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTV (1080p)
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTV (576p)
 http://31.148.5.241/kanal_4/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTV (576p)
@@ -1000,8 +1016,6 @@ http://31.148.48.15/NTV/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="General",NTV (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTV
-https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTV +1 (576p)
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTV +2 (576p)
@@ -1050,10 +1064,10 @@ http://31.148.48.15/O2_HD/index.m3u8
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" tvg-logo="https://i.imgur.com/Bj1jI7F.png" tvg-country="RU" tvg-language="Russian" group-title="Outdoor",Ohotnik i rybolov HD (1080p)
 http://stream.mcquack.net/194/index.m3u8
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-country="RU" tvg-language="Russian;English" group-title="Outdoor",Okhota i rybalka (1080p)
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-country="RU" tvg-language="Russian;English" group-title="Outdoor",Okhota i rybalka (576p)
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-country="RU" tvg-language="Russian;English" group-title="Outdoor",Okhota i rybalka
-https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OkkoFutbol.ru" tvg-name="Okko Futbol" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",Okko Futbol (576p)
 http://178.124.179.122:8080/Setanta1/index.m3u8
 #EXTINF:-1 tvg-id="OkkoPrajmSport.ru" tvg-name="Okko Prajm Sport" tvg-logo="https://i.imgur.com/kQq5DMU.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",Okko Prajm Sport (1080p)
@@ -1066,7 +1080,7 @@ http://31.131.141.195:8000/play/a006/index.m3u8
 http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 tvg-id="OsetiyaIryston.ru" tvg-name="Osetiya-Iryston" tvg-logo="https://i.imgur.com/N0Zn4zU.png" tvg-country="RU" tvg-language="Russian" group-title="General",Osetiya-Iryston (1080p)
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
-#EXTINF:-1 tvg-id="OSN.ru" tvg-name="OSN" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" tvg-country="RU" tvg-language="Russian" group-title="General",OSN
+#EXTINF:-1 tvg-id="OSN.ru" tvg-name="OSN" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" tvg-country="RU" tvg-language="Russian" group-title="General",OSN (1080p)
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-name="Ostrosyuzhetnoye" tvg-logo="https://i.imgur.com/NwQ7GBy.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Ostrosyuzhetnoye HD (1080p)
 http://stream.mcquack.net/214/index.m3u8
@@ -1139,6 +1153,8 @@ http://31.148.48.15/Radost_moya/index.m3u8
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="RadostMoya.ru" tvg-name="Radost Moya" tvg-logo="https://i.imgur.com/B5FA62o.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Radost Moya (576p)
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Business",RBK-TV (1080p)
+http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Business",RBK-TV (576p)
 http://176.118.197.101/RBK/index.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Business",RBK-TV (576p)
@@ -1149,8 +1165,6 @@ https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 http://31.148.48.15/RBK/index.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Business",RBK-TV (560p)
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Business",RBK-TV
-http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru" tvg-name="Red Line" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Red Line (480p)
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru" tvg-name="Red Line" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Red Line (288p)
@@ -1166,18 +1180,18 @@ http://flussonic.linkintel.ru/ren_tv/index.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="General",REN TV (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" tvg-country="RU" tvg-language="Russian" group-title="Classic",Retro (1080p)
+https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" tvg-country="RU" tvg-language="Russian" group-title="Classic",Retro (576p)
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" tvg-country="RU" tvg-language="Russian" group-title="Classic",Retro (576p)
 http://stream.mcquack.net/191/index.m3u8
-#EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" tvg-country="RU" tvg-language="Russian" group-title="Classic",Retro
-https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Rodnoe Kino (1080p)
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Rodnoe Kino (576p)
 http://stream.mcquack.net/242/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Rodnoe Kino (576p)
 http://31.148.48.15/Rodnoe_kino/index.m3u8
-#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",Rodnoe Kino
-https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Rossiya1Vainah.ru" tvg-name="Rossiya 1 Vainah" tvg-logo="https://i.imgur.com/GnbNG0r.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)" http-referrer="https://gtrkvainah.ru/" group-title="General",Rossiya 1 Vainah (576i)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)
 #EXTVLCOPT:http-referrer=https://gtrkvainah.ru/
@@ -1215,7 +1229,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",RT Documentary Russian (1080p)
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",RT Documentary Russian
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",RT Documentary Russian (720p)
 https://streaming.thestream.cyou/live/554.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" tvg-country="RU" tvg-language="Spanish" group-title="News",RT en Espanol (1080p)
 http://15.204.246.24:8080/RTHD/index.m3u8
@@ -1262,16 +1276,18 @@ https://shift03.isp.bg/RTVi/index.m3u8
 https://s70378.cdn.ngenix.net/rtvi/index.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" tvg-logo="https://ru.tv/_nuxt/img/logo.e3ca789.svg" tvg-country="RU" tvg-language="Russian" group-title="Music",RU.TV (1080p)
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" tvg-logo="https://ru.tv/_nuxt/img/logo.e3ca789.svg" tvg-country="RU" tvg-language="Russian" group-title="Music",RU.TV (1080p)
+https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" tvg-logo="https://ru.tv/_nuxt/img/logo.e3ca789.svg" tvg-country="RU" tvg-language="Russian" group-title="Music",RU.TV (576p)
 http://stream.mcquack.net/109/index.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" tvg-logo="https://ru.tv/_nuxt/img/logo.e3ca789.svg" tvg-country="RU" tvg-language="Russian" group-title="Music",RU.TV (576p)
 http://31.148.48.15/RU_TV/index.m3u8
-#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" tvg-logo="https://ru.tv/_nuxt/img/logo.e3ca789.svg" tvg-country="RU" tvg-language="Russian" group-title="Music",RU.TV
-https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RUTVKids.ru" tvg-name="RU.TV Kids" tvg-logo="https://rutvkids.ru/brand/logo-kids.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",RU.TV Kids (720p)
 https://rutvkids.ru/live/efir/index.m3u8
 #EXTINF:-1 tvg-id="Rus.ru" tvg-name="Rus" tvg-logo="https://i.imgur.com/KuL21f9.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Rus (576p)
 http://31.148.5.241/kanal_21/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 (1080p)
+https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 (1080p)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 (1080p)
@@ -1447,20 +1463,36 @@ https://streaming.televizor-24-tochka.ru/live/5.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="General",Russia-1 (450p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1
-https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +1 (1080p)
+https://stream.smotrim.ru/hls2/russia1_plus1/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +2 (1080p)
+https://stream.smotrim.ru/hls2/russia1_plus2/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +3 (1080p)
+https://stream.smotrim.ru/hls2/russia1_plus3/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +4 (1080p)
+https://stream.smotrim.ru/hls2/russia1_plus4/playlist_5.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +4 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +5 (1080p)
+https://stream.smotrim.ru/hls2/russia1_plus5/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +5 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +6 (1080p)
+https://stream.smotrim.ru/hls2/russia1_plus6/playlist_5.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +6 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +6 (576p)
 http://31.148.48.15/Rossiya_1/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +7 (1080p)
+https://stream.smotrim.ru/hls2/russia1_plus7/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +7 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +8 (1080p)
+https://stream.smotrim.ru/hls2/russia1_plus8/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +8 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +9 (1080p)
+https://stream.smotrim.ru/hls2/russia1_plus9/playlist_5.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 +9 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 HD (1080p)
@@ -1568,6 +1600,10 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-country="RU" tvg-language="Russian" group-title="General",Russia-1 HD (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="News",Russia-24 (1080p)
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="News",Russia-24 (1080p)
+https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="News",Russia-24 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="News",Russia-24 (720p)
 https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
@@ -1575,6 +1611,8 @@ https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
 http://31.148.5.241/kanal_7/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="News",Russia-24 (576p)
 http://176.118.197.101/Rossiya24/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="News",Russia-24 (576p)
+https://stream.smotrim.ru/hls2/russia24_int/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="News",Russia-24 (576p) [Not 24/7]
 https://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="News",Russia-24 (576p)
@@ -1753,8 +1791,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="News",Russia-24
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="News",Russia-24
-https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="News",Russia-24
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="News",Russia-24 HD (1080p)
 http://77.232.131.211/Rossiya24/index.m3u8
@@ -1781,9 +1817,15 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Culture",Russia-K +2 (1080p)
+https://stream.smotrim.ru/hls2/russia_k_dubl1/playlist_5.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Culture",Russia-K +2 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Culture",Russia-K +4 (1080p)
+https://stream.smotrim.ru/hls2/russia_k_dubl2/playlist_5.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Culture",Russia-K +4 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Culture",Russia-K +7 (1080p)
+https://stream.smotrim.ru/hls2/russia_k_dubl3/playlist_5.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Culture",Russia-K +7 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Culture",Russia-K HD (1080p)
@@ -1857,7 +1899,7 @@ http://stream.mcquack.net/81/index.m3u8
 http://31.148.48.15/Sarafan/index.m3u8
 #EXTINF:-1 tvg-id="Seven.ru" tvg-name="Seven" tvg-logo="https://i.imgur.com/GpCwqUF.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Seven (576p)
 http://31.148.48.15/7TV/index.m3u8
-#EXTINF:-1 tvg-id="Sever.ru" tvg-name="Sever" tvg-logo="https://i.imgur.com/sTOQLYl.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Sever
+#EXTINF:-1 tvg-id="Sever.ru" tvg-name="Sever" tvg-logo="https://i.imgur.com/sTOQLYl.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Sever (1080p)
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" tvg-logo="https://i.imgur.com/Fk4sd8t.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Shanson TV SD (576p)
 http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
@@ -1871,7 +1913,7 @@ https://streaming.thestream.cyou/live/7009.m3u8
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" tvg-logo="https://i.imgur.com/Fk4sd8t.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Shanson TV SD (512p) [Geo-blocked]
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" tvg-logo="https://i.imgur.com/Fk4sd8t.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Shanson TV SD
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" tvg-logo="https://i.imgur.com/Fk4sd8t.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Shanson TV SD (512p)
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru" tvg-name="Shchyolkovskoe TV" tvg-logo="https://i.imgur.com/0us6l04.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Shchyolkovskoe TV (576p) [Not 24/7]
 http://stream0.tv41.ru/live.m3u8
@@ -1897,30 +1939,48 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 https://stream8.cinerama.uz/1425/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SmileTV.ru" tvg-name="Smile TV" tvg-logo="https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png" tvg-country="RU" group-title="Kids",Smile TV
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Detskoe.ru" tvg-name="Smotrim 100% Detskoe" tvg-logo="https://i.imgur.com/1hsNeTa.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Smotrim 100% Detskoe (1080p)
+https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Detskoe.ru" tvg-name="Smotrim 100% Detskoe" tvg-logo="https://i.imgur.com/1hsNeTa.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Smotrim 100% Detskoe (720p)
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Detskoe.ru" tvg-name="Smotrim 100% Detskoe" tvg-logo="https://i.imgur.com/1hsNeTa.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",Smotrim 100% Detskoe
 https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" tvg-logo="https://i.imgur.com/dB3cJzO.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",Smotrim 100% Fakty (1080p)
+https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" tvg-logo="https://i.imgur.com/dB3cJzO.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",Smotrim 100% Fakty (720p)
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" tvg-logo="https://i.imgur.com/dB3cJzO.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",Smotrim 100% Fakty
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+#EXTINF:-1 tvg-id="Smotrim100Gorkogo.ru" tvg-name="Smotrim 100% Gorkogo" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/126/56.jpg" tvg-country="RU" tvg-language="Russian" group-title="Movies",Smotrim 100% Gorkogo (1080p)
+https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Smotrim100k1.ru" tvg-name="Smotrim 100% k 1" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/263/96.jpg" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",Smotrim 100% k 1 (1080p)
+https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" tvg-logo="https://i.imgur.com/aASNpKq.png" tvg-country="RU" tvg-language="Russian" group-title="Movies;Classic",Smotrim 100% Klassika (1080p)
+https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" tvg-logo="https://i.imgur.com/aASNpKq.png" tvg-country="RU" tvg-language="Russian" group-title="Movies;Classic",Smotrim 100% Klassika (720p)
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" tvg-logo="https://i.imgur.com/aASNpKq.png" tvg-country="RU" tvg-language="Russian" group-title="Movies;Classic",Smotrim 100% Klassika
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru" tvg-name="Smotrim 100% Lyubov" tvg-logo="https://i.imgur.com/4EFh0nu.png" tvg-country="RU" tvg-language="Russian" group-title="Series",Smotrim 100% Lyubov (1080p)
+https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Lyubov.ru" tvg-name="Smotrim 100% Lyubov" tvg-logo="https://i.imgur.com/4EFh0nu.png" tvg-country="RU" tvg-language="Russian" group-title="Series",Smotrim 100% Lyubov (720p)
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Lyubov.ru" tvg-name="Smotrim 100% Lyubov" tvg-logo="https://i.imgur.com/4EFh0nu.png" tvg-country="RU" tvg-language="Russian" group-title="Series",Smotrim 100% Lyubov
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" tvg-logo="https://i.imgur.com/UY3fjYU.png" tvg-country="RU" tvg-language="Russian" group-title="Series",Smotrim 100% Muzhskoe (1080p)
+https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" tvg-logo="https://i.imgur.com/UY3fjYU.png" tvg-country="RU" tvg-language="Russian" group-title="Series",Smotrim 100% Muzhskoe (720p)
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" tvg-logo="https://i.imgur.com/UY3fjYU.png" tvg-country="RU" tvg-language="Russian" group-title="Series",Smotrim 100% Muzhskoe
 https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" tvg-logo="https://i.imgur.com/NEcqFse.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",Smotrim 100% Prazdnik (1080p)
+https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" tvg-logo="https://i.imgur.com/NEcqFse.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",Smotrim 100% Prazdnik (720p)
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" tvg-logo="https://i.imgur.com/NEcqFse.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",Smotrim 100% Prazdnik
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+#EXTINF:-1 tvg-id="Smotrim100Talkshow.ru" tvg-name="Smotrim 100% Talk-show" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/431/82.jpg" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",Smotrim 100% Talk-show (1080p)
+https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru" tvg-name="Smotrim Chestnyy Detektiv" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" tvg-country="RU" tvg-language="Russian" group-title="Series",Smotrim Chestnyy Detektiv (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SochiLive.ru" tvg-name="Sochi Live" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png" tvg-country="RU" tvg-language="Russian" group-title="General",Sochi Live (720p) [Not 24/7]
@@ -1979,7 +2039,7 @@ https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Strana FM" tvg-logo="https://i.imgur.com/WsPlKJJ.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Strana FM (720p) [Not 24/7]
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Strana FM" tvg-logo="https://i.imgur.com/WsPlKJJ.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Strana FM
+#EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Strana FM" tvg-logo="https://i.imgur.com/WsPlKJJ.png" tvg-country="RU" tvg-language="Russian" group-title="Music",Strana FM (720p)
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-country="RU" tvg-language="Russian" group-title="Family",STS (576p)
 http://31.148.5.241/kanal_13/index.m3u8
@@ -1998,12 +2058,12 @@ http://45.153.24.78/STS/index.m3u8
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/16.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-country="RU" tvg-language="Russian" group-title="Family",STS (576p)
+https://streaming.televizor-24-tochka.ru/live/296.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-country="RU" tvg-language="Russian" group-title="Family",STS (576p)
 http://31.148.48.15/STS/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Family",STS (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-country="RU" tvg-language="Russian" group-title="Family",STS
-https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-country="RU" tvg-language="Russian" group-title="Family",STS HD (1080p)
 http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" tvg-logo="https://i.imgur.com/o9kLpAL.png" tvg-country="RU" tvg-language="Russian" group-title="Kids",STS kids (1080p)
@@ -2043,19 +2103,19 @@ https://sitv.ru/vgtrk/stv.m3u8
 http://88.212.15.50/live/svoboda/index.m3u8
 #EXTINF:-1 tvg-id="SvoyoTV.ru" tvg-name="Svoyo TV" tvg-logo="https://i.imgur.com/3cP2fmX.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Svoyo TV (1080p)
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:-1 tvg-id="T24.ru" tvg-name="T24" tvg-logo="https://i.imgur.com/1W6R14o.png" tvg-country="RU" tvg-language="Russian" group-title="Other",T24 (1080p)
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="T24.ru" tvg-name="T24" tvg-logo="https://i.imgur.com/1W6R14o.png" tvg-country="RU" tvg-language="Russian" group-title="Other",T24 (576p)
 http://178.134.1.158:8081/t24/index.m3u8
 #EXTINF:-1 tvg-id="T24.ru" tvg-name="T24" tvg-logo="https://i.imgur.com/1W6R14o.png" tvg-country="RU" tvg-language="Russian" group-title="Other",T24 (576p)
 http://stream.mcquack.net/209/index.m3u8
 #EXTINF:-1 tvg-id="T24.ru" tvg-name="T24" tvg-logo="https://i.imgur.com/1W6R14o.png" tvg-country="RU" tvg-language="Russian" group-title="Other",T24 (576p)
 https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="T24.ru" tvg-name="T24" tvg-logo="https://i.imgur.com/1W6R14o.png" tvg-country="RU" tvg-language="Russian" group-title="Other",T24
-https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tamyr.ru" tvg-name="Tamyr" tvg-logo="https://i.imgur.com/Ia3acCB.png" tvg-country="RU" tvg-language="Bashkir" group-title="Kids",Tamyr (576p)
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-id="Tamyr.ru" tvg-name="Tamyr" tvg-logo="https://i.imgur.com/Ia3acCB.png" tvg-country="RU" tvg-language="Bashkir" group-title="Kids",Tamyr
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:-1 tvg-id="Tavriya.ru" tvg-name="Tavriya" tvg-logo="https://i.imgur.com/gqung6i.png" tvg-country="RU" tvg-language="Russian" group-title="General",Tavriya
+#EXTINF:-1 tvg-id="Tavriya.ru" tvg-name="Tavriya" tvg-logo="https://i.imgur.com/gqung6i.png" tvg-country="RU" tvg-language="Russian" group-title="General",Tavriya (576p)
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 tvg-id="Teatr.ru" tvg-name="Teatr" tvg-logo="https://i.imgur.com/nc2ijCH.png" tvg-country="RU" tvg-language="Russian" group-title="Culture",Teatr (576p)
 http://31.148.48.15/Sochi_HD/index.m3u8
@@ -2063,6 +2123,8 @@ http://31.148.48.15/Sochi_HD/index.m3u8
 http://31.148.48.15/Sochi_HD/video.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" group-title="Cooking",Telecafe (1080p)
 http://s1.merlive.am/telekafe/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" group-title="Cooking",Telecafe (1080p)
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Telecafe (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
@@ -2074,8 +2136,6 @@ http://stream.mcquack.net/314/index.m3u8
 https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" group-title="Cooking",Telecafe (576p)
 http://31.148.48.15/Telekafe/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="RU" tvg-language="Russian" group-title="Cooking",Telecafe
-https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TeleDom.ru" tvg-name="TeleDom" tvg-logo="https://i.imgur.com/071JRrb.png" tvg-country="RU" tvg-language="Russian" group-title="Other",TeleDom
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="TelekanalKrasnodar.ru" tvg-name="Telekanal Krasnodar" tvg-logo="https://i.imgur.com/YVtutzp.png" tvg-country="RU" tvg-language="Russian" group-title="General",Telekanal Krasnodar (1080p)
@@ -2116,17 +2176,17 @@ http://176.118.197.101/THT/index.m3u8
 http://flussonic.linkintel.ru/tnt/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",TNT (576p)
 http://stream.mcquack.net/135/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Entertainment",TNT (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/23.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",TNT (576p)
+https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",TNT (576p)
 http://31.148.48.15/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Entertainment",TNT (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Entertainment",TNT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.televizor-24-tochka.ru/live/23.m3u8
-#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",TNT
-https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",TNT HD (1080p)
 http://45.153.24.78/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-name="TNT International" tvg-logo="https://i.imgur.com/l0RGbRI.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",TNT International (480p)
@@ -2147,12 +2207,12 @@ http://31.148.48.15/TNT4/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-id="TNT4International.ru" tvg-name="TNT4 International" tvg-logo="https://i.imgur.com/gBokU5i.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",TNT4 International (576p)
 https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-name="TNV-Planet" tvg-logo="https://i.imgur.com/ijA1zDw.png" tvg-country="RU" tvg-language="Russian" group-title="Other",TNV-Planet (1080p)
+https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-name="TNV-Planet" tvg-logo="https://i.imgur.com/ijA1zDw.png" tvg-country="RU" tvg-language="Russian" group-title="Other",TNV-Planet (576p)
 https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-name="TNV-Planet" tvg-logo="https://i.imgur.com/ijA1zDw.png" tvg-country="RU" tvg-language="Russian" group-title="Other",TNV-Planet (576p)
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
-#EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-name="TNV-Planet" tvg-logo="https://i.imgur.com/ijA1zDw.png" tvg-country="RU" tvg-language="Russian" group-title="Other",TNV-Planet
-https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TNVTatarstan.ru" tvg-name="TNV-Tatarstan" tvg-logo="https://i.imgur.com/58u9TQT.png" tvg-country="RU" tvg-language="Russian" group-title="Other",TNV-Tatarstan (720p)
 https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 #EXTINF:-1 tvg-id="Tochkaotryva.ru" tvg-name="Tochka otryva" tvg-logo="https://tv-stream.ru/uploads/Tochka_Otriva_c4317672bb.svg" tvg-country="RU" tvg-language="Russian" group-title="Other",Tochka otryva (576p)
@@ -2203,15 +2263,15 @@ https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" tvg-country="RU" tvg-language="Russian" group-title="Other",TV Centr (576p)
 http://185.71.81.6:8080/10/index.m3u8
-#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Other",TV Centr (450p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" tvg-country="RU" tvg-language="Russian" group-title="Other",TV Centr
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Other",TV Centr
+#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Other",TV Centr (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/13.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" tvg-country="RU" tvg-language="Russian" group-title="Other",TV Centr (480p)
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Other",TV Centr (450p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="TVCentrInternational.ru" tvg-name="TV Centr International" tvg-logo="https://i.imgur.com/tsCOnBW.png" tvg-country="RU" tvg-language="Russian" group-title="Other",TV Centr International (576p)
 https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVPRO.ru" tvg-name="TV PRO" tvg-logo="https://i.imgur.com/sbuSefI.png" tvg-country="RU" tvg-language="Russian" group-title="Other",TV PRO
@@ -2222,13 +2282,13 @@ http://31.148.5.241/kanal_15/index.m3u8
 http://176.118.197.101/TB3/index.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" tvg-logo="https://i.imgur.com/JLAvq8O.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",TV-3 (576p)
 http://flussonic.linkintel.ru/tv-3/index.m3u8
-#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" tvg-logo="https://i.imgur.com/JLAvq8O.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Entertainment",TV-3 (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" tvg-logo="https://i.imgur.com/JLAvq8O.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Entertainment",TV-3
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" tvg-logo="https://i.imgur.com/JLAvq8O.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Entertainment",TV-3 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/18.m3u8
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" tvg-logo="https://i.imgur.com/JLAvq8O.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Entertainment",TV-3 (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" tvg-logo="https://i.imgur.com/JLAvq8O.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",TV-3 Belarus (576p)
 http://178.124.179.122:8080/TB-3/index.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" tvg-logo="https://i.imgur.com/JLAvq8O.png" tvg-country="RU" tvg-language="Russian" group-title="Entertainment",TV-3 HD (1080p)
@@ -2313,51 +2373,61 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju Explore (576p)
 http://46.53.200.153:7777/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju Explore (576p)
+http://116.90.120.149:8000/play/a0ar/index.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju Explore (576p)
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju Explore (576p)
 https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju History (576p)
 http://46.53.200.153:7777/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju History (576p)
+http://116.90.120.149:8000/play/a0as/index.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju History (576p)
 http://178.124.179.122:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju History (576p)
 http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju History (576p)
 https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju Nature (1080p)
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju Nature (576p)
 http://46.53.200.153:7777/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju Nature (576p)
+http://116.90.120.149:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju Nature (576p)
 https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Documentary",viju Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 (576p)
 http://46.53.200.153:7777/play/TV_1000/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 (576p)
+http://116.90.120.149:8000/play/a0ap/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 (576p)
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 (576p)
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" tvg-logo="https://i.imgur.com/TMmyuzh.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 action (1080p)
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" tvg-logo="https://i.imgur.com/TMmyuzh.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 action (576p)
 http://46.53.200.153:7777/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" tvg-logo="https://i.imgur.com/TMmyuzh.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 action (576p)
+http://116.90.120.149:8000/play/a0aq/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" tvg-logo="https://i.imgur.com/TMmyuzh.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 action (576p)
 http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" tvg-logo="https://i.imgur.com/TMmyuzh.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 action (576p)
 https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" tvg-logo="https://i.imgur.com/TMmyuzh.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 action
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000novella.ru" tvg-name="viju TV1000 novella" tvg-logo="https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 novella HD (1080p)
 http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000romantica.ru" tvg-name="viju TV1000 romantica" tvg-logo="https://rnnxdki1nv.a.trbcdn.net/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/flo59mr6lh1jf68g3021urgwtd5k" tvg-country="RU" tvg-language="Russian" group-title="Series",viju TV1000 romantica HD (1080p)
 http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" tvg-logo="https://i.imgur.com/Meak2y4.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 russkoe (1080p)
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" tvg-logo="https://i.imgur.com/Meak2y4.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 russkoe (1080p)
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" tvg-logo="https://i.imgur.com/Meak2y4.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 russkoe (576p)
 http://46.53.200.153:7777/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" tvg-logo="https://i.imgur.com/Meak2y4.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 russkoe (576p)
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" tvg-logo="https://i.imgur.com/Meak2y4.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 russkoe (576p)
 http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
-#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" tvg-logo="https://i.imgur.com/Meak2y4.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 russkoe
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" tvg-logo="https://i.imgur.com/Meak2y4.png" tvg-country="RU" tvg-language="Russian" group-title="Movies",viju TV1000 russkoe
-https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="viju+ Comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-country="RU" tvg-language="Russian" group-title="Comedy",viju+ Comedy HD (1080p)
 http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="viju+ Comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-country="RU" tvg-language="Russian" group-title="Comedy",viju+ Comedy HD (1080p)
@@ -2376,16 +2446,18 @@ http://stream.mcquack.net/202/index.m3u8
 http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSerial.ru" tvg-name="viju+ Serial" tvg-logo="https://i.imgur.com/8yXZET5.png" tvg-country="RU" tvg-language="Russian" group-title="Series",viju+ Serial HD (1080p)
 http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",viju+ Sport (1080p)
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",viju+ Sport (576p)
 http://31.148.5.241/Viasat_Sport/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",viju+ Sport (576p)
 http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",viju+ Sport (576p)
+http://116.90.120.149:8000/play/a0au/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",viju+ Sport (576p)
 http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",viju+ Sport (576p)
 https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",viju+ Sport
-https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",viju+ Sport HD (1080p)
 http://46.53.200.153:7777/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="VitalDrive.ru" tvg-name="Vital Drive" tvg-logo="https://i.imgur.com/XoR9zLh.png" tvg-country="RU" tvg-language="Russian" group-title="Sports",Vital Drive
@@ -2436,12 +2508,12 @@ http://195.26.83.96:7029/play/a006
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 #EXTINF:-1 tvg-id="Yuvelirochka.ru" tvg-name="Yuvelirochka" tvg-logo="https://i.imgur.com/IcWtXCZ.png" tvg-country="RU" tvg-language="Russian" group-title="Shop",Yuvelirochka (576p)
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 tvg-id="ZaTV.ru" tvg-name="Za! TV" tvg-logo="https://i.imgur.com/pVPTl8J.png" tvg-country="RU" tvg-language="Russian;Ukrainian" group-title="General",Za! TV
+#EXTINF:-1 tvg-id="ZaTV.ru" tvg-name="Za! TV" tvg-logo="https://i.imgur.com/pVPTl8J.png" tvg-country="RU" tvg-language="Russian;Ukrainian" group-title="General",Za! TV (576p)
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
+#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru" tvg-name="Zagorodnaya Zhizn" tvg-logo="https://i.imgur.com/RoYd5pz.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Zagorodnaya Zhizn (1080p)
+https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru" tvg-name="Zagorodnaya Zhizn" tvg-logo="https://i.imgur.com/RoYd5pz.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Zagorodnaya Zhizn (576p)
 http://185.57.68.33/40/index.m3u8
-#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru" tvg-name="Zagorodnaya Zhizn" tvg-logo="https://i.imgur.com/RoYd5pz.png" tvg-country="RU" tvg-language="Russian" group-title="Other",Zagorodnaya Zhizn
-https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zapad24.ru" tvg-name="Zapad 24" tvg-logo="https://i.imgur.com/HerCP0u.png" tvg-country="RU" tvg-language="Russian" group-title="General",Zapad 24 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 tvg-id="ZdorovoeTV.ru" tvg-name="Zdorovoe TV" tvg-logo="https://i.imgur.com/jedtE5l.png" tvg-country="RU" tvg-language="Russian" group-title="Lifestyle",Zdorovoe TV (576p)
@@ -2470,25 +2542,25 @@ https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" group-title="General",Zvezda (1080p)
 http://51.158.144.33:2021/zvezda/index.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" group-title="General",Zvezda (1080p)
+https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" group-title="General",Zvezda (576p)
 http://31.148.5.241/kanal_17/index.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" group-title="General",Zvezda (576p)
 http://flussonic.linkintel.ru/zvezda/index.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" group-title="General",Zvezda (576p)
 https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="General",Zvezda (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/21.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" group-title="General",Zvezda (576p)
+https://streaming.televizor-24-tochka.ru/live/748.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" group-title="General",Zvezda (576p)
 http://31.148.48.15/Zvezda/index.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="General",Zvezda (450p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" group-title="General",Zvezda
-https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="General",Zvezda
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.televizor-24-tochka.ru/live/21.m3u8
-#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" group-title="General",Zvezda
-https://streaming.televizor-24-tochka.ru/live/748.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" group-title="General",Zvezda HD (1080p) [Not 24/7]
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-country="RU" tvg-language="Russian" group-title="General",Zvezda HD (1080p)

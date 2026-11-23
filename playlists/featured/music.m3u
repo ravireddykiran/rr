@@ -11,8 +11,6 @@ https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 #EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/960px-MTV_Classic_US.svg.png" tvg-country="US" tvg-language="Spanish" group-title="Music",MTV Classic LatAm (720p)
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/3UByLqb.png" tvg-country="US" tvg-language="English" group-title="Music",MTV Live (720p)
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="Music",MTV Biggest Pop (1080p)
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="Music",MTV Biggest Pop BR (1080p)
@@ -33,10 +31,6 @@ https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
 #EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-country="FR" tvg-language="French" group-title="Entertainment",MTV (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" http-referrer="https://bhoomtv.org/" group-title="Entertainment",MTV (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (396p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
@@ -44,6 +38,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" http-referrer="https://bhoomtv.org/" group-title="Entertainment",MTV International (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-id="MTVCLASSICS.de" tvg-name="MTV CLASSICS" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoSVG.svg" tvg-country="DE" tvg-language="French" group-title="Entertainment",MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="https://i.imgur.com/S7DOpdY.png" tvg-country="US" tvg-language="English" group-title="Music",CMT (720p)
@@ -109,9 +107,13 @@ https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="BestofDanceTV.ee" tvg-name="Best of Dance TV" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" tvg-country="EE" tvg-language="English" group-title="Music",Best of Dance TV (1080p)
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africa" tvg-logo="https://i.imgur.com/kPUkoS7.png" tvg-country="FR" tvg-language="English;French" group-title="Music",Trace Africa (1080p)
+#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africa" tvg-logo="https://i.imgur.com/kPUkoS7.png" tvg-country="FR" tvg-language="English;French" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" http-referrer="https://trace.plus" group-title="Music",Trace Africa (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-country="FR" tvg-language="French" group-title="Music",Trace Latina (1080p)
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-country="FR" tvg-language="French" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" http-referrer="https://trace.plus" group-title="Music",Trace Latina (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-country="FR" tvg-language="French" group-title="Music",Trace Latina (1080p) [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
@@ -123,13 +125,21 @@ https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-country="FR" tvg-language="French" group-title="Music",Trace Latina (576p)
 https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8
-#EXTINF:-1 tvg-id="TraceNaija.fr" tvg-name="Trace Naija" tvg-logo="https://i.imgur.com/Rguekcp.png" tvg-country="FR" tvg-language="English" group-title="Music",Trace Naija (1080p)
+#EXTINF:-1 tvg-id="TraceNaija.fr" tvg-name="Trace Naija" tvg-logo="https://i.imgur.com/Rguekcp.png" tvg-country="FR" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" http-referrer="https://trace.plus" group-title="Music",Trace Naija (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-country="FR" tvg-language="French" group-title="Music;Religious",Trace Gospel (1080p)
+#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-country="FR" tvg-language="French" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" http-referrer="https://trace.plus" group-title="Music;Religious",Trace Gospel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-country="FR" tvg-language="English" group-title="Music;Religious",Trace Gospel Nigeria and East Africa (1080p)
+#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-country="FR" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" http-referrer="https://trace.plus" group-title="Music;Religious",Trace Gospel Nigeria and East Africa (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-country="FR" tvg-language="French" group-title="Music;Religious",Trace Gospel Southern Africa (1080p)
+#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-country="FR" tvg-language="French" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" http-referrer="https://trace.plus" group-title="Music;Religious",Trace Gospel Southern Africa (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-name="Afrobeat TV Entertainment" tvg-logo="https://i.imgur.com/232ndRK.png" tvg-country="UK" tvg-language="English" group-title="Music",Afrobeat TV Entertainment (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8

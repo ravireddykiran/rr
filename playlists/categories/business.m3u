@@ -52,6 +52,8 @@ https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
 https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg Originals (1080p)
 https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg Originals (1080p)
+https://2fa38f3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQmxvb21iZXJnT3JpZ2luYWxzLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg Originals SD (1080p)
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" http-referrer="https://www.bloomberg.com/originals" group-title="United States",Bloomberg Originals SD (1080p)
@@ -114,7 +116,7 @@ https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-name="Bloomberg TV Mongolia" tvg-logo="https://www.mongolsat.mn/assets/img/channel/44.png" tvg-country="MN" tvg-language="Mongolian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Mongolia",Bloomberg TV Mongolia (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
-#EXTINF:-1 tvg-id="BMGTV.ge" tvg-name="BMG TV" tvg-logo="https://i.imgur.com/vGLkTPA.png" tvg-country="GE" tvg-language="Georgian" group-title="Georgia",BMG TV
+#EXTINF:-1 tvg-id="BMGTV.ge" tvg-name="BMG TV" tvg-logo="https://i.imgur.com/vGLkTPA.png" tvg-country="GE" tvg-language="Georgian" group-title="Georgia",BMG TV (1080p)
 https://tv.nucast.tv/lb/ge/bmg/index.m3u8
 #EXTINF:-1 tvg-id="BNNBloomberg.ca" tvg-name="BNN Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png" tvg-country="CA" tvg-language="English" group-title="Canada",BNN Bloomberg
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
@@ -165,7 +167,7 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk" tvg-name="CNBC UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",CNBC UK (1080p)
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CNBC-e_2025.svg/960px-CNBC-e_2025.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",CNBC-e
+#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CNBC-e_2025.svg/960px-CNBC-e_2025.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",CNBC-e (1080p)
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="DeFianceMedia.pr" tvg-name="DeFiance Media" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698943bac4421ebc533695/images/logo_20231219_193005_68.png" tvg-country="PR" tvg-language="English" group-title="Puerto Rico",DeFiance Media (1080p)
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
@@ -193,6 +195,10 @@ http://103.253.74.210:7070/stream/125/index.m3u8
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" tvg-name="Hong Kong International Business Channel" tvg-logo="https://i.imgur.com/jaIdkbz.png" tvg-country="HK" tvg-language="Chinese;English" group-title="Hong Kong",Hong Kong International Business Channel [Geo-blocked]
 https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
+#EXTINF:-1 tvg-id="IDXChannel.id" tvg-name="IDX Channel" tvg-logo="https://i.imgur.com/xPvrcsr.png" tvg-country="ID" tvg-language="Indonesian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" http-referrer="https://www.visionplus.id/" group-title="Indonesia",IDX Channel (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/idx/index.m3u8
 #EXTINF:-1 tvg-id="JiangxiEconomyLifeChannel.cn" tvg-name="Jiangxi Economy & Life Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv3.jpg" tvg-country="CN" tvg-language="Chinese" group-title="China",Jiangxi Economy & Life Channel
 https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
 #EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="https://i.imgur.com/UzcZNe3.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",JOB TV (1080p)
@@ -227,6 +233,8 @@ https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
 #EXTINF:-1 tvg-id="QBC.qa" tvg-name="QBC" tvg-logo="https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg" tvg-country="QA" tvg-language="Arabic" group-title="Qatar",QBC (1080p)
 https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RBK-TV (1080p)
+http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RBK-TV (576p)
 http://176.118.197.101/RBK/index.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RBK-TV (576p)
@@ -237,8 +245,6 @@ https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 http://31.148.48.15/RBK/index.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RBK-TV (560p)
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RBK-TV
-http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 tvg-id="SchwabNetwork.us" tvg-name="Schwab Network" tvg-logo="https://i.imgur.com/zmQnKV6.png" tvg-country="US" tvg-language="English" group-title="United States",Schwab Network (1080p)
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 #EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-name="Telewizja Biznesowa" tvg-logo="https://i.imgur.com/XC7i7ZL.png" tvg-country="PL" tvg-language="Polish" group-title="Poland",Telewizja Biznesowa (1080p)

@@ -75,14 +75,14 @@ https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 #EXTINF:-1 tvg-id="NickelodeonCIS.kz" tvg-name="Nickelodeon CIS" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="KZ" tvg-language="Russian" group-title="Kids",Nickelodeon CIS (1080p)
 https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" tvg-logo="https://i.imgur.com/mmKWrWs.png" tvg-country="KZ" tvg-language="Kazakh" group-title="General",Novoe televidenie (720p)
+https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" tvg-logo="https://i.imgur.com/mmKWrWs.png" tvg-country="KZ" tvg-language="Kazakh" group-title="General",Novoe televidenie (576p)
 https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" tvg-logo="https://i.imgur.com/mmKWrWs.png" tvg-country="KZ" tvg-language="Kazakh" group-title="General",Novoe televidenie (576p) [Not 24/7]
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" tvg-logo="https://i.imgur.com/mmKWrWs.png" tvg-country="KZ" tvg-language="Kazakh" group-title="General",Novoe televidenie
 http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?authid=0&key=txiptv&playlive=0
-#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" tvg-logo="https://i.imgur.com/mmKWrWs.png" tvg-country="KZ" tvg-language="Kazakh" group-title="General",Novoe televidenie
-https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:-1 tvg-id="NTK.kz" tvg-name="NTK" tvg-logo="https://i.imgur.com/hHSCH4L.png" tvg-country="KZ" tvg-language="Kazakh;Russian" group-title="General",NTK (576p)
 http://stream.mcquack.net/389/index.m3u8
 #EXTINF:-1 tvg-id="NTK.kz" tvg-name="NTK" tvg-logo="https://i.imgur.com/hHSCH4L.png" tvg-country="KZ" tvg-language="Kazakh;Russian" group-title="General",NTK (576p)
@@ -101,7 +101,7 @@ http://120.70.60.179:9901/tsfile/live/1011_1.m3u8?authid=0&key=txiptv&playlive=0
 http://stream.mcquack.net/71/index.m3u8
 #EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-name="Qazaqstan" tvg-logo="https://i.imgur.com/oI8g396.png" tvg-country="KZ" tvg-language="Kazakh" group-title="General",Qazaqstan HD (1080p) [Not 24/7]
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
-#EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" tvg-country="KZ" tvg-language="English;Russian;Kazakh" group-title="General",Qazaqstan International
+#EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" tvg-country="KZ" tvg-language="English;Russian;Kazakh" group-title="General",Qazaqstan International (1080p)
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="QazSport.kz" tvg-name="QazSport" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" tvg-country="KZ" tvg-language="Kazakh" group-title="Sports",QazSport (1080p)
 http://stream.mcquack.net/72/index.m3u8
@@ -130,9 +130,9 @@ https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
 #EXTINF:-1 tvg-id="SportPlusQazaqstan.kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://i.imgur.com/vIV7x6n.png" tvg-country="KZ" tvg-language="Kazakh" group-title="Sports",Sport+ Qazaqstan (1080p)
 https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="TDK42.kz" tvg-name="TDK 42" tvg-logo="https://i.imgur.com/iVhdcS7.png" tvg-country="KZ" tvg-language="Russian" group-title="Other",TDK 42
+#EXTINF:-1 tvg-id="TDK42.kz" tvg-name="TDK 42" tvg-logo="https://i.imgur.com/iVhdcS7.png" tvg-country="KZ" tvg-language="Russian" group-title="Other",TDK 42 (720p)
 https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TuranTV.kz" tvg-name="Turan TV" tvg-logo="https://i.imgur.com/VagTPMo.png" tvg-country="KZ" tvg-language="Kazakh" group-title="Other",Turan TV (576p)
 https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Ulytau.kz" tvg-name="Ulytau" tvg-logo="https://i.imgur.com/jTL6TvC.png" tvg-country="KZ" tvg-language="Kazakh;Russian" group-title="General",Ulytau
+#EXTINF:-1 tvg-id="Ulytau.kz" tvg-name="Ulytau" tvg-logo="https://i.imgur.com/jTL6TvC.png" tvg-country="KZ" tvg-language="Kazakh;Russian" group-title="General",Ulytau (720p)
 https://ulytau.tv/hls/master.m3u8

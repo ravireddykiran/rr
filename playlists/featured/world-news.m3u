@@ -72,8 +72,8 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" tvg-logo="https://i.imgur.com/ScyTG6P.png" tvg-country="UK" tvg-language="Arabic" group-title="News",BBC Arabic (540p)
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-country="CN" tvg-language="Arabic" group-title="News",CGTN Arabic (1080p) [Not 24/7]
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-country="CN" tvg-language="Arabic" group-title="News",CGTN Arabic (1080p)
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-country="CN" tvg-language="Arabic" group-title="News",CGTN Arabic (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-country="CN" tvg-language="Arabic" group-title="News",CGTN Arabic
@@ -237,12 +237,12 @@ https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews Portuguese" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73b5e777-8a44-4def-8e33-be43f7f8177c/Logo_Euronews_stacked_white_on_portuguese_1500x1000rdxWHITE.png" tvg-country="FR" tvg-language="Portuguese" group-title="News",Euronews Portuguese (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="Russian" group-title="News",Euronews Russian (1080p)
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="Russian" group-title="News",Euronews Russian (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="Russian" group-title="News",Euronews Russian (576p)
 http://tmptv.sunduk.tv/CH31/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="Russian" group-title="News",Euronews Russian
-https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EuronewsGreek.fr" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="Greek" group-title="News",Euronews Greek (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-name="Euronews Hungarian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="Hungarian" group-title="News",Euronews Hungarian (720p)
@@ -257,8 +257,8 @@ http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L4/b21193ce/2ee2c40a.isml/.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-country="FR" tvg-language="French" group-title="News",TV5Monde Info (720p)
 https://tvf-tvfm.otteravision.com/tvf/tvfm/tvfm_720.m3u8
-#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-country="CN" tvg-language="French" group-title="News",CGTN French (1080p) [Not 24/7]
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-country="CN" tvg-language="French" group-title="News",CGTN French (1080p)
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-country="CN" tvg-language="French" group-title="News",CGTN French (1080p)
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-country="CN" tvg-language="French" group-title="News",CGTN French (576p) [Not 24/7]
@@ -268,7 +268,7 @@ https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-country="CN" tvg-language="French" group-title="News",CGTN French
 https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-country="CN" tvg-language="Spanish" group-title="News",CGTN Spanish (1080p)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-country="CN" tvg-language="Spanish" group-title="News",CGTN Spanish (1080p)
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-country="CN" tvg-language="Spanish" group-title="News",CGTN Spanish (720p)
@@ -282,7 +282,7 @@ https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-country="CN" tvg-language="Spanish" group-title="News",CGTN Spanish
 https://h5cul1yar48um3t.wcetv.com/hls/cgtne.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-country="CN" tvg-language="Russian" group-title="News",CGTN Russian (1080p)
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-country="CN" tvg-language="Russian" group-title="News",CGTN Russian (576p)
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-country="CN" tvg-language="Russian" group-title="News",CGTN Russian
@@ -370,8 +370,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
 http://31.148.48.15/RT_HD/index.m3u8
 #EXTINF:-1 tvg-id="RT.ru" tvg-name="RT" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RT/images/LOGO_HD/image.png" tvg-country="RU" tvg-language="English" group-title="News",RT HD (1080p)
 https://wisewatchoott.wiseplayout.com/RT/master.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="General",NTV
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="General",NTV (1080p)
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTV (1080p)
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTV (576p)
 http://31.148.5.241/kanal_4/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTV (576p)
@@ -389,8 +391,6 @@ http://31.148.48.15/NTV/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="General",NTV (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTV
-https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTV +1 (576p)
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-country="RU" tvg-language="Russian" group-title="General",NTV +2 (576p)
@@ -470,6 +470,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://cdn.pishow.tv/ott/live/299/master.m3u8
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="News",NDTV India (576p)
 https://mumt03.tangotv.in/Dsly5z3HNDTVINDIA/index.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="News",NDTV India (576p)
+https://samitaorigin.tangotv.in/NDTVINDIA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="News",NDTV India (480p) [Not 24/7]
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_BHARATVARSH/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="News",TV9 Bharatvarsh (1080p)

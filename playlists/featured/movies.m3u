@@ -29,6 +29,8 @@ https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/PHBgi3h.png" tvg-country="US" tvg-language="English" group-title="Movies",MovieSphere (1080p) [Geo-blocked]
 https://pb-wmei1j77c66s0.akamaized.net/MovieSphere.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/PHBgi3h.png" tvg-country="US" tvg-language="English" group-title="Movies",MovieSphere (1080p) [Geo-blocked]
+https://amg00353-lionsgatestudios-amg00353c2-vizio-us-801.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/PHBgi3h.png" tvg-country="US" tvg-language="English" group-title="Movies",MovieSphere (1080p)
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/PHBgi3h.png" tvg-country="US" tvg-language="English" group-title="Movies",MovieSphere (720p)
@@ -77,6 +79,8 @@ https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" tvg-country="US" tvg-language="English" group-title="Movies",Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" tvg-country="US" tvg-language="English" group-title="Movies",Maverick Black Cinema (1080p)
+https://wurlmaverickentertainment.global.transmit.live/hls/699df6f877454f2624d7653d/playlist.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" tvg-country="US" tvg-language="English" group-title="Movies",Maverick Black Cinema (720p)
 https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" tvg-country="US" tvg-language="English" group-title="Movies",Maverick Black Cinema (720p)
@@ -137,6 +141,8 @@ https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/a
 https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" tvg-country="US" tvg-language="English" group-title="Movies;Series",Ebony TV by Lionsgate (1080p)
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" tvg-country="US" tvg-language="English" group-title="Movies;Series",Ebony TV by Lionsgate (1080p) [Geo-blocked]
+https://amg00353-lionsgatestudios-amg00353c12-vizio-us-1086.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" tvg-country="US" tvg-language="English" group-title="Movies;Series",Ebony TV by Lionsgate (1080p) [Geo-blocked]
 https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
 #EXTINF:-1 tvg-id="BETCinema.us" tvg-name="BET Cinema" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoSVG_1759338288304.svg" tvg-country="US" tvg-language="English" group-title="Movies",BET Cinema

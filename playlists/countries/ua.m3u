@@ -189,6 +189,9 @@ http://stream.mcquack.net/147/index.m3u8
 http://stream.mcquack.net/174/index.m3u8
 #EXTINF:-1 tvg-id="InterPlus.ua" tvg-name="Inter+" tvg-logo="https://i.imgur.com/Y392Hh4.png" tvg-country="UA" tvg-language="Ukrainian" group-title="General",Inter+ (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="InterPlus.ua" tvg-name="Inter+" tvg-logo="https://i.imgur.com/Y392Hh4.png" tvg-country="UA" tvg-language="Russian;Ukrainian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="General",Inter+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h305/stream.m3u8
 #EXTINF:-1 tvg-id="IRT.ua" tvg-name="IRT" tvg-logo="https://i.imgur.com/tDTUIRm.png" tvg-country="UA" tvg-language="Ukrainian" group-title="General",IRT (720p)
 https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
 #EXTINF:-1 tvg-id="Islandia.ua" tvg-name="Islandia" tvg-logo="https://i.imgur.com/9ql4jXv.png" tvg-country="UA" tvg-language="Ukrainian" group-title="Other",Islandia (720p)
@@ -229,7 +232,7 @@ https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="Lale.ua" tvg-name="Lale" tvg-logo="https://i.imgur.com/CNhqVHd.png" tvg-country="UA" tvg-language="Ukrainian" http-user-agent="curl/8.16.0" group-title="Kids",Lale
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
-#EXTINF:-1 tvg-id="Lugansk24.ua" tvg-name="Lugansk 24" tvg-logo="https://i.imgur.com/AihoVc0.png" tvg-country="UA" tvg-language="Russian" group-title="General",Lugansk 24
+#EXTINF:-1 tvg-id="Lugansk24.ua" tvg-name="Lugansk 24" tvg-logo="https://i.imgur.com/AihoVc0.png" tvg-country="UA" tvg-language="Russian" group-title="General",Lugansk 24 (576p)
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-id="LuxTV.ua" tvg-name="Lux TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Lux_TV_2.png" tvg-country="UA" tvg-language="Ukrainian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" http-referrer="http://live.tvstitch.com/" group-title="General",Lux TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36

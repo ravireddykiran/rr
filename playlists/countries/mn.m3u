@@ -89,7 +89,7 @@ https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
 #EXTINF:-1 tvg-id="MalchinTV.mn" tvg-name="Malchin TV" tvg-logo="https://www.mongolsat.mn/assets/img/channel/12.png" tvg-country="MN" tvg-language="Mongolian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Culture",Malchin TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
-#EXTINF:-1 tvg-id="MNPlus.mn" tvg-name="MN+" tvg-logo="https://new.skytel.mn/uploads/channel/mn-676145a957d06.jpeg" tvg-country="MN" tvg-language="Mongolian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies",MN+
+#EXTINF:-1 tvg-id="MNPlus.mn" tvg-name="MN+" tvg-logo="https://new.skytel.mn/uploads/channel/mn-676145a957d06.jpeg" tvg-country="MN" tvg-language="Mongolian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies",MN+ (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
 #EXTINF:-1 tvg-id="MNB.mn" tvg-name="MNB" tvg-logo="https://i.imgur.com/RdRd0to.png" tvg-country="MN" tvg-language="Mongolian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MNB (1080p)

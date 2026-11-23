@@ -28,6 +28,10 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/960px-Destination_America_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Destination America (720p)
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-country="PK" tvg-language="Urdu" group-title="Pakistan",Discover Pakistan (1080p)
+http://116.90.120.149:8000/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-country="PK" tvg-language="Urdu" group-title="Pakistan",Discover Pakistan (1080p)
+http://116.90.120.149:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-country="PK" tvg-language="Urdu" group-title="Pakistan",Discover Pakistan (1080p)
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-country="PK" tvg-language="Urdu" group-title="Pakistan",Discover Pakistan
 http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B
@@ -45,6 +49,12 @@ https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 http://104.143.4.5:2080/funroads.m3u8
 #EXTINF:-1 tvg-id="GlazamiTurista.ru" tvg-name="Glazami Turista" tvg-logo="https://i.imgur.com/GXJKWdy.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Glazami Turista (576i)
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="GlobalTrekker.sg" tvg-name="Global Trekker" tvg-logo="https://i.imgur.com/5nlmJIw.png" tvg-country="SG" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" http-referrer="https://www.visionplus.id/" group-title="Singapore",Global Trekker (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8
+#EXTINF:-1 tvg-id="GoTraveler.us" tvg-name="GoTraveler" tvg-logo="https://i.imgur.com/IaRcN1G.png" tvg-country="US" tvg-language="English" group-title="United States",GoTraveler (1080p) [Geo-blocked]
+https://amg09501-questar-amg09501c1-vizio-us-2907.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="GoTraveler.us" tvg-name="GoTraveler" tvg-logo="https://i.imgur.com/IaRcN1G.png" tvg-country="US" tvg-language="English" group-title="United States",GoTraveler (720p) [Geo-blocked]
 https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 #EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn" tvg-name="Guangxi Variety & Travel Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/gxzypd.jpg" tvg-country="CN" tvg-language="Chinese" group-title="China",Guangxi Variety & Travel Channel

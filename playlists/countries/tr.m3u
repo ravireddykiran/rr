@@ -45,6 +45,8 @@ https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" tvg-country="TR" tvg-language="Turkish" group-title="Other",ATV Avrupa (576p)
 https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
+#EXTINF:-1 tvg-id="beINSports1Turk.tr" tvg-name="beIN Sports 1 Turk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" tvg-country="TR" tvg-language="Turkish" group-title="Sports",beIN Sports 1 Turk (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad
 #EXTINF:-1 tvg-id="beINSports1Turk.tr" tvg-name="beIN Sports 1 Turk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" tvg-country="TR" tvg-language="Turkish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",beIN Sports 1 Turk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://57.129.0.61:1990/stream/117/index.m3u8
@@ -78,7 +80,7 @@ https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-name="Ciftci TV" tvg-logo="https://i.imgur.com/CLzP4vL.png" tvg-country="TR" tvg-language="Turkish" group-title="Education;Culture",Ciftci TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CNBC-e_2025.svg/960px-CNBC-e_2025.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Business;Series",CNBC-e
+#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CNBC-e_2025.svg/960px-CNBC-e_2025.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Business;Series",CNBC-e (1080p)
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Turk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/960px-CNN_T%C3%BCrk_logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="News",CNN Turk (1080p)
 http://85.117.61.84/cnnturk/index.m3u8
@@ -118,7 +120,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr" tvg-name="Finans Turk TV" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" tvg-country="TR" tvg-language="Turkish" group-title="News",Finans Turk TV (720p)
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-#EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-name="Flash Haber TV" tvg-country="TR" tvg-language="Turkish" group-title="News",Flash Haber TV
+#EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-name="Flash Haber TV" tvg-country="TR" tvg-language="Turkish" group-title="News",Flash Haber TV (1080p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.tr" tvg-name="Fortuna TV" tvg-logo="https://i.imgur.com/ZbUSlOC.png" tvg-country="TR" group-title="Lifestyle",Fortuna TV (1080p)
 https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
@@ -320,7 +322,7 @@ http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://i.imgur.com/5EYjWK7.png" tvg-country="TR" tvg-language="Turkish" group-title="Entertainment",NOW (720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="General",NTV
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="General",NTV (1080p)
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 tvg-id="Number1Ask.tr" tvg-name="Number 1 Ask" tvg-logo="https://i.imgur.com/slwbux7.png" tvg-country="TR" tvg-language="Turkish" group-title="Music",Number 1 Ask (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
@@ -392,7 +394,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://i.imgur.com/PrxwKDw.png" tvg-country="TR" tvg-language="Turkish" group-title="News",TGRT Haber (360p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" tvg-logo="https://i.imgur.com/u02FSgI.png" tvg-country="TR" tvg-language="Arabic" group-title="Religious",Thaqalayn TV
+#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" tvg-logo="https://i.imgur.com/u02FSgI.png" tvg-country="TR" tvg-language="Arabic" group-title="Religious",Thaqalayn TV (480p)
 http://62.60.207.173:8080/hls/thaqalayn/index.m3u8
 #EXTINF:-1 tvg-id="Tivi6.tr" tvg-name="Tivi 6" tvg-logo="https://i.imgur.com/Mbi0jbz.png" tvg-country="TR" tvg-language="Turkish" group-title="General",Tivi 6 (720p)
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
@@ -406,6 +408,8 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.imgur.com/iOCQdyD.png" tvg-country="TR" tvg-language="Turkish" group-title="Other",TRT 2 (1440p) [Geo-blocked]
 https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT3.tr" tvg-name="TRT 3" tvg-logo="https://i.imgur.com/JrWFwBd.png" tvg-country="TR" tvg-language="Turkish" group-title="Other",TRT 3 (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F418740351278f04c94b243
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-name="TRT 3" tvg-logo="https://i.imgur.com/JrWFwBd.png" tvg-country="TR" tvg-language="Turkish" group-title="Other",TRT 3 (720p)
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/dEfI2M9.png" tvg-country="TR" tvg-language="Arabic;Turkish" group-title="News",TRT Arabi (1080p) [Not 24/7]
@@ -430,10 +434,10 @@ https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" tvg-country="TR" tvg-language="Kurdish;Dimili" group-title="Other",TRT Kurdi (720p)
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" tvg-logo="https://i.imgur.com/JgUzRH8.png" tvg-country="TR" tvg-language="Turkish" group-title="Music",TRT Muzik (1080p)
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" tvg-logo="https://i.imgur.com/JgUzRH8.png" tvg-country="TR" tvg-language="Turkish" group-title="Music",TRT Muzik (720p)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" tvg-logo="https://i.imgur.com/JgUzRH8.png" tvg-country="TR" tvg-language="Turkish" group-title="Music",TRT Muzik
-https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.imgur.com/6tv0zxh.png" tvg-country="TR" tvg-language="Turkish" group-title="Sports",TRT Spor (720p)
 https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT Spor Yildiz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Sports",TRT Spor Yildiz (1440p) [Geo-blocked]
@@ -483,7 +487,7 @@ https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 http://217.174.229.138:8000/play/a0el
 #EXTINF:-1 tvg-id="UrfaNatikTV.tr" tvg-name="Urfa Natik TV" tvg-logo="https://i.imgur.com/8KO0uxn.png" tvg-country="TR" tvg-language="Turkish" group-title="Other",Urfa Natik TV (720p)
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:-1 tvg-id="Van65TV.tr" tvg-name="Van 65 TV" tvg-logo="https://van65tv.com/assets/images/logo/logo.png" tvg-country="TR" tvg-language="Turkish" group-title="General",Van 65 TV
+#EXTINF:-1 tvg-id="Van65TV.tr" tvg-name="Van 65 TV" tvg-logo="https://van65tv.com/assets/images/logo/logo.png" tvg-country="TR" tvg-language="Turkish" group-title="General",Van 65 TV (720p)
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr" tvg-name="Vav TV" tvg-logo="https://i.imgur.com/jw0gB8L.png" tvg-country="TR" tvg-language="Turkish" group-title="Other",Vav TV (1080p)
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8

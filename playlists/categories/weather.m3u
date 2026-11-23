@@ -8,6 +8,8 @@ https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-country="US" tvg-language="English" group-title="United States",AccuWeather NOW (1080p)
 https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-country="US" tvg-language="English" group-title="United States",AccuWeather NOW (1080p) [Geo-blocked]
+https://amg00684-amg00684c1-vizio-us-7303.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-country="US" tvg-language="English" group-title="United States",AccuWeather NOW (1080p) [Geo-blocked]
 https://accuweather-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlabamaWeatherNetwork.us" tvg-name="Alabama Weather Network" tvg-country="US" tvg-language="English" group-title="United States",Alabama Weather Network (720p)
 https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
@@ -17,12 +19,20 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox Weather (1080p) [Geo-blocked]
 https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox Weather (1080p)
+https://amg01542-foxweatherllc-weather-vizious-exojt.amagi.tv/playlist/amg01542-foxweatherllc-weather-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox Weather (720p)
 https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox Weather (720p) [Not 24/7]
 https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox Weather KTVU (1080p)
+https://amg00488-foxdigital-fox2sanfranciscoktvu-vizious-cshim.amagi.tv/playlist/amg00488-foxdigital-fox2sanfranciscoktvu-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox Weather WFLD (1080p) [Geo-blocked]
+https://amg00488-foxdigital-amg00488c4-vizio-us-900.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Fox Weather WOFL (1080p)
+https://amg00488-foxdigital-fox35orlandowofl-vizious-i7zzw.amagi.tv/playlist/amg00488-foxdigital-fox35orlandowofl-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Meteonews.ch" tvg-name="Meteonews" tvg-logo="https://i.imgur.com/YtYhbJD.png" tvg-country="CH" tvg-language="German" group-title="Switzerland",Meteonews (1080p)
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="News24Weather.au" tvg-name="News24 Weather" tvg-logo="https://i.imgur.com/HkBec1e.png" tvg-country="AU" tvg-language="English" group-title="Australia",News24 Weather
@@ -45,6 +55,8 @@ https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",WeatherNation (720p)
 https://a-cdn.klowdtv.com/live3/weathernation_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",WeatherNation (720p)
+https://dada973c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fV2VhdGhlck5hdGlvblRWX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp" tvg-name="Weathernews" tvg-logo="https://i.imgur.com/A8uRSTS.png" tvg-country="JP" tvg-language="Japanese" group-title="Japan",Weathernews (720p)
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.au" tvg-name="WeatherSpy" tvg-logo="https://i.imgur.com/GTxN2nH.png" tvg-country="AU" tvg-language="English" group-title="Australia",WeatherSpy (720p)

@@ -69,6 +69,8 @@ https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
 https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
 #EXTINF:-1 tvg-id="BuyingBlindDenmark.se" tvg-name="Buying Blind Denmark" tvg-logo="https://images.pluto.tv/channels/63c6a7544faf1c0007b496d7/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Buying Blind Denmark
 https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
+#EXTINF:-1 tvg-id="CanalGuapa.py" tvg-name="Canal Guapa" tvg-logo="https://canalguapa.tv/guapa-isologo.png" tvg-country="PY" tvg-language="Spanish" group-title="Paraguay",Canal Guapa (1080p)
+https://guapa-live.argosworkspace.com/guapa/index.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" tvg-logo="https://i.imgur.com/ht4tUOc.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Saude (720p) [Not 24/7]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" tvg-logo="https://i.imgur.com/ht4tUOc.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Canal Saude
@@ -146,13 +148,13 @@ http://31.148.5.241/kanal_14/index.m3u8
 https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-country="RU" tvg-language="Russian" group-title="Russia",Domashniy (576p)
 http://stream.mcquack.net/227/index.m3u8
-#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Russia",Domashniy (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Russia",Domashniy
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-country="RU" tvg-language="Russian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" http-referrer="https://televizor24tochka.ru/" group-title="Russia",Domashniy (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-country="RU" tvg-language="Russian" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="Russia",Domashniy (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-id="ElMueble.es" tvg-name="El Mueble" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",El Mueble (720p)
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 #EXTINF:-1 tvg-id="ETVLife.in" tvg-name="ETV Life" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="India",ETV Life (1080p)
@@ -204,6 +206,8 @@ https://fta.ektv.in/live/143/143_0.m3u8
 https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Food%20Food.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Food Food (576p)
 https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Food%20Food.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Food Food (576p)
+https://samitaorigin.tangotv.in/FOODFOOD/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.tr" tvg-name="Fortuna TV" tvg-logo="https://i.imgur.com/ZbUSlOC.png" tvg-country="TR" group-title="Turkiye",Fortuna TV (1080p)
 https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.tr" tvg-name="Fortuna TV" tvg-logo="https://i.imgur.com/ZbUSlOC.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",Fortuna TV (720p)
@@ -286,8 +290,6 @@ https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8
 https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 #EXTINF:-1 tvg-id="Localish.us" tvg-name="Localish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Localish_Logo.png" tvg-country="US" tvg-language="English" group-title="United States",Localish (720p)
 https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8
-#EXTINF:-1 tvg-id="LogosTVSalud.es" tvg-name="Logos TV Salud" tvg-logo="https://i.imgur.com/qkHrttj.png" tvg-country="ES" tvg-language="Spanish" group-title="Spain",Logos TV Salud (720p) [Not 24/7]
-https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 #EXTINF:-1 tvg-id="LuxeTV.lu" tvg-name="Luxe TV" tvg-logo="https://i.imgur.com/24ehonx.png" tvg-country="LU" tvg-language="English;Chinese;French;Russian" group-title="Luxembourg",Luxe TV (1080p)
 http://103.154.3.101:5001/live/1736.m3u8
 #EXTINF:-1 tvg-id="LuxeTV.lu" tvg-name="Luxe TV" tvg-logo="https://i.imgur.com/24ehonx.png" tvg-country="LU" tvg-language="English;Chinese;French;Russian" group-title="Luxembourg",Luxe TV (1080p)
@@ -368,6 +370,8 @@ http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698905bac4421ebc533644/images/logo_20231219_221503_68.png" tvg-country="US" tvg-language="English" group-title="United States",Revry (1080p)
 https://d36jpyyja698yd.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698905bac4421ebc533644/images/logo_20231219_221503_68.png" tvg-country="US" tvg-language="English" group-title="United States",Revry (1080p)
+https://f5549b59.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fUmV2cnlfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698905bac4421ebc533644/images/logo_20231219_221503_68.png" tvg-country="US" group-title="United States",Revry (720p)
 https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698905bac4421ebc533644/images/logo_20231219_221503_68.png" tvg-country="US" tvg-language="English" group-title="United States",Revry (720p) [Not 24/7]
@@ -418,6 +422,8 @@ https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
 https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" tvg-logo="https://i.imgur.com/4v93XUB.png" tvg-country="US" tvg-language="English" group-title="United States",The Jamie Oliver Channel (1080p) [Geo-blocked]
 https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" tvg-logo="https://i.imgur.com/4v93XUB.png" tvg-country="US" tvg-language="English" group-title="United States",The Jamie Oliver Channel (1080p) [Geo-blocked]
+https://amg01545-buzzfeedinc-jamieoliver-vizious-xqrpr.amagi.tv/playlist/amg01545-buzzfeedinc-jamieoliver-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" tvg-logo="https://i.imgur.com/4v93XUB.png" tvg-country="US" tvg-language="English" group-title="United States",The Jamie Oliver Channel (1080p)
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" tvg-logo="https://i.imgur.com/4v93XUB.png" tvg-country="US" tvg-language="English" group-title="United States",The Jamie Oliver Channel (720p)

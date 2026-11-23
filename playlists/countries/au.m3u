@@ -13,6 +13,10 @@ https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-id="9Life.au" tvg-name="9Life" tvg-logo="https://i.imgur.com/HlJOrGI.png" tvg-country="AU" tvg-language="English" group-title="Lifestyle",9Life (720p) [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="ABC Australia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png" tvg-country="AU" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" http-referrer="https://www.visionplus.id/" group-title="General",ABC Australia (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/abcaus/index.m3u8
 #EXTINF:-1 tvg-id="ABCEntertains.au" tvg-name="ABC Entertains" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" tvg-country="AU" tvg-language="English" group-title="Education;Kids",ABC Entertains (720p)
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" tvg-country="AU" tvg-language="English" group-title="Kids",ABC Kids
@@ -79,8 +83,6 @@ https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
 http://tv1.intv.mk:1935/live/intv/index.m3u8
 #EXTINF:-1 tvg-id="JonmoBhumiTV.au" tvg-name="JonmoBhumi TV" tvg-logo="https://i.imgur.com/2snahLk.png" tvg-country="AU" tvg-language="Bengali" group-title="General",JonmoBhumi TV (720p)
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MISTelevizija.au" tvg-name="MIS Televizija" tvg-logo="https://i.imgur.com/qvrNVFg.png" tvg-country="AU" tvg-language="Bosnian;English" group-title="Culture",MIS Televizija (720p) [Not 24/7]
-https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MissionAsia.au" tvg-name="Mission Asia" tvg-logo="https://i.imgur.com/B5mKwF6.png" tvg-country="AU" tvg-language="English;Arabic" group-title="Religious",Mission Asia (1080p)
 https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="News24.au" tvg-name="News24" tvg-logo="https://i.imgur.com/KagpoPN.png" tvg-country="AU" tvg-language="English" group-title="News",News24 (1080p)

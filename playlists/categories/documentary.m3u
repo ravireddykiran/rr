@@ -58,7 +58,13 @@ https://autentic-autentichistory-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Backstage.us" tvg-name="Backstage" tvg-logo="https://i.imgur.com/qcTNvNU.png" tvg-country="US" tvg-language="English" group-title="United States",Backstage (1080p)
 https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
 #EXTINF:-1 tvg-id="Backstage.us" tvg-name="Backstage" tvg-logo="https://i.imgur.com/qcTNvNU.png" tvg-country="US" tvg-language="English" group-title="United States",Backstage (1080p) [Geo-blocked]
+https://fusexl-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Backstage.us" tvg-name="Backstage" tvg-logo="https://i.imgur.com/qcTNvNU.png" tvg-country="US" tvg-language="English" group-title="United States",Backstage (1080p) [Geo-blocked]
 https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" http-referrer="https://www.visionplus.id/" group-title="United Kingdom",BBC Earth Asia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="cze" group-title="United Kingdom",BBC Earth Czechia
 http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="Hungarian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="United Kingdom",BBC Earth Hungary
@@ -71,6 +77,8 @@ https://nord.ayakkabiparti.lol/bbc/index.m3u8
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="English" group-title="United Kingdom",BBC Earth US (1080p) [Geo-blocked]
 https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="English" group-title="United Kingdom",BBC Earth US (1080p)
+https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="English" group-title="United Kingdom",BBC Earth US (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="English" group-title="United Kingdom",BBC Earth US (720p)
@@ -99,6 +107,8 @@ https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
 https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg Originals (1080p)
 https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg Originals (1080p)
+https://2fa38f3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQmxvb21iZXJnT3JpZ2luYWxzLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="United States",Bloomberg Originals SD (1080p)
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" http-referrer="https://www.bloomberg.com/originals" group-title="United States",Bloomberg Originals SD (1080p)
@@ -109,6 +119,8 @@ https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
 https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" tvg-country="US" tvg-language="English" group-title="United States",BritBox Mysteries (1080p)
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" tvg-country="US" tvg-language="English" group-title="United States",BritBox Mysteries (1080p)
+https://linear-796.frequency.stream/mt/vizio/796/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" tvg-country="US" tvg-language="English" group-title="United States",BritBox Mysteries (720p)
 https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-country="PL" tvg-language="Polish;English" group-title="Poland",BTB Info (1080p)
@@ -154,12 +166,16 @@ http://125.210.152.18:9090/live/FXZL_750.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/qkfe3o9.png" tvg-country="US" tvg-language="English" group-title="United States",Court TV (1080p) [Geo-blocked]
 https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/qkfe3o9.png" tvg-country="US" tvg-language="English" group-title="United States",Court TV (1080p)
+https://wurlewscripps.global.transmit.live/hls/6913ad861e71ac7d1225dd7c/v1/scripps_courttv_2/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/qkfe3o9.png" tvg-country="US" tvg-language="English" group-title="United States",Court TV (720p)
 https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/qkfe3o9.png" tvg-country="US" tvg-language="English" group-title="United States",Court TV (720p)
 https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/qkfe3o9.png" tvg-country="US" tvg-language="English" group-title="United States",Court TV (720p)
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-country="US" tvg-language="English" group-title="United States",Crime 360 (1080p)
+https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-country="US" tvg-language="English" group-title="United States",Crime 360 (720p)
 https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
 #EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-country="US" tvg-language="English" group-title="United States",Crime 360 (720p)
@@ -174,6 +190,8 @@ https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CuriosityNOW.de" tvg-name="Curiosity NOW" tvg-logo="https://i.imgur.com/gJ9eMaG.png" tvg-country="DE" tvg-language="English" group-title="Germany",Curiosity NOW EN (1080p)
 https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DangerTV.us" tvg-name="Danger TV" tvg-logo="https://i.imgur.com/4aTk45R.png" tvg-country="US" tvg-language="English" group-title="United States",Danger TV (1080p)
+https://wurldangertv.global.transmit.live/hls/6862ae41cebca70ae8b8c068/v1/dangertv/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="DangerTV.us" tvg-name="Danger TV" tvg-logo="https://i.imgur.com/4aTk45R.png" tvg-country="US" tvg-language="English" group-title="United States",Danger TV (720p)
 https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us" tvg-name="Dateline 24/7" tvg-logo="https://i.imgur.com/8mAJuut.png" tvg-country="US" tvg-language="English" group-title="United States",Dateline 24/7 (1080p)
@@ -202,6 +220,9 @@ http://37.49.224.5/stream/12/index.m3u8
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 #EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="DocuBox" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-country="NL" tvg-language="English" group-title="Netherlands",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="DocuBox" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-country="NL" tvg-language="Polish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Netherlands",DocuBox Polska
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28937292062f43eb29b758
 #EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="DocuBox" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-country="NL" tvg-language="Russian" group-title="Netherlands",DocuBox Russia
 http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-name="Documentary+" tvg-logo="https://i.imgur.com/x57klfS.png" tvg-country="US" tvg-language="English" group-title="United States",Documentary+ (1080p)
@@ -291,6 +312,8 @@ http://88.212.7.14/live/history_hun/index.m3u8
 #EXTINF:-1 tvg-id="History.si" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="SI" tvg-language="Slovenian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Slovenia",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
+#EXTINF:-1 tvg-id="History2.pl" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-country="PL" tvg-language="English" group-title="Poland",History 2 (1080p)
+http://116.90.120.149:8000/play/a0l1/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",History 2 Latin America (1080p)
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",History 2 Latin America (1080p)
@@ -305,6 +328,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9856
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryHit.uk" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",History Hit (1080p)
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoryHit.uk" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",History Hit (1080p) [Geo-blocked]
+https://lds-timeline-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryHit.uk" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",History Hit (720p)
 https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryHit.uk" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",History Hit (720p)
@@ -384,6 +409,8 @@ https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 https://ebd6ee5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MYXdhbmRDcmltZV9ITFM/playlist_scte.m3u8
 #EXTINF:-1 tvg-id="LawCrime.us" tvg-name="Law & Crime" tvg-logo="https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj" tvg-country="US" tvg-language="English" group-title="United States",Law & Crime (720p)
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-name="Law & Crime" tvg-logo="https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj" tvg-country="US" tvg-language="English" group-title="United States",Law & Crime (720p)
+https://d7fab335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTGF3YW5kQ3JpbWUtMV9ITFM/playlist-absolute_scte_v2.m3u8
 #EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" tvg-country="CA" tvg-language="English" group-title="Canada",Love Pets (1080p)
 https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" tvg-country="CA" tvg-language="English" group-title="Canada",Love Pets (1080p)
@@ -392,6 +419,8 @@ https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakute
 https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" tvg-country="CA" tvg-language="English" group-title="Canada",Love Pets (1080p)
 https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
+#EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" tvg-country="CA" tvg-language="English" group-title="Canada",Love Pets (1080p) [Geo-blocked]
+https://amg01515-amg01515c20-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00090-blueantllc-lovepetsusa-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" tvg-logo="https://i.imgur.com/RBcD49X.png" tvg-country="ES" tvg-language="English" group-title="Spain",Love The Planet (1080p) [Geo-blocked]
 https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" tvg-logo="https://i.imgur.com/RBcD49X.png" tvg-country="ES" tvg-language="English" group-title="Spain",Love The Planet (1080p)
@@ -538,7 +567,7 @@ https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
 http://31.148.48.15/Nauka_2.0/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Nauka (576p)
 http://stream.mcquack.net/125/index.m3u8
-#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Nauka
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Nauka (576p)
 https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="OzbekistonTarixi.uz" tvg-name="O'zbekiston Tarixi" tvg-logo="https://i.imgur.com/iTTd3Ir.png" tvg-country="UZ" tvg-language="Uzbek" group-title="Uzbekistan",O'zbekiston Tarixi (1080p)
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
@@ -634,16 +663,10 @@ https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToughJobs.de" tvg-name="Pluto TV Tough Jobs" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoSVG.svg" tvg-country="DE" tvg-language="English" group-title="Germany",Pluto TV Tough Jobs
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/61c097ec8bb1830008e3f962/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Pluto TV True Crime
-https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.us" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Pluto TV True Crime
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.us" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoSVG.svg" tvg-country="US" tvg-language="English" group-title="United States",Pluto TV True Crime CA
 https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/61c097ec8bb1830008e3f962/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Pluto TV True Crime DK
-https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/61c097ec8bb1830008e3f962/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Norwegian" group-title="Sweden",Pluto TV True Crime NO
-https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTurbo.us" tvg-name="Pluto TV Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoSVG.svg" tvg-country="US" tvg-language="Portuguese" group-title="United States",Pluto TV Turbo
 https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVarldskrigen.se" tvg-name="Pluto TV Varldskrigen" tvg-logo="https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoSVG_1759445391958.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Pluto TV Varldskrigen
@@ -665,10 +688,12 @@ http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" tvg-logo="https://i.imgur.com/czrTtNK.png" tvg-country="US" tvg-language="English" group-title="United States",Reelz Famous & Infamous (1080p)
 https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" tvg-logo="https://i.imgur.com/czrTtNK.png" tvg-country="US" tvg-language="English" group-title="United States",Reelz Famous & Infamous (1080p)
+https://linear-190.frequency.stream/mt/vizio/190/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" tvg-logo="https://i.imgur.com/czrTtNK.png" tvg-country="US" tvg-language="English" group-title="United States",Reelz Famous & Infamous (1080p)
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" tvg-logo="https://i.imgur.com/czrTtNK.png" tvg-country="US" tvg-language="English" group-title="United States",Reelz Famous & Infamous (720p)
 https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RL PRO TV" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" tvg-country="CD" tvg-language="French" group-title="Democratic Republic of the Congo",RL PRO TV
+#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RL PRO TV" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" tvg-country="CD" tvg-language="French" group-title="Democratic Republic of the Congo",RL PRO TV (480p)
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-country="RU" tvg-language="English" group-title="Russia",RT Documentary (1080p) [Geo-blocked]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -676,7 +701,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RT Documentary Russian (1080p)
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RT Documentary Russian
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",RT Documentary Russian (720p)
 https://streaming.thestream.cyou/live/554.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-name="Safari TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Malayalam" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Safari TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -691,10 +716,8 @@ https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoSVG.svg" tvg-country="US" tvg-language="Spanish" group-title="United States",Smithsonian Channel Pluto TV LatAm
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se" tvg-name="Smithsonian Channel Selects" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Swedish" group-title="Sweden",Smithsonian Channel Selects
-https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se" tvg-name="Smithsonian Channel Selects" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoSVG.svg" tvg-country="SE" tvg-language="English;Danish" group-title="Sweden",Smithsonian Channel Selects DK
-https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" tvg-logo="https://i.imgur.com/dB3cJzO.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Smotrim 100% Fakty (1080p)
+https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" tvg-logo="https://i.imgur.com/dB3cJzO.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Smotrim 100% Fakty (720p)
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" tvg-logo="https://i.imgur.com/dB3cJzO.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Smotrim 100% Fakty
@@ -783,23 +806,29 @@ https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Explore (576p)
 http://46.53.200.153:7777/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Explore (576p)
+http://116.90.120.149:8000/play/a0ar/index.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Explore (576p)
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Explore (576p)
 https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju History (576p)
 http://46.53.200.153:7777/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju History (576p)
+http://116.90.120.149:8000/play/a0as/index.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju History (576p)
 http://178.124.179.122:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju History (576p)
 http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju History (576p)
 https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Nature (1080p)
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Nature (576p)
 http://46.53.200.153:7777/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Nature (576p)
+http://116.90.120.149:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Nature (576p)
 https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuPlusPlanet.ru" tvg-name="viju+ Planet" tvg-logo="https://i.imgur.com/9Weqdsk.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju+ Planet HD (1080p)
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 tvg-id="WaterBear.ch" tvg-name="WaterBear" tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" tvg-country="CH" tvg-language="English" group-title="Switzerland",WaterBear (1080p)

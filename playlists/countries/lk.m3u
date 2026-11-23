@@ -11,10 +11,10 @@ https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="ImaiTV.lk" tvg-name="Imai TV" tvg-logo="https://i.imgur.com/9tODclu.png" tvg-country="LK" tvg-language="Tamil" group-title="Culture",Imai TV (576i)
 https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" tvg-logo="https://i.imgur.com/J8NA1i9.jpeg" tvg-country="LK" tvg-language="Sinhala" group-title="Religious",Jaya TV (1080p)
+https://live.jayatv.lk/hls/stream.m3u8
 #EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" tvg-logo="https://i.imgur.com/J8NA1i9.jpeg" tvg-country="LK" tvg-language="Sinhala" group-title="Religious",Jaya TV (480p)
 https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8
-#EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" tvg-logo="https://i.imgur.com/J8NA1i9.jpeg" tvg-country="LK" tvg-language="Sinhala" group-title="Religious",Jaya TV
-https://live.jayatv.lk/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MonaraTV.lk" tvg-name="Monara TV" tvg-logo="https://i.imgur.com/EB99mzR.png" tvg-country="LK" tvg-language="Tamil" group-title="Entertainment",Monara TV (720p) [Not 24/7]
 https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVLANKA.lk" tvg-name="NDTV LANKA" tvg-logo="https://i.imgur.com/5cyTVRJ.png" tvg-country="LK" tvg-language="Tamil" group-title="Entertainment",NDTV LANKA (1080p)

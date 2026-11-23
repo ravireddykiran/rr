@@ -132,8 +132,8 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" tvg-country="CN" tvg-language="English;Chinese" group-title="News",CGTN
 https://h5cul1yar48um3t.wcetv.com/hls/cgtn.m3u8
-#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-country="CN" tvg-language="Arabic" group-title="News",CGTN Arabic (1080p) [Not 24/7]
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-country="CN" tvg-language="Arabic" group-title="News",CGTN Arabic (1080p)
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-country="CN" tvg-language="Arabic" group-title="News",CGTN Arabic (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-country="CN" tvg-language="Arabic" group-title="News",CGTN Arabic
@@ -150,8 +150,8 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="English" group-title="Documentary",CGTN Documentary
 https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-country="CN" tvg-language="French" group-title="News",CGTN French (1080p) [Not 24/7]
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-country="CN" tvg-language="French" group-title="News",CGTN French (1080p)
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-country="CN" tvg-language="French" group-title="News",CGTN French (1080p)
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-country="CN" tvg-language="French" group-title="News",CGTN French (576p) [Not 24/7]
@@ -163,13 +163,13 @@ https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" tvg-logo="https://i.imgur.com/qBmomnF.png" tvg-country="CN" tvg-language="Chinese;English" group-title="Business",CGTN Global Biz (1080p)
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-country="CN" tvg-language="Russian" group-title="News",CGTN Russian (1080p)
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-country="CN" tvg-language="Russian" group-title="News",CGTN Russian (576p)
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-country="CN" tvg-language="Russian" group-title="News",CGTN Russian
 https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-country="CN" tvg-language="Spanish" group-title="News",CGTN Spanish (1080p)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-country="CN" tvg-language="Spanish" group-title="News",CGTN Spanish (1080p)
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-country="CN" tvg-language="Spanish" group-title="News",CGTN Spanish (720p)

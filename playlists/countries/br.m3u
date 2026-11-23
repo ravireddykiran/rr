@@ -278,6 +278,8 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br" tvg-name="NickOnline" tvg-logo="https://x1colegal.com/logo.png" tvg-country="BR" tvg-language="Portuguese" group-title="Kids;Animation",NickOnline HD (720p)
 https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br" tvg-name="NickOnline Bob Esponja" tvg-logo="https://x1colegal.com/nickonlinebobesponja.png" tvg-country="BR" tvg-language="Portuguese" group-title="Animation;Kids",NickOnline Bob Esponja [Not 24/7]
+https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-name="Nova Era TV" tvg-logo="https://i.imgur.com/IK3F9Uq.png" tvg-country="BR" tvg-language="Portuguese" group-title="Other",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" tvg-country="BR" tvg-language="Portuguese" group-title="Religious",Novo Tempo (720p)
@@ -681,6 +683,8 @@ https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="TVLitoralRN.br" tvg-name="TV Litoral RN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg" tvg-country="BR" tvg-language="Portuguese" group-title="General",TV Litoral RN (720p)
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaanaim.br" tvg-name="TV Maanaim" tvg-logo="https://i.imgur.com/PZhdHvf.png" tvg-country="BR" tvg-language="Portuguese" group-title="Religious",TV Maanaim (720p) [Not 24/7]
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
 #EXTINF:-1 tvg-id="TVMackenzie.br" tvg-name="TV Mackenzie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/960px-TV_Mackenzie_logo.svg.png" tvg-country="BR" tvg-language="Portuguese" group-title="Education",TV Mackenzie (480p)
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaisMarica.br" tvg-name="TV Mais Marica" tvg-logo="https://i.imgur.com/lgCRX7q.png" tvg-country="BR" tvg-language="Portuguese" group-title="General",TV Mais Marica (1080p)

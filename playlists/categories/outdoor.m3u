@@ -99,6 +99,8 @@ https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Chinese;Turkish;Bulgarian;Czech;Hungarian;Russian;Spanish" group-title="Canada",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Chinese;Turkish;Bulgarian;Czech;Hungarian;Russian;Spanish" group-title="Canada",Love Nature (1080p) [Geo-blocked]
+https://vizioaaaa-blueantmedia-usa-vizio-pghll.amagi.tv/playlist/vizioAAAA-blueantmedia-usa-vizio/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Chinese;Turkish;Bulgarian;Czech;Hungarian;Russian;Spanish" group-title="Canada",Love Nature (1080p) [Geo-blocked]
 https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Chinese;Turkish;Bulgarian;Czech;Hungarian;Russian;Spanish" group-title="Canada",Love Nature (720p) [Geo-blocked]
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
@@ -112,6 +114,8 @@ http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
 http://88.212.15.50/live/test_lovenature/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="English;Chinese;Turkish;Bulgarian;Czech;Hungarian;Russian;Spanish" group-title="Canada",Love Nature HD (1080p)
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" tvg-country="US" tvg-language="English" group-title="United States",Monster Jam (1080p)
+https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" tvg-country="US" tvg-language="English" group-title="United States",Monster Jam (720p)
 https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
 #EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" tvg-country="US" tvg-language="English" group-title="United States",Monster Jam (720p)
@@ -136,10 +140,10 @@ https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" tvg-logo="https://i.imgur.com/Bj1jI7F.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Ohotnik i rybolov HD (1080p)
 http://stream.mcquack.net/194/index.m3u8
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-country="RU" tvg-language="Russian;English" group-title="Russia",Okhota i rybalka (1080p)
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-country="RU" tvg-language="Russian;English" group-title="Russia",Okhota i rybalka (576p)
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-country="RU" tvg-language="Russian;English" group-title="Russia",Okhota i rybalka
-https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-name="Outdoor America" tvg-logo="https://i.imgur.com/UKfimFD.png" tvg-country="US" tvg-language="English" group-title="United States",Outdoor America (1080p)
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-name="Outdoor America" tvg-logo="https://i.imgur.com/UKfimFD.png" tvg-country="US" tvg-language="English" group-title="United States",Outdoor America (1080p)
@@ -231,6 +235,8 @@ https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="English" group-title="Austria",Red Bull TV US (1080p)
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-country="AT" tvg-language="English" group-title="Austria",Red Bull TV US (1080p)
+https://freqsyndlin.redbull.com/644/vizio/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="REVNAction.us" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" tvg-country="US" tvg-language="English" group-title="United States",REV'N Action (720p) [Geo-blocked]
 https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-id="REVNAction.us" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" tvg-country="US" tvg-language="English" group-title="United States",REV'N Action (720p) [Geo-blocked]
@@ -279,6 +285,8 @@ https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg
 https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-country="US" tvg-language="English" group-title="United States",Waypoint TV (1080p)
 https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-country="US" tvg-language="English" group-title="United States",Waypoint TV (1080p)
+https://amg00381-waypointcommuni-waypointtv-vizious-v9qqa.amagi.tv/playlist/amg00381-waypointcommuni-waypointtv-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-country="US" tvg-language="English" group-title="United States",Waypoint TV (1080p)
 https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-country="US" tvg-language="English" group-title="United States",Waypoint TV (720p)

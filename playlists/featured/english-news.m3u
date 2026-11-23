@@ -49,18 +49,20 @@ https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-o
 https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-country="US" tvg-language="English" group-title="News",LiveNOW from FOX (720p)
 https://amg00488-foxdigital-livenowbyfox-lgus-y0a81.amagi.tv/playlist/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-country="US" tvg-language="English" group-title="News",LiveNOW from FOX (720p)
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-country="US" tvg-language="English" group-title="News",LiveNOW from FOX (720p) [Geo-blocked]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-country="US" tvg-language="English" group-title="News",LiveNOW from FOX (720p)
 https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-country="US" tvg-language="English" group-title="News",LiveNOW from FOX (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-country="US" tvg-language="English" group-title="News",LiveNOW from FOX
 https://vid.hls.protv.ro/liveibu5/liveibu5_highw/index.m3u8?1
 #EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" tvg-logo="https://i.imgur.com/W0Jvi5o.png" tvg-country="US" tvg-language="English" group-title="News",Scripps News (1080p)
 https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" tvg-logo="https://i.imgur.com/W0Jvi5o.png" tvg-country="US" tvg-language="English" group-title="News",Scripps News (1080p)
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
+#EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" tvg-logo="https://i.imgur.com/W0Jvi5o.png" tvg-country="US" tvg-language="English" group-title="News",Scripps News (1080p)
+https://c58daada.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fU2NyaXBwc05ld3NfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" tvg-logo="https://i.imgur.com/W0Jvi5o.png" tvg-country="US" tvg-language="English" group-title="News",Scripps News (720p)
 https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8
 #EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" tvg-logo="https://i.imgur.com/W0Jvi5o.png" tvg-country="US" tvg-language="English" group-title="News",Scripps News (720p) [Geo-blocked]
@@ -90,6 +92,8 @@ https://tvsen6.aynaott.com/foxnews/index.m3u8
 https://p14.usnlive.com/stream/foxnews.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png" tvg-country="US" tvg-language="English" group-title="News",CNN International (1080p)
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png" tvg-country="US" tvg-language="English" group-title="News",CNN International (576p)
+http://116.90.120.149:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png" tvg-country="US" tvg-language="English" group-title="News",CNN International (576p)
 https://vid.hls.protv.ro/liveibu8/liveibu8_highw/index.m3u8?1
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png" tvg-country="US" tvg-language="English" group-title="News",CNN International
@@ -156,6 +160,8 @@ https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
 https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="Documentary;Business",Bloomberg Originals (1080p)
 https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="Documentary;Business",Bloomberg Originals (1080p)
+https://2fa38f3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQmxvb21iZXJnT3JpZ2luYWxzLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" group-title="Documentary;Business",Bloomberg Originals SD (1080p)
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" http-referrer="https://www.bloomberg.com/originals" group-title="Documentary;Business",Bloomberg Originals SD (1080p)
@@ -168,12 +174,16 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 https://amg00453-reuters-amg00453c1-samsung-gb-2113.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsunggb/playlist.m3u8
 #EXTINF:-1 tvg-id="ReutersTV.us" tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" tvg-country="US" tvg-language="English" group-title="News",Reuters TV (1080p) [Geo-blocked]
 https://d5bxknkoxytmb.cloudfront.net/playlist/amg00453-reuters-reuters-samsunggb/playlist.m3u8
+#EXTINF:-1 tvg-id="ReutersTV.us" tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" tvg-country="US" tvg-language="English" group-title="News",Reuters TV (1080p) [Geo-blocked]
+https://amg00453-reuters-amg00453c1-vizio-us-2107.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="ReutersTV.us" tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" tvg-country="US" tvg-language="English" group-title="News",Reuters TV (1080p)
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/qkfe3o9.png" tvg-country="US" tvg-language="English" group-title="Documentary",Court TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/qkfe3o9.png" tvg-country="US" tvg-language="English" group-title="Documentary",Court TV (1080p) [Geo-blocked]
 https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/qkfe3o9.png" tvg-country="US" tvg-language="English" group-title="Documentary",Court TV (1080p)
+https://wurlewscripps.global.transmit.live/hls/6913ad861e71ac7d1225dd7c/v1/scripps_courttv_2/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/qkfe3o9.png" tvg-country="US" tvg-language="English" group-title="Documentary",Court TV (720p)
 https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/qkfe3o9.png" tvg-country="US" tvg-language="English" group-title="Documentary",Court TV (720p)
@@ -184,12 +194,20 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Weather",Fox Weather (1080p) [Geo-blocked]
 https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Weather",Fox Weather (1080p)
+https://amg01542-foxweatherllc-weather-vizious-exojt.amagi.tv/playlist/amg01542-foxweatherllc-weather-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Weather",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Weather",Fox Weather (720p)
 https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Weather",Fox Weather (720p) [Not 24/7]
 https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Weather",Fox Weather KTVU (1080p)
+https://amg00488-foxdigital-fox2sanfranciscoktvu-vizious-cshim.amagi.tv/playlist/amg00488-foxdigital-fox2sanfranciscoktvu-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Weather",Fox Weather WFLD (1080p) [Geo-blocked]
+https://amg00488-foxdigital-amg00488c4-vizio-us-900.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US" tvg-language="English" group-title="Weather",Fox Weather WOFL (1080p)
+https://amg00488-foxdigital-fox35orlandowofl-vizious-i7zzw.amagi.tv/playlist/amg00488-foxdigital-fox35orlandowofl-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="https://i.imgur.com/PIaNjfa.png" tvg-country="US" tvg-language="English" group-title="Weather",The Weather Channel (1080p)
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="https://i.imgur.com/PIaNjfa.png" tvg-country="US" tvg-language="English" group-title="Weather",The Weather Channel (720p)
@@ -210,6 +228,10 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-country="UK" tvg-language="English" group-title="News",BBC News Africa [Geo-blocked]
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-country="UK" tvg-language="English;Japanese" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" http-referrer="https://www.visionplus.id/" group-title="News",BBC News Asia Pacific (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/bbcworld/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-country="UK" tvg-language="English" group-title="News",BBC News Europe (1080p) [Geo-blocked]
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-country="UK" tvg-language="English" group-title="News",BBC News Europe (576p)
@@ -222,6 +244,8 @@ https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-country="UK" tvg-language="English" group-title="News",BBC News North America (1080p)
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-country="UK" tvg-language="English" group-title="News",BBC News North America (1080p)
+https://b638a299.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-country="UK" tvg-language="English" group-title="News",BBC News North America (720p)
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-country="UK" tvg-language="English" group-title="News",BBC News North America (576p)
