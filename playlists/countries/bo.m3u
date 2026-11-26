@@ -17,6 +17,8 @@ http://190.181.61.93:8000/play/a00g/index.m3u8
 https://master.tucableip.com/audiokisstv/index.m3u8
 #EXTINF:-1 tvg-id="AYNITV.bo" tvg-name="AYNI TV" tvg-logo="https://i.ibb.co/SPCkBR8/ayni-tv-bo.png" tvg-country="BO" tvg-language="Spanish" group-title="General",AYNI TV (1080p)
 http://15.204.246.24:8080/AyniTVHD/index.m3u8
+#EXTINF:-1 tvg-id="AYNITV.bo" tvg-name="AYNI TV" tvg-logo="https://i.ibb.co/SPCkBR8/ayni-tv-bo.png" tvg-country="BO" tvg-language="Spanish" group-title="General",AYNI TV (1080p)
+https://edge.enhdtv.com/aynitv/index.m3u8
 #EXTINF:-1 tvg-id="AYNITV.bo" tvg-name="AYNI TV" tvg-logo="https://i.ibb.co/SPCkBR8/ayni-tv-bo.png" tvg-country="BO" tvg-language="Spanish" group-title="General",AYNI TV (720p)
 https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="Bolivia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" tvg-country="BO" tvg-language="Spanish" group-title="General",Bolivia TV (1080p)
@@ -183,6 +185,8 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 http://190.181.61.93:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="SolTV.bo" tvg-name="Sol TV" tvg-logo="https://i.imgur.com/2m8PVpA.png" tvg-country="BO" tvg-language="Spanish" group-title="General",Sol TV (720p)
 http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SolTV.bo" tvg-name="Sol TV" tvg-logo="https://i.imgur.com/2m8PVpA.png" tvg-country="BO" tvg-language="Spanish" group-title="General",Sol TV (720p)
+https://edge.enhdtv.com/soltv/index.m3u8
 #EXTINF:-1 tvg-id="SPCCanal15.bo" tvg-name="SPC Canal 15" tvg-logo="https://i.imgur.com/8GzjELt.jpeg" tvg-country="BO" tvg-language="Spanish" group-title="General",SPC Canal 15 (1080p)
 https://183.giatvcdn.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 #EXTINF:-1 tvg-id="SPCCanal15.bo" tvg-name="SPC Canal 15" tvg-logo="https://i.imgur.com/8GzjELt.jpeg" tvg-country="BO" tvg-language="Spanish" group-title="General",SPC Canal 15 (720p)
@@ -203,6 +207,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.bo" tvg-name="Tigo Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-country="BO" tvg-language="Spanish" group-title="Sports",Tigo Sports (720p) [Geo-blocked]
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
+#EXTINF:-1 tvg-id="TLEstrella.bo" tvg-name="TL Estrella" tvg-country="BO" tvg-language="Spanish" group-title="Other",TL Estrella (1080p)
+https://edge.enhdtv.com/teleestrella/index.m3u8
 #EXTINF:-1 tvg-id="TLEstrella.bo" tvg-name="TL Estrella" tvg-country="BO" tvg-language="Spanish" group-title="Other",TL Estrella (720p)
 http://190.181.61.93:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="TLEstrella.bo" tvg-name="TL Estrella" tvg-country="BO" tvg-language="Spanish" group-title="Other",TL Estrella (720p)

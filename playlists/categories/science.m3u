@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",.sci-fi (576p)
-http://116.90.120.149:8000/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",.sci-fi (576p)
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",.sci-fi (576p)
 http://31.148.48.15/SONY_SCI_FI/index.m3u8
@@ -18,10 +16,10 @@ http://live.cztv.cc:85/live/sjpd.m3u8
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk" tvg-name="Discovery Science Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png" tvg-country="UK" tvg-language="English" group-title="United Kingdom",Discovery Science Europe UK
 http://37.49.224.5/stream/9/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" tvg-country="US" group-title="United States",Discovery Science Latin America (720p)
+http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Discovery Science Latin America (720p)
 http://45.171.64.30:6060/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Discovery Science Latin America ColombiaPeru (720p)
-http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
 #EXTINF:-1 tvg-id="EkoTV.ua" tvg-name="Eko TV" tvg-logo="https://i.imgur.com/WovATGb.png" tvg-country="UA" tvg-language="Ukrainian" http-user-agent="curl/8.16.0" group-title="Ukraine",Eko TV (720p)
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8

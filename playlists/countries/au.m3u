@@ -13,10 +13,6 @@ https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-id="9Life.au" tvg-name="9Life" tvg-logo="https://i.imgur.com/HlJOrGI.png" tvg-country="AU" tvg-language="English" group-title="Lifestyle",9Life (720p) [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="ABC Australia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png" tvg-country="AU" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" http-referrer="https://www.visionplus.id/" group-title="General",ABC Australia (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/abcaus/index.m3u8
 #EXTINF:-1 tvg-id="ABCEntertains.au" tvg-name="ABC Entertains" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" tvg-country="AU" tvg-language="English" group-title="Education;Kids",ABC Entertains (720p)
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" tvg-country="AU" tvg-language="English" group-title="Kids",ABC Kids
@@ -91,9 +87,15 @@ https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8
 #EXTINF:-1 tvg-id="News24World.au" tvg-name="News24 World" tvg-logo="https://i.imgur.com/mzc1nJS.png" tvg-country="AU" tvg-language="English" group-title="News",News24 World
 https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
+#EXTINF:-1 tvg-id="NickJrClub.au" tvg-name="Nick Jr Club" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" tvg-country="AU" tvg-language="English" http-user-agent="otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56" group-title="Kids",Nick Jr Club [Geo-blocked]
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+https://i.mjh.nz/.r/10-nick-jr.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.au" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="AU" tvg-language="English;Maori" http-user-agent="otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56" group-title="Kids",Nickelodeon [Geo-blocked]
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 https://i.mjh.nz/.r/10shake-nsw.m3u8
+#EXTINF:-1 tvg-id="NickToons.au" tvg-name="NickToons" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/1920px-Nicktoons_Logo_2023.svg.png" tvg-country="AU" tvg-language="English" http-user-agent="otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56" group-title="Kids",NickToons [Geo-blocked]
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+https://i.mjh.nz/.r/10-nicktoons.m3u8
 #EXTINF:-1 tvg-id="NickToons90s.au" tvg-name="NickToons 90s" tvg-logo="https://images.pluto.tv/channels/64805525536e0c0008a19ca8/colorLogoSVG.svg" tvg-country="AU" tvg-language="English" http-user-agent="otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56" group-title="Kids",NickToons 90s [Geo-blocked]
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 https://i.mjh.nz/.r/10-nicktoons-90s.m3u8

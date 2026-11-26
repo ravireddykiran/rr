@@ -61,6 +61,8 @@ https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-name="CCTV-4 Asia" tvg-logo="https://i.imgur.com/tWt4Wou.png" tvg-country="CN" tvg-language="Chinese;English" group-title="General",CCTV-4 Asia (720p)
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV-4 Europe" tvg-logo="https://i.imgur.com/HGLFdfk.png" tvg-country="CN" tvg-language="Chinese;English" group-title="General",CCTV-4 Europe
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV-4 Europe" tvg-logo="https://i.imgur.com/HGLFdfk.png" tvg-country="CN" tvg-language="Chinese;English" group-title="General",CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4K.cn" tvg-name="CCTV-4K" tvg-logo="https://i.imgur.com/fxusYlX.png" tvg-country="CN" tvg-language="Chinese" group-title="General",CCTV-4K HD (1080p)
 http://198.204.240.250:82/live/cctv4k.m3u8

@@ -61,10 +61,6 @@ https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
 https://fusexl-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Backstage.us" tvg-name="Backstage" tvg-logo="https://i.imgur.com/qcTNvNU.png" tvg-country="US" tvg-language="English" group-title="United States",Backstage (1080p) [Geo-blocked]
 https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" http-referrer="https://www.visionplus.id/" group-title="United Kingdom",BBC Earth Asia (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="cze" group-title="United Kingdom",BBC Earth Czechia
 http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="Hungarian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="United Kingdom",BBC Earth Hungary
@@ -298,6 +294,8 @@ http://170.83.16.50/HISTORY/index.m3u8
 http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1 tvg-id="History.pl" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="PL" tvg-language="English" group-title="Poland",History (576i)
 http://92.114.85.87:8015/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="History.ro" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="RO" tvg-language="Romanian" group-title="Romania",History (576i)
+http://91.235.165.117:8001/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="History.nl" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="NL" tvg-language="Dutch" group-title="Netherlands",History (360p)
 https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8
 #EXTINF:-1 tvg-id="History.bg" tvg-name="History" tvg-country="BG" tvg-language="Bulgarian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",History
@@ -312,8 +310,6 @@ http://88.212.7.14/live/history_hun/index.m3u8
 #EXTINF:-1 tvg-id="History.si" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="SI" tvg-language="Slovenian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Slovenia",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
-#EXTINF:-1 tvg-id="History2.pl" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-country="PL" tvg-language="English" group-title="Poland",History 2 (1080p)
-http://116.90.120.149:8000/play/a0l1/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",History 2 Latin America (1080p)
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",History 2 Latin America (1080p)
@@ -461,8 +457,6 @@ http://176.61.157.250/NationalGeographic/index.m3u8
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",National Geographic (1080p)
 http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",National Geographic (1080p) [Geo-blocked]
-https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.fi" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="FI" tvg-language="Finnish" group-title="Finland",National Geographic (720p) [Geo-blocked]
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",National Geographic (720p)
@@ -485,17 +479,12 @@ http://88.212.15.50/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.hu" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="HU" tvg-language="Hungarian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hungary",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/ngc_hun/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="TR" tvg-language="Turkish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Turkiye",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="UK" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="United Kingdom",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://82.47.42.44/stream/405/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.nl" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="NL" tvg-language="Dutch" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Netherlands",National Geographic HD (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://46.32.176.50/NationalGeographicHD/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",National Geographic HD East (720p)
-http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",National Geographic Latin America (1080p)
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",National Geographic Latin America (1080p)
@@ -532,13 +521,8 @@ http://88.212.7.14/live/ngw_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="TR" tvg-language="Turkish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Turkiye",National Geographic Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",National Geographic Wild HD
 http://178.76.68.60:7442/50/mpegts
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="US" tvg-language="English" group-title="United States",National Geographic Wild HD East (720p)
-http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" tvg-country="CA" tvg-language="Spanish" group-title="Canada",NatureTime (1080p)
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" tvg-country="CA" tvg-language="Spanish" group-title="Canada",NatureTime (1080p)
@@ -683,8 +667,6 @@ http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 http://92.114.85.87:8015/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="Polsat Viasat Nature" tvg-logo="https://i.imgur.com/TUcM0oS.png" tvg-country="PL" tvg-language="Polish" group-title="Poland",Polsat Viasat Nature
 http://92.114.85.87:8016/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="Reelz.us" tvg-name="Reelz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Reelz (720p)
-http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" tvg-logo="https://i.imgur.com/czrTtNK.png" tvg-country="US" tvg-language="English" group-title="United States",Reelz Famous & Infamous (1080p)
 https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
 #EXTINF:-1 tvg-id="ReelzFamousInfamous.us" tvg-name="Reelz Famous & Infamous" tvg-logo="https://i.imgur.com/czrTtNK.png" tvg-country="US" tvg-language="English" group-title="United States",Reelz Famous & Infamous (1080p)
@@ -806,15 +788,11 @@ https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Explore (576p)
 http://46.53.200.153:7777/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Explore (576p)
-http://116.90.120.149:8000/play/a0ar/index.m3u8
-#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Explore (576p)
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Explore (576p)
 https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju History (576p)
 http://46.53.200.153:7777/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju History (576p)
-http://116.90.120.149:8000/play/a0as/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju History (576p)
 http://178.124.179.122:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju History (576p)
@@ -825,8 +803,6 @@ https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Nature (576p)
 http://46.53.200.153:7777/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Nature (576p)
-http://116.90.120.149:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju Nature (576p)
 https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuPlusPlanet.ru" tvg-name="viju+ Planet" tvg-logo="https://i.imgur.com/9Weqdsk.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",viju+ Planet HD (1080p)

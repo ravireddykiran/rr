@@ -413,7 +413,7 @@ http://170.84.165.204/REDEVIDA_HD/index.m3u8
 http://186.219.52.187/rede_vida/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/mP1qfp2.png" tvg-country="BR" tvg-language="Portuguese" group-title="Religious",Rede Vida (576p)
 https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVParana.br" tvg-name="RedeTV! Parana" tvg-logo="https://i.imgur.com/D8R0Af4.png" tvg-country="BR" tvg-language="Portuguese" group-title="Other",RedeTV! Parana (1080p)
+#EXTINF:-1 tvg-id="RedeTVParana.br" tvg-name="RedeTV! Parana" tvg-logo="https://i.imgur.com/D8R0Af4.png" tvg-country="BR" tvg-language="Portuguese" group-title="General",RedeTV! Parana (1080p)
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-name="Retro Cartoon" tvg-logo="https://i.imgur.com/hIlEfhl.png" tvg-country="BR" tvg-language="Portuguese" group-title="Classic",Retro Cartoon (720p)
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
@@ -568,6 +568,8 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" tvg-name="TV Brusque" tvg-logo="https://i.imgur.com/J2EAZPS.png" tvg-country="BR" tvg-language="Portuguese" group-title="News",TV Brusque (720p)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" tvg-logo="https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891" tvg-country="BR" tvg-language="Portuguese" group-title="General;News;Music;Religious;Entertainment",TV CAJUI WEB (720p)
+https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-country="BR" tvg-language="Portuguese" group-title="Legislative",TV Camara (1080p)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-country="BR" tvg-language="Portuguese" group-title="Legislative",TV Camara (720p)

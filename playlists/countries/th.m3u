@@ -119,6 +119,8 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/play
 https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NBTWorld.th" tvg-name="NBT World" tvg-logo="https://i.imgur.com/GUQhLeg.png" tvg-country="TH" tvg-language="English" group-title="General",NBT World (1080p)
 https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NewTM.th" tvg-name="New TM" tvg-logo="https://i.imgur.com/BYEtAN5.png" tvg-country="TH" tvg-language="Thai" group-title="Other",New TM (1080p)
+https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
 #EXTINF:-1 tvg-id="News1.th" tvg-name="News1" tvg-country="TH" tvg-language="Thai" group-title="News",News1 (720p) [Not 24/7]
 http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="News1.th" tvg-name="News1" tvg-country="TH" tvg-language="Thai" group-title="News",News1 (576p)

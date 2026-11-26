@@ -109,8 +109,6 @@ https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 #EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg" tvg-country="US" tvg-language="English" group-title="Movies;Series",Hallmark Mystery (720p) [Geo-blocked]
 http://41.205.93.154/HALLMARK/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies" tvg-logo="https://i.imgur.com/BWmqYTO.png" tvg-country="US" tvg-language="English;Spanish" group-title="Movies",Lifetime Movies (1080p)
-http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="GREATmovies.uk" tvg-name="GREAT! movies" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" tvg-country="UK" tvg-language="English" group-title="Movies",GREAT! movies (1080p)
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="GREATmovies.uk" tvg-name="GREAT! movies" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" tvg-country="UK" tvg-language="English" group-title="Movies",GREAT! movies (1080p)

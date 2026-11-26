@@ -69,10 +69,6 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
 #EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" tvg-logo="https://i.imgur.com/HctHhLL.png" tvg-country="UK" tvg-language="English" group-title="Series",BBC Drama US (1080p)
 https://linear-938.frequency.stream/mt/vizio/938/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" http-referrer="https://www.visionplus.id/" group-title="Documentary",BBC Earth Asia (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="cze" group-title="Documentary",BBC Earth Czechia
 http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="Hungarian" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Documentary",BBC Earth Hungary
@@ -126,10 +122,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-country="UK" tvg-language="English" group-title="News",BBC News Africa [Geo-blocked]
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-country="UK" tvg-language="English;Japanese" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" http-referrer="https://www.visionplus.id/" group-title="News",BBC News Asia Pacific (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/bbcworld/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-country="UK" tvg-language="English" group-title="News",BBC News Europe (1080p) [Geo-blocked]
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" tvg-country="UK" tvg-language="English" group-title="News",BBC News Europe (576p)
@@ -503,10 +495,6 @@ http://50.7.120.34:8080/DAZN1/index.m3u8
 http://45.142.104.86/stream/15/index.m3u8
 #EXTINF:-1 tvg-id="DAZN3.uk" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" tvg-country="UK" tvg-language="Portuguese" group-title="Sports",DAZN 3 Portugal (720p)
 http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1 tvg-id="DAZN4.uk" tvg-name="DAZN 4" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/DAZN_4_2024.svg/960px-DAZN_4_2024.svg.png" tvg-country="UK" tvg-language="Portuguese" group-title="Sports",DAZN 4 (540p)
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1 tvg-id="DAZN5.uk" tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/HD2XaeS.png" tvg-country="UK" tvg-language="Portuguese" group-title="Sports",DAZN 5 (720p)
-http://23.237.104.106:8080/DAZN_5/index.m3u8
 #EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" tvg-country="UK" tvg-language="English" group-title="Sports",DAZN Combat (684p)
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" tvg-country="UK" tvg-language="English" group-title="Sports",DAZN Combat (684p)
@@ -811,9 +799,6 @@ https://appletree-mytimeuk-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="UK" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Documentary",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://82.47.42.44/stream/405/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="UK" tvg-language="English" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://93.186.201.93/stream/397/index.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" tvg-logo="https://i.imgur.com/IxtGpti.png" tvg-country="UK" tvg-language="English" group-title="Movies",Nolly Africa (1080p) [Geo-blocked]
 https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" tvg-logo="https://i.imgur.com/IxtGpti.png" tvg-country="UK" tvg-language="English" group-title="Movies",Nolly Africa (1080p)

@@ -290,8 +290,6 @@ http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="English" group-title="Sports",Eurosport 2 UK (540p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" tvg-logo="https://web02.antik.sk/assets/img/channels/645a85b97a8257d6702639d6e540fe5b.svg" tvg-country="FR" tvg-language="Romanian;English" group-title="Sports",Eurosport 4K Romania (2160p) [Geo-blocked]
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="EvandisGospelTV.fr" tvg-name="Evandis Gospel TV" tvg-logo="https://i.imgur.com/v8TiqhH.png" tvg-country="FR" tvg-language="French" group-title="Religious",Evandis Gospel TV (1080p)
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="FashionTV Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" tvg-country="FR" tvg-language="English" group-title="Lifestyle",FashionTV Europe (1080p)

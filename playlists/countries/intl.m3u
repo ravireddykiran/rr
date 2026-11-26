@@ -241,20 +241,16 @@ https://4c4558f5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW
 https://jmp2.uk/plu-6887a8fd8e92b5e0a7244e88.m3u8
 #EXTINF:-1 tvg-name="Ancient Aliens" group-title="Other",Ancient Aliens (720p) [Geo-blocked]
 https://pb-pp8kvdgef1gx5.akamaized.net/v1/ae_networks_ancientaliens_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="AnewZ (no headers)" group-title="Other",AnewZ (no headers) (1080p)
-http://svln.li/anewz.m3u8
-#EXTINF:-1 tvg-name="ANewZ TV" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" http-referrer="https://cdn.maksnet.tv/em/cubesanewz-secure/" group-title="Other",ANewZ TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/em/cubesanewz-secure/
-https://edge-rs-01.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Antiques Road Show UK" group-title="Other",Antiques Road Show UK (720p)
 https://jmp2.uk/plu-638e10de75c3a30007092693.m3u8
-#EXTINF:-1 tvg-name="APA TV HD" group-title="Other",APA TV HD (1080p)
+#EXTINF:-1 tvg-name="APA TV" group-title="Other",APA TV
 http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 tvg-name="APTN Beyond" group-title="Other",APTN Beyond (720p)
 https://jmp2.uk/plu-68b9afd66985e192657a2b7f.m3u8
 #EXTINF:-1 tvg-name="Aqui y Ahora" group-title="Other",Aqui y Ahora (1080p)
 https://linear-306.frequency.stream/mt/vizio/306/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="ARB Gunesh" group-title="Other",ARB Gunesh [Geo-blocked]
+http://185.118.50.218/arbgunesh/video.m3u8
 #EXTINF:-1 tvg-name="Archivos Extraterrestres" group-title="Other",Archivos Extraterrestres
 https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
 #EXTINF:-1 tvg-name="Arthur" group-title="Other",Arthur
@@ -311,11 +307,7 @@ https://d3kx0b11i5yg0n.cloudfront.net/v1/aenetworks_axmen_1/samsungheadend_us/la
 https://jmp2.uk/plu-6914913274601d957ae35565.m3u8
 #EXTINF:-1 tvg-name="Axel!" group-title="Other",Axel!
 https://jmp2.uk/plu-667d63d236a2f90008f72269.m3u8
-#EXTINF:-1 tvg-name="Ayaz TV" group-title="Other",Ayaz TV
-https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
-#EXTINF:-1 tvg-name="Ayaz TV HD" group-title="Other",Ayaz TV HD
-https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/1080p/1080p.m3u8
-#EXTINF:-1 tvg-name="Azstar TV HD" group-title="Other",Azstar TV HD (1080p)
+#EXTINF:-1 tvg-name="Azstar TV" group-title="Other",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-name="Azteca Deportes Premium" group-title="Other",Azteca Deportes Premium (720p)
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
@@ -329,11 +321,7 @@ https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com/live/master.m3u8
 https://jmp2.uk/plu-654932fa4d6d8f00084c4723.m3u8
 #EXTINF:-1 tvg-name="Baggage" group-title="Other",Baggage (1080p)
 https://d2juxqbzlqzsb4.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="Baku TV" group-title="Other",Baku TV (1080p)
-https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-name="Baku TV HD" group-title="Other",Baku TV HD
-https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
-#EXTINF:-1 tvg-name="BalacanTV" group-title="Other",BalacanTV
+#EXTINF:-1 tvg-name="Balacan TV" group-title="Other",Balacan TV
 https://v2.catcast.tv/content/50634/seg-25745099-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="Bang Bang TV" group-title="Other",Bang Bang TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
@@ -1101,8 +1089,6 @@ https://amg07653-apmc-amg07653c4-samsung-gb-9942.playouts.now.amagi.tv/ts-eu-w1-
 https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8
 #EXTINF:-1 tvg-name="Dungeons & Dragons Adventures" group-title="Other",Dungeons & Dragons Adventures (1080p) [Geo-blocked]
 https://amg00461-eone-amg00461c3-firetv-us-5211.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Dunya" group-title="Other",Dunya [Geo-blocked]
-http://185.118.50.218/dunyatv/video.m3u8
 #EXTINF:-1 tvg-name="Duri a Morire" group-title="Other",Duri a Morire (720p)
 https://jmp2.uk/plu-65f865a62873090008d06382.m3u8
 #EXTINF:-1 tvg-name="Dyn Sport Mix" group-title="Other",Dyn Sport Mix (720p)
@@ -1141,8 +1127,6 @@ https://jmp2.uk/plu-619b9f16b8fee4000832d447.m3u8
 https://jmp2.uk/plu-691d1200c2185a44642f5e7c.m3u8
 #EXTINF:-1 tvg-name="El Talisman" group-title="Other",El Talisman
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
-#EXTINF:-1 tvg-name="EL TV" group-title="Other",EL TV (360p) [Not 24/7]
-https://live.eltv.az/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-name="Embrujadas" group-title="Other",Embrujadas
 https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8
 #EXTINF:-1 tvg-name="Emergency 24/7" group-title="Other",Emergency 24/7 (1080p) [Geo-blocked]
@@ -1850,16 +1834,6 @@ https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/
 https://d1isoijd9dbbf7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="It’s Anime" group-title="Other",It’s Anime (1080p) [Geo-blocked]
 https://amg27048-amg27048c3-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg27048-amg27048c3-amgplt0022/playlist.m3u8
-#EXTINF:-1 tvg-name="İctimai TV" group-title="Other",İctimai TV [Geo-blocked]
-https://live.itv.az/itv.m3u8
-#EXTINF:-1 tvg-name="İdman TV" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" http-referrer="https://tvstream.az/" group-title="Other",İdman TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-https://idman.tvstream.az/hls/stream4/stream.m3u8
-#EXTINF:-1 tvg-name="İdman TV" group-title="Other",İdman TV [Geo-blocked]
-http://185.32.44.154/idmanaz/index.m3u8
-#EXTINF:-1 tvg-name="İdman TV HD" group-title="Other",İdman TV HD [Geo-blocked]
-http://172.110.210.14/gQUkHt52/jAZUsz6/2021633
 #EXTINF:-1 tvg-name="Jack Hanna" group-title="Other",Jack Hanna (1080p)
 https://amg00111-hearstmediafast-amg00111c1-samsung-gb-2186.playouts.now.amagi.tv/playlist/amg00111-hearstmediafast-jackhanna-samsunggb/playlist.m3u8
 #EXTINF:-1 tvg-name="Jacksonville Freedom Fountain Camera Live" group-title="Other",Jacksonville Freedom Fountain Camera Live
@@ -1930,10 +1904,8 @@ https://dmxcualdgbo80.cloudfront.net/b2c874a8_68b3_49cb_9435_0264a4d32e4a/hls/pl
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="K Stories by CJ ENM" group-title="Other",K Stories by CJ ENM (1080p)
 https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 65 Music" group-title="Other",KANAL 65 Music
+#EXTINF:-1 tvg-name="Kanal 65 Music" group-title="Other",Kanal 65 Music
 https://v2.catcast.tv/content/47437/seg-25409996-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="Kapaz TV" group-title="Other",Kapaz TV [Geo-blocked]
-http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-name="Kiddo+" group-title="Other",Kiddo+ (1080p)
 https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
 #EXTINF:-1 tvg-name="Kids Street" group-title="Other",Kids Street (1080p)
@@ -1948,8 +1920,6 @@ https://jmp2.uk/plu-62fb66c867976d0007647e54.m3u8
 https://pb-6nrjkl2kyw4ki.akamaized.net/Kitchen_Nightmares.m3u8
 #EXTINF:-1 tvg-name="KMSP-DT1" group-title="Other",KMSP-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
-#EXTINF:-1 tvg-name="KN Music TV" group-title="Other",KN Music TV (1080p)
-https://cdn4.yayin.com.tr/kntv/video.m3u8
 #EXTINF:-1 tvg-name="Konul TV" group-title="Other",Konul TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Krimi" group-title="Other",Krimi (720p)
@@ -2234,8 +2204,6 @@ https://mechtvltd-mechplus-1-nl.samsung.wurl.tv/playlist.m3u8
 https://mechtvltd-mechplus-1-no.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Mechplus" group-title="Other",Mechplus (720p)
 https://mechtvltd-mechplus-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Medeniyyet TV" group-title="Other",Medeniyyet TV [Geo-blocked]
-http://185.32.44.154/medeniyyet/index.m3u8
 #EXTINF:-1 tvg-name="Mediano TV" group-title="Other",Mediano TV
 https://jmp2.uk/plu-66952e1ed512590008867b5a.m3u8
 #EXTINF:-1 tvg-name="Medical Detectives" group-title="Other",Medical Detectives (720p)
@@ -2449,7 +2417,7 @@ https://jmp2.uk/plu-69038c2ee0e0c5f8208c033a.m3u8
 https://amg00654-itv-amg00654c45-vizio-us-10993.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Musayof (Israel)" group-title="Other",Musayof (Israel) (240p) [Not 24/7]
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="MUSIC AZERBAIJAN" group-title="Other",MUSIC AZERBAIJAN (720p)
+#EXTINF:-1 tvg-name="Music Azerbaijan" group-title="Other",Music Azerbaijan
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 tvg-name="MVMT of Culture" group-title="Other",MVMT of Culture (1080p)
 https://d2kwqe56yti97f.cloudfront.net/scheduler/scheduleMaster/490.m3u8
@@ -2576,7 +2544,7 @@ https://amg00658-amg00658c99-vizio-us-7344.playouts.now.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-64c37e710e086a0009e824ab.m3u8
 #EXTINF:-1 tvg-name="Now 80's" group-title="Other",Now 80's (720p)
 https://jmp2.uk/plu-6490254fd2c47c00083a5743.m3u8
-#EXTINF:-1 tvg-name="NOW Music az" group-title="Other",NOW Music az
+#EXTINF:-1 tvg-name="Now Music AZ" group-title="Other",Now Music AZ
 https://v2.catcast.tv/content/48694/seg-25410024-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="NOW TV" group-title="Other",NOW TV (720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
@@ -2621,8 +2589,6 @@ https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
 https://amg00375-amg00375c29-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00375-amg00375c29-amgplt0022/playlist.m3u8
 #EXTINF:-1 tvg-name="OUTflix Movies" group-title="Other",OUTflix Movies (720p)
 https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
-#EXTINF:-1 tvg-name="Oxygen" group-title="Other",Oxygen (720p)
-http://198.58.104.90:8989/oxygen/index.m3u8
 #EXTINF:-1 tvg-name="Oxygen True Crime Archives" group-title="Other",Oxygen True Crime Archives (720p)
 https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8
 #EXTINF:-1 tvg-name="Paisajes por Stingray" group-title="Other",Paisajes por Stingray
@@ -3070,8 +3036,6 @@ https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
 https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-name="Real Housewives Vault" group-title="Other",Real Housewives Vault
 https://jmp2.uk/plu-6549316d2c1d330008631496.m3u8
-#EXTINF:-1 tvg-name="Real TV" group-title="Other",Real TV [Geo-blocked]
-http://185.118.50.218/realtv/video.m3u8
 #EXTINF:-1 tvg-name="Reality Awards" group-title="Other",Reality Awards
 https://jmp2.uk/plu-692ec3a76f84242a60f75f59.m3u8
 #EXTINF:-1 tvg-name="Realmadrid TV" group-title="Other",Realmadrid TV (720p)
@@ -3242,8 +3206,6 @@ https://d3mznj2vub522l.cloudfront.net/playlist.m3u8
 https://d28efmnqar6ea8.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="Series K Legacy" group-title="Other",Series K Legacy (1080p)
 https://d2uvezlpjwbhrx.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="SES TV" group-title="Other",SES TV [Geo-blocked]
-http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
 #EXTINF:-1 tvg-name="Sesame Street" group-title="Other",Sesame Street (1080p) [Geo-blocked]
 https://amg00722-amg00722c6-amgplt0022.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Settimo Cielo" group-title="Other",Settimo Cielo
@@ -3256,7 +3218,7 @@ https://pb-mn2nw2xfj5wcy.akamaized.net/Shades_of_Black.m3u8
 https://fuseaaaaa-fusebeats-vizio-gmqya.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Shark Tank Latino" group-title="Other",Shark Tank Latino (1080p)
 https://d1dclv062w81ra.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="SHIRVAN TV" group-title="Other",SHIRVAN TV
+#EXTINF:-1 tvg-name="Shirvan TV" group-title="Other",Shirvan TV
 https://a8.radyotelekom.com.tr/p/3326/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Shockwave" group-title="Other",Shockwave (1080p) [Geo-blocked]
 https://amg00376-amg00376c35-vizio-us-11502.playouts.now.amagi.tv/playlist.m3u8
@@ -3274,8 +3236,6 @@ https://jmp2.uk/plu-68ee9a999938143525bfc385.m3u8
 https://vizio.b-cdn.net/vizio-abr/index.m3u8
 #EXTINF:-1 tvg-name="Shout! Movies" group-title="Other",Shout! Movies (1080p) [Geo-blocked]
 https://amg00163-amg00163c15-vizio-us-7500.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Show Plus TV" group-title="Other",Show Plus TV
-https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-name="Si près de chez vous" group-title="Other",Si près de chez vous
 https://jmp2.uk/plu-697a34496f47f39d31ff8bde.m3u8
 #EXTINF:-1 tvg-name="Silent Witness & New Tricks" group-title="Other",Silent Witness & New Tricks (1080p)
@@ -3336,7 +3296,7 @@ https://jmp2.uk/plu-68adb066f7d7f0a9b9ff5d32.m3u8
 https://fast-channels-network-soaplatino-1-it.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Soap Turco" group-title="Other",Soap Turco (720p)
 https://fast-channels-network-soapturco-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Son Umid TV" group-title="Other",Son Umid TV (720p)
+#EXTINF:-1 tvg-name="Son Umid TV" group-title="Other",Son Umid TV
 https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist.m3u8
 #EXTINF:-1 tvg-name="Sonic The Hedgehog" group-title="Other",Sonic The Hedgehog (720p)
 https://d2f1o3sb3u36tf.cloudfront.net/master.m3u8
@@ -3400,12 +3360,6 @@ https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
 https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
 #EXTINF:-1 tvg-name="South Park: Stan Collection" group-title="Other",South Park: Stan Collection
 https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
-#EXTINF:-1 tvg-name="Space" group-title="Other",Space (720p)
-https://operativmm.az/tvs/space/stream8/index.m3u8
-#EXTINF:-1 tvg-name="Space" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" http-referrer="https://tvstream.az/" group-title="Other",Space
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-https://az.tvstream.az/hls/stream8/stream.m3u8
 #EXTINF:-1 tvg-name="Space Series" group-title="Other",Space Series (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
 #EXTINF:-1 tvg-name="Spark TV Luz & Amor" group-title="Other",Spark TV Luz & Amor (1080p)
@@ -3629,8 +3583,6 @@ https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-name="Telenovela ZDF" group-title="Other",Telenovela ZDF
 https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
-#EXTINF:-1 tvg-name="TeleOnce" group-title="Other",TeleOnce (576p)
-http://45.5.119.43:4000/play/a0jk/index.m3u8
 #EXTINF:-1 tvg-name="TeleRegione 118" group-title="Other",TeleRegione 118 (576p)
 https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
 #EXTINF:-1 tvg-name="Televisa Telenovela Channel" group-title="Other",Televisa Telenovela Channel (720p)
@@ -3885,8 +3837,6 @@ https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Travelxp Spain" group-title="Other",Travelxp Spain (720p)
 https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="TreceVision" group-title="Other",TreceVision (576p)
-http://45.5.119.43:4000/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-name="TruBlu" group-title="Other",TruBlu (1080p)
 https://trublufactual-trublu-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TruBlu" group-title="Other",TruBlu (720p)
@@ -3977,7 +3927,7 @@ https://jmp2.uk/plu-67921b78b83355184c667770.m3u8
 https://jmp2.uk/plu-679205a13de7c8cf941e7857.m3u8
 #EXTINF:-1 tvg-name="UFC" group-title="Other",UFC
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
-#EXTINF:-1 tvg-name="Ulduz Music az" group-title="Other",Ulduz Music az
+#EXTINF:-1 tvg-name="Ulduz Music AZ" group-title="Other",Ulduz Music AZ
 https://v2.catcast.tv/content/50265/seg-25409976-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="Ultimate Builds" group-title="Other",Ultimate Builds (720p)
 https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
@@ -4092,8 +4042,6 @@ https://jmp2.uk/plu-673249afc7626f0008c7205d.m3u8
 https://amg01076-amg01076c16-samsung-gb-4793.playouts.now.amagi.tv/playlist/amg01076-lightning-kcvideogameseng-samsunggb/playlist.m3u8
 #EXTINF:-1 tvg-name="Vier Frauen und ein Todesfall" group-title="Other",Vier Frauen und ein Todesfall
 https://jmp2.uk/plu-69b0160da9b840a456a11b4a.m3u8
-#EXTINF:-1 tvg-name="Vilayet TV" group-title="Other",Vilayet TV
-https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1 tvg-name="Vive Kanal D Drama" group-title="Other",Vive Kanal D Drama (720p)
 https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #EXTINF:-1 tvg-name="Vogue Europe" group-title="Other",Vogue Europe (720p)
@@ -4387,8 +4335,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews
 https://amg00347-amg00347c2-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00347-amg00347c2-amgplt0022/playlist.m3u8
 #EXTINF:-1 tvg-name="WWE Superstar Central" group-title="Other",WWE Superstar Central (1080p)
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="WWXY-DT1 (Boricua TV)" group-title="Other",WWXY-DT1 (Boricua TV) (1080p)
-https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 #EXTINF:-1 tvg-name="WWXY-DT3 (Maranatha Radio Ministries)" group-title="Other",WWXY-DT3 (Maranatha Radio Ministries) (720p) [Not 24/7]
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 #EXTINF:-1 tvg-name="X Games TV" group-title="Other",X Games TV (1080p)
@@ -4397,32 +4343,6 @@ https://linear-916.frequency.stream/mt/vizio/916/hls/master/playlist.m3u8
 https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8
 #EXTINF:-1 tvg-name="Xena: Warrior Princess" group-title="Other",Xena: Warrior Princess (720p)
 https://jmp2.uk/plu-677fb0b33a225c2d0d8a17be.m3u8
-#EXTINF:-1 tvg-name="Xezer TV" group-title="Other",Xezer TV
-https://xezer.tvstream.az/hls/stream/main_stream.m3u8
-#EXTINF:-1 tvg-name="XITE 80s Flashback" group-title="Other",XITE 80s Flashback (1080p)
-https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
-#EXTINF:-1 tvg-name="XITE 90s Throwback" group-title="Other",XITE 90s Throwback (1080p)
-https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
-#EXTINF:-1 tvg-name="XITE Celebrates" group-title="Other",XITE Celebrates (1080p)
-https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
-#EXTINF:-1 tvg-name="XITE Christian Hits" group-title="Other",XITE Christian Hits (1080p)
-https://d2tuyivcrvbj81.cloudfront.net/XITE_Christian_Hits.m3u8
-#EXTINF:-1 tvg-name="XITE Christian Hits" group-title="Other",XITE Christian Hits (1080p) [Geo-blocked]
-https://amg01243-amg01243c50-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg01243-amg01243c50-amgplt0022/playlist.m3u8
-#EXTINF:-1 tvg-name="XITE Country Today" group-title="Other",XITE Country Today (1080p) [Geo-blocked]
-https://pb-5itqeen09owrs.akamaized.net/XITE_Country_Today.m3u8
-#EXTINF:-1 tvg-name="XITE Country Today" group-title="Other",XITE Country Today (1080p) [Geo-blocked]
-https://amg01243-amg01243c75-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg01243-amg01243c75-amgplt0022/playlist.m3u8
-#EXTINF:-1 tvg-name="XITE Gospel" group-title="Other",XITE Gospel (1080p) [Geo-blocked]
-https://amg01243-amg01243c59-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg01243-amg01243c59-amgplt0022/playlist.m3u8
-#EXTINF:-1 tvg-name="XITE Gospel" group-title="Other",XITE Gospel (720p)
-https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
-#EXTINF:-1 tvg-name="XITE Nuevo Latino" group-title="Other",XITE Nuevo Latino (1080p)
-https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 tvg-name="XITE R&B Classic Jams" group-title="Other",XITE R&B Classic Jams (1080p) [Geo-blocked]
-https://pb-bakywpoa0kn1n.akamaized.net/XITE_RnB_Classic_Jams.m3u8
-#EXTINF:-1 tvg-name="XITE Siempre Latino" group-title="Other",XITE Siempre Latino (1080p)
-https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
 #EXTINF:-1 tvg-name="Xtrem Sports" group-title="Other",Xtrem Sports (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 #EXTINF:-1 tvg-name="Xtreme Outdoor by HISTORY" group-title="Other",Xtreme Outdoor by HISTORY
@@ -4435,7 +4355,7 @@ https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakute
 https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
 #EXTINF:-1 tvg-name="Yu-Gi-Oh! Italy" group-title="Other",Yu-Gi-Oh! Italy (1080p)
 https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
-#EXTINF:-1 tvg-name="ZAHRA TV" group-title="Other",ZAHRA TV (720p)
+#EXTINF:-1 tvg-name="Zahra TV" group-title="Other",Zahra TV
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Zarok TV Sorani" group-title="Other",Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8

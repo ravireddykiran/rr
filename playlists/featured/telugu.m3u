@@ -51,8 +51,6 @@ https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
 #EXTINF:-1 tvg-id="MangoMobileTV.in" tvg-name="Mango Mobile TV" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg" tvg-country="IN" tvg-language="Telugu" group-title="Entertainment",Mango Mobile TV (1080p)
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="Vanitha TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/VANITHA-Logo--without-BG_2000_X_1125.png" tvg-country="IN" tvg-language="Telugu" group-title="Entertainment",Vanitha TV (576p)
-https://mumbai-edge.smartplaytv.in/VanithaTV/index.m3u8
-#EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="Vanitha TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/VANITHA-Logo--without-BG_2000_X_1125.png" tvg-country="IN" tvg-language="Telugu" group-title="Entertainment",Vanitha TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="Vanitha TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/VANITHA-Logo--without-BG_2000_X_1125.png" tvg-country="IN" tvg-language="Telugu" group-title="Entertainment",Vanitha TV (576p)
 https://cdn.pishow.tv/ott/live/393/master.m3u8
@@ -114,11 +112,7 @@ https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="ETVJosh.in" tvg-name="ETV Josh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900004LP_20250811T033452SQUARE.png" tvg-country="IN" tvg-language="Telugu" group-title="Entertainment",ETV Josh (1080p)
 https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_ANDHRA_PRADESH/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",ETV Andhra Pradesh (1080p)
-https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_ANDHRA_PRADESH/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",ETV Andhra Pradesh (1080p)
 https://dydgqt7gwzwgp.cloudfront.net/v1/fbb2721f72d04c66a545fee9ca8c728c/airtFED4D.m3u8
-#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_ANDHRA_PRADESH/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",ETV Andhra Pradesh (1080p)
-https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_ANDHRA_PRADESH/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",ETV Andhra Pradesh (720p)
 https://d1t0ftvgxmmgk0.cloudfront.net/cdbded927dea40ab8cda857b3d12db0e/etvBBJRQ.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_ANDHRA_PRADESH/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",ETV Andhra Pradesh (720p)
@@ -208,6 +202,8 @@ https://cdn.pishow.tv/ott/live/280/master.m3u8
 https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8
 #EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/HM%20TV.png" tvg-country="IN" tvg-language="Telugu" group-title="News",HMTV (576p)
 https://mumt04.tangotv.in/m18aqlK4HMTV/index.m3u8
+#EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/HM%20TV.png" tvg-country="IN" tvg-language="Telugu" group-title="News",HMTV (576p)
+https://stream.ottlive.co.in/hmtv/index.m3u8
 #EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/HM%20TV.png" tvg-country="IN" tvg-language="Telugu" group-title="News",HMTV (576p)
 https://yuppnimresmum.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_T_NEWS/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Telugu" group-title="News",T News (720p)
@@ -380,8 +376,6 @@ https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
 https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" tvg-logo="https://i.imgur.com/MhlO1dB.png" tvg-country="IN" tvg-language="Hindi;Tamil;Telugu;Bengali;Marathi;Malayalam;Kannada;Oriya (macrolanguage)" group-title="Animation;Kids",Sony Yay! (1080p)
 https://r2.amml.in/sony-yay/live.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" tvg-logo="https://i.imgur.com/MhlO1dB.png" tvg-country="IN" tvg-language="Hindi;Tamil;Telugu;Bengali;Marathi;Malayalam;Kannada;Oriya (macrolanguage)" group-title="Animation;Kids",Sony Yay! (576p)
-https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 tvg-id="EpicKids.in" tvg-name="Epic Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="Kids",Epic Kids Digital (1080p)
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_Health.png" tvg-country="IN" tvg-language="Telugu" group-title="Lifestyle",CVR Health (576p)

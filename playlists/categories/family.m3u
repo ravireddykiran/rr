@@ -58,6 +58,8 @@ https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
 https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" tvg-logo="https://i.imgur.com/Z52nEnH.png" tvg-country="US" tvg-language="Spanish" group-title="United States",Estrella Games (1080p) [Geo-blocked]
 https://estrellaa-estrella-games-vizio-yxcgo.amagi.tv/playlist/estrellaA-estrella-games-vizio/playlist.m3u8
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freeform_2022_pink.svg/1920px-Freeform_2022_pink.svg.png" tvg-country="US" tvg-language="English" group-title="United States",Freeform (720p)
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDEiLCJjaGFpbiI6InIyIiwidHMiOjE3OTUzODk4NjYzODB9
 #EXTINF:-1 tvg-id="GreenTV.bd" tvg-name="Green TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" tvg-country="BD" tvg-language="Bengali" group-title="Bangladesh",Green TV (1080p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png" tvg-country="SG" tvg-language="English" group-title="Singapore",HBO Family Asia HD (1080p)

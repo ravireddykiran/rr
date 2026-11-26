@@ -59,6 +59,10 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
 #EXTINF:-1 tvg-id="Canal10MardelPlata.ar" tvg-name="Canal 10 Mar del Plata" tvg-logo="https://i.imgur.com/bq29sfG.png" tvg-country="AR" tvg-language="Spanish" group-title="Entertainment",Canal 10 Mar del Plata
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="Canal11delaCosta.ar" tvg-name="Canal 11 de la Costa" tvg-logo="https://i.imgur.com/yYExcq1.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Other",Canal 11 de la Costa (1080p)
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1 tvg-id="Canal11Machagai.ar" tvg-name="Canal 11 Machagai" tvg-logo="https://i.imgur.com/1pXrcdO.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Other",Canal 11 Machagai (1080i)
+https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12VenadoTuerto.ar" tvg-name="Canal 12 Venado Tuerto" tvg-logo="https://i.imgur.com/b93YC0V.jpeg" tvg-country="AR" tvg-language="Spanish" group-title="General",Canal 12 Venado Tuerto (1080i)
 https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
 #EXTINF:-1 tvg-id="Canal12Web.ar" tvg-name="Canal 12 Web" tvg-logo="https://i.imgur.com/VYcTRbd.png" tvg-country="AR" tvg-language="Spanish" group-title="Other",Canal 12 Web (720p) [Not 24/7]
@@ -190,6 +194,8 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="CeltaTV.ar" tvg-name="Celta TV" tvg-logo="https://i.imgur.com/rwoIF4w.png" tvg-country="AR" tvg-language="Spanish" group-title="Other",Celta TV (240p)
 https://vivo.solumedia.com:19360/celta/celta.m3u8
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" tvg-logo="https://i.imgur.com/gy7AEfO.png" tvg-country="AR" tvg-language="Spanish" group-title="Outdoor",Chacra TV (1080p)
+https://media.cdnvid.com/public/1tgsjc7hs1kv.m3u8
 #EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" tvg-logo="https://i.imgur.com/gy7AEfO.png" tvg-country="AR" tvg-language="Spanish" group-title="Outdoor",Chacra TV
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChamameTV.ar" tvg-name="Chamame TV" tvg-logo="https://i.imgur.com/JigzJck.png" tvg-country="AR" tvg-language="Spanish" group-title="Music",Chamame TV

@@ -28,6 +28,8 @@ https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
 https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/960px-BVN_logo.svg.png" tvg-country="NL" tvg-language="Dutch" group-title="General",BVN (576p)
 http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L2/c0620faf/27ea2088.isml/.mpd
+#EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/960px-BVN_logo.svg.png" tvg-country="NL" tvg-language="Dutch" group-title="General",BVN (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bvn/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/960px-BVN_logo.svg.png" tvg-country="NL" tvg-language="Dutch" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="General",BVN (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://lb.iptvnetwork.net/ls28/10025/playlist.m3u8
@@ -51,14 +53,6 @@ http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.nl" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-country="NL" tvg-language="Dutch" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Entertainment",Discovery Channel (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://lb.iptvnetwork.net/ls28/10015/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-country="NL" tvg-language="Dutch" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Kids",Disney Channel (360p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-country="NL" tvg-language="Dutch" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://86.87.15.10:8004/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-country="NL" tvg-language="Dutch" group-title="Kids",Disney Channel
-http://185.77.12.179:9981/stream/channelid/2102298310?profile=pass
 #EXTINF:-1 tvg-id="DitisHelmond.nl" tvg-name="Dit is Helmond" tvg-logo="https://i.imgur.com/fGAaBAs.png" tvg-country="NL" tvg-language="Dutch" group-title="General",Dit is Helmond (480p)
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DitisHelmond.nl" tvg-name="Dit is Helmond" tvg-logo="https://i.imgur.com/fGAaBAs.png" tvg-country="NL" tvg-language="Dutch" group-title="General",Dit is Helmond (480p)
@@ -466,32 +460,6 @@ https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WOS.nl" tvg-name="WOS" tvg-logo="https://i.imgur.com/L7MUBIo.png" tvg-country="NL" tvg-language="Dutch" group-title="Other",WOS (1080p)
 https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" tvg-logo="https://i.imgur.com/jxuwGRi.png" tvg-country="NL" tvg-language="Dutch" group-title="Music",XITE (720p)
-https://xite-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" tvg-logo="https://i.imgur.com/jxuwGRi.png" tvg-country="NL" tvg-language="Dutch" group-title="Music",XITE (720p) [Not 24/7]
-https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" tvg-logo="https://i.imgur.com/jxuwGRi.png" tvg-country="NL" tvg-language="Dutch" group-title="Music",XITE (720p) [Not 24/7]
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="XITEClassicCountry.nl" tvg-name="XITE Classic Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="English" group-title="Music",XITE Classic Country (1080p) [Geo-blocked]
-https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
-#EXTINF:-1 tvg-id="XITEClassicCountry.nl" tvg-name="XITE Classic Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="English" group-title="Music",XITE Classic Country (720p)
-https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
-#EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b79c1102-0a7d-4310-a0df-6cbe6fb660e2/xitehits_logo_WHITE_-_Arlette_FiranRDX2.png" tvg-country="NL" tvg-language="English;Dutch" group-title="Music",XITE Hits (1080p)
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
-#EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b79c1102-0a7d-4310-a0df-6cbe6fb660e2/xitehits_logo_WHITE_-_Arlette_FiranRDX2.png" tvg-country="NL" tvg-language="English;German" group-title="Music",XITE Hits Germany (1080p)
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
-#EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b79c1102-0a7d-4310-a0df-6cbe6fb660e2/xitehits_logo_WHITE_-_Arlette_FiranRDX2.png" tvg-country="NL" tvg-language="English" group-title="Music",XITE Hits UK (1080p)
-https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="XITEJustChill.nl" tvg-name="XITE Just Chill" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="English" group-title="Music",XITE Just Chill (1080p)
-https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
-#EXTINF:-1 tvg-id="XITEReggaeVibes.nl" tvg-name="XITE Reggae Vibes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="English" group-title="Music",XITE Reggae Vibes (1080p)
-https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
-#EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-name="XITE Rock x Metal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40b11283-ff2c-4bf3-93a0-3448e10f2b2c/xiterockxmetal_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="English" group-title="Music",XITE Rock x Metal (1080p) [Geo-blocked]
-https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-name="XITE Rock x Metal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40b11283-ff2c-4bf3-93a0-3448e10f2b2c/xiterockxmetal_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="English" group-title="Music",XITE Rock x Metal (1080p)
-https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
-#EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-name="XITE Rock x Metal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40b11283-ff2c-4bf3-93a0-3448e10f2b2c/xiterockxmetal_logo_light_-_Arlette_FiranRDX.png" tvg-country="NL" tvg-language="English" group-title="Music",XITE Rock x Metal (720p)
-https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 #EXTINF:-1 tvg-id="XON.nl" tvg-name="XON" tvg-logo="https://i.imgur.com/xEUHgMj.png" tvg-country="NL" tvg-language="Dutch" group-title="Other",XON (480p) [Not 24/7]
 http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XON.nl" tvg-name="XON" tvg-logo="https://i.imgur.com/xEUHgMj.png" tvg-country="NL" tvg-language="Dutch" group-title="Other",XON (480p) [Not 24/7]

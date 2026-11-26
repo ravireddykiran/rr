@@ -25,6 +25,8 @@ http://185.9.2.18/chid_146/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669896cbac4421ebc5336c5/images/logo_20240610_195041_59.png" tvg-country="AE" tvg-language="Arabic" group-title="News",Alarabiya (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669896cbac4421ebc5336c5/images/logo_20240610_195041_59.png" tvg-country="AE" tvg-language="Arabic" group-title="News",Alarabiya
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/al_arabiya/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-name="Cartoon Network Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" tvg-country="AE" tvg-language="Arabic" group-title="Animation;Kids",Cartoon Network Arabic
 http://149.100.11.252:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-name="CNBC Arabiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" tvg-country="AE" tvg-language="Arabic" group-title="Business",CNBC Arabiya (1080p)
@@ -55,10 +57,10 @@ https://hls.mbcpersia.live/hls/stream.m3u8
 http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NourTV.ae" tvg-name="Nour TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" tvg-country="AE" tvg-language="Persian" group-title="Religious",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-1 tvg-id="NTVUAEHD.ae" tvg-name="NTV UAE HD" tvg-logo="https://play-lh.googleusercontent.com/YwH6c1AqIM7LFOIBx0taFOmdHeoyIhLChk8PZCEHMtdm06-fK4fmpmsTl9tMjDRHSvOtz6gFKQygccgXQgAVSTE" tvg-country="AE" tvg-language="Malayalam" group-title="Entertainment",NTV UAE HD (720p)
+https://stream.logichost.in/NTV/live/chunklist_w833817414.m3u8
 #EXTINF:-1 tvg-id="OSNMoviesAction.ae" tvg-name="OSN Movies Action" tvg-logo="https://i.imgur.com/uOzyKup.png" tvg-country="AE" tvg-language="English" group-title="Movies",OSN Movies Action (1080p)
 http://116.90.120.151:8000/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/1ztVXUi.png" tvg-country="AE" tvg-language="Bengali" group-title="Religious",Peace TV Bangla (1080p)
-http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/1ztVXUi.png" tvg-country="AE" tvg-language="Bengali" group-title="Religious",Peace TV Bangla (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-name="Peace TV Chinese" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" tvg-country="AE" tvg-language="Chinese" group-title="Religious",Peace TV Chinese (1080p)

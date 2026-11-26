@@ -728,8 +728,6 @@ http://200.115.120.1:8000/play/ca114/index.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" tvg-logo="https://i.imgur.com/YwUVTmS.png" tvg-country="CR" tvg-language="Spanish;English" group-title="Costa Rica",Enlace (1080p)
 http://201.207.54.159:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" tvg-logo="https://i.imgur.com/YwUVTmS.png" tvg-country="CR" tvg-language="Spanish;English" group-title="Costa Rica",Enlace (720p)
-http://187.102.208.209:8000/play/a0ae/index.m3u8
-#EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" tvg-logo="https://i.imgur.com/YwUVTmS.png" tvg-country="CR" tvg-language="Spanish;English" group-title="Costa Rica",Enlace (720p)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" tvg-logo="https://i.imgur.com/YwUVTmS.png" tvg-country="CR" tvg-language="Spanish;English" group-title="Costa Rica",Enlace (576p)
 http://177.234.247.66:9975/Enlace/index.m3u8
@@ -759,6 +757,10 @@ https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/960px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" tvg-country="US" tvg-language="English" group-title="United States",EWTN Africa-Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/960px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" tvg-country="US" tvg-language="English" group-title="United States",EWTN Africa-Asia (576p)
+https://mumt05.tangotv.in/87NeALx2EWTN/index.m3u8
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/960px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" tvg-country="US" tvg-language="English" group-title="United States",EWTN Africa-Asia (576p)
+https://samitaorigin.tangotv.in/EWTN/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/960px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" tvg-country="US" tvg-language="English" group-title="United States",EWTN Asia-Pacific (720p)
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/960px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" tvg-country="US" tvg-language="English;French" group-title="United States",EWTN Canada (720p)
@@ -767,8 +769,6 @@ https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/960px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",EWTN Spain & Latin America (720p)
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/960px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",EWTN Spain & Latin America (576p)
-http://187.102.208.209:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/960px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",EWTN Spain & Latin America (480p)
 http://45.167.1.138:8000/play/a01m
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/960px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" tvg-country="US" tvg-language="Spanish" group-title="United States",EWTN Spain & Latin America (480p)
@@ -1375,6 +1375,8 @@ https://mumt01.tangotv.in/O5aw8Zn3MAHABHAKTI/index.m3u8
 https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
 #EXTINF:-1 tvg-id="MahdawiounTV.iq" tvg-name="MahdawiounTV" tvg-logo="https://mahdawioun.tv/wp-content/uploads/2024/03/New-Logo-Color.png" tvg-country="IQ" tvg-language="Arabic" group-title="Iraq",MahdawiounTV (1080p) [Geo-blocked]
 https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8
+#EXTINF:-1 tvg-id="MahimaiTV.in" tvg-name="Mahimai TV" tvg-logo="https://mahimaitv.com/images/mahimaitamil.png" tvg-country="IN" tvg-language="Tamil" group-title="India",Mahimai TV (1080p)
+https://ktismaservers.in:3161/live/mahimaitvlive.m3u8
 #EXTINF:-1 tvg-id="MahimaiTV.in" tvg-name="Mahimai TV" tvg-logo="https://mahimaitv.com/images/mahimaitamil.png" tvg-country="IN" tvg-language="Tamil" group-title="India",Mahimai TV (576p)
 https://mahimai.iptelevision.live/mahimaitv/video.m3u8
 #EXTINF:-1 tvg-id="MahotsavTV.in" tvg-name="Mahotsav TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahotsav_TV.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Mahotsav TV (576p)
@@ -1644,8 +1646,6 @@ https://samitaorigin.tangotv.in/PEACEOFMIND/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="Hindi" group-title="India",Peace of Mind TV (576p)
 https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/1ztVXUi.png" tvg-country="AE" tvg-language="Bengali" group-title="United Arab Emirates",Peace TV Bangla (1080p)
-http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/1ztVXUi.png" tvg-country="AE" tvg-language="Bengali" group-title="United Arab Emirates",Peace TV Bangla (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-name="Peace TV Chinese" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" tvg-country="AE" tvg-language="Chinese" group-title="United Arab Emirates",Peace TV Chinese (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
@@ -1822,6 +1822,8 @@ https://fta.ektv.in/live/620/master.m3u8
 https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
 #EXTINF:-1 tvg-id="SadvidyaTV.in" tvg-name="Sadvidya TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sadvidya2000x1125-transparent.png" tvg-country="IN" tvg-language="Gujarati" group-title="India",Sadvidya TV (720p)
 https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
+#EXTINF:-1 tvg-id="SadvidyaTV.in" tvg-name="Sadvidya TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sadvidya2000x1125-transparent.png" tvg-country="IN" tvg-language="Gujarati" group-title="India",Sadvidya TV (720p)
+https://stream.ottlive.co.in/sadvidya/index.m3u8
 #EXTINF:-1 tvg-id="SafeerTV.uk" tvg-name="Safeer TV" tvg-logo="https://image.roku.com/developer_channels/prod/8389e15af8fe49ac7c36d201c24ebf62fbe5b22897c2879ca26ae936e0ed308d.png" tvg-country="UK" tvg-language="English;Arabic" group-title="United Kingdom",Safeer TV (1080p)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in" tvg-name="Sairam TV" tvg-country="IN" tvg-language="Tamil" group-title="India",Sairam TV (576p)
@@ -2113,6 +2115,8 @@ http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
 http://170.83.16.50/TV_APARECIDA/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV Aparecida (720p)
 http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-name="TV CAJUI WEB" tvg-logo="https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",TV CAJUI WEB (720p)
+https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCRET.sv" tvg-name="TV CRET" tvg-logo="https://i.imgur.com/ChonoKb.png" tvg-country="SV" tvg-language="Spanish" group-title="El Salvador",TV CRET (1080p)
 https://radiocret.net:8082/hls/tvcret.m3u8
 #EXTINF:-1 tvg-id="TVEstrella.hn" tvg-name="TV Estrella" tvg-logo="https://i.imgur.com/QqSR7l7.png" tvg-country="HN" tvg-language="Spanish" group-title="Honduras",TV Estrella (720p)

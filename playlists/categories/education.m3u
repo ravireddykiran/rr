@@ -101,8 +101,6 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Da Vinci (1080p)
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Da Vinci (576p)
-http://116.90.120.149:8000/play/a0s6/index.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Da Vinci (576p)
 http://stream.mcquack.net/238/index.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU" tvg-language="Russian" group-title="Russia",Da Vinci (576p)
 https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
@@ -226,9 +224,9 @@ https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
 https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="HKTV.us" tvg-name="HKTV" tvg-logo="https://i.imgur.com/AYzdlMz.png" tvg-country="US" tvg-language="English" group-title="United States",HKTV (1080p) [Geo-blocked]
 https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-country="VN" group-title="Vietnam",HTV4 (1080p)
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Vietnam",HTV4 (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9
-#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-country="VN" group-title="Vietnam",HTV4 (720p)
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Vietnam",HTV4 (720p)
 https://dethich.pw/htv4/index.m3u8
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-name="ILCE Canal 15 Summa Saberes" tvg-logo="https://i.imgur.com/r7czgOc.png" tvg-country="MX" tvg-language="Spanish" group-title="Mexico",ILCE Canal 15 Summa Saberes (720p)
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
@@ -388,8 +386,6 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf9906
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RinjaniTV.id" tvg-name="Rinjani TV" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" tvg-country="ID" tvg-language="Indonesian" group-title="Indonesia",Rinjani TV
 https://rinjanitv.cloud/hls/tvkabel.m3u8
-#EXTINF:-1 tvg-id="RyongnamsanTelevision.kp" tvg-name="Ryongnamsan Television" tvg-logo="https://i.imgur.com/1BHJjY4.png" tvg-country="KP" tvg-language="Korean" group-title="North Korea",Ryongnamsan Television (720p) [Not 24/7]
-https://live.koryocdn.org/ryongnamsan/index.m3u8
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-name="Santa Cecilia TV" tvg-logo="https://i.imgur.com/KxYsq1d.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Santa Cecilia TV (1080p)
 https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-name="Santa Cecilia TV" tvg-logo="https://i.imgur.com/KxYsq1d.png" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil",Santa Cecilia TV (1080p) [Not 24/7]
@@ -408,6 +404,8 @@ https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telepace3.it" tvg-name="Telepace 3" tvg-logo="https://i.imgur.com/hE4i2ft.png" tvg-country="IT" tvg-language="Italian" group-title="Italy",Telepace 3 (1080p)
 https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisaoAcademica.mz" tvg-name="Televisao Academica" tvg-logo="https://i.imgur.com/YmxGoPW.png" tvg-country="MZ" tvg-language="Portuguese" group-title="Mozambique",Televisao Academica (576i)
+https://stream-hls.castr-cdn.com/696393a1681ed8469d37aba8/live_9fb9b070eeea11f088034b4b9dd1fd84/index.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" tvg-logo="https://i.imgur.com/jAAPgpV.png" tvg-country="ID" tvg-language="English" group-title="Indonesia",The Indonesia Channel (1080p)
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-id="TRTEBA.tr" tvg-name="TRT EBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Turkiye",TRT EBA (720p)

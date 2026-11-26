@@ -56,6 +56,8 @@ http://185.234.111.229:8000/play/a05u
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.imgur.com/uykIdML.png" tvg-country="TR" tvg-language="Turkish" group-title="Other",Beyaz TV (720p) [Not 24/7]
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 tvg-id="BiKanal.tr" tvg-name="Bi Kanal" tvg-logo="https://www.bikanal.com/frontend/img/logo.webp" tvg-country="TR" tvg-language="Turkish" group-title="General",Bi Kanal (1080p)
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-id="BirTV.tr" tvg-name="Bir TV" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" tvg-country="TR" tvg-language="Turkish" group-title="Other",Bir TV (720p)
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-country="TR" tvg-language="Turkish" group-title="Business",Bloomberg HT (720p)
@@ -80,6 +82,8 @@ https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-name="Ciftci TV" tvg-logo="https://i.imgur.com/CLzP4vL.png" tvg-country="TR" tvg-language="Turkish" group-title="Education;Culture",Ciftci TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine1.tr" tvg-name="Cine 1" tvg-country="TR" tvg-language="Turkish" group-title="General",Cine 1 (1080p)
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CNBC-e_2025.svg/960px-CNBC-e_2025.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Business;Series",CNBC-e (1080p)
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Turk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/960px-CNN_T%C3%BCrk_logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="News",CNN Turk (1080p)
@@ -176,8 +180,6 @@ https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202
 https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMSeriesPlus.tr" tvg-name="GEM Series +" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" tvg-country="TR" tvg-language="Persian" group-title="Series",GEM Series +
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMSport.tr" tvg-name="GEM Sport" tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_34.png" tvg-country="TR" tvg-language="Persian" group-title="Sports",GEM Sport
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
 #EXTINF:-1 tvg-id="GEMTV.tr" tvg-name="GEM TV" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_16.png" tvg-country="TR" tvg-language="Persian" group-title="Movies",GEM TV
 https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMTVPlus.tr" tvg-name="GEM TV +" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_17.png" tvg-country="TR" tvg-language="Persian" group-title="Movies",GEM TV +
@@ -306,16 +308,8 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
 #EXTINF:-1 tvg-id="MTurkTV.tr" tvg-name="MTurk TV" tvg-logo="https://i.imgur.com/xj1gvrq.png" tvg-country="TR" tvg-language="Turkish" group-title="General",MTurk TV (1080p)
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Documentary",National Geographic (1080p) [Geo-blocked]
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="TR" tvg-language="Turkish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Documentary",National Geographic Wild (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="TR" tvg-language="Turkish" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr" tvg-name="Natural TV" tvg-logo="https://i.imgur.com/rfcJ674.png" tvg-country="TR" tvg-language="English;French" group-title="Culture",Natural TV (720p) [Not 24/7]
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr" tvg-name="Natural TV" tvg-logo="https://i.imgur.com/rfcJ674.png" tvg-country="TR" tvg-language="English;French" group-title="Culture",Natural TV (720p) [Not 24/7]
@@ -338,6 +332,8 @@ https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1 tvg-id="On4TV.tr" tvg-name="On4 TV" tvg-logo="https://i.imgur.com/qGRa1KI.png" tvg-country="TR" tvg-language="Turkish" group-title="General",On4 TV (1080p)
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="PatiTV.tr" tvg-name="Pati TV" tvg-logo="https://patitv.com.tr/wp-content/themes/pati-tv/assets/img/logo-240.png" tvg-country="TR" tvg-language="Turkish" group-title="General",Pati TV (1080p)
+https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr" tvg-name="Power Dance" tvg-logo="https://i.imgur.com/QpPteBO.png" tvg-country="TR" tvg-language="Turkish" group-title="Music",Power Dance (1080p)
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerLove.tr" tvg-name="Power Love" tvg-logo="https://i.imgur.com/0RzUswR.png" tvg-country="TR" tvg-language="Turkish" group-title="Music",Power Love (1080p)
@@ -444,6 +440,8 @@ https://corestream.siteyaptim.live/trt-spor/index.m3u8
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Other",TRT Turk (720p)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Other",TRT Turk (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/trt_turk/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" tvg-country="TR" tvg-language="English" group-title="News",TRT World (1080p) [Not 24/7]
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" tvg-country="TR" tvg-language="English" group-title="News",TRT World (720p)

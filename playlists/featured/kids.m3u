@@ -19,6 +19,8 @@ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="SG" tvg-language="English" group-title="Animation;Kids",Cartoon Network Asia
 http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="SG" tvg-language="Thai;English" group-title="Animation;Kids",Cartoon Network Asia Thailand
+http://103.148.210.190:8000/play/a14r
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="SG" tvg-language="Thai;English" group-title="Animation;Kids",Cartoon Network Asia Thailand
 http://103.253.74.210:7070/stream/118/index.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="Kids",Boomerang (720p)
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
@@ -35,6 +37,8 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 http://tvsen7.aynascope.net/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="Kids",Disney Channel (720p)
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="Kids",Disney Junior (720p) [Not 24/7]
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NTIiLCJjaGFpbiI6InIyIiwidHMiOjE3OTQ4Njc4ODI0MDR9
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="Kids",Disney Junior (576p) [Geo-blocked]
 http://212.5.144.156/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" tvg-country="US" tvg-language="English;Spanish" group-title="Kids",Disney Junior (480p)

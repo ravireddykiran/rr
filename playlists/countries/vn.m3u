@@ -55,15 +55,17 @@ https://vmttv.dpdns.org/tv360?id=htv-the-thao
 https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 tvg-id="HTV1.vn" tvg-name="HTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" tvg-country="VN" tvg-language="Vietnamese" group-title="General",HTV1 (720p)
 https://dethich.pw/htv1/index.m3u8
-#EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/HTV2_-_Vie_Channel.png" tvg-country="VN" group-title="Entertainment;General",HTV2 (720p)
+#EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/HTV2_-_Vie_Channel.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Entertainment;General",HTV2 (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=191
+#EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/HTV2_-_Vie_Channel.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Entertainment;General",HTV2 (720p)
 https://dethich.pw/htv2/index.m3u8
 #EXTINF:-1 tvg-id="HTV3.vn" tvg-name="HTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Series;Entertainment;General",HTV3 (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 tvg-id="HTV3.vn" tvg-name="HTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Series;Entertainment;General",HTV3 (720p)
 https://dethich.pw/htv3/index.m3u8
-#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-country="VN" group-title="Education",HTV4 (1080p)
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Education",HTV4 (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9
-#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-country="VN" group-title="Education",HTV4 (720p)
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Education",HTV4 (720p)
 https://dethich.pw/htv4/index.m3u8
 #EXTINF:-1 tvg-id="HTV5.vn" tvg-name="HTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Culture",HTV5 (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=151
@@ -225,7 +227,13 @@ http://dethich.pw/vtv5tn/index.m3u8
 https://dethich.pw/vtv6/index.m3u8
 #EXTINF:-1 tvg-id="VTV7.vn" tvg-name="VTV7" tvg-logo="https://i.ibb.co/Q3twkrbY/IMG-2681.webp" tvg-country="VN" tvg-language="Vietnamese" group-title="Other",VTV7 HD (720p)
 https://dethich.pw/vtv7/index.m3u8
+#EXTINF:-1 tvg-id="VTV7.vn" tvg-name="VTV7" tvg-logo="https://i.ibb.co/Q3twkrbY/IMG-2681.webp" tvg-country="VN" tvg-language="Vietnamese" group-title="Other",VTV7 HD (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
 #EXTINF:-1 tvg-id="VTV8.vn" tvg-name="VTV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/VTV8_logo_2026.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Other",VTV8 HD (720p)
 https://dethich.pw/vtv8/index.m3u8
+#EXTINF:-1 tvg-id="VTV8.vn" tvg-name="VTV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/VTV8_logo_2026.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Other",VTV8 HD (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/master.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn" tvg-name="VTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/VTV9_logo_2026.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Other",VTV9 HD (720p)
 https://dethich.pw/vtv9/index.m3u8
+#EXTINF:-1 tvg-id="VTV9.vn" tvg-name="VTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/VTV9_logo_2026.png" tvg-country="VN" tvg-language="Vietnamese" group-title="Other",VTV9 HD (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
